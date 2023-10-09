@@ -112,9 +112,19 @@ via [_On the Commons_](http://www.onthecommons.org/magazine/%E2%80%9Cstealing-co
     - [Future of Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
   - Yochai Benkler
     - ["The Commons as a Neglected Factor of Information Policy"](http://www.benkler.org/commons.pdf) (1998)
+    - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure of the Public Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)
     - ["Coase’s Penguin, or, Linux and The Nature of the Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
   - James Boyle
-    - ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/)
+    - ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
+  - C. Ford Runge & Edi Defrancesco
+    - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002) (2006)
+    - ["Factors Affecting Farmers' Participation in Agri-environmental Measures"](https://www.academia.edu/download/71193474/j.1477-9552.2007.00134.x20211003-24337-153myma.pdf) (2007)
+  - Anne Branscromb
+    - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
+  - Josh Lerner and Jean Tirole
+    - ["The Simple Economics of Open Source"](https://www.nber.org/system/files/working_papers/w7600/w7600.pdf) (2000)
+  - Hannibal Travis
+    - ["Pirates of the Information Infrastructure"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=758885) (2000)
   - Fred Turner, Stewart Brand, etc
     - New Left vs New Communalism
     - virtualization of communities

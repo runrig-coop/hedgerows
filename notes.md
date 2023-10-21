@@ -1,8 +1,6 @@
 # Notes
 Enclosure is more than just a simple barrier or boundary: it is a severing of the ties that connect us to other people and living creatures, while uprooting us from the land and, more generally, our sense of place.
 
-Winstanley Movie Night
-
 Both knowledge and land must be given back to the whole at some point
 
 ### Stealing the Commons from off the Goose
@@ -99,53 +97,99 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 - 2013 - Edward Snowden disclosures on NSA surveillance
 
 ## Outline of Topics & Sources
-- History of GOAT
-  - 2018 Conference: how to get farmers to use FOSS?
-  - 2020 Conference that never was, plus Community Food Resilience
-  - 2022 Conference: cooperatives, shared values, action
 - Agricultural commons
   - ongoing history of enclosures and struggles to maintain the commons
   - the evolution of property rights alienation of the land
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
-  - Jose Luis Vivero Pol
-    - ["Why Food Should be a Commons Not a Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)
-    - [_Frontiers of Commoning_ interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
-  - peasant food webs
-- Software commons
+- The Commons in Sociology & Economics
+  - Henry George
+    - _Progress and Poverty_ (1879)
+  - Ronald Coase
+    - ["The Nature of the Firm"](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm) 1937
+    - "The Problem of Social Cost" (1960), where he first defined the [Coase Theorem](https://en.wikipedia.org/wiki/Coase_theorem)
+  - Elinor Ostrom
+    - [_Governing the Commons_](https://archive.org/details/governingcommons0000ostr)
+    - ["Public Goods and Public Choices "](https://spia.uga.edu/faculty_pages/tyler.scott/teaching/PADP6950_Fall2016_Thursday/readings/Ostrom_Ostrom_1977.pdf) (1977), with Vincent Ostrom; lays out the classic form of the [public/private goods matrix](https://en.wikipedia.org/wiki/Goods#Goods_classified_by_exclusivity_and_competitiveness) as well as the concept of [common-pool resources](https://en.wikipedia.org/wiki/Common-pool_resource)
+    - ["Beyond Markets and States: Polycentric Governance of Complex Economic Systems"](https://doi.org/10.1257%2Faer.100.3.641) (2010), refines her concept of public goods first laid out in the 1977 paper
+  - Alex Amend, ["First as Tragedy, Then as Fascism: The Nativist Legacy of Garret Hardin"](https://thebaffler.com/latest/first-as-tragedy-then-as-fascism-amend)
+  - Michael Perelman
+    - [_Farming for Profit in a Hungry World_](https://archive.org/details/farmingforprofit0000pere) (1977)
+    - [_Information, Social Relations, and the Economics of High Technology_](https://archive.org/details/informationsocia0000pere/) (1991)
+    - Steal This Idea: Intellectual Property and The Corporate Confiscation of Creativity (2002)
+  - Marxist & Autonomis theory in the 20th C.
+    - E.P. Thompson
+      - ["Time, work-discipline and industrial capitalism"](https://www.sv.uio.no/sai/english/research/projects/anthropos-and-the-material/Intranet/economic-practices/reading-group/texts/thompson-time-work-discipline-and-industrial-capitalism.pdf) (1967)
+      - _Whigs and Hunters: The Origin of the Black Act_,  (1975)
+    - Peter Linebaugh
+      - ["The Secret History of the Magna Carta"](https://www.bostonreview.net/articles/peter-linebaugh-secret-history-magna-carta/) (2003)
+      - _The Magna Carta Manifesto: Liberties and Commons for All_ (2008)
+      - _Stop, Thief!_ (2014)
+      - Inverview on _The Laura Flanders Show_, ["Who Owns the Commons? An 800 Year Fight for Public Goods"](https://www.youtube.com/watch?v=nSF3m_Uav6Y) (2015)
+      - Interview with David Bollier on _Frontiers of Commoning_, ["What the History of Commoning Reveals"](https://www.bollier.org/blog/peter-linebaugh-what-history-commoning-reveals) (2021)
+    - John Bellamy Foster
+      - ["Marx's Theory of Metabolic Rift"](https://johnbellamyfoster.org/articles/marxs-theory-of-metabolic-rift/) (1999)
+    - Sylvia Federici
+      - [_Caliban and the Witch_](https://www.akpress.org/calibanandthewitch.html) (2004)
+      - ["Commons against and beyond capitalism"](https://academic.oup.com/cdj/article/49/suppl_1/i92/307214) (2014)
+  - Social Choice Theory
+    - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and Stiglitz on information asymmetries (see further below), as well as Sen.
+    - Amartya Sen & Martha Nussbaum's work on [capability approach](https://en.wikipedia.org/wiki/Capability_approach) to 
+  - [Informational asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/); the summary from the 2001 Nobel Prize in Economics is cited below.
+    - > [George] Akerlof showed that informational asymmetries can give rise to [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection) on markets. Due to imperfect information on the part of lenders or prospective car buyers, borrowers with weak repayment prospects or sellers of low-quality cars crowd out everyone else from the market.
+    - > [Michael] Spence demonstrated that under certain conditions, well-informed agents can improve their market outcome by [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics)) their private information to poorly informed agents.
+    - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture the information of a better-informed agent through [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for example by providing choices from a menu of contracts for a particular transaction. Insurance companies are thus able to divide their clients into risk classes by offering different policies, where lower premiums can be exchanged for a higher deductible.
+  - David Bollier
+    - [_Silent Theft: The Private Plunder of Our Common Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth) (2002)
+    - ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/) (2002)
+    - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with Silke Helfrich, 2015)
+    - [_Free, Fair and Alive: The Insurgent Power of the Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich, 2019)
+- Free & Open Source Software (FOSS)
+  - bad actors: Richard Stallman, Eric S. Raymond, etc
+- Free Culture Movement
+  - Literature
+    - David Lange
+      - ["Recognizing the Public Domain"](https://scholarship.law.duke.edu/faculty_scholarship/824/) (1981), frequently cited by Lessig, Boyle, et al.
+    - Anne Branscromb
+      - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
+    - Lawrence Lessig
+      - Free culture, Creative Commons, Code is Law
+      - over-emphasis on the code, the architecture and other abstractions
+      - Code
+      - [Future of Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
+    - Yochai Benkler
+      - ["The Commons as a Neglected Factor of Information Policy"](http://www.benkler.org/commons.pdf) (1998)
+      - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure of the Public Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)
+      - ["Coase’s Penguin, or, Linux and The Nature of the Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
+    - James Boyle
+      - ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
+      - [_Shamans, Software & Spleens_](https://archive.org/details/shamanssoftwares00boyl/page/n9/mode/2up)
+      - [_Public Domain_](https://www.thepublicdomain.org/download/), "Why Intellectual Property?"
+        - "The CD may be copied cheaply; the concert is easy to police."
+    - C. Ford Runge & Edi Defrancesco
+      - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002) (2006)
+      - ["Factors Affecting Farmers' Participation in Agri-environmental Measures"](https://www.academia.edu/download/71193474/j.1477-9552.2007.00134.x20211003-24337-153myma.pdf) (2007)
+    - Josh Lerner and Jean Tirole
+      - ["The Simple Economics of Open Source"](https://www.nber.org/system/files/working_papers/w7600/w7600.pdf) (2000)
+    - Hannibal Travis
+      - ["Pirates of the Information Infrastructure"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=758885) (2000)
+    - Clay Shirky
+      - _Here Comes Everyone_ (2008)
+  - Criticism
+    - Low marginal costs and non-rivalry are over-emphasized and consequently taken as the preconditions for effective commons
+    - It is implicitly and mistakenly assumed that information is not a "thing" like real property. Likewise, tangible things are viewed as substantively different from information and their informational component is either  minimized or overlooked entirely.
+- Beyond FOSS
   - Luis Villa
+    - ["Free as in...?"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/)
     - ["Resilient Open Commons"](https://blog.tidelift.com/resilient-open-commons)
   - C.J. Silverio, ["The Economics of Open Source"](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
-  - Lawrence Lessig
-    - Free culture, Creative Commons, Code is Law
-    - over-emphasis on the code, the architecture and other abstractions
-    - Code
-    - [Future of Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
-  - Yochai Benkler
-    - ["The Commons as a Neglected Factor of Information Policy"](http://www.benkler.org/commons.pdf) (1998)
-    - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure of the Public Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)
-    - ["Coase’s Penguin, or, Linux and The Nature of the Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
-  - James Boyle
-    - ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
-    - [_Shamans, Software & Spleens_](https://archive.org/details/shamanssoftwares00boyl/page/n9/mode/2up)
-  - C. Ford Runge & Edi Defrancesco
-    - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002) (2006)
-    - ["Factors Affecting Farmers' Participation in Agri-environmental Measures"](https://www.academia.edu/download/71193474/j.1477-9552.2007.00134.x20211003-24337-153myma.pdf) (2007)
-  - Anne Branscromb
-    - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
-  - Josh Lerner and Jean Tirole
-    - ["The Simple Economics of Open Source"](https://www.nber.org/system/files/working_papers/w7600/w7600.pdf) (2000)
-  - Hannibal Travis
-    - ["Pirates of the Information Infrastructure"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=758885) (2000)
-  - Fred Turner, Stewart Brand, etc
-    - New Left vs New Communalism
-    - virtualization of communities
-    - cybernetics
-    - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
-  - bad actors: Richard Stallman, Eric S. Raymond, etc
   - GOAT Forum: ["What is Open Source?"](https://forum.goatech.org/t/what-is-open-source-reading-list/1328)
   - CARE Principles for Indigenous Data Governance
   - [Post-Open Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
+  - [Co-op Cloud Federation](https://docs.coopcloud.tech/federation/)
+    - ["The Configuration Commons"](https://pad.autonomic.zone/s/C3uuqfSCk)
+    - ["Federation Proposal"](https://coopcloud.tech/blog/federation-proposal/)
+    - ["State of the Co-op Cloud 2023"](https://tv.undersco.re/w/fNq9vX4oXThyuDbY3ae9vu) (video)
   - [Protestware](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
     - [`chef-sugar`](https://github.com/sethvargo/chef-sugar)
       - see also [WIRED article](https://www.wired.com/story/developer-deletes-code-protest-ice/) (paywalled)
@@ -158,15 +202,71 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
     - [CoopCycle License](https://github.com/coopcycle/coopcycle-web/blob/v0.5.0/LICENSE) (CoopyLeft)
     - Anti-996 License (for fair labor practices in China)
     - ["no military use"](https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl/) clause
-- food commons and other extensions of commoning
-- GOAT 2018 -> 2022 and beyond
-  - Keren Reichler & Sarah Hackfort
-  - Community Food Resilience
-  - Skywoman
-  - ETC Group's reports on digitization
-  - CSIPM's webinar: "The impacts of digitalization on food systems and family farming"
-  - Open Environmental Data Project's symposia
-- "The Configuration Commons"
-  - Co-op Cloud
-
+- New Developments & Old Syntheses
+  - Jose Luis Vivero Pol
+    - ["Why Food Should be a Commons Not a Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)
+    - [_Frontiers of Commoning_ interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
+  - Fred Turner, Stewart Brand, etc
+    - New Left vs New Communalism
+    - virtualization of communities
+    - cybernetics
+    - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
+    - [nettime](https://www.nettime.org/info.html)
+  - Ecofeminism and Cyberfeminism
+    - Donna Harraway, "A Cyborg Manifesto"
+  - Katharina Pistor
+    - _The Code of Capital_ (2019)
+    - ["The Laws of Capitalism"](https://www.ineteconomics.org/perspectives/videos/the-laws-of-capitalism) video series (2022) from INET
+  - Data Asymmetry
+    - Leigh Dodds, ["What is data asymmetry?"](https://blog.ldodds.com/2017/03/24/what-is-data-asymmetry/)
+    - [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
+  - GOAT
+    - Thematic history
+      - 2018 Conference: how to get farmers to use FOSS?
+      - 2020 Conference that never was, plus Community Food Resilience
+      - 2022 Conference: new attention to issues of justice, rights for nature and cooperative action
+        - [Session: Justice for Nature](https://forum.goatech.org/t/session-justice-for-nature/1340)
+      - 2023 and beyond
+        - On-going [community calls](https://forum.goatech.org/c/open-ag-technology/community-building/36) and events
+          - [Winstanley Movie Night](https://forum.goatech.org/t/2022-11-18-winstanley-movie-night-anyone/1388)
+          - [Book Club](https://forum.goatech.org/t/book-club-what-are-you-reading-this-summer/1504)
+        - [GOAT Co-op Working Group](https://forum.goatech.org/t/what-do-we-want-to-cooperate-on/1448)
+        - 2024 Conference planned
+    - New perspectives
+      - Political anthropology: Keren Reichler & Sarah Hackfort
+      - Hope Sims, ["My experience at GOAT: a call for more open-source collaboration"](https://medium.com/carbon-a-list/my-experience-at-goat-a-call-for-more-open-source-collaboration-5e9b72fd80bd)
+      - John Bliss ["Open Technology and the Agronomic Mood Ring: Exploring Emerging Digital Agricultural Innovation"](https://www.mofga.org/resources/farming/gathering-for-open-agricultural-technology/)
+  - Convergence of Food & Data Sovereignty Movements
+    - [Community Food Resilience](https://forum.goatech.org/t/informatics-for-community-food-resilience-in-times-of-pandemic-and-beyond/833)
+    - Skywoman
+    - Open Environmental Data Project's symposia
+    - ETC Group's reports on digitization
+    - CSIPM's webinar: "The impacts of digitalization on food systems and family farming"
+    - [P2P Foundation](https://p2pfoundation.net/)
+    - Permacomputing
+    - Computing Within Limits
+    - [IT for Change](https://itforchange.net/) essay series: [_State of Big Tech 2022: Dismantling Digital Enclosures_](https://projects.itforchange.net/state-of-big-tech/)
+      -  Felix Maschewski and Anna-Verena Nosthoff, ["Big Tech and the Smartification of Agriculture"](https://projects.itforchange.net/state-of-big-tech/big-tech-and-the-smartification-of-agriculture-a-critical-perspective/)
+      -  Sofía Monsalve Suárez and Philip Seufert, ["The Big Tech Takeover of Food Systems in Latin America: Elements for a Human Rights-based Alternative"](https://projects.itforchange.net/state-of-big-tech/agritech-and-food-systems-in-latin-america-corporate-takeover-and-elements-for-a-human-rights-based-alternative/)
+   -  [_Pluriverse: A Post-Development Dictionary_](https://degrowth.org/2018/04/14/new-book-pluriverse-a-post-development-dictionary/)
+  - International Peasants' Movement
+    - [La Via Campesina](https://viacampesina.org/)
+    - [_Declaration of Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
+    - Principle of [_buen vivir_](https://rapidtransition.org/stories/the-rights-of-nature-in-bolivia-and-ecuador/) or “Sumak Kawsay”
+    - [Cecosesola](https://www.bollier.org/blog/cecosesola-venezuela-wins-right-livelihood-award), Venezuelan cooperative
+    - _A Growing Culture_
+    - peasant food webs
+  - [Rights of Nature](https://intercontinentalcry.org/rights-nature-indigenous-philosophies-reframing-law/)
+    - Christopher Stone, ["Should Trees Have Legal Standing?"](https://iseethics.files.wordpress.com/2013/02/stone-christopher-d-should-trees-have-standing.pdf) (1972)
+    - Aikaterini Argyrou & Harry Hummels, ["Legal personality and economic livelihood of the Whanganui River: a call for community entrepreneurship"](https://doi.org/10.1080/02508060.2019.1643525) (2019)
+    - ["Rights of Nature and Ecocentrism in Chile’s Constitution"](https://www.earthlawcenter.org/chile) (2022, Earth Law Center)
+  - Academia
+    - Sci-Hub, [Monoskop](https://monoskop.org/About_Monoskop) & other [shadow libraries](https://monoskop.org/Shadow_libraries)
+    - Stefano Harney & Fred Moten, [_The Undercommons_](https://textz.com/textz/The%20Undercommons.pdf)
+  - Protest, Direct Action & Revolution
+    - Municipios Autónomos Rebeldes Zapatistas (MAREZ) in Chiapas, MX
+    - [Movement for the Survival of the Ogoni People](https://en.wikipedia.org/wiki/Movement_for_the_Survival_of_the_Ogoni_People)
+    - Autonomous Administration of North and East Syria (AANES, aka Rojava)
+    - Indigenous [water protectors](https://theworld.org/stories/2016-10-31/standing-rock-activists-dont-call-us-protesters-were-water-protectors) & land defenders
+    - Social Ecology, Municipalism and Dual Power
 

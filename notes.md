@@ -49,7 +49,9 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 
 
 ## Timeline
+- 1998 - [DMCA] & [Sonny Bono Act]
 - 2000 - USDA Nat'l Organic Program becomes federal regulation
+- 2001 - First Whole Foods Market in NYC[^WF]
 - 2001 - _Fast Food Nation_ by Eric Schlosser
 - 2001 - Napster shuts down; original BitTorrent client released
 - 2001 - arXiv.org launches at Cornell
@@ -69,7 +71,8 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 - 2005 - Yochai Benkler's TED Talk
 - 2005 - Jimmy Wale's TED Talk
 - 2005 - Hans Rosling's TED Talk
-- 2005 - Whole Foods opens new flagship market in Austin (10.5k -> 800k sq ft)
+- 2005 - Whole Foods opens new flagship market in Austin[^WF]
+- 2005 - First NYC Michelin Guide & Stars
 - 2006 - Malik Yakini starts Detroit Black Community Food Security Network
 - 2006 - _Omnivore's Dilemma_ by Michael Pllan
 - 2006 - Twitter launches
@@ -95,6 +98,16 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 - 2012 - Occupy the Farm on Gill Tract at UC Berkeley
 - 2012 - Open Source Seed Initiative founded
 - 2013 - Edward Snowden disclosures on NSA surveillance
+
+[DMCA]: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
+[Sonny Bono Act]: https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act
+[^WF]: Whole Foods' first store in NYC [opened in Chelsea in Feb 2001](https://web.archive.org/web/20160317065428/https://www.nytimes.com/2001/02/14/dining/new-market-concentrates-on-organic-food.html).
+    The _Austin Business Journal_ notes refers to their Austin HQ as
+    "the new 80,000-square-foot store -- the company's largest" in
+    ["New Whole Foods headquarters set for grand opening"](https://web.archive.org/web/20050225051404/https://www.bizjournals.com/austin/stories/2005/02/21/daily13.html) (Feb 22, 2005).
+    Compare with the [history page on the Whole Foods website](https://www.wholefoodsmarket.com/company-info/whole-foods-market-history):
+
+    > Two years later, John and Renee partnered with Craig Weller and Mark Skiles to merge SaferWay with their Clarksville Natural Grocery, resulting in the opening of the original Whole Foods Market on September 20, 1980. At 10,500 square feet and a staff of 19, this store was quite large in comparison to the standard health food store of the time.
 
 ## Outline of Topics & Sources
 - Agricultural commons

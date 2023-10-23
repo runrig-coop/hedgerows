@@ -3,6 +3,8 @@ Enclosure is more than just a simple barrier or boundary: it is a severing of th
 
 Both knowledge and land must be given back to the whole at some point
 
+Technology and open source software became deeply politicized for me in 2012 in a way that food and farming had never been.
+
 ### Stealing the Commons from off the Goose
 via [_On the Commons_](http://www.onthecommons.org/magazine/%E2%80%9Cstealing-common-goose%E2%80%9D#sthash.V1isYy7t.hvRTkOB9.dpbs):
 
@@ -38,12 +40,34 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 
 
 ## Outline of the Narrative
-- A tale of two movements: FOSS and Local Food movements, circa 2005
-  - My own personal encounters with these movements
-  - Both mvmts' strengths, innovations and foresight
-  - Both mvmts' weaknesses, missed opportunities and constricted field of view
-- The broader tradition of the commons
-  - Agriculture, food and land use
+- Intro
+  - Main thesis
+- My FOSS narrative: now -> early 2000's
+  - Stealing the commons from off the goose
+  - GOAT 2018 - 20122
+  - Rediscovering the commons, understanding enclosure
+    - Lessig & Benkler
+    - Boyle & Bollier
+    - Linebaugh & Federici
+  - Finding FOSS
+    - Linux, Clay Shirky
+    - Occupy & SOPA/PIPA
+- My Ag narrative: early 2000's -> now
+  - Zucotti Park
+  - Smart phones & social media
+  - Locavores, slow food and organics
+    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra Kingsolver
+    - Marion Nestle, Nevin Cohen
+    - John Gorzynski, Zaid & Haifah Kurdieh
+    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_, _King Corn_
+  - Chef culture & foodies
+    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
+    - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
+- Deeper history of the commons
+  - Medieval commons and their holdovers
+  - Enclosure, Gerard Winstanley & the Diggers
+  - Garrett Hardin and Elinor Ostrom
+  - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
   - Technology, culture and information
 - Reuniting agricultural and informational commons
 

@@ -257,6 +257,19 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
   - Data Asymmetry
     - Leigh Dodds, ["What is data asymmetry?"](https://blog.ldodds.com/2017/03/24/what-is-data-asymmetry/)
     - [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
+  - Amish _Ordnung_ and technology
+    - Wikipedia: [Ordnung](https://en.wikipedia.org/wiki/Ordnung) and [Gelassenheit](https://en.wikipedia.org/wiki/Ordnung#Gelassenheit)
+    - _Anabaptist Historians_
+      - ["Health and Well-being in Amish Society: Assessing Cultures of Well-Being"](https://anabaptisthistorians.org/2019/07/11/health-and-well-being-in-amish-society-assessing-cultures-of-well-being/), "a panel during session three of the 2019 Amish Conference"
+      - ["Digital Mennonites"](https://anabaptisthistorians.org/2022/12/08/digital-mennonites/)
+    - _Anabaptist World_
+      - ["Mennonite values in a warming world"](https://anabaptistworld.org/mennonite-values-warming-world/)
+      - ["Gelassenheit: A spiritual journey"](https://anabaptistworld.org/gelassenheit-a-spiritual-journey/)
+    - Lindsay Ems, [_Virtually Amish_](https://direct.mit.edu/books/oa-monograph/5347/Virtually-AmishPreserving-Community-at-the)
+      - [review of the book](https://anabaptistworld.org/tech-savvy-amish/) from _Anabaptist World_
+      - [interview with Ems in Butler student paper on food justice](https://issuu.com/butleru/docs/butler-magazine-fall_2021_web/s/13748229)
+    - [_NPR_ interview about Amish technology](https://www.npr.org/sections/alltechconsidered/2013/09/02/217287028/amish-community-not-anti-technology-just-more-thoughful) with Donald Kraybill, author of _The Amish_
+    - [_Psychology Today_](https://www.psychologytoday.com/us/blog/brainsnacks/201406/what-the-amish-can-teach-us-about-technology)
   - GOAT
     - Thematic history
       - 2018 Conference: how to get farmers to use FOSS?

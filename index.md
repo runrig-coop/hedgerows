@@ -17,8 +17,8 @@ A little over a year ago, I sat amidst a dozen or so engineers, agronomists, des
 I had been present, too, for the first such gathering in 2018, which had been an utterly revelatory event for me, the kind of "found my people" moment you're lucky to have only once or twice in a lifetime. By 2022, I felt old hat, but I recognized a new understanding emerging, both for myself and the group at large, about the role of the commons in both agriculture and technology. It's a testament to the patience and open-mindedness of my fellow attendees that my request to read aloud some antiquated English folk poetry was met with encouragement, rather than the eye-rolls it probably deserved. It began:
 
 > The law locks up the man or woman  
-> Who steals the goose off the common  
+> Who steals the goose from off the common  
 > But leaves the greater villain loose  
-> Who steals the common from the goose.  
+> Who steals the common from off the goose.  
 
 The prompt had been, "Is it possible to develop a technological assessment framework to help us consider the impacts of our technologies on nature?" 

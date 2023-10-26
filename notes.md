@@ -6,17 +6,18 @@ Both knowledge and land must be given back to the whole at some point
 Technology and open source software became deeply politicized for me in 2012 in a way that food and farming had never been.
 
 ### Stealing the Commons from off the Goose
-via [_On the Commons_](http://www.onthecommons.org/magazine/%E2%80%9Cstealing-common-goose%E2%80%9D#sthash.V1isYy7t.hvRTkOB9.dpbs):
+via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
+
 
 > The law locks up the man or woman  
-> Who steals the goose off the common  
+> Who steals the goose from off the common  
 > But leaves the greater villain loose  
-> Who steals the common from the goose.  
+> Who steals the common from off the goose.  
 >   
 > The law demands that we atone  
 > When we take things we do not own  
 > But leaves the lords and ladies fine  
-> Who takes things that are yours and mine.  
+> Who take things that are yours and mine.  
 >   
 > The poor and wretched don’t escape  
 > If they conspire the law to break;  

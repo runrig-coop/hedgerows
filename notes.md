@@ -191,10 +191,11 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
     - Anne Branscromb
       - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
     - Lawrence Lessig
-      - Free culture, Creative Commons, Code is Law
-      - over-emphasis on the code, the architecture and other abstractions
-      - Code
+      - ["The Architecture of Innovation"](https://scholarship.law.duke.edu/dlj/vol51/iss6/2/)
+      - [_Code and Other Laws of Cyberspace_](https://lessig.org/product/code/)
+        - "Code is Law"
       - [Future of Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
+        - over-emphasis on the code, the architecture and other abstractions
     - Yochai Benkler
       - ["The Commons as a Neglected Factor of Information Policy"](http://www.benkler.org/commons.pdf) (1998)
       - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure of the Public Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)

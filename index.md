@@ -38,7 +38,7 @@ the longer history of agriculture, information technology and the Commons.
 Finally, I'll reflect on the latest initiatives that have emerged through their
 union and what synergies remain to be explored.
 
-## Finding Community
+## The Commons Lost
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for

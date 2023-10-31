@@ -272,9 +272,12 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
   - Katharina Pistor
     - _The Code of Capital_ (2019)
     - ["The Laws of Capitalism"](https://www.ineteconomics.org/perspectives/videos/the-laws-of-capitalism) video series (2022) from INET
-  - Data Asymmetry
+  - Data Asymmetry & Algorithmic Justice
     - Leigh Dodds, ["What is data asymmetry?"](https://blog.ldodds.com/2017/03/24/what-is-data-asymmetry/)
     - [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
+    - [DAIR Institute](https://www.dair-institute.org/)
+    - [Data For Black Lives](https://d4bl.org/)
+    - [Algorithmic Justice League](https://www.ajl.org/)
   - Amish _Ordnung_ and technology
     - Wikipedia: [Ordnung](https://en.wikipedia.org/wiki/Ordnung) and [Gelassenheit](https://en.wikipedia.org/wiki/Ordnung#Gelassenheit)
     - _Anabaptist Historians_

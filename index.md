@@ -100,7 +100,57 @@ which I'd been mulling over earlier in the day.
 > Who steals the common from off the goose.  
 
 I'd first heard these anonymous lines in an interview with historian Peter
-Linebaugh, commemorating the 800th anniversary of the signing of _Magna Carta_.
-I remember because it was also the moment I first learned about the longer
-history of the English commons and, more importantly, the process of its
-enclosure.
+Linebaugh, commemorating the 800th anniversary of the signing of _Magna Carta_
+and its lesser known companion, the _Charter of the Forest_, which enshrined the
+peasantry's rights to forage and graze their animals on common lands. I remember
+it clearly because it was also the first time I'd heard the longer history of
+the English commons and its eventual enclosure.
+
+Genna's comments fused the final conceptual linkage between the enclosure of the
+commons — a very practical matter of historical fact — and more erudite theories
+I'd recently been reading about but struggled to grasp. I couldn't really get my
+head around the principle of usufruct and its distinction from real property
+rights (_jus in re propria_, in Roman law). In legal scholarship, usufruct
+rights grant the free use (_usus_) and the fruits (_fructus_) of an asset to the
+rightsholder. Real property ownership grants all of that plus the right to
+dispose of (_abusus_) the asset however they see fit, whether by consuming,
+selling, irreversibly altering or destroying it. This is also known as the
+_alienation_ of property in English common law. Now when I viewed these concepts
+in light of universal access to nature, I couldn't see how any one person could
+be granted exclusive rights of alienation over anything in nature — at least
+anything of substantial size — if it was not first enclosed. The pronouncements
+of the law are critical to the enforcement of many rights, but absolute property
+rights are seldom achieved by fiat alone. Some mechanism for enclosing the asset
+almost always seems to accompany legal protections, or even precede them. This
+holds true whether the "thing of nature" is a strip of land closed off by a
+fence or hedgerow, or mere knowledge and ideas like software or digital media,
+refashioned as intellectual property.
+
+The most effective means of enclosing intellectual property, or IP, has been to
+consolidate it in vast data centers and relegate it to the server farms of tech
+monopolies. Access can then be sold off in the form of subscriptions or
+advertising fees. That way, the IP owner retains maximum control, with the
+ability to revoke access or modify the terms of service at any time. This
+practice goes by many names. The industry jargon is Software-as-a-Service, or
+SaaS, while it is marketed to lay users in more poetic terms: _the Cloud_.
+Opponents of cloud computing and proprietary software have quipped that this is
+just a euphemism for "someone else's computer." I would propose that, trading
+grandiose metaphor for grandiose metaphor, we instead rebrand the cloud as the
+modern enclosure it really is: _hedgerows in the sky_.
+
+The hedgerows that enclosed the English commons of the 17th century did not go
+unopposed, but were actively resisted over many generations. Among the earliest
+of these were the Levellers, who first earned that name during the Midland
+Revolt of 1607 by "levelling" hedgerows in protest. Though some were drawn and
+quartered for their conscience, their example inspired the True Levellers, and
+the Diggers of the English Revolution over 40 years later. The anonymous bard I
+quoted above, whoever they were, surely knew something of this resistance, and
+perhaps they even participated in it. Therefore, it's not hard to hear both a
+warning and a call-to-arms in their final stanza:
+
+> The law locks up the man or woman  
+> Who steals the goose from off the common  
+> And geese will still a common lack  
+> Till they go and steal it back.  
+
+If we too follow their example, how might we begin levelling today's hedgerows?

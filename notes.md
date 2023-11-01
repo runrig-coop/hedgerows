@@ -1,9 +1,60 @@
 # Notes
+## Outline of the Narrative
+- Intro
+  - Main thesis
+- My FOSS narrative: now -> early 2000's
+  - Stealing the commons from off the goose
+  - GOAT 2018 - 20122
+  - Rediscovering the commons, understanding enclosure
+    - Lessig & Benkler
+    - Boyle & Bollier
+    - Linebaugh & Federici
+  - Finding FOSS
+    - Linux, Clay Shirky
+    - Occupy & SOPA/PIPA
+- My Ag narrative: early 2000's -> now
+  - Zucotti Park
+  - Smart phones & social media
+  - Locavores, slow food and organics
+    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra Kingsolver
+    - Marion Nestle, Nevin Cohen
+    - John Gorzynski, Zaid & Haifah Kurdieh
+    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_, _King Corn_
+  - Chef culture & foodies
+    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
+    - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
+- Deeper history of the commons
+  - Medieval commons and their holdovers
+  - Enclosure, Gerard Winstanley & the Diggers
+  - Garrett Hardin and Elinor Ostrom
+  - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
+  - Technology, culture and information
+- Reuniting agricultural and informational commons
+
+## Draft Materials & References
 Enclosure is more than just a simple barrier or boundary: it is a severing of the ties that connect us to other people and living creatures, while uprooting us from the land and, more generally, our sense of place.
 
 Both knowledge and land must be given back to the whole at some point
 
 Technology and open source software became deeply politicized for me in 2012 in a way that food and farming had never been.
+
+### Medieval Commons and Their Holdovers
+Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An Analytical View" (1965):
+
+> Another institution sets in even stronger light the idea that land is to be
+> used, not to be owned by exclusion. It is the custom called "open field
+> pasture" in England, _vaine pâture_ in France and _Gemenglad der Felder_ in
+> Germany. According to it, after harvest all fields are opened for pasture to
+> everyone's cattle and remain so until the next tilling. Once the practice was
+> common to all European countries; it survived in many parts of Western Europe
+> well into our own time.
+
+Open field agriculture was prevalent in Ireland, too, where it was called rundale, until those farmers were dispossessed by English settlers and the plantation system, starting in the 1580's. This was an important proving ground for Britain's colonial methods, which they would later perfect in the expropriation of the Americas' common landholdings, from Virginia to Belize. In the Scottish Highlands, the similarly named run-rig system continued through the late 18th century, coinciding with the Scottish Enlightenment that produced _The Wealth of Nations_ and a wave of land privatization consistent with that book's core tenets. Today, the village of [Laxton](http://www.laxtonvisitorcentre.org.uk/), Nottinghamshire, retains the last open field system in England. Three fields are still held in common ownership, little changed from detailed maps of the area from 1635. A fourth field was lost only in 1903, during the final era of Parliamentary enclosure. The farmers of Laxton — in a sophisticated practice combining regular crop rotation and fallow periods, intermittent grazing and permanent pasture lanes — are apportioned strips of land from each of the fields, a tradition that has likely endured for over half a millennium.
+
+Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been argued that a kernel of communal land practice held out until the Soviet Union undertook collectivization in the 1920's. In Mexico, the revolutionary Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established the system of _ejidos_. These remained largely in tact until the relevant articles were repealed from the constitution at the behest of neoliberal policy makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of the indigenous land practices which have successfully resisted colonial encroachment and land enclosures for centuries across the globe, but I feel ill-equipped to speak to that vast history of struggle.
+
+[^mir]: This is indeed the same name given to the Russian space station _Мир_ in 1986, although the term has a broader meaning that carries with it the sense of "world," "planet" and "peace". See _Afterburner_, ["Space Station ´Mir´ – the symbol of Soviet supremacy in space, that reconciliated nations"](https://afterburner.com.pl/space-station-mir-the-symbol-of-soviet-supremacy-in-space-that-reconciliated-nations/).
+
 
 ### Stealing the Commons from off the Goose
 via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
@@ -39,116 +90,6 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 
 > E.J. Hobsbawm, Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries (New York: W.W. Norton, 1959); and from the Warwick School of Social History, our collective’s Albion’s Fatal Tree: Crime and Society in Eighteenth-Century England (London: Allen Lane, 1975) and E.P. Thompson’s Whigs and Hunters (London: Allen Lane, 1975). Verso published a second edition of Albion’s Fatal Tree in 2011, and Breviary Stuff published a new edition of Whigs and Hunters in 2013. See also the “Frankfurt School” study by Georg Rusche and Otto Kirchheimer, Punishment and Social Structure (New York: Columbia University Press, 1939), and the influential work by Michel Foucault, Discipline and Punish: The Birth of the Prison, translated by Alan Sheridan (New York: Vintage, 1977).
 
-### Medieval Commons and Their Holdovers
-Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An Analytical View" (1965):
-
-> Another institution sets in even stronger light the idea that land is to be
-> used, not to be owned by exclusion. It is the custom called "open field
-> pasture" in England, _vaine pâture_ in France and _Gemenglad der Felder_ in
-> Germany. According to it, after harvest all fields are opened for pasture to
-> everyone's cattle and remain so until the next tilling. Once the practice was
-> common to all European countries; it survived in many parts of Western Europe
-> well into our own time.
-
-Open field agriculture was prevalent in Ireland, too, where it was called rundale, until those farmers were dispossessed by English settlers and the plantation system, starting in the 1580's. This was an important proving ground for Britain's colonial methods, which they would later perfect in the expropriation of the Americas' common landholdings, from Virginia to Belize. In the Scottish Highlands, the similarly named run-rig system continued through the late 18th century, coinciding with the Scottish Enlightenment that produced _The Wealth of Nations_ and a wave of land privatization consistent with that book's core tenets. Today, the village of [Laxton](http://www.laxtonvisitorcentre.org.uk/), Nottinghamshire, retains the last open field system in England. Three fields are still held in common ownership, little changed from detailed maps of the area from 1635. A fourth field was lost only in 1903, during the final era of Parliamentary enclosure. The farmers of Laxton — in a sophisticated practice combining regular crop rotation and fallow periods, intermittent grazing and permanent pasture lanes — are apportioned strips of land from each of the fields, a tradition that has likely endured for over half a millennium.
-
-Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been argued that a kernel of communal land practice held out until the Soviet Union undertook collectivization in the 1920's. In Mexico, the revolutionary Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established the system of _ejidos_. These remained largely in tact until the relevant articles were repealed from the constitution at the behest of neoliberal policy makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of the indigenous land practices which have successfully resisted colonial encroachment and land enclosures for centuries across the globe, but I feel ill-equipped to speak to that vast history of struggle.
-
-[^mir]: This is indeed the same name given to the Russian space station _Мир_ in 1986, although the term has a broader meaning that carries with it the sense of "world," "planet" and "peace". See _Afterburner_, ["Space Station ´Mir´ – the symbol of Soviet supremacy in space, that reconciliated nations"](https://afterburner.com.pl/space-station-mir-the-symbol-of-soviet-supremacy-in-space-that-reconciliated-nations/).
-
-## Outline of the Narrative
-- Intro
-  - Main thesis
-- My FOSS narrative: now -> early 2000's
-  - Stealing the commons from off the goose
-  - GOAT 2018 - 20122
-  - Rediscovering the commons, understanding enclosure
-    - Lessig & Benkler
-    - Boyle & Bollier
-    - Linebaugh & Federici
-  - Finding FOSS
-    - Linux, Clay Shirky
-    - Occupy & SOPA/PIPA
-- My Ag narrative: early 2000's -> now
-  - Zucotti Park
-  - Smart phones & social media
-  - Locavores, slow food and organics
-    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra Kingsolver
-    - Marion Nestle, Nevin Cohen
-    - John Gorzynski, Zaid & Haifah Kurdieh
-    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_, _King Corn_
-  - Chef culture & foodies
-    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
-    - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
-- Deeper history of the commons
-  - Medieval commons and their holdovers
-  - Enclosure, Gerard Winstanley & the Diggers
-  - Garrett Hardin and Elinor Ostrom
-  - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
-  - Technology, culture and information
-- Reuniting agricultural and informational commons
-
-
-## Timeline
-- 1998 - [DMCA] & [Sonny Bono Act]
-- 2000 - USDA Nat'l Organic Program becomes federal regulation
-- 2001 - First Whole Foods Market in NYC[^WF]
-- 2001 - _Fast Food Nation_ by Eric Schlosser
-- 2001 - Napster shuts down; original BitTorrent client released
-- 2001 - arXiv.org launches at Cornell
-- 2002 - Budapest Open Access Initiative
-- 2002 - Creative Commons publishes its first licenses
-- 2003 - _Eldred v. Ashcroft_
-- 2003 - The Pirate Bay launches
-- 2003 - Public Library of Science publishes its first Open Access journal
-- 2003 - Marcin Jakubowski founds Open Source Ecology
-- 2003 - Wikimedia Foundation est'd
-- 2004 - Wikipedia: 1 million articles in 100 languages
-- 2004 - Stone Barns Ctr for Food & Ag / Blue Hill @ SB open
-- 2004 - _Monsanto v Schmeiser_ (Canada)
-- 2004 - Mozilla Firefox released
-- 2004 - Facebook launches
-- 2005 - YouTube launches
-- 2005 - Yochai Benkler's TED Talk
-- 2005 - Jimmy Wale's TED Talk
-- 2005 - Hans Rosling's TED Talk
-- 2005 - Whole Foods opens new flagship market in Austin[^WF]
-- 2005 - First NYC Michelin Guide & Stars
-- 2006 - Malik Yakini starts Detroit Black Community Food Security Network
-- 2006 - _Omnivore's Dilemma_ by Michael Pllan
-- 2006 - Twitter launches
-- 2006 - DBCFSN starts D-Town Farm
-- 2007 - iPhone launches
-- 2007 - Radiohead releases _In Rainbows_ on a pay-what-you-want model
-- 2007 - Open Handset Alliance est'd to steward Android OSS project
-- 2007 - Mozilla Manifesto published by Mitchell Baker
-- 2007 - The "housing bubble" bursts, triggering a global financial crisis
-- 2007 - _Declaration of Nyéléni_
-- 2007 - Joel Salatin, _Everything I Want to Do Is Illegal_
-- 2007 - Michael Pollan's TED Talk
-- 2007 - Lawrence Lessig TED Talk
-- 2008 - The world's banking system collapses at the onset of the "Great Recession"
-- 2008 - _Food, Inc._ w/ Michael Pollan & Eric Schlosser
-- 2009 - Alice Waters spurs Michelle Obama to plant organic garden @ WH
-- 2010 - WikiLeaks releases _Collateral Murder_ video
-- 2011 - Arab Spring & Occupy Wall Street
-- 2011 - _United States v. Aaron Swartz_
-- 2011 - Joel Salatin, _Folks, This Ain't Normal_
-- 2011 - _OSGATA v Monsanto_
-- 2012 - Internet blackout in protest of SOPA/PIPA
-- 2012 - Occupy the Farm on Gill Tract at UC Berkeley
-- 2012 - Open Source Seed Initiative founded
-- 2013 - Edward Snowden disclosures on NSA surveillance
-
-[DMCA]: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-[Sonny Bono Act]: https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act
-[^WF]: Whole Foods' first store in NYC [opened in Chelsea in Feb 2001](https://web.archive.org/web/20160317065428/https://www.nytimes.com/2001/02/14/dining/new-market-concentrates-on-organic-food.html).
-    The _Austin Business Journal_ notes refers to their Austin HQ as
-    "the new 80,000-square-foot store -- the company's largest" in
-    ["New Whole Foods headquarters set for grand opening"](https://web.archive.org/web/20050225051404/https://www.bizjournals.com/austin/stories/2005/02/21/daily13.html) (Feb 22, 2005).
-    Compare with the [history page on the Whole Foods website](https://www.wholefoodsmarket.com/company-info/whole-foods-market-history):
-
-    > Two years later, John and Renee partnered with Craig Weller and Mark Skiles to merge SaferWay with their Clarksville Natural Grocery, resulting in the opening of the original Whole Foods Market on September 20, 1980. At 10,500 square feet and a staff of 19, this store was quite large in comparison to the standard health food store of the time.
 
 ## Outline of Topics & Sources
 - Agricultural commons
@@ -385,3 +326,64 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
     - Indigenous [water protectors](https://theworld.org/stories/2016-10-31/standing-rock-activists-dont-call-us-protesters-were-water-protectors) & land defenders
     - Social Ecology, Municipalism and Dual Power
 
+
+## Timeline
+- 1998 - [DMCA] & [Sonny Bono Act]
+- 2000 - USDA Nat'l Organic Program becomes federal regulation
+- 2001 - First Whole Foods Market in NYC[^WF]
+- 2001 - _Fast Food Nation_ by Eric Schlosser
+- 2001 - Napster shuts down; original BitTorrent client released
+- 2001 - arXiv.org launches at Cornell
+- 2002 - Budapest Open Access Initiative
+- 2002 - Creative Commons publishes its first licenses
+- 2003 - _Eldred v. Ashcroft_
+- 2003 - The Pirate Bay launches
+- 2003 - Public Library of Science publishes its first Open Access journal
+- 2003 - Marcin Jakubowski founds Open Source Ecology
+- 2003 - Wikimedia Foundation est'd
+- 2004 - Wikipedia: 1 million articles in 100 languages
+- 2004 - Stone Barns Ctr for Food & Ag / Blue Hill @ SB open
+- 2004 - _Monsanto v Schmeiser_ (Canada)
+- 2004 - Mozilla Firefox released
+- 2004 - Facebook launches
+- 2005 - YouTube launches
+- 2005 - Yochai Benkler's TED Talk
+- 2005 - Jimmy Wale's TED Talk
+- 2005 - Hans Rosling's TED Talk
+- 2005 - Whole Foods opens new flagship market in Austin[^WF]
+- 2005 - First NYC Michelin Guide & Stars
+- 2006 - Malik Yakini starts Detroit Black Community Food Security Network
+- 2006 - _Omnivore's Dilemma_ by Michael Pllan
+- 2006 - Twitter launches
+- 2006 - DBCFSN starts D-Town Farm
+- 2007 - iPhone launches
+- 2007 - Radiohead releases _In Rainbows_ on a pay-what-you-want model
+- 2007 - Open Handset Alliance est'd to steward Android OSS project
+- 2007 - Mozilla Manifesto published by Mitchell Baker
+- 2007 - The "housing bubble" bursts, triggering a global financial crisis
+- 2007 - _Declaration of Nyéléni_
+- 2007 - Joel Salatin, _Everything I Want to Do Is Illegal_
+- 2007 - Michael Pollan's TED Talk
+- 2007 - Lawrence Lessig TED Talk
+- 2008 - The world's banking system collapses at the onset of the "Great Recession"
+- 2008 - _Food, Inc._ w/ Michael Pollan & Eric Schlosser
+- 2009 - Alice Waters spurs Michelle Obama to plant organic garden @ WH
+- 2010 - WikiLeaks releases _Collateral Murder_ video
+- 2011 - Arab Spring & Occupy Wall Street
+- 2011 - _United States v. Aaron Swartz_
+- 2011 - Joel Salatin, _Folks, This Ain't Normal_
+- 2011 - _OSGATA v Monsanto_
+- 2012 - Internet blackout in protest of SOPA/PIPA
+- 2012 - Occupy the Farm on Gill Tract at UC Berkeley
+- 2012 - Open Source Seed Initiative founded
+- 2013 - Edward Snowden disclosures on NSA surveillance
+
+[DMCA]: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
+[Sonny Bono Act]: https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act
+[^WF]: Whole Foods' first store in NYC [opened in Chelsea in Feb 2001](https://web.archive.org/web/20160317065428/https://www.nytimes.com/2001/02/14/dining/new-market-concentrates-on-organic-food.html).
+    The _Austin Business Journal_ notes refers to their Austin HQ as
+    "the new 80,000-square-foot store -- the company's largest" in
+    ["New Whole Foods headquarters set for grand opening"](https://web.archive.org/web/20050225051404/https://www.bizjournals.com/austin/stories/2005/02/21/daily13.html) (Feb 22, 2005).
+    Compare with the [history page on the Whole Foods website](https://www.wholefoodsmarket.com/company-info/whole-foods-market-history):
+
+    > Two years later, John and Renee partnered with Craig Weller and Mark Skiles to merge SaferWay with their Clarksville Natural Grocery, resulting in the opening of the original Whole Foods Market on September 20, 1980. At 10,500 square feet and a staff of 19, this store was quite large in comparison to the standard health food store of the time.

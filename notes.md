@@ -38,6 +38,13 @@ Both knowledge and land must be given back to the whole at some point
 
 Technology and open source software became deeply politicized for me in 2012 in a way that food and farming had never been.
 
+Richard Stallman observed in the early 1980's that software is enclosed by
+denying users access to freely read, modify and share the source code. Two
+decades later, Lawrence Lessig brought attention to the way codes of law can
+restrict or enable the codes of software, but that the later can also be used to
+supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
+law."
+
 ### Medieval Commons and Their Holdovers
 Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An Analytical View" (1965):
 
@@ -53,7 +60,13 @@ Open field agriculture was prevalent in Ireland, too, where it was called rundal
 
 Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been argued that a kernel of communal land practice held out until the Soviet Union undertook collectivization in the 1920's. In Mexico, the revolutionary Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established the system of _ejidos_. These remained largely in tact until the relevant articles were repealed from the constitution at the behest of neoliberal policy makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of the indigenous land practices which have successfully resisted colonial encroachment and land enclosures for centuries across the globe, but I feel ill-equipped to speak to that vast history of struggle.
 
-[^mir]: This is indeed the same name given to the Russian space station _Мир_ in 1986, although the term has a broader meaning that carries with it the sense of "world," "planet" and "peace". See _Afterburner_, ["Space Station ´Mir´ – the symbol of Soviet supremacy in space, that reconciliated nations"](https://afterburner.com.pl/space-station-mir-the-symbol-of-soviet-supremacy-in-space-that-reconciliated-nations/).
+[^mir]: This is indeed the same name given to the Russian space station _Мир_ in
+    1986, although the term has a broader meaning that carries with it the sense
+    of "world," "planet" and "peace". See _Afterburner_, ["Space Station ´Mir´ –
+    the symbol of Soviet supremacy in space, that reconciliated
+    nations"](https://afterburner.com.pl/space-station-mir-the-symbol-of-soviet-supremacy-in-space-that-reconciliated-nations/).
+    Also, Robert Ellickson backs up that _miri_ were still in practice as
+    late as Stalin's collectivization ("Property in Land" p. 1393)
 
 
 ### Stealing the Commons from off the Goose
@@ -90,6 +103,143 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 
 > E.J. Hobsbawm, Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries (New York: W.W. Norton, 1959); and from the Warwick School of Social History, our collective’s Albion’s Fatal Tree: Crime and Society in Eighteenth-Century England (London: Allen Lane, 1975) and E.P. Thompson’s Whigs and Hunters (London: Allen Lane, 1975). Verso published a second edition of Albion’s Fatal Tree in 2011, and Breviary Stuff published a new edition of Whigs and Hunters in 2013. See also the “Frankfurt School” study by Georg Rusche and Otto Kirchheimer, Punishment and Social Structure (New York: Columbia University Press, 1939), and the influential work by Michel Foucault, Discipline and Punish: The Birth of the Prison, translated by Alan Sheridan (New York: Vintage, 1977).
 
+### Historiography of Enclosure
+In "The Second Enclosure Movement", Boyle lays out his main thesis plainly:
+
+> We are in the middle of a second enclosure movement. It sounds grandiloquent
+to call it “the enclosure of the intangible commons of the mind,” but in a very
+real sense that is just what it is. (p. 37)
+
+The footnote to the above reads:
+
+>  The analogy to the enclosure movement has been too succulent to resist. To my
+knowledge, Ben Kaplan, Pamela Samuelson, Yochai Benkler, David Lange, Chrisopher
+May, David Bollier and Keith Aoki have all employed the trope, as I myself have
+on previous occasions. For a particularly thoughtful and careful development of
+the parallel between the two enclosure movements, see generally Travis, supra
+note 7. (p. 37, n. 12)
+
+Acknowledging Lange, once again:
+
+> Thus, there are a number of possible places where one could say, “the defense
+of the public domain begins here.” But, like most people, I attribute central
+importance to the writing of my friend and colleague David Lange, whose article
+Recognizing the Public Domain really initiated contemporary study of the
+subject. (p. 59)
+
+In a telling footnote (p. 176, n. 131), Lange admits:
+
+> I should perhaps say clearly at this point that of course I do not mean to be
+> taken literally when I suggest an analogy to public lands. Proposals of that
+> sort too quickly lead to analysis rooted in reductive nonsense.
+
+The footnote addresses a rather callous comparison of the public domain to "the
+public grazing lands on the Western plains of a century ago," and the
+environmental impact statements required for its private use. Yet he qualifies
+even that analogy, because "so insubstantial is the stuff of intellelctual
+property." He suggests that the Alaskan tundra, "singularly unsuited for
+colonization," might make a fairer analogy, before dismissing both as nonsense.
+
+Here's the full context:
+
+> In this final portion of my own essay, I will suggest some other ways courts
+> might respond when unwarranted claims of intellectual property are advanced.
+
+Then, after providing the first two methods:
+
+> Third, as an additional part of the plaintiff's prima facie case, it would
+> seem fair to require the submission of proof concerning the likely impact that
+> recognition of the plaintiff's claim might have on subsequent claims. [...]
+> The analogy that comes to mind is the environmental impact statement that must
+> be prepared when, for example, government agencies propose to make some
+> doubtful use of lands. The purpose of these statements is generally to require
+> that, as against the uncontrolled ravages wrought in earlier times, would-be
+> users today assure us that their proposals will not heedlessly affect the
+> interests of individuals in generations to come.'<sup>129</sup> The analogy
+> here seems apt; in certain useful respects the public domain in the field of
+> intellectual property today can be compared to the public grazing lands on the
+> Western plains of a century ago.<sup>130</sup> Indeed, so insubstantial is the
+> stuff of intellectual property that the more insistent image is not the
+> sturdier lands of the American West but the more fragile tundra of the Alaskan
+> North: wild, vast, inaccessible, beautiful, but singularly unsuited to
+> colonization.<sup>131</sup> If it is fair, as we seem to have decided in this
+> century it is, to require the users of public lands to prepare impact
+> statements as a condition of their use, then perhaps it is also fair to
+> require similar assurances before we permit the outright appropriation of the
+> territory of the creative subconscious.<sup>132</sup>
+>
+> 129. _See generally_ F. Anderson, NEPA in the Courts (1973).  
+>      A California practitioner, writing some years ago in response to
+>      then-recent litigation involving Nancy Sinatra and the Fifth Dimension,
+>      captured the essence of the concerns expressed in the text at this point:
+>      [...]
+> 130. Or to public lands of other sorts. _See_ Krasilovsky, _supra_ note 20, at
+>      205, 225-26.
+> 131. _But cf. id._ at 225-26 (suggesting the development of the Alaskan crab
+>      and shrimp industries as examples of how a federal bureau might be
+>      established to manage, conserve and develop the public domain). If this
+>      alarming suggestion were followed, impact statements would be even more
+>      relevant.  
+>      I should perhaps say clearly at this point that of course I do not mean
+>      to be taken literally when I suggest an analogy to public lands.
+>      Proposals of that sort too quickly lead to analysis rooted in reductive
+>      nonsense. _Cf._ Comment, _Premature Burial_, _supra_ note 20, at 996-97.
+> 132. One author has used the term "public commons" to describe "the raw
+>      materials from which creative imaginations must work" and which therefore
+>      cannot be "fenced in" in any circumstances. Carman, _supra_ note 20, at
+>      58,
+>      59. _Cf._ Nimmer, _supra_ note 20, at 266.
+> 133. _Cf._ Stone, _Should Trees Have Standing?— Toward Legal Rights for
+>      Natural Objects_, 45 S. CAL. L. REV. 450 (1972).
+
+Pay special attention to note 133, where he cites Christopher Stone's paper,
+today considered a cornerstone of the legal arguments for Rights of Nature.
+
+So dismissing Lange, we come back to Benkler for the earliest comparison of
+intellectual property, particularly copyright expansion, to early modern land
+enclosures:
+
+> - Free as the Air to Common Use: First Amendment Constraints on Enclosure of
+>   the Public Domain, 74 N.Y.U. Law Review 354 (1999)
+> - The Commons As A Neglected Factor of Information Policy (TPRC September 98)
+
+Make sure to also acknowledge his _Wealth of Nations_, particularly "Table 11.1:
+Overview of the Institutional Ecology," with its 2 contrasting columns for
+"Enclosure" and "Openness" across 3 layers (adapted from the OSI model, it
+seems): physical, logical and content. See his footnote
+[157](https://web.archive.org/web/20110525071000/http://www.jus.uio.no/sisu/the_wealth_of_networks.yochai_benkler/11.html#_157).
+
+Alongside Benkler, Travis is also an important early source on enclosure, as
+Boyle suggests. His paper, "Pirates of the Information Infrastructure:
+Blackstonian Copyright and the First Amendment," was " a winner of the 1999
+Berkeley Technology Law Journal Comment Competition," which would explain how it
+came to be so widely cited when Travis was only in his last year at Harvard Law
+School. Travis also cites E.P. Thompson and other writers from the Marxist
+tradition without provisos, something later scholars were reluctant to do, with
+the possible exception of Boyle. In particular, he cites Chapter III from
+Thompson's 1991 _Customs in Common_, which is an extension of his earlier _Whigs
+and Hunters_ but provides much more context on the history of enclosure.
+
+Hess and Ostrom provide a good overview of the use of the term "commons" with
+regard to intellectual property, in the "Ideas, Artifacts and Facilities" §
+"What Is a Commons?". They also edited a book length collection in 2007 called
+_Understanding Knowledge as a Commons: From Theory to Practice_.
+
+
+I don't believe Boyle's _Shamans, Software & Spleens_ contains any references,
+even though I haven't been able to access the full text, because I have been
+able to search it via Google Books but that turned up zero results. It's also
+not present in an older publication from 1992, ["A Theory of Law and
+Information: Copyright, Spleens, Blackmail and Insider
+Trading"](https://law.duke.edu/boylesite/law&info.htm), which contains early
+versions of a few of the same articles later expanded upon in the book. It is,
+however, present in the 2000 work, ["Cruel, Mean, or Lavish? Economic Analysis,
+Price Discrimination and Digital Intellectual
+Property"](https://law.duke.edu/boylesite/cruel.pdf).
+
+So I think that leaves Benkler and Travis as the earliest of the metaphor, which
+Boyle and Bollier would expand upon very soon after.
+
 
 ## Outline of Topics & Sources
 - Agricultural commons
@@ -108,15 +258,37 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
     - [_Governing the Commons_](https://archive.org/details/governingcommons0000ostr)
     - ["Public Goods and Public Choices "](https://spia.uga.edu/faculty_pages/tyler.scott/teaching/PADP6950_Fall2016_Thursday/readings/Ostrom_Ostrom_1977.pdf) (1977), with Vincent Ostrom; lays out the classic form of the [public/private goods matrix](https://en.wikipedia.org/wiki/Goods#Goods_classified_by_exclusivity_and_competitiveness) as well as the concept of [common-pool resources](https://en.wikipedia.org/wiki/Common-pool_resource)
     - ["Beyond Markets and States: Polycentric Governance of Complex Economic Systems"](https://doi.org/10.1257%2Faer.100.3.641) (2010), refines her concept of public goods first laid out in the 1977 paper
-  - Alex Amend, ["First as Tragedy, Then as Fascism: The Nativist Legacy of Garret Hardin"](https://thebaffler.com/latest/first-as-tragedy-then-as-fascism-amend)
+  - Carol Rose
+    - ["Comedy of the
+      Commons"](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2827&context=fss_papers)
+      (1986)
+  - Rober Ellickson, ["Property in Land"](https://openyls.law.yale.edu/handle/20.500.13051/8755) (1993)
+    - Ellickson taught a course w/ Heller (below) called "Marx to Markets" and Heller cites this work and others by Ellickson. This is great resource on the the economics and governance of the medieval commons and contains many more great citations.
+  - [Michael Heller](https://www.law.columbia.edu/faculty/michael-heller)
+    - ["The Tragedy of the Anticommons: Property in the Transition from Marx to Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=57627) (1998)
+      - An altered version of this paper, co-authored with Rebecca Eisenberg,
+        also appeared in _Science_ later the same year under the title ["Can
+        Patents Deter Innovation? The Anticommons in Biomedical
+        Research"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=121288).
+        It was shorter, omitting some of the economic arguments, but with new
+        material on the patenting of biomedical research.
+    - ["The Liberal Commons"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=241072) (2000)
+  - Alex Amend, ["First as Tragedy, Then as Fascism: The Nativist Legacy of Garrett Hardin"](https://thebaffler.com/latest/first-as-tragedy-then-as-fascism-amend)
+    - Garrett Hardin's [SPLC profile](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin)
   - Michael Perelman
     - [_Farming for Profit in a Hungry World_](https://archive.org/details/farmingforprofit0000pere) (1977)
     - [_Information, Social Relations, and the Economics of High Technology_](https://archive.org/details/informationsocia0000pere/) (1991)
     - Steal This Idea: Intellectual Property and The Corporate Confiscation of Creativity (2002)
-  - Marxist & Autonomis theory in the 20th C.
+  - Marxist & Autonomist & theory in the 20th C.
+    - Karl Polanyi
+      - [_The Great Transformation_ §3 "'Habitation versus
+        Improvement'"](https://archive.org/details/greattransformat00pola/page/32/mode/2up)
     - E.P. Thompson
       - ["Time, work-discipline and industrial capitalism"](https://www.sv.uio.no/sai/english/research/projects/anthropos-and-the-material/Intranet/economic-practices/reading-group/texts/thompson-time-work-discipline-and-industrial-capitalism.pdf) (1967)
       - _Whigs and Hunters: The Origin of the Black Act_,  (1975)
+      - [_Customs in Common_, Chapter III, "Custom, Law and Common
+        Right"](https://archive.org/details/customsincommon00thom/page/96/mode/2up),
+        (1991), cited by Hannibal Travis
     - Peter Linebaugh
       - ["The Secret History of the Magna Carta"](https://www.bostonreview.net/articles/peter-linebaugh-secret-history-magna-carta/) (2003)
       - _The Magna Carta Manifesto: Liberties and Commons for All_ (2008)
@@ -168,56 +340,137 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
 - Free & Open Source Software (FOSS)
   - bad actors: Richard Stallman, Eric S. Raymond, etc
 - Free Culture Movement
+  - Duke Law School's [_Conference on the Public
+    Domain_](https://www.tech-insider.org/internet/research/2001/1109.html),
+    held Nov 9 -11, 2001.
+    - This seems to have been a pivotal moment and a cross-discipline meeting of
+      the minds. The list of "participants" (in-person attendees?) is
+      staggering, a who's-who in the scholarship of the commons for the last
+      half-century. Among others it includes Elinor Ostrom, James Boyle, Larry
+      [sic.] Lessig, Yochai Benkler, David Bollier, Carol Rose, Jerome Reichman,
+      Jessica Litman, John Perry Barlow, David Nimmer, David Lange, Eben Moglen,
+      Mark Hosler from Negativland, Rosemary Coombe, Charlotte Hess, Eric
+      Saltzman, Pamela Samuelson, Rebecca Eisenberg, et al.
   - Literature
     - David Lange
       - ["Recognizing the Public
         Domain"](https://scholarship.law.duke.edu/faculty_scholarship/824/)
-        (1981), cited by Lessig, Boyle, Benkler, et al.[^Lange]
-
-        [^Lange]: In a telling footnote (p. 176, n. 131), Lange admits:
-
-            > I should perhaps say clearly at this point that of course I do not
-            > mean to be taken literally when I suggest an analogy to public
-            > lands. Proposals of that sort too quickly lead to analysis rooted in
-            > reductive nonsense.
-
-            The footnote addresses a rather callous comparison of the public
-            domain to "the public grazing lands on the Western plains of a century
-            ago," and the environmental impact statements required for its private
-            use. Yet he qualifies even that analogy, because "so insubstantial is
-            the stuff of intellelctual property." He suggests that the Alaskan
-            tundra, "singularly unsuited for colonization," might make a fairier
-            analogy, before dismissing both as nonsense.
-
+        (1981), cited by Lessig, Boyle, Benkler, et al.
     - Anne Branscromb
-      - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
+      - ["Who Owns
+        Information?"](https://archive.org/details/whoownsinformati00bran)
+        (1994)
+    - Jerome Reichman
+      - ["Intellectual Property Rights in
+        Data?"](https://scholarship.law.duke.edu/faculty_scholarship/455/) (1997
+        w/ Pamela Samuelson)
+      - ["Of Green Tulips and Legal Kudzu: Repackaging Rights in Subpatentable
+        Innovation"](https://scholarship.law.duke.edu/faculty_scholarship/456/)
+        (2000)
+      - ["The Globalization of Private Knowledge Goods and the Privatization of
+        Global Public
+        Goods"](https://scholarship.law.duke.edu/faculty_scholarship/2144/)
+        (2005, w/ Keith Maskus)
+    - Pamela Samuelson
+      - ["The Copyright
+        Grab"](https://web.archive.org/web/20151108222550/https://www.wired.com/1996/01/white-paper/)
+        (1996)
+      - ["The Quest for Enabling Metaphors for Law and Lawyering in the
+        Information
+        Age"](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2107&context=mlr)
+        (1996)
+    - Jessica Littman
+      - ["The Public Domain"](https://repository.law.umich.edu/articles/222/)
+        (1990)
+      - ["Sharing and
+        Stealing"](https://repository.law.umich.edu/articles/2478/) (2004)
+    - [Rosemary Coombe](https://rcoombe.blog.yorku.ca/)
+      - [_The Cultural Life of Intellectual
+        Properties_](https://www.dukeupress.edu/the-cultural-life-of-intellectual-properties)
+        (1998)
+    - [Ebin Moglen](https://moglen.law.columbia.edu/)
+      - ["Anarchism Triumphant: Free Software and the Death of
+        Copyright"](https://moglen.law.columbia.edu/publications/anarchism.html)
+        (1999)
+      - ["dotCommunist
+        Manifesto"](https://moglen.law.columbia.edu/publications/dcm.html)
+        (2003, based on a talk from 2001)
+    - Hannibal Travis
+      - ["Pirates of the Information Infrastructure: Blackstonian Copyright and
+        the First
+        Amendment"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=758885)
+        (2000)
+      - [_Copyright Class Struggle: Creative Economies in a Social Media
+        Age_](https://doi.org/10.1017/9781108147958) (2018)
+        ([excerpt](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671059))
+    - Charlotte Hess
+      - ["Ideas, Artifacts, and Facilities: Information as a Common-Pool
+        Resource"](https://scholarship.law.duke.edu/lcp/vol66/iss1/5/)
+        (2001-2003, w/ Elinor Ostrom)
+    - [Yochai Benkler](https://www.benkler.org/CV.html)
+      - ["The Commons as a Neglected Factor of Information
+        Policy"](http://www.benkler.org/commons.pdf) (1998)
+      - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure
+        of the Public
+        Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)
+      - ["Coase’s Penguin, or, Linux and The Nature of the
+        Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
+      - [_Wealth of Networks: How Social Production Transforms Markets and
+        Freedom_](https://cyber.harvard.edu/wealth_of_networks/Main_Page)
+    - [James Boyle](http://james-boyle.com/)
+      - ["The Relations of
+        Reproduction"](https://law.duke.edu/boylesite/tlscopy.htm) (1997)
+      - ["Nature/Culture?"](https://law.duke.edu/boylesite/envsoc.htm) (1997):
+        "A revised version of this article appeared as "What the Left Has to
+        Say" in the _TLS_, February 28th 1997 reviewing Social Theory and the
+        Environment by David Goldblatt"
+      - ["Cruel, Mean, or Lavish? Economic Analysis, Price Discrimination and
+        Digital Intellectual
+        Property"](https://law.duke.edu/boylesite/cruel.pdf) (2000)
+      - ["The Second Enclosure Movement and the Construction of the Public
+        Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
+      - [_Shamans, Software &
+        Spleens_](https://archive.org/details/shamanssoftwares00boyl/page/n9/mode/2up)
+      - [_Public Domain: Enclosing the Commons of the
+        Mind_](https://www.thepublicdomain.org/download/), "Why Intellectual
+        Property?"
+        - "The CD may be copied cheaply; the concert is easy to police."
+      - ["The fight to keep ideas open to
+        all"](https://www.economist.com/open-future/2018/12/12/the-fight-to-keep-ideas-open-to-all)
+        - "The “commons of the mind” must be preserved, says James Boyle of Duke
+          Law School, on the 50th anniversary of “The tragedy of the commons”"
+          (re: Garrett Hardin)
+    - Paul A. David, ["Tragedy of the Public Knowledge 'Commons'? Global
+      Science, Intellectual Property and the Digital Technology
+      Boomerang"](https://dlc.dlib.indiana.edu/dlc/handle/10535/3756) (2000)
     - Lawrence Lessig
-      - ["The Architecture of Innovation"](https://scholarship.law.duke.edu/dlj/vol51/iss6/2/)
+      - ["The Architecture of
+        Innovation"](https://scholarship.law.duke.edu/dlj/vol51/iss6/2/)
       - [_Code and Other Laws of Cyberspace_](https://lessig.org/product/code/)
         - "Code is Law"
-      - [Future of Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
+      - [Future of
+        Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
         - over-emphasis on the code, the architecture and other abstractions
-    - Yochai Benkler
-      - ["The Commons as a Neglected Factor of Information Policy"](http://www.benkler.org/commons.pdf) (1998)
-      - ["Free as the Air to Common Use: First Amendment Contraints on Enclosure of the Public Domain"](https://www.benkler.org/Free%20as%20the%20Air.pdf) (1999)
-      - ["Coase’s Penguin, or, Linux and The Nature of the Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
-    - James Boyle
-      - ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
-      - [_Shamans, Software & Spleens_](https://archive.org/details/shamanssoftwares00boyl/page/n9/mode/2up)
-      - [_Public Domain_](https://www.thepublicdomain.org/download/), "Why Intellectual Property?"
-        - "The CD may be copied cheaply; the concert is easy to police."
     - C. Ford Runge & Edi Defrancesco
-      - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002) (2006)
-      - ["Factors Affecting Farmers' Participation in Agri-environmental Measures"](https://www.academia.edu/download/71193474/j.1477-9552.2007.00134.x20211003-24337-153myma.pdf) (2007)
+      - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern
+        Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002)
+        (2006)
+      - ["Factors Affecting Farmers' Participation in Agri-environmental
+        Measures"](https://www.academia.edu/download/71193474/j.1477-9552.2007.00134.x20211003-24337-153myma.pdf)
+        (2007)
     - Josh Lerner and Jean Tirole
-      - ["The Simple Economics of Open Source"](https://www.nber.org/system/files/working_papers/w7600/w7600.pdf) (2000)
-    - Hannibal Travis
-      - ["Pirates of the Information Infrastructure"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=758885) (2000)
+      - ["The Simple Economics of Open
+        Source"](https://www.nber.org/system/files/working_papers/w7600/w7600.pdf)
+        (2000)
     - Clay Shirky
       - _Here Comes Everyone_ (2008)
   - Criticism
-    - Low marginal costs and non-rivalry are over-emphasized and consequently taken as the preconditions for effective commons
-    - It is implicitly and mistakenly assumed that information is not a "thing" like real property. Likewise, tangible things are viewed as substantively different from information and their informational component is either  minimized or overlooked entirely.
+    - Low marginal costs and non-rivalry are over-emphasized and consequently
+      taken as the preconditions for effective commons
+    - It is implicitly and mistakenly assumed that information is not a "thing"
+      like real property. Likewise, tangible things are viewed as substantively
+      different from information and their informational component is either
+      minimized or overlooked entirely.
 - Beyond FOSS
   - Luis Villa
     - ["Free as in...?"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/)
@@ -248,6 +501,8 @@ Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, c
     - [_Frontiers of Commoning_ interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
   - Fred Turner, Stewart Brand, etc
     - New Left vs New Communalism
+    - "Information wants to be free." ~ attributed to Stewart Brand (via
+      [Boyle](https://law.duke.edu/boylesite/tlscopy.htm))
     - virtualization of communities
     - cybernetics
     - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)

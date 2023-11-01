@@ -229,7 +229,25 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
 - Free Culture Movement
   - Literature
     - David Lange
-      - ["Recognizing the Public Domain"](https://scholarship.law.duke.edu/faculty_scholarship/824/) (1981), frequently cited by Lessig, Boyle, et al.
+      - ["Recognizing the Public
+        Domain"](https://scholarship.law.duke.edu/faculty_scholarship/824/)
+        (1981), cited by Lessig, Boyle, Benkler, et al.[^Lange]
+
+        [^Lange]: In a telling footnote (p. 176, n. 131), Lange admits:
+
+            > I should perhaps say clearly at this point that of course I do not
+            > mean to be taken literally when I suggest an analogy to public
+            > lands. Proposals of that sort too quickly lead to analysis rooted in
+            > reductive nonsense.
+
+            The footnote addresses a rather callous comparison of the public
+            domain to "the public grazing lands on the Western plains of a century
+            ago," and the environmental impact statements required for its private
+            use. Yet he qualifies even that analogy, because "so insubstantial is
+            the stuff of intellelctual property." He suggests that the Alaskan
+            tundra, "singularly unsuited for colonization," might make a fairier
+            analogy, before dismissing both as nonsense.
+
     - Anne Branscromb
       - ["Who Owns Information?"](https://archive.org/details/whoownsinformati00bran) (1994)
     - Lawrence Lessig

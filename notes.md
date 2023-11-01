@@ -187,6 +187,31 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
     - Sylvia Federici
       - [_Caliban and the Witch_](https://www.akpress.org/calibanandthewitch.html) (2004)
       - ["Commons against and beyond capitalism"](https://academic.oup.com/cdj/article/49/suppl_1/i92/307214) (2014)
+    - Murray Bookchin
+      - Usufruct
+      - Aristotelian _techne_ vs modern industrial "technics"
+      - Labor and technology as the "midwife" to nature's creative forces[^midwife]
+
+        [^midwife]: In _Ecology of Freedom_, §9 "Two Images of Technology":
+            > That Marx and many of his Victorian contemporaries disparaged
+            > "nature idolatry" in extremely harsh terms is not accidental. The
+            > Romantic movement of the nineteenth century echoed a much broader
+            > and ancient sensibility: the view that production should be a
+            > symbiotic, not an antagonistic, process. Although the movement was
+            > primarily aesthetic, it combined with anarchist theories of
+            > mutualism — notably Kropotkin's extraordinarily prescient writings
+            > — to ferret out a much broader "natural design": a "marriage"
+            > between labor and nature that was conceived not as a patriarchal
+            > domination of "man" over nature but as a productive relationship
+            > based on harmony, fertility, and creativity. Libertarian and
+            > aesthetic movements in the nineteenth century were still heir to
+            > the image of a fecund interaction between humanity's craft and
+            > nature's potentialities. But labor was seen not as "fire," or
+            > industry as a "furnace." The imagery of these movements was
+            > drastically different. Labor was viewed as the midwife, and tools
+            > as the aids, in delivering nature's offspring:
+            > use-values.<sup>[[source]](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom#:~:text=That%20Marx%20and,offspring%3A%20use%2Dvalues)</sup>
+
   - Social Choice Theory
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and Stiglitz on information asymmetries (see further below), as well as Sen.
     - Amartya Sen & Martha Nussbaum's work on [capability approach](https://en.wikipedia.org/wiki/Capability_approach) to 

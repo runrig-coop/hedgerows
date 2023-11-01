@@ -153,7 +153,8 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
 ## Outline of Topics & Sources
 - Agricultural commons
   - ongoing history of enclosures and struggles to maintain the commons
-  - the evolution of property rights alienation of the land
+  - the evolution of property rights alienation of the land (see [Quia
+    Emptores](https://en.wikipedia.org/wiki/Quia_Emptores))
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
 - The Commons in Sociology & Economics

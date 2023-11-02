@@ -106,25 +106,32 @@ peasantry's rights to forage and graze their animals on common lands. I remember
 it clearly because it was also the first time I'd heard the longer history of
 the English commons and its eventual enclosure.
 
-Genna's comments fused the final conceptual linkage between the enclosure of the
-commons — a very practical matter of historical fact — and more erudite theories
-I'd recently been reading about but struggled to grasp. I couldn't really get my
-head around the principle of usufruct and its distinction from real property
-rights (_jus in re propria_, in Roman law). In legal scholarship, usufruct
-rights grant the free use (_usus_) and the fruits (_fructus_) of an asset to the
-rightsholder. Real property ownership grants all of that plus the right to
-dispose of (_abusus_) the asset however they see fit, whether by consuming,
-selling, irreversibly altering or destroying it. This is also known as the
-_alienation_ of property in English common law. Now when I viewed these concepts
-in light of universal access to nature, I couldn't see how any one person could
-be granted exclusive rights of alienation over anything in nature — at least
-anything of substantial size — if it was not first enclosed. The pronouncements
-of the law are critical to the enforcement of many rights, but absolute property
-rights are seldom achieved by fiat alone. Some mechanism for enclosing the asset
-almost always seems to accompany legal protections, or even precede them. This
-holds true whether the "thing of nature" is a strip of land closed off by a
-fence or hedgerow, or mere knowledge and ideas like software or digital media,
-refashioned as intellectual property.
+Genna's comments fused the final conceptual linkage between enclosure, as a
+plain matter of historical record, and the more erudite legal and socioeconomic
+theories I'd been reading about but struggling to grasp. I couldn't really get
+my head around the principle of usufruct and its distinction from real property
+rights (_jus in re propria_). Usufruct grants the rightsholder both the free use
+and the benefits (or "fruits") of an asset, what are termed _usus_ and _fructus_
+in civil law, respectively. Real property ownership grants all of that plus the
+right to dispose of (_abusus_) the asset however they see fit. That can entail
+consuming, selling, irreversibly altering or destroying it.[^jus] This is
+also known as the _alienation_ of property in English common law. Now when I
+viewed these concepts in light of universal access to nature, I couldn't see how
+any one person could be granted exclusive rights of alienation over anything in
+nature — at least anything of substantial size — if it was not first enclosed.
+The pronouncements of the law are critical to the enforcement of many rights,
+but absolute property rights are seldom achieved by fiat alone. Some mechanism
+for enclosing the asset almost always seems to accompany legal protections, or
+even precede them. This holds true whether the "thing of nature" is a strip of
+land closed off by a fence or hedgerow, or intellectual property like
+software or digital media.
+
+[^jus]: In civil or Roman law, the Latin terms would translate:
+    [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
+    "right to [one's] own thing";
+    [_jus utendi_](https://www.lsd.law/define/jus-utendi), "right to use" or literally "the using";
+    [_jus in fructu_](https://www.lsd.law/define/in-fructu), "right to the fruit [of a thing]";
+    [_jus abutendi_](https://www.lsd.law/define/jus-abutendi), "right to use up" as in "to expend"
 
 The most effective means of enclosing intellectual property, or IP, has been to
 consolidate it in vast data centers and relegate it to the server farms of tech

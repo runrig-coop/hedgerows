@@ -319,6 +319,7 @@ Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
     - Karl Polanyi
       - [_The Great Transformation_ §3 "'Habitation versus
         Improvement'"](https://archive.org/details/greattransformat00pola/page/32/mode/2up)
+        - cited by James Boyle, Katherina Pistor, et al.
     - E.P. Thompson
       - ["Time, work-discipline and industrial capitalism"](https://www.sv.uio.no/sai/english/research/projects/anthropos-and-the-material/Intranet/economic-practices/reading-group/texts/thompson-time-work-discipline-and-industrial-capitalism.pdf) (1967)
       - _Whigs and Hunters: The Origin of the Black Act_,  (1975)

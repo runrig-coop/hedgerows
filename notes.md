@@ -240,6 +240,42 @@ Property"](https://law.duke.edu/boylesite/cruel.pdf).
 So I think that leaves Benkler and Travis as the earliest of the metaphor, which
 Boyle and Bollier would expand upon very soon after.
 
+### The limits of a liberal theory of the commons
+In _The Wealth of Networks_, as the titular reference might suggest, Benkler
+fits squarely into the two Post-Cold War camps of neoclassical economics and
+liberal political theory, extrapolating neatly from a line of thought that
+passes through both Adam Smith and John Rawls. He acknowledges this position,
+though it is by no means without nuance or qualifications:
+
+> There are four methodological choices represented by the thesis that I have
+> outlined up to this point, and therefore in this book as a whole, which
+> require explication and defense. The first is that I assign a very significant
+> role to technology. The second is that I offer an explanation centered on
+> social relations, but operating in the domain of economics, rather than
+> sociology. The third and fourth are more internal to liberal political theory.
+> The third is that I am offering a liberal political theory, but taking a path
+> that has usually been resisted in that literature—considering economic
+> structure and the limits of the market and its supporting institutions from
+> the perspective of freedom, rather than accepting the market as it is, and
+> defending or criticizing adjustments through the lens of distributive justice.
+> Fourth, my approach heavily emphasizes individual action in nonmarket
+> relations. Much of the discussion revolves around the choice between markets
+> and nonmarket social behavior. In much of it, the state plays no role, or is
+> perceived as playing a primarily negative role, in a way that is alien to the
+> progressive branches of liberal political thought. In this, it seems more of a
+> libertarian or an anarchistic thesis than a liberal one. I do not completely
+> discount the state, as I will explain. But I do suggest that what is special
+> about our moment is the rising efficacy of individuals and loose, nonmarket
+> affiliations as agents of political economy. Just like the market, the state
+> will have to adjust to this new emerging modality of human action. Liberal
+> political theory must first recognize and understand it before it can begin to
+> renegotiate its agenda for the liberal state, progressive or otherwise.
+
+See also Heller, "The Liberal Commons" and Deirdre McCloskey
+
+Contrast George Monbiot's 1995 article, originally in _The Guardian_, ["A Land
+Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
+
 
 ## Outline of Topics & Sources
 - Agricultural commons

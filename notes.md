@@ -361,6 +361,21 @@ Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
             > as the aids, in delivering nature's offspring:
             > use-values.<sup>[[source]](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom#:~:text=That%20Marx%20and,offspring%3A%20use%2Dvalues)</sup>
 
+    - David Graeber & David Wengrow, _The Dawn of Everything_
+      - General thesis that societal structures of governance and organization
+        are not deterministic and have changed fluidly over human history
+        according to the culture and collective decisions of each society within
+        its own millieu.
+      - Property
+        - Roman law and property absolutism
+        - Locke's labor theory of property
+        - property as sacred right (car analogy)
+        - North American "Protestant Foragers"
+      - References to original research on indigenous forms of communal land
+        tenure.
+        - Marcel Mauss, potlach and gift economies
+        - Christopher Boehm, actuarial intelligence
+      - Three Elementary Forms of Domination
   - Social Choice Theory
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and Stiglitz on information asymmetries (see further below), as well as Sen.
     - Amartya Sen & Martha Nussbaum's work on [capability approach](https://en.wikipedia.org/wiki/Capability_approach) to 

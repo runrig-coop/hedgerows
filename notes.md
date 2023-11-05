@@ -548,6 +548,9 @@ Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
     - [CoopCycle License](https://github.com/coopcycle/coopcycle-web/blob/v0.5.0/LICENSE) (CoopyLeft)
     - Anti-996 License (for fair labor practices in China)
     - ["no military use"](https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl/) clause
+  - Enspiral
+    - Loomio handbook
+    - Alanna Irving's interview w/ David Bollier
 - New Developments & Old Syntheses
   - Jose Luis Vivero Pol
     - ["Why Food Should be a Commons Not a Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)

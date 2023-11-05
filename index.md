@@ -100,11 +100,14 @@ which I'd been mulling over earlier in the day.
 > Who steals the common from off the goose.  
 
 I'd first heard these anonymous lines in an interview with historian Peter
-Linebaugh, commemorating the 800th anniversary of the signing of _Magna Carta_
-and its lesser known companion, the _Charter of the Forest_, which enshrined the
-peasantry's rights to forage and graze their animals on common lands. I remember
-it clearly because it was also the first time I'd heard the longer history of
-the English commons and its eventual enclosure.
+Linebaugh, commemorating the 800th anniversary of _Magna Carta_. He was
+discussing its lesser known companion, the _Charter of the Forest_, which
+enshrined the peasantry's rights to forage and graze their animals on common
+lands. It was the first time I'd heard the longer history of the English commons
+and its eventual enclosure. More recently I was reminded of the poem when
+Linebaugh recited it once again in a 2021 podcast interview. The podcast was
+_Frontiers in Commoning_, hosted by David Bollier, a fact I would soon come to
+realize was no coincidence.
 
 Genna's comments fused the final conceptual linkage between enclosure, as a
 plain matter of historical record, and the more erudite legal and socioeconomic
@@ -123,7 +126,7 @@ The pronouncements of the law are critical to the enforcement of many rights,
 but absolute property rights are seldom achieved by fiat alone. Some mechanism
 for enclosing the asset almost always seems to accompany legal protections, or
 even precede them. This holds true whether the "thing of nature" is a strip of
-land closed off by a fence or hedgerow, or intellectual property like
+land closed off by a fence or hedgerow, or intellectual property (IP) like
 software or digital media.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
@@ -133,9 +136,9 @@ software or digital media.
     [_jus in fructu_](https://www.lsd.law/define/in-fructu), "right to the fruit [of a thing]";
     [_jus abutendi_](https://www.lsd.law/define/jus-abutendi), "right to use up" as in "to expend"
 
-The most effective means of enclosing intellectual property, or IP, has been to
-consolidate it in vast data centers and relegate it to the server farms of tech
-monopolies. Access can then be sold off in the form of subscriptions or
+The most effective means of enclosing intellectual property, I would argue, has
+been to consolidate it in vast data centers and relegate it to the server farms
+of tech monopolies. Access can then be sold off in the form of subscriptions or
 advertising fees. That way, the IP owner retains maximum control, with the
 ability to revoke access or modify the terms of service at any time. This
 practice goes by many names. The industry jargon is Software-as-a-Service, or
@@ -160,4 +163,5 @@ warning and a call-to-arms in their final stanza:
 > And geese will still a common lack  
 > Till they go and steal it back.  
 
-If we too follow their example, how might we begin levelling today's hedgerows?
+If we were to follow their example, too, how would we begin levelling today's
+hedgerows?

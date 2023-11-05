@@ -1,0 +1,31 @@
+# Outline of the Main Narrative
+- Intro
+  - Main thesis
+- My FOSS narrative: now -> early 2000's
+  - Stealing the commons from off the goose
+  - GOAT 2018 - 20122
+  - Rediscovering the commons, understanding enclosure
+    - Lessig & Benkler
+    - Boyle & Bollier
+    - Linebaugh & Federici
+  - Finding FOSS
+    - Linux, Clay Shirky
+    - Occupy & SOPA/PIPA
+- My Ag narrative: early 2000's -> now
+  - Zucotti Park
+  - Smart phones & social media
+  - Locavores, slow food and organics
+    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra Kingsolver
+    - Marion Nestle, Nevin Cohen
+    - John Gorzynski, Zaid & Haifah Kurdieh
+    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_, _King Corn_
+  - Chef culture & foodies
+    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
+    - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
+- Deeper history of the commons
+  - Medieval commons and their holdovers
+  - Enclosure, Gerard Winstanley & the Diggers
+  - Garrett Hardin and Elinor Ostrom
+  - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
+  - Technology, culture and information
+- Reuniting agricultural and informational commons

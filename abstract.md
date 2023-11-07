@@ -5,14 +5,10 @@ tags:
   - GOAT
 ---
 
-# Title
-Hedgerows in the Sky: Reclaiming the commons from cloud computing and commodified agriculture.
-
-Hedgerows in the Sky, or Bringing the Knowledge Commons Back Down to Earth
-
-Hedgerows in the Sky: A Tale of Two Commons
-
 # Abstract
+- __Title:__ Hedgerows in the Sky
+- __Subtitle:__ Concerning knowledge enclosures and how they may be truly leveled
+
 ## Final Draft
 Today in 2023, the food sovereignty and tech sovereignty movements are united in the call for more cooperative production methods and a commitment to common-pool resources. There is an increasing degree of interchange and direct collaboration between their communities, and clear parallels can be drawn between their respective practices. One can compare collectivized farm management to cooperative data trusts; free fridges and other mutual aid food programs to the communal administration of decentralized social media networks; sliding scale food coops or CSA solidarity shares to software projects sponsored through Liberapay, OpenCollective, donate buttons or some combination of crowdfunding mechanisms.
 

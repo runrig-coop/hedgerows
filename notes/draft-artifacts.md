@@ -244,3 +244,53 @@ See also Heller, "The Liberal Commons" and Deirdre McCloskey
 Contrast George Monbiot's 1995 article, originally in _The Guardian_, ["A Land
 Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
 
+James Muldoon on "data commodity fetishism" in _Platform Socialism_ (p. 18):
+
+> Data has an allusive quality in the digital economy, sometimes appearing to be
+> a raw material, at other points a commodity, or even a new form of capital.26
+> Some commentators have understood data in this sense as ‘the new oil’ of the
+> digital economy.[^27] On the surface, it appears to be a valuable asset akin
+> to a natural resource. But unlike oil – and other raw materials – data is
+> always data _of_ something. Far from a multi-purpose good that can be plugged
+> into a range of machines, data is information about specific phenomena. Data
+> collected by Amazon on the processes of its warehouse operations will not
+> necessarily be valuable to another company. Nor is there a single way to
+> convert data into a profitable commodity. The science needed to leverage data
+> into a profitable good is complicated and messy. The pay-offs on particular
+> bundles of data depend on a range of contextual factors and do not follow the
+> simple pattern of oil extraction and refinement.[^28] Finally, oil’s value
+> comes from the fact that it is a finite resource that is difficult to extract,
+> while data will exist so long as there is human activity to be recorded and
+> analysed.
+> 
+> Others have made similar points to this before,[^29] but there is another
+> negative consequence of this view of data which has received less attention.
+> This danger is what I call _data commodity fetishism_: the perception of
+> certain digital relationships between people (especially for communication and
+> exchange) as having their value based not on the social relationships
+> themselves but on the data they produce.[^30] When we understand data as a
+> natural resource we mystify the true source of its value in the human activity
+> required to produce it. Inside the data centres lies the reified activity of
+> human beings. A whole range of interactions from everyday life is captured as
+> profitable material: food deliveries, ride-shares, online orders of household
+> goods, messages with friends and relatives, job applications, overseas travel
+> and online learning. Many internet users now spend more than four hours online
+> every day.[^31] The more our lives are spent online, the more they can be
+> appropriated through data relations.
+> 
+> [^27]: The Economist, ‘The World’s Most Valuable Resource Is No Longer Oil,
+>     But Data’, 6 May 2017.
+>     www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data;
+>     Kiran Bhageshpur, ‘Data Is the New Oil – And That’s a Good Thing’, Forbes,
+>     15 November 2019.
+>     www.forbes.com/sites/forbestechcouncil/2019/11/15/data-is-the-new-oil-and-thats-a-good-thing/.
+> [^28]: Lisa Gitelman, ed., ‘Raw Data’ Is an Oxymoron (Cambridge, MA: MIT
+>     Press, 2013).
+> [^29]: Antonio Garcia Martinez, ‘No, Data Is Not the New Oil’, Wired, 26
+>     February 2019. www.wired.com/story/no-data-is-not-the-new-oil/.
+> [^30]: Karl Marx coined the term ‘commodity fetishism’ to refer to how we
+>     obscure the social relations through which goods and services are produced
+>     as if commodities themselves had a completely independent existence. See
+>     Karl Marx, Capital, Vol. 1 (London: Penguin Books, 1990), ch. 1.
+> [^31]: Ofcom, ‘UK’s Internet Use Surges to Record Levels’, 20 June 2020.
+>     www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2020/uk-internet-use-surges. 

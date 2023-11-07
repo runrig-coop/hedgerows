@@ -336,6 +336,13 @@
     - [IT for Change](https://itforchange.net/) essay series: [_State of Big Tech 2022: Dismantling Digital Enclosures_](https://projects.itforchange.net/state-of-big-tech/)
       -  Felix Maschewski and Anna-Verena Nosthoff, ["Big Tech and the Smartification of Agriculture"](https://projects.itforchange.net/state-of-big-tech/big-tech-and-the-smartification-of-agriculture-a-critical-perspective/)
       -  Sofía Monsalve Suárez and Philip Seufert, ["The Big Tech Takeover of Food Systems in Latin America: Elements for a Human Rights-based Alternative"](https://projects.itforchange.net/state-of-big-tech/agritech-and-food-systems-in-latin-america-corporate-takeover-and-elements-for-a-human-rights-based-alternative/)
+   -  Platform Coops
+      -  Trevor Scholz & Nathan Schneider (eds.), [_Ours to Hack and
+         Own_](https://www.orbooks.com/catalog/ours-to-hack-and-to-own/)
+      -  [Platform Cooperativism Consotium](https://platform.coop/)
+      -  James Muldoon, [_Platform Socialism: How to Reclaim our Digital Future
+         from Big
+         Tech_](https://www.plutobooks.com/9780745346953/platform-socialism/)
    -  [_Pluriverse: A Post-Development Dictionary_](https://degrowth.org/2018/04/14/new-book-pluriverse-a-post-development-dictionary/)
   - International Peasants' Movement
     - [La Via Campesina](https://viacampesina.org/)

@@ -165,3 +165,88 @@ warning and a call-to-arms in their final stanza:
 
 If we were to follow their example, too, how would we begin levelling today's
 hedgerows?
+
+## Free Culture
+It's surprising I'd remained ignorant to the clear parallels between modern
+software commons and premodern agricultural commons, but as I learned and shared
+more of the history with my colleagues at GOAT, it became clear I was not alone.
+This was doubly true with the concept of enclosure. What was especially
+embarrassing to me was how many of us had carved out niche careers straddling
+both open technology and small-scale agriculture, spanning decades in some
+cases, yet few of us had more than a cursory knowledge of it.
+
+The metaphor of "the commons" has become so pervasive in technology today. The
+first time I recall encountering it was from the Free Culture Movement of the
+early and mid-2000's. Its most notable manifestation came in the form of
+Creative Commons, but the commons had also become a familiar means of
+characterizing crowd-sourced projects like Wikipedia, Flickr and the World Wide
+Web itself. The Free Culture Movement first gained momentum in the wake of the
+US Copyright Term Extension Act (aka, Sonny Bono Act) and Digital Millennium
+Copyright Act (DMCA), both enacted in 1998. These drew immediate outcry from a
+clique of law professors at Duke and Harvard Universities, who specialized in
+intellectual property. The outcry became more public and vociferous when the
+DMCA was used first to pull the plug on Napster in 2001, followed by its
+successors in a decade-long game of whack-a-mole with the RIAA and MPAA. This
+was the heyday of the Free Culture Movement. Its unofficial motto, "Information
+wants to be free," resonated with anyone who got a cease-and-desist letter from
+their ISP (myself included) or saw the futility of police raids on sites like
+The Pirate Bay, when they'd just be back up and running within a day or two.
+
+Among the Free Culture Movement's coterie of legal scholars, Lawrence Lessig and
+Yochai Benkler were arguably its most visible champions, both hailing from
+Harvard's Berkman Klein Center for Internet & Society. In the first few years
+this was largely on account of the numerous amicus briefs they filed in support
+of defendants in copyright infringement cases. Later on, their published books
+and several widely viewed TED Talks extended their reach to a larger audience.
+For a few short years, concepts like "remix culture" and "network neutrality"
+enjoyed a glimmer of popular recognition. In the first decade of the new
+millennium, their work certainly raised public awareness of "the commons" and
+why it was important. This was particularly true among the more technologically
+savvy, but not exclusively. However, I don't believe the same was true for
+enclosure. Speaking for myself, I remained oblivious to the term until I learned
+it from Linebaugh in 2015. That was a decade after Lessig helped to found
+Creative Commons and Benkler had popularized the notion of "commons-based peer
+production." For his part, Benkler put both the commons enclosure front and
+center in his earliest essays on the topic, such as "The Commons As A Neglected
+Factor of Information Policy" from 1998 and "Free as the Air to Common Use:
+First Amendment Constraints on Enclosure of the Public Domain" from 1999. I
+haven't found anything more than passing references to enclosure in Lessig's
+works. Regardless, it didn't seem to permeate the public awareness the way the
+commons had.
+
+I find the downplay of enclosure significant because it frames the argument for
+the commons primarily in the terms of law and policy. With something so
+seemingly abstract as the knowledge commons, its physical aspects were
+diminished or left unconsidered. How information moved or what restricted it in
+practice was left as a matter of nature or mere accident, something to be worked
+around in policy. This seemed to be the case even in the enforcement and
+extension of IP law, as the Swedish police who raided The Pirate Bay learned
+soon after. Reading their work more closely now, I don't believe this was the
+point either Benkler or Lessig was trying to make, but I found that sentiment to
+be rather pervasive through at least the mid 2010's.
+
+There were two other figures, however, who I don't personally recall from those
+early days of the Free Culture Movement, but who turned out to be equally
+consequential, even if they did not receive their fair share of the limelight.
+First was the aforementioned David Bollier, not a lawyer but an activist and
+blogger who would co-found the advocacy group Public Knowledge in 2001. While he
+was very active in the early days of advocacy for internet freedoms and
+commoning, he clearly had a much broader outlook of the commons and enclosure.
+He continues to investigate and write about them to this day, though not
+limiting himself to knowledge commons alone. So it is no wonder he was the
+conduit that reintroduced me to Peter Linebaugh's work.
+
+Second was James Boyle, one of the Duke Law professors who specialized in IP
+jurisprudence along with David Lange and Jerome Reichman. I don't believe I'd
+encountered his work until after GOAT 2022, when I went looking for a deeper
+understanding of how the language of the commons came to be embraced by free
+culture and open source advocates of the last two decades, while enclosure was
+largely ignored. As early as 1996, Boyle penned a pivotal work in the study of
+information commons, _Shamans, Software, and Spleens_. But after GOAT 2022,, one
+title jumped out: "The Second Enclosure Movement and the Construction of the
+Public Domain". It was not for the title alone, as much as the paper began with
+the epigram:
+
+> The law locks up the man or woman [...]
+
+Now all the pieces were falling into place.

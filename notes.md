@@ -465,8 +465,9 @@ Reform Manifesto"](https://www.monbiot.com/1995/02/22/a-land-reform-manifesto/)
         Property"](https://law.duke.edu/boylesite/cruel.pdf) (2000)
       - ["The Second Enclosure Movement and the Construction of the Public
         Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/) (2003)
-      - [_Shamans, Software &
+      - [_Shamans, Software, and
         Spleens_](https://archive.org/details/shamanssoftwares00boyl/page/n9/mode/2up)
+        (1996)
       - [_Public Domain: Enclosing the Commons of the
         Mind_](https://www.thepublicdomain.org/download/), "Why Intellectual
         Property?"

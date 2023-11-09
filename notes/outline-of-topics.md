@@ -288,8 +288,13 @@
     - [_Frontiers of Commoning_ interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
   - Fred Turner, Stewart Brand, etc
     - New Left vs New Communalism
-    - "Information wants to be free." ~ attributed to Stewart Brand (via
-      [Boyle](https://law.duke.edu/boylesite/tlscopy.htm))
+    - "Information wants to be free." ~ attributed to Stewart Brand, [_The Media
+      Lab_](https://monoskop.org/images/4/47/Brand_Stewart_The_Media_Lab.pdf)
+      (1986), also cited by [Boyle](https://law.duke.edu/boylesite/tlscopy.htm)
+      - see also R. Polk Wagner, ["Information Wants to Be Free: Intellectual
+        Property and the Mythologies of
+        Control"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=419560)
+        (2003)
     - virtualization of communities
     - cybernetics
     - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)

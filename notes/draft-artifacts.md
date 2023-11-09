@@ -294,3 +294,61 @@ James Muldoon on "data commodity fetishism" in _Platform Socialism_ (p. 18):
 >     Karl Marx, Capital, Vol. 1 (London: Penguin Books, 1990), ch. 1.
 > [^31]: Ofcom, ‘UK’s Internet Use Surges to Record Levels’, 20 June 2020.
 >     www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2020/uk-internet-use-surges. 
+
+## Coding assets as property
+Katherina Pistor on property 'absolutism' and rights held _erga omnes_ or
+"against the world" (p. 15):
+
+> The third attribute is universality, which not only ensures that priority and
+> durability will affect the parties who agreed to be bound by them, but that
+> these attributes will be upheld against anybody, or _erga omnes_ in Latin
+> legalese. Universality sheds a crucial light on the nature of capital and its
+> relation to state power. A simple agreement between two parties can exert
+> influence only between the two contracting parties, but it cannot bind others.
+> It takes a powerful third party to extend priority and durability rights
+> against the world such that others will yield.
+
+How capital is coded into law:
+
+> Capital is coded in law, and, more specifically, in institutions of private
+> law, including property, collateral, trust, corporate, bankruptcy law, and
+> contract law. These are the legal modules that bestow critical legal
+> attributes on the select assets that give them a comparative advantage over
+> others in creating new and protecting old wealth. Once properly coded, capital
+> assets enjoy priority and durability, are convertible into cash, or legal
+> tender, and, critically, these attributes will be enforced against the world,
+> thereby attaining universality. This works because states back and, if
+> necessary, coercively enforce the legal code of capital, whether or not they
+> had a direct hand in choosing the coding strategy for the asset in question.
+> Recognizing that capital is made, and not simply the product of superior
+> skills, shifts attention to the processes by which different as- sets are
+> slated for legal coding and to the states that endorse relevant legal modules
+> and offer their coercive powers to enforce them. As I will show, this process
+> is both decentralized and, in only seeming contradiction, increasingly global.
+> Private attorneys perform most of the work on behalf of their clients, and
+> states, for their part, offer their own legal systems as a menu from which
+> private parties get to pick and choose. As a result, many polities have lost
+> the ability to control the creation and distribution of wealth.
+
+Katherina Pistor on the changes from Romano-Briton Law to Norman Law to English
+Common Law (p. 30):
+
+> Early English treaties compiled prior to the Norman conquest followed the
+> Roman legal tradition, which treated land just like other objects of property
+> rights.[^24] In Roman law a property right was considered an absolute right
+> that included the right to use, possess, and alienate an asset. However,
+> following the Norman conquest, legal practice in England increasingly ignored
+> these treaties. For two centuries, from 1290 to 1490, the terms “property” and
+> “ownership” dropped out of the vocabulary in court cases concerning land, even
+> as these terms continued to be used for “chattel,” that is, goods and animals.
+> Rights to land were neither unified nor absolute; there were only “greater” or
+> “higher” rights, and only the king could claim an absolute right to the land.
+> Yet, already by the end of the 1600s, a remarkable change had taken place. “A
+> grand rule was emerging: whoever had the ‘general’ or ‘absolute’ property in a
+> thing could assert the interest against everyone in the world, and whoever had
+> the ‘special’ property (like a specific use right or collateral), could assert
+> it against everyone but the ‘general’ or ‘absolute’ owner.”[^25]
+> 
+> [^24]: David J. Seipp, “The Concept of Property in Early Common Law,” Law and
+> History Review 12, no. 1 (1994):29–60, p. 36.
+> [^25]: Ibid., p. 84 (emphasis added).

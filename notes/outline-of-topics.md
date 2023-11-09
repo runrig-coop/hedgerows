@@ -5,6 +5,24 @@
     Emptores](https://en.wikipedia.org/wiki/Quia_Emptores))
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
+- Appropriation of agricultural knowledge, expertise and technology
+  - Judith Carney
+    - _Black Rice_
+    - "Landscapes of Technology Transfer: Rice Cultivation and African
+      Continuities" (1996) in _Technology and Culture_, reprinted in _Technology
+      and the African-American experience_, Bruce Sinclair, ed. (2004)
+  - Leah Penniman on carrying seeds across the Middle Passage, _Farming While
+    Black_, Chapter 8 "Seed Keeping"; also "US Black Farmer Patents" (p. 145)
+  - David Bollier on the enclosure of organics by USDA and corporations, _Silent
+    Theft_ (p. 50)
+  - Graeber/Wengrow on "the science of the concrete" of Neolithic women and
+    flood-retreat farming that resisted agriculture (_TDOE_, Chapter 6, "Gardens
+    of Adonis")
+  - Angela Lakwete, _Inventing the Cotton Gin_ (2003)
+  - Jenny Bulstrode, ["Black metallurgists and the making of the industrial
+    revolution"](https://doi.org/10.1080/07341512.2023.2220991)
+    - ["Industrial Revolution iron method ‘was taken from Jamaica by
+    Briton’"](https://www.theguardian.com/science/2023/jul/05/industrial-revolution-iron-method-taken-from-jamaica-briton)
 - The Commons in Sociology & Economics
   - Henry George
     - _Progress and Poverty_ (1879)

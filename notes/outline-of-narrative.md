@@ -29,3 +29,4 @@
   - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
   - Technology, culture and information
 - Reuniting agricultural and informational commons
+  - Agricultural knowledge & technology

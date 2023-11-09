@@ -361,11 +361,22 @@
     - [Community Food Resilience](https://forum.goatech.org/t/informatics-for-community-food-resilience-in-times-of-pandemic-and-beyond/833)
     - Skywoman
     - Open Environmental Data Project's symposia
-    - ETC Group's reports on digitization
+    - ETC Group's research and advocacy
     - CSIPM's webinar: "The impacts of digitalization on food systems and family farming"
     - [P2P Foundation](https://p2pfoundation.net/)
     - Permacomputing
     - Computing Within Limits
+    - Maya Cohen, ["How can agricultural data be used for food
+      sovereignty?"](https://flint-cornucopia-f94.notion.site/How-can-agricultural-data-be-used-for-food-sovereignty-da114f540629434f868c3a250f710579#60243f83942043a9bfffe457cf405c69)
+    - CSIPM [reports](https://www.etcgroup.org/reports) and [Data Working
+      Group](https://www.csm4cfs.org/policy-working-groups/data/)
+    - [Ag Data Oath of Care](https://openteamag.gitlab.io/codesign/oath-of-care/)
+    - CARE Principles & appropriate technologies
+    - [L'Atelier Paysan](https://latelierpaysan.org/)
+    - [Data Trusts &
+      Cooperatives](https://www.adalovelaceinstitute.org/report/legal-mechanisms-data-stewardship/),
+      like [Farmers Regen Mutual (AU)](https://regenfarmersmutual.com/) and
+      [JoinData (NL)](https://join-data.nl/)
     - [IT for Change](https://itforchange.net/) essay series: [_State of Big Tech 2022: Dismantling Digital Enclosures_](https://projects.itforchange.net/state-of-big-tech/)
       -  Felix Maschewski and Anna-Verena Nosthoff, ["Big Tech and the Smartification of Agriculture"](https://projects.itforchange.net/state-of-big-tech/big-tech-and-the-smartification-of-agriculture-a-critical-perspective/)
       -  Sofía Monsalve Suárez and Philip Seufert, ["The Big Tech Takeover of Food Systems in Latin America: Elements for a Human Rights-based Alternative"](https://projects.itforchange.net/state-of-big-tech/agritech-and-food-systems-in-latin-america-corporate-takeover-and-elements-for-a-human-rights-based-alternative/)

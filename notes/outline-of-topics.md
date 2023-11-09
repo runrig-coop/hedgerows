@@ -101,6 +101,16 @@
   - Social Choice Theory
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and Stiglitz on information asymmetries (see further below), as well as Sen.
     - Amartya Sen & Martha Nussbaum's work on [capability approach](https://en.wikipedia.org/wiki/Capability_approach) to 
+    - Margaret Jane Radin
+      - _Contested Commodities_
+      - ["Market-Inalienability"](https://people.brandeis.edu/~teuber/Radin-Market-Inalienability.pdf)
+      - ["Property and Personhood"](https://cyber.harvard.edu/IPCoop/82radi.html)
+      - ["Information Tangibility"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=357060)
+      - ["The Myth of Private Ordering: Rediscovering Legal Realism in
+        Cyberspace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=162488)
+        (1999, with R. Polk Wagner)
+      - ["Time, Possession, and Alienation"](https://openscholarship.wustl.edu/law_lawreview/vol64/iss3/5/)
+      - ["Compensation and Commensurability"](https://scholarship.law.duke.edu/dlj/vol43/iss1/2/)
   - [Informational asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/); the summary from the 2001 Nobel Prize in Economics is cited below.
     - > [George] Akerlof showed that informational asymmetries can give rise to [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection) on markets. Due to imperfect information on the part of lenders or prospective car buyers, borrowers with weak repayment prospects or sellers of low-quality cars crowd out everyone else from the market.
     - > [Michael] Spence demonstrated that under certain conditions, well-informed agents can improve their market outcome by [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics)) their private information to poorly informed agents.

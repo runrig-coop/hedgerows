@@ -65,7 +65,7 @@ Boyle's essay, as published by Duke Law in 2003, provides the most thorough comm
 
 > Apart from being anonymous, the poem is extremely hard to date. It probably comes from the enclosure controversies of the eighteenth century. However, the earliest reference to it that I have been able to discover is from 1821. Edward Birch was moved to compose some (fairly poor) verses in response when he reported “seeing the following jeu d’esprit in a Handbill posted up in Plaistow, as a ‘CAUTION’ to prevent persons from supporting the intended inclosure of Hainault or Waltham Forest.” He then quotes a version of the poem. Edward Birch, TICKLER MAG., Feb. 1821, at 45. In 1860, a staff writer for the journal Notes and Queries declares that “the animosity excited against the Inclosure Acts and their authors . . . was almost without precedent: though fifty years and more have passed, the subject is still a sore one in many parishes. . . . I remember some years ago, in hunting over an old library discovering a box full of printed squibs, satires and ballads of the time against the acts and those who were supposed to favour them,—the library having belonged to a gentleman who played an active part on the opposition side.” The author then quotes the first verse as a “naive epigram . . . which forcibly impressed itself on my memory.” “Exon” Ballads Against Inclosures, 9 NOTES AND QUERIES, at 130-131 (2nd ser., Feb. 1860). The context makes it appear that the poem itself must date from the late 18th century. In other sources, the poem is sometimes dated at 1764 and said to be in response to Sir Charles Pratt’s fencing of common land. See, e.g., Dana A. Freiburger, John Thompson, English Philomath—A Question of Land Surveying and Astronomy, poster paper submitted to the History of Astronomy Workshop University of Notre Dame, (July 1-4, 1999), note 15, available at http://www.nd.edu/~histast4/exhibits/papers/Freiburger/index.html (last visited Dec. 19, 2002). This attribution is widespread and may well be true, but I have been able to discover no contemporary source material that sustains it. By the end of the nineteenth century, the poem was being quoted, sometimes with amusement and sometimes with agreement, on both sides of the Atlantic. See Ezra S. Carr, Aids and Obstacles to Agriculture on the Pacific-Coast, in THE PATRONS OF HUSBANDRY ON THE PACIFIC COAST 290, 291 (San Francisco, A.L. Bancroft and Co. 1875); EDWARD P. CHEYNEY, AN INTRODUCTION TO THE INDUSTRIAL AND SOCIAL HISTORY OF ENGLAND 219 (1901).
 
-The paper from self-ascribed "independent scholar" Dana A. Frieburger, ["John Thompson, English Philomath — A Question of Land Surveying and Astronomy"](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html), is available on the Internet Archive. Contemporaneously with Boyle, or even preceding him by a narrow margin, David Bollier uses the poem as an epigraph to his 2002 book, [_Silent Theft: the Private Plunder of our Common Wealth_](https://archive.org/details/silenttheftpriva00boll/page/n13/mode/2up). Bollier also uses a different portion of the poem (not included in his or Boyle's epigraph) to an article for the _Boston Review_, ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/), published June 1, 2002. It's unclear if this usage predates Boyle's usage, as Boyle's first footnote points to an earlier iteration of his paper, titled ["Fencing off ideas: enclosure and the disappearance of the public domain"](https://law.duke.edu/boylesite/daedalus.pdf), published in the Spring 2002 edition of _Daedalus_.
+The paper from self-ascribed "independent scholar" Dana A. Frieburger, ["John Thompson, English Philomath — A Question of Land Surveying and Astronomy"](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html), is available on the Internet Archive. Contemporaneously with Boyle, or even preceding him by a narrow margin, David Bollier uses a slightly different version of the poem as an epigraph to his 2002 book, [_Silent Theft: the Private Plunder of our Common Wealth_](https://archive.org/details/silenttheftpriva00boll/page/n13/mode/2up) and a portion of the same for an article in the _Boston Review_, ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/), published June 1, 2002. It's unclear if this usage predates Boyle's usage, as Boyle's first footnote points to an earlier iteration of his paper, titled ["Fencing off ideas: enclosure and the disappearance of the public domain"](https://law.duke.edu/boylesite/daedalus.pdf), published in the Spring 2002 edition of _Daedalus_.
 
 Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, cites relevant scholarship on the commons from the 20th Century Marxist and tradition and critical theory, but I have not found specific reference to that poem in any of these works that I've so far been able to access:
 
@@ -352,3 +352,112 @@ Common Law (p. 30):
 > [^24]: David J. Seipp, “The Concept of Property in Early Common Law,” Law and
 > History Review 12, no. 1 (1994):29–60, p. 36.
 > [^25]: Ibid., p. 84 (emphasis added).
+
+Ultimately, enclosure created not just a pasture for their sheep, but a market
+for their pasture (p. 32):
+
+> The successful enclosure of the land created the conditions for an emerging
+> land market—a radical change in societies that had revolved around stable
+> relations to land, which provided sustenance and also served as the foundation
+> of political and economic power. Land sales rose steadily since the late 1500s
+> and by 1610 were 250 percent higher than 50 years earlier.
+
+
+## Public Goods & Market Enclosure
+David Bollier on the difference between "open-access" and the commons (_Silent
+Theft_, p. 20)[^silent-theft]:
+
+[^silent-theft]: Some of this material can also be found in his 2002 article for
+the _Boston Review_, ["Reclaiming the
+Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/)
+and a podcast episode, ["Week 5: The Dynamics of Modern Enclosure / Governing
+the
+Commons"](https://www.bollier.org/week-5-dynamics-modern-enclosure-governing-commons),
+which isn't timestamped but seems to predate _Frontiers of Commoning_.
+
+> This pessimism persists, in part, because the commons is frequently confused
+> with an _open-access_ regime, in which a resource is essentially open to
+> everyone without restriction. In an open-access regime, there is no
+> identifiable authority. No one has recognized property rights, and the output
+> of the commons is intended for sale on external markets, not for personal use
+> by members of the commons. For all these reasons, no one worries about
+> long-term sustainability. Without the "social infrastructure" that defines a
+> commons—the cultural institutions, norms, and traditions—the only real social
+> value in open-access regimes is private profit for the most aggressive
+> appropriators.[^19] Hardin's essay might more appropriately have been titled,
+> "the tragedy of open access."
+> 
+> Many commons are regarded by economists as "public goods." These are resources
+> from which it is difficult or costly to exclude people ("nonrival" and
+> "nonexcludable" resources, as economists put it). A public good is typically
+> an open-access regime, such as a lighthouse, city park, or the global
+> atmosphere—resources whose benefits are accessible to everyone without any
+> given individual having to pay for them. This is why government often steps in
+> to pay for public goods, provided there is sufficient political pressure from
+> influential constituencies. While a public goods analysis is certainly useful,
+> it may not necessarily grapple with social management methods for governing
+> the commons.[^20]
+>
+> [^19]: _The Ecologist_, _Whose Common Future? Reclaiming the Commons
+>     (Philadelphia: New Society Publishers, 1993) p. 13
+> [^20]: Glenn Stevenson sketches the distinctions between public goods and
+>     common property in _Common Property Economics_ (New York: Cambridge
+>     University Press, 1991), pp. 54-56.
+
+
+The importance of discussing enclosure (p. 49):
+
+> It is important to speak of market enclosure because it reframes the economic
+> narrative of the market. What the market considers incidental externalities
+> (toxic waste, species extinction, safety hazards), the narrative of the
+> commons regards as an assault on the community. Marketeers presume an
+> entitlement to privatize clean air and water, public spaces, and even shared
+> images and words. Cultural traditions that belong to the commons are drained
+> of meaning.
+
+Enclosure of the organic foods movement by the industrial agriculture and the
+USDA (pp. 50-51):
+
+> Enclosure is not just a shift in ownership and control. It is a conversion in
+> the _management_ and _character_ of the resource. An excellent case study is
+> the enclosure of organic agriculture by the "organic-industrial complex." As
+> described by journalist Michael Pollan, organic farmers have traditionally
+> grown "natural foods" as part of a larger commitment to pesticide-free
+> nutrition, a more local, energy-efficient food-distribution chain, humane
+> animal husbandry, and preservation of family farms and the local landscape.
+> Historically, the values inherent in organic food production, distribution,
+> consumption, and lifestyle were ... _organic_, so to speak. Over the past
+> generation these values have been embodied in a diverse network of farms,
+> cooperatives, and community based organizations dedicated to healthy,
+> chemical-free foods.[^17]
+> 
+> As the popularity of organic food grew, especially after the Alar pesticide
+> scare in 1990, large food corporations saw the great profits to be had from
+> enclosing this commons. By acquiring and consolidating small farms serving
+> local customers, and integrating them into national markets bolstered by
+> "branding" and advertising, food conglomerates have begun to remake the
+> character and meaning of "organic food."
+> 
+> Pollan writes:
+> 
+> > In the eyes of General Mills, an organically grown fruit or vegetable is not
+> > part of a revolution, but part of a marketing niche, and health is a matter
+> > of consumer perception. You did not have to buy into the organic "belief
+> > system" to sell it. ... The broccoli is trucked to Alberta, Canada, there to
+> > meet up with pieces of organic chicken that have already made a stop at a
+> > processing plant in Salem, Oregon, where they were defrosted, injected with
+> > marinade, cubed, cooked, and refrozen.
+> 
+> For the food company executive, lunch is "just lunch"—a commodity that you
+> buy. his commitment to organic food is not personal or moral, but legalistic:
+> it extends no further than the USDA's organic standards. But to Pollan,
+> organic food is tightly related to a stable local community, ecological
+> sustainability, and a personal connection to the food production system.
+> "Farms produce more than food," he writes. "They also produce a kind of
+> landscape, and if I buy my organic milk from halfway across the country, the
+> farms I like to drive by every day will eventually grow nothing but raised
+> ranch houses." Through enclosure, certain inalienable personal values are
+> overrun by the impersonal, amoral norms of the market system.
+>
+> [^17]: Michael Pollan, "The Organic-Industrial Complex," _New York Times
+>     Magazine_, May 13, 2001.

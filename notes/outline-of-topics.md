@@ -134,7 +134,9 @@
     - > [Michael] Spence demonstrated that under certain conditions, well-informed agents can improve their market outcome by [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics)) their private information to poorly informed agents.
     - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture the information of a better-informed agent through [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for example by providing choices from a menu of contracts for a particular transaction. Insurance companies are thus able to divide their clients into risk classes by offering different policies, where lower premiums can be exchanged for a higher deductible.
   - David Bollier
-    - [_Silent Theft: The Private Plunder of Our Common Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth) (2002)
+    - [_Silent Theft: The Private Plunder of Our Common
+      Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth)
+      (2002) ([a.o](https://archive.org/details/silenttheftpriva00boll))
     - ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/) (2002)
     - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with Silke Helfrich, 2015)
     - [_Free, Fair and Alive: The Insurgent Power of the Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich, 2019)

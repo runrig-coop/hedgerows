@@ -91,7 +91,7 @@ all humanity, but for every living thing on the planet. Her remarks struck me
 like a bolt, catalyzing an array of ideas that had been swimming around my head
 over the last three days, finally snapping them into place. As I struggled to
 articulate all of it, I asked to read aloud some antiquated English folk poetry,
-which I'd been mulling over earlier in the day.
+which I'd been mulling over earlier in the week.
 
 [^Genna]: https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/
 
@@ -106,29 +106,22 @@ discussing its lesser known companion, the _Charter of the Forest_, which
 enshrined the peasantry's rights to forage and graze their animals on common
 lands. It was the first time I'd heard the longer history of the English commons
 and its eventual enclosure. More recently I was reminded of the poem when
-Linebaugh recited it once again in a 2021 podcast interview. The podcast was
-_Frontiers in Commoning_, hosted by David Bollier, a fact I would soon come to
-realize was no coincidence.
+Linebaugh recited it once again in an interview with David Bollier, a fact I
+would soon come to realize was no coincidence.
 
-Genna's comments fused the final conceptual linkage between enclosure, as a
-plain matter of historical record, and the more erudite legal and socioeconomic
-theories I'd been reading about but struggling to grasp. I couldn't really get
-my head around the principle of usufruct and its distinction from real property
-rights (_jus in re propria_). Usufruct grants the rightsholder both the free use
-and the benefits (or "fruits") of an asset, what are termed _usus_ and _fructus_
-in civil law, respectively. Real property ownership grants all of that plus the
-right to dispose of (_abusus_) the asset however they see fit. That can entail
-consuming, selling, irreversibly altering or destroying it.[^jus] This is
-also known as the _alienation_ of property in English common law. Now when I
-viewed these concepts in light of universal access to nature, I couldn't see how
-any one person could be granted exclusive rights of alienation over anything in
-nature — at least anything of substantial size — if it was not first enclosed.
-The pronouncements of the law are critical to the enforcement of many rights,
-but absolute property rights are seldom achieved by fiat alone. Some mechanism
-for enclosing the asset almost always seems to accompany legal protections, or
-even precede them. This holds true whether the "thing of nature" is a strip of
-land closed off by a fence or hedgerow, or intellectual property (IP) like
-software or digital media.
+Genna's comments fused together the final conceptual links between enclosure —
+as a plain matter of historical record — and the more erudite legal and
+socioeconomic theories I'd been reading about but struggling to grasp. I
+couldn't really get my head around the principle of "usufruct" and its
+distinction from real property rights (_jus in re propria_). Usufruct grants the
+rightsholder both the free use and benefits or gains of an asset. These are
+termed _usus_ and _fructus_ respectively in civil law; hence, _usufruct_. Real
+property ownership grants all of that plus the right to dispose of the asset
+(_abusus_) however one sees fit. That can include consuming, selling,
+irrevocably modifying or destroying it.[^jus] What I struggled with most was how
+the entitlement to use an asset and its products differed substantially from the
+right to sell or consume it. Weren't those just other ways to use it? It seemed
+redundant.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
     [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
@@ -137,9 +130,26 @@ software or digital media.
     [_jus in fructu_](https://www.lsd.law/define/in-fructu), "right to the fruit [of a thing]";
     [_jus abutendi_](https://www.lsd.law/define/jus-abutendi), "right to use up" as in "to expend"
 
+Now when I thought about it in the light of universal access to nature, I
+remembered the other term for this third right: _alienation_. In a strictly
+legal sense, to alienate an asset carries little further significance than to
+"dispose of" it, but in a sociological context or in simple parlance, alienation
+imbues a psychological or spiritual effect. That sense seems all the more acute
+when the thing you are alienating is nature itself, even if just a part of it.
+There is reciprocity between us and nature, a two-way subjectivity that
+transcends the mere owner/asset duality. I belong to nature as much as (or more
+than) nature belongs to me, and to sever that tie would constitute a terrible
+injury. To enclose nature, therefore, means to fundamentally set it apart and
+commodify it. Enclosure relegates nature to market forces of exchange and
+fungibility, as an insensible object and no longer an equal (or greater)
+subject. In the process, anyone tied to that chunk of nature is also
+commodified, in a two-way process that alienates one from the other. This holds
+true whether the "thing of nature" is a strip of land closed off by a fence or
+hedgerow, or intellectual property (IP) like software or digital media.
+
 The most effective means of enclosing intellectual property, I would argue, has
-been to consolidate it in vast data centers and relegate it to the server farms
-of tech monopolies. Access can then be sold off in the form of subscriptions or
+been to consolidate it in the vast data centers and server farms of tech
+monopolies. Access can then be sold off in the form of subscriptions or
 advertising fees. That way, the IP owner retains maximum control, with the
 ability to revoke access or modify the terms of service at any time. This
 practice goes by many names. The industry jargon is Software-as-a-Service, or
@@ -153,8 +163,8 @@ The hedgerows that enclosed the English commons of the 17th century did not go
 unopposed, but were actively resisted over many generations. Among the earliest
 of these were the Levellers, who first earned that name during the Midland
 Revolt of 1607 by "levelling" hedgerows in protest. Though some were drawn and
-quartered for their conscience, their example inspired the True Levellers, and
-the Diggers of the English Revolution over 40 years later. The anonymous bard I
+quartered for their convictions, their example inspired the True Levellers, or
+Diggers, of the English Revolution some 40 years later. The anonymous bard I
 quoted above, whoever they were, surely knew something of this resistance, and
 perhaps they even participated in it. Therefore, it's not hard to hear both a
 warning and a call-to-arms in their final stanza:
@@ -164,7 +174,7 @@ warning and a call-to-arms in their final stanza:
 > And geese will still a common lack  
 > Till they go and steal it back.  
 
-If we were to follow their example, too, how would we begin levelling today's
+If we were to heed their call, how would we begin levelling today's
 hedgerows?
 
 ## Free Culture

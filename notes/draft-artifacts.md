@@ -205,8 +205,28 @@ however, present in the 2000 work, ["Cruel, Mean, or Lavish? Economic Analysis,
 Price Discrimination and Digital Intellectual
 Property"](https://law.duke.edu/boylesite/cruel.pdf).
 
-So I think that leaves Benkler and Travis as the earliest of the metaphor, which
-Boyle and Bollier would expand upon very soon after.
+So I think that leaves Benkler and Travis with the earliest use of the metaphor,
+at least with regard to IP law specifically, which Boyle and Bollier would
+expand upon very soon after.
+
+### UPDATE
+I regret I overlooked Christopher May, one of the names cited by Boyle in "The
+Second Enclosure Movement." His analysis of information enclosures is as it
+includes of survey of Marxian and anarchist (Proudhon, Robert Cox, Nozick, etc)
+interpretations of enclosure, as applied to IP. He also shares some important
+citations with Bollier in _The Global Political Economy of Intellectual Property
+Rights_, such as Radin, Boyle, Reichman, particularly in chapter 6.
+
+Also, Vandana Shiva was years ahead of everyone else in the Duke/Harvard Law
+circles on all the most critical issues of enclosure, linking agricultural and
+intellectual commons, the central role women played in both, and the ways that
+European enclosures were expanded through colonization. Her 1997 _Biopiracy_ and
+its first and fourth chapters are particularly relevant. She is cited by both
+Bollier and May.
+
+Both May and Shiva give considerable attention to the TRIPS agreements, which
+were still being actively developed in the late nineties by the WTO, as well as
+its predecessor, GATT.
 
 ## The limits of a liberal theory of the commons
 In _The Wealth of Networks_, as the titular reference might suggest, Benkler
@@ -295,7 +315,7 @@ James Muldoon on "data commodity fetishism" in _Platform Socialism_ (p. 18):
 > [^31]: Ofcom, ‘UK’s Internet Use Surges to Record Levels’, 20 June 2020.
 >     www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2020/uk-internet-use-surges. 
 
-## Coding assets as property
+## Coding assets and nature as capital
 Katherina Pistor on property 'absolutism' and rights held _erga omnes_ or
 "against the world" (p. 15):
 
@@ -361,6 +381,44 @@ for their pasture (p. 32):
 > relations to land, which provided sustenance and also served as the foundation
 > of political and economic power. Land sales rose steadily since the late 1500s
 > and by 1610 were 250 percent higher than 50 years earlier.
+
+In 1997, half a decade after the governments and news media of Europe and North
+America had celebrated the quincentenary of his "discovery," largely without
+question, Vandana Shiva pronounced the "Second Coming of Columbus" as the advent
+of new intellectual property regimes and free trade agreements: 
+
+> Five hundred years after Columbus, a more secular version of the same project
+> of colonization continues through patents and intellectual property rights
+> (IPRs). The Papal Bull has been replaced by the General Agreement on Tariffs
+> and Trade (GATT) treaty. The principle of effective occupation by christian
+> princes has been replaced by effective occupation by the transnational
+> corporations supported by modern-day rulers. The vacancy of targeted lands has
+> been replaced by the vacancy of targeted life forms and species manipulated by
+> the new biotechnologies. The duty to incorporate savages into Christianity has
+> been replaced by the duty to incorporate local and national economies into the
+> global marketplace, and to incorporate non-Western systems of knowledge into
+> the reductionism of commercialized Western science and technology.
+> 
+> The creation of property through piracy of others wealth remains the same as
+> 500 years ago.
+
+She then situates this process explicitly within the history of enclosure, and
+derives a definition of capital based upon that history (emphasis added):
+
+> John Locke's treatise on property effectually legitimized this same process of
+> theft and robbery during the enclosure movement in Europe. Locke clearly
+> articulated capitalism's freedom to build as the freedom to steal; property is
+> created by removing resources from nature and mixing them with labor. this
+> "labor" is not physical, but labor in its "spiritual" form, as manifested in
+> the control of capital. According to Locke, only those who own capital have
+> the natural right to own natural resources, a right that supersedes the common
+> rights of others with prior claims. __Capital is thus defined as a source of
+> freedom that, at the same time, denies freedom to the land, forests, rivers,
+> and biodiversity that capital claims as its own and to others whose rights are
+> based on their labor.__ Returning private property to the commons is perceived
+> as depriving the owner of capital of freedom. Therefore, peasants and
+> tribespeople who demand the return of their rights and access to resources are
+> regarded as thieves.
 
 
 ## Public Goods & Market Enclosure

@@ -6,6 +6,17 @@
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
 - Appropriation of agricultural knowledge, expertise and technology
+  - Vandana Siva
+    - ["Agricultural Biodiversity, Intellectual Property Rights and Farmers'
+      Rights"](https://www.jstor.org/stable/4404305) (1996)
+    - [_Biopiracy: the Plunder of Nature and
+      Knowledge_](https://archive.org/details/isbn_9780896085565) (1997)
+    - [_Stolen Harvest: The Hijacking of the Global Food
+      Supply_](https://archive.org/details/stolenharvesthij00shiv) (2000)
+  - Globalization and intellectual property expansion
+    - [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement)
+    - [General Agreement on Tariffs and Trade (GATT)](https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade)
+    - [Doha Declaration on the TRIPS agreement and public health](https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm)
   - Judith Carney
     - _Black Rice_
     - "Landscapes of Technology Transfer: Rice Cultivation and African
@@ -198,6 +209,13 @@
       - ["dotCommunist
         Manifesto"](https://moglen.law.columbia.edu/publications/dcm.html)
         (2003, based on a talk from 2001)
+    - Christopher May
+      - [_The Global Political Economy of Intellectual Property Rights: The new
+        enclosures?_](https://www.routledge.com/The-Global-Political-Economy-of-Intellectual-Property-Rights-The-New-Enclosures/May/p/book/9780367605001)
+        ([a.o](https://archive.org/details/globalpoliticale0000mayc)) (2000)
+      - ["Capital, knowledge and ownership: The “information society” and
+        intellectual property"](https://doi.org/10.1080/13691189809358969).
+        _Information, Communication & Society_, 1(3), 246–269. (1998)
     - Hannibal Travis
       - ["Pirates of the Information Infrastructure: Blackstonian Copyright and
         the First
@@ -219,7 +237,7 @@
       - ["Coase’s Penguin, or, Linux and The Nature of the
         Firm"](https://www.benkler.org/CoasesPenguin.PDF) (2002)
       - [_Wealth of Networks: How Social Production Transforms Markets and
-        Freedom_](https://cyber.harvard.edu/wealth_of_networks/Main_Page)
+        Freedom_](https://cyber.harvard.edu/wealth_of_networks/Main_Page) (2006)
     - [James Boyle](http://james-boyle.com/)
       - ["The Relations of
         Reproduction"](https://law.duke.edu/boylesite/tlscopy.htm) (1997)

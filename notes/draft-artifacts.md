@@ -1,5 +1,5 @@
 # Draft Materials & References
-## Errata
+## Conclusions
 Enclosure is more than just a simple barrier or boundary: it is a severing of
 the ties that connect us to other people and living creatures, while uprooting
 us from the land and, more generally, our sense of place.
@@ -8,13 +8,6 @@ Both knowledge and land must be given back to the whole at some point
 
 Technology and open source software became deeply politicized for me in 2012 in
 a way that food and farming had never been.
-
-Richard Stallman observed in the early 1980's that software is enclosed by
-denying users access to freely read, modify and share the source code. Two
-decades later, Lawrence Lessig brought attention to the way codes of law can
-restrict or enable the codes of software, but that the later can also be used to
-supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
-law."
 
 ## Medieval Commons and Their Holdovers
 Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
@@ -613,3 +606,12 @@ USDA (pp. 50-51):
 >
 > [^17]: Michael Pollan, "The Organic-Industrial Complex," _New York Times
 >     Magazine_, May 13, 2001.
+
+
+## Draft Errata
+Richard Stallman observed in the early 1980's that software is enclosed by
+denying users access to freely read, modify and share the source code. Two
+decades later, Lawrence Lessig brought attention to the way codes of law can
+restrict or enable the codes of software, but that the later can also be used to
+supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
+law."

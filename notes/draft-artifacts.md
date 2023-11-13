@@ -1,10 +1,13 @@
 # Draft Materials & References
 ## Errata
-Enclosure is more than just a simple barrier or boundary: it is a severing of the ties that connect us to other people and living creatures, while uprooting us from the land and, more generally, our sense of place.
+Enclosure is more than just a simple barrier or boundary: it is a severing of
+the ties that connect us to other people and living creatures, while uprooting
+us from the land and, more generally, our sense of place.
 
 Both knowledge and land must be given back to the whole at some point
 
-Technology and open source software became deeply politicized for me in 2012 in a way that food and farming had never been.
+Technology and open source software became deeply politicized for me in 2012 in
+a way that food and farming had never been.
 
 Richard Stallman observed in the early 1980's that software is enclosed by
 denying users access to freely read, modify and share the source code. Two
@@ -14,7 +17,8 @@ supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
 law."
 
 ## Medieval Commons and Their Holdovers
-Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An Analytical View" (1965):
+Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
+Analytical View" (1965):
 
 > Another institution sets in even stronger light the idea that land is to be
 > used, not to be owned by exclusion. It is the custom called "open field
@@ -24,9 +28,37 @@ Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
 > common to all European countries; it survived in many parts of Western Europe
 > well into our own time.
 
-Open field agriculture was prevalent in Ireland, too, where it was called rundale, until those farmers were dispossessed by English settlers and the plantation system, starting in the 1580's. This was an important proving ground for Britain's colonial methods, which they would later perfect in the expropriation of the Americas' common landholdings, from Virginia to Belize. In the Scottish Highlands, the similarly named run-rig system continued through the late 18th century, coinciding with the Scottish Enlightenment that produced _The Wealth of Nations_ and a wave of land privatization consistent with that book's core tenets. Today, the village of [Laxton](http://www.laxtonvisitorcentre.org.uk/), Nottinghamshire, retains the last open field system in England. Three fields are still held in common ownership, little changed from detailed maps of the area from 1635. A fourth field was lost only in 1903, during the final era of Parliamentary enclosure. The farmers of Laxton — in a sophisticated practice combining regular crop rotation and fallow periods, intermittent grazing and permanent pasture lanes — are apportioned strips of land from each of the fields, a tradition that has likely endured for over half a millennium.
+Open field agriculture was prevalent in Ireland, too, where it was called
+rundale, until those farmers were dispossessed by English settlers and the
+plantation system, starting in the 1580's. This was an important proving ground
+for Britain's colonial methods, which they would later perfect in the
+expropriation of the Americas' common landholdings, from Virginia to Belize. In
+the Scottish Highlands, the similarly named run-rig system continued through the
+late 18th century, coinciding with the Scottish Enlightenment that produced _The
+Wealth of Nations_ and a wave of land privatization consistent with that book's
+core tenets. Today, the village of
+[Laxton](http://www.laxtonvisitorcentre.org.uk/), Nottinghamshire, retains the
+last open field system in England. Three fields are still held in common
+ownership, little changed from detailed maps of the area from 1635. A fourth
+field was lost only in 1903, during the final era of Parliamentary enclosure.
+The farmers of Laxton — in a sophisticated practice combining regular crop
+rotation and fallow periods, intermittent grazing and permanent pasture lanes —
+are apportioned strips of land from each of the fields, a tradition that has
+likely endured for over half a millennium.
 
-Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been argued that a kernel of communal land practice held out until the Soviet Union undertook collectivization in the 1920's. In Mexico, the revolutionary Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established the system of _ejidos_. These remained largely in tact until the relevant articles were repealed from the constitution at the behest of neoliberal policy makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of the indigenous land practices which have successfully resisted colonial encroachment and land enclosures for centuries across the globe, but I feel ill-equipped to speak to that vast history of struggle.
+Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
+as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been
+argued that a kernel of communal land practice held out until the Soviet Union
+undertook collectivization in the 1920's. In Mexico, the revolutionary
+Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established
+the system of _ejidos_. These remained largely in tact until the relevant
+articles were repealed from the constitution at the behest of neoliberal policy
+makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched
+the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends
+the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of
+the indigenous land practices which have successfully resisted colonial
+encroachment and land enclosures for centuries across the globe, but I feel
+ill-equipped to speak to that vast history of struggle.
 
 [^mir]: This is indeed the same name given to the Russian space station _Мир_ in
     1986, although the term has a broader meaning that carries with it the sense
@@ -38,7 +70,8 @@ Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
 
 
 ## Stealing the Commons from off the Goose
-via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
+via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of
+the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
 
 
 > The law locks up the man or woman  
@@ -61,15 +94,76 @@ via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of t
 > And geese will still a common lack  
 > Till they go and steal it back.  
 
-Boyle's essay, as published by Duke Law in 2003, provides the most thorough commentary on the poem's provenance, at least that I have found to-date:
+Boyle's essay, as published by Duke Law in 2003, provides the most thorough
+commentary on the poem's provenance, at least that I have found to-date:
 
-> Apart from being anonymous, the poem is extremely hard to date. It probably comes from the enclosure controversies of the eighteenth century. However, the earliest reference to it that I have been able to discover is from 1821. Edward Birch was moved to compose some (fairly poor) verses in response when he reported “seeing the following jeu d’esprit in a Handbill posted up in Plaistow, as a ‘CAUTION’ to prevent persons from supporting the intended inclosure of Hainault or Waltham Forest.” He then quotes a version of the poem. Edward Birch, TICKLER MAG., Feb. 1821, at 45. In 1860, a staff writer for the journal Notes and Queries declares that “the animosity excited against the Inclosure Acts and their authors . . . was almost without precedent: though fifty years and more have passed, the subject is still a sore one in many parishes. . . . I remember some years ago, in hunting over an old library discovering a box full of printed squibs, satires and ballads of the time against the acts and those who were supposed to favour them,—the library having belonged to a gentleman who played an active part on the opposition side.” The author then quotes the first verse as a “naive epigram . . . which forcibly impressed itself on my memory.” “Exon” Ballads Against Inclosures, 9 NOTES AND QUERIES, at 130-131 (2nd ser., Feb. 1860). The context makes it appear that the poem itself must date from the late 18th century. In other sources, the poem is sometimes dated at 1764 and said to be in response to Sir Charles Pratt’s fencing of common land. See, e.g., Dana A. Freiburger, John Thompson, English Philomath—A Question of Land Surveying and Astronomy, poster paper submitted to the History of Astronomy Workshop University of Notre Dame, (July 1-4, 1999), note 15, available at http://www.nd.edu/~histast4/exhibits/papers/Freiburger/index.html (last visited Dec. 19, 2002). This attribution is widespread and may well be true, but I have been able to discover no contemporary source material that sustains it. By the end of the nineteenth century, the poem was being quoted, sometimes with amusement and sometimes with agreement, on both sides of the Atlantic. See Ezra S. Carr, Aids and Obstacles to Agriculture on the Pacific-Coast, in THE PATRONS OF HUSBANDRY ON THE PACIFIC COAST 290, 291 (San Francisco, A.L. Bancroft and Co. 1875); EDWARD P. CHEYNEY, AN INTRODUCTION TO THE INDUSTRIAL AND SOCIAL HISTORY OF ENGLAND 219 (1901).
+> Apart from being anonymous, the poem is extremely hard to date. It probably
+> comes from the enclosure controversies of the eighteenth century. However, the
+> earliest reference to it that I have been able to discover is from 1821.
+> Edward Birch was moved to compose some (fairly poor) verses in response when
+> he reported “seeing the following jeu d’esprit in a Handbill posted up in
+> Plaistow, as a ‘CAUTION’ to prevent persons from supporting the intended
+> inclosure of Hainault or Waltham Forest.” He then quotes a version of the
+> poem. Edward Birch, TICKLER MAG., Feb. 1821, at 45. In 1860, a staff writer
+> for the journal Notes and Queries declares that “the animosity excited against
+> the Inclosure Acts and their authors . . . was almost without precedent:
+> though fifty years and more have passed, the subject is still a sore one in
+> many parishes. . . . I remember some years ago, in hunting over an old library
+> discovering a box full of printed squibs, satires and ballads of the time
+> against the acts and those who were supposed to favour them,—the library
+> having belonged to a gentleman who played an active part on the opposition
+> side.” The author then quotes the first verse as a “naive epigram . . . which
+> forcibly impressed itself on my memory.” “Exon” Ballads Against Inclosures, 9
+> NOTES AND QUERIES, at 130-131 (2nd ser., Feb. 1860). The context makes it
+> appear that the poem itself must date from the late 18th century. In other
+> sources, the poem is sometimes dated at 1764 and said to be in response to Sir
+> Charles Pratt’s fencing of common land. See, e.g., Dana A. Freiburger, John
+> Thompson, English Philomath—A Question of Land Surveying and Astronomy, poster
+> paper submitted to the History of Astronomy Workshop University of Notre Dame,
+> (July 1-4, 1999), note 15, available at
+> http://www.nd.edu/~histast4/exhibits/papers/Freiburger/index.html (last
+> visited Dec. 19, 2002). This attribution is widespread and may well be true,
+> but I have been able to discover no contemporary source material that sustains
+> it. By the end of the nineteenth century, the poem was being quoted, sometimes
+> with amusement and sometimes with agreement, on both sides of the Atlantic.
+> See Ezra S. Carr, Aids and Obstacles to Agriculture on the Pacific-Coast, in
+> THE PATRONS OF HUSBANDRY ON THE PACIFIC COAST 290, 291 (San Francisco, A.L.
+> Bancroft and Co. 1875); EDWARD P. CHEYNEY, AN INTRODUCTION TO THE INDUSTRIAL
+> AND SOCIAL HISTORY OF ENGLAND 219 (1901).
 
-The paper from self-ascribed "independent scholar" Dana A. Frieburger, ["John Thompson, English Philomath — A Question of Land Surveying and Astronomy"](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html), is available on the Internet Archive. Contemporaneously with Boyle, or even preceding him by a narrow margin, David Bollier uses a slightly different version of the poem as an epigraph to his 2002 book, [_Silent Theft: the Private Plunder of our Common Wealth_](https://archive.org/details/silenttheftpriva00boll/page/n13/mode/2up) and a portion of the same for an article in the _Boston Review_, ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/), published June 1, 2002. It's unclear if this usage predates Boyle's usage, as Boyle's first footnote points to an earlier iteration of his paper, titled ["Fencing off ideas: enclosure and the disappearance of the public domain"](https://law.duke.edu/boylesite/daedalus.pdf), published in the Spring 2002 edition of _Daedalus_.
+The paper from self-ascribed "independent scholar" Dana A. Frieburger, ["John
+Thompson, English Philomath — A Question of Land Surveying and
+Astronomy"](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html),
+is available on the Internet Archive. Contemporaneously with Boyle, or even
+preceding him by a narrow margin, David Bollier uses a slightly different
+version of the poem as an epigraph to his 2002 book, [_Silent Theft: the Private
+Plunder of our Common
+Wealth_](https://archive.org/details/silenttheftpriva00boll/page/n13/mode/2up)
+and a portion of the same for an article in the _Boston Review_, ["Reclaiming
+the
+Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/),
+published June 1, 2002. It's unclear if this usage predates Boyle's usage, as
+Boyle's first footnote points to an earlier iteration of his paper, titled
+["Fencing off ideas: enclosure and the disappearance of the public
+domain"](https://law.duke.edu/boylesite/daedalus.pdf), published in the Spring
+2002 edition of _Daedalus_.
 
-Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_, cites relevant scholarship on the commons from the 20th Century Marxist and tradition and critical theory, but I have not found specific reference to that poem in any of these works that I've so far been able to access:
+Peter Linebaugh's attribution, where he cites the same poem in _Stop, Thief!_,
+cites relevant scholarship on the commons from the 20th Century Marxist and
+tradition and critical theory, but I have not found specific reference to that
+poem in any of these works that I've so far been able to access:
 
-> E.J. Hobsbawm, Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries (New York: W.W. Norton, 1959); and from the Warwick School of Social History, our collective’s Albion’s Fatal Tree: Crime and Society in Eighteenth-Century England (London: Allen Lane, 1975) and E.P. Thompson’s Whigs and Hunters (London: Allen Lane, 1975). Verso published a second edition of Albion’s Fatal Tree in 2011, and Breviary Stuff published a new edition of Whigs and Hunters in 2013. See also the “Frankfurt School” study by Georg Rusche and Otto Kirchheimer, Punishment and Social Structure (New York: Columbia University Press, 1939), and the influential work by Michel Foucault, Discipline and Punish: The Birth of the Prison, translated by Alan Sheridan (New York: Vintage, 1977).
+> E.J. Hobsbawm, Primitive Rebels: Studies in Archaic Forms of Social Movement
+> in the 19th and 20th Centuries (New York: W.W. Norton, 1959); and from the
+> Warwick School of Social History, our collective’s Albion’s Fatal Tree: Crime
+> and Society in Eighteenth-Century England (London: Allen Lane, 1975) and E.P.
+> Thompson’s Whigs and Hunters (London: Allen Lane, 1975). Verso published a
+> second edition of Albion’s Fatal Tree in 2011, and Breviary Stuff published a
+> new edition of Whigs and Hunters in 2013. See also the “Frankfurt School”
+> study by Georg Rusche and Otto Kirchheimer, Punishment and Social Structure
+> (New York: Columbia University Press, 1939), and the influential work by
+> Michel Foucault, Discipline and Punish: The Birth of the Prison, translated by
+> Alan Sheridan (New York: Vintage, 1977).
 
 ## Historiography of Enclosure
 In "The Second Enclosure Movement", Boyle lays out his main thesis plainly:

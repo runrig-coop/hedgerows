@@ -177,14 +177,14 @@ warning and a call-to-arms in their final stanza:
 If we were to heed their call, how would we begin levelling today's
 hedgerows?
 
-## Free Culture
-It's surprising I'd remained ignorant to the clear parallels between modern
-software commons and premodern agricultural commons, but as I learned and shared
-more of the history with my colleagues at GOAT, it became clear I was not alone.
-This was doubly true with the concept of enclosure. What was especially
-embarrassing to me was how many of us had carved out niche careers straddling
-both open technology and small-scale agriculture, spanning decades in some
-cases, yet few of us had more than a cursory knowledge of it.
+## The Enclosure Forgotten
+I was a bit surprised to realize my ignorance of the parallels between modern
+software commons and premodern agricultural commons, but after speaking to
+others at GOAT, it became clear I was not alone. This was doubly true with the
+concept of enclosure. What was especially embarrassing to me was how many of us
+had carved out niche careers straddling both open technology and small-scale
+agriculture, spanning decades in some cases, yet few of us had more than a
+cursory knowledge of the history predating the Information Age.
 
 The metaphor of "the commons" has become so pervasive in technology today. The
 first time I recall encountering it was from the Free Culture Movement of the
@@ -213,51 +213,111 @@ For a few short years, concepts like "remix culture" and "network neutrality"
 enjoyed a glimmer of popular recognition. In the first decade of the new
 millennium, their work certainly raised public awareness of "the commons" and
 why it was important. This was particularly true among the more technologically
-savvy, but not exclusively. However, I don't believe the same was true for
+savvy, but not exclusively. I don't believe the same was true, however, for
 enclosure. Speaking for myself, I remained oblivious to the term until I learned
 it from Linebaugh in 2015. That was a decade after Lessig helped to found
 Creative Commons and Benkler had popularized the notion of "commons-based peer
-production." For his part, Benkler put both the commons enclosure front and
+production." For his part, Benkler put both the commons and enclosure front and
 center in his earliest essays on the topic, such as "The Commons As A Neglected
-Factor of Information Policy" from 1998 and "Free as the Air to Common Use:
-First Amendment Constraints on Enclosure of the Public Domain" from 1999. I
-haven't found anything more than passing references to enclosure in Lessig's
-works. Regardless, it didn't seem to permeate the public awareness the way the
-commons had.
+Factor of Information Policy" and "Free as the Air to Common Use: First
+Amendment Constraints on Enclosure of the Public Domain," from 1998 and 1999,
+respectively. I haven't found anything more than passing references to enclosure
+in Lessig's works. Regardless, it didn't seem to permeate the public awareness
+the way the commons had.
 
-I find the downplay of enclosure significant because it frames the argument for
-the commons primarily in the terms of law and policy. With something so
-seemingly abstract as the knowledge commons, its physical aspects were
-diminished or left unconsidered. How information moved or what restricted it in
-practice was left as a matter of nature or mere accident, something to be worked
-around in policy. This seemed to be the case even in the enforcement and
-extension of IP law, as the Swedish police who raided The Pirate Bay learned
-soon after. Reading their work more closely now, I don't believe this was the
-point either Benkler or Lessig was trying to make, but I found that sentiment to
-be rather pervasive through at least the mid 2010's.
-
-There were two other figures, however, who I don't personally recall from those
-early days of the Free Culture Movement, but who turned out to be equally
-consequential, even if they did not receive their fair share of the limelight.
-First was the aforementioned David Bollier, not a lawyer but an activist and
-blogger who would co-found the advocacy group Public Knowledge in 2001. While he
-was very active in the early days of advocacy for internet freedoms and
-commoning, he clearly had a much broader outlook of the commons and enclosure.
-He continues to investigate and write about them to this day, though not
-limiting himself to knowledge commons alone. So it is no wonder he was the
-conduit that reintroduced me to Peter Linebaugh's work.
-
-Second was James Boyle, one of the Duke Law professors who specialized in IP
-jurisprudence along with David Lange and Jerome Reichman. I don't believe I'd
-encountered his work until after GOAT 2022, when I went looking for a deeper
-understanding of how the language of the commons came to be embraced by free
-culture and open source advocates of the last two decades, while enclosure was
-largely ignored. As early as 1996, Boyle penned a pivotal work in the study of
-information commons, _Shamans, Software, and Spleens_. But after GOAT 2022,, one
-title jumped out: "The Second Enclosure Movement and the Construction of the
-Public Domain". It was not for the title alone, as much as the paper began with
-the epigram:
+There were other figures, however, who I don't personally recall from the Free
+Culture Movement's highpoint of popularity, and who didn't receive as much
+limelight, but who nevertheless turned out to be consequential to the history of
+the knowledge commons. First was James Boyle, one of the Duke Law professors
+specializing in IP and building on the work of his colleagues at Duke, David
+Lange and Jerome Reichman. I don't believe I'd encountered his work until after
+GOAT 2022, when I went looking for a deeper understanding of how the language of
+the commons came to be embraced by free culture and open source advocates of the
+last two decades, while enclosure went comparatively ignored. As early as 1996,
+Boyle penned a pivotal work in the study of information commons, _Shamans,
+Software, and Spleens_; however, a later title jumped out from all the rest:
+"The Second Enclosure Movement and the Construction of the Public Domain." The paper began with the epigraph:
 
 > The law locks up the man or woman [...]
 
-Now all the pieces were falling into place.
+Now the pieces were starting to fall into place. I tracked the discourse of
+enclosure through Boyle's footnotes, where he acknowledges that "the analogy to
+the enclosure movement has been too succulent to resist," and proceeds to give
+the names of others from that scholarly milieu who had used it too. Yochai
+Benkler was listed there, of course, along with a few more names I was hitherto
+unaware of, like Hannibal Travis, whose 1999 _Pirates of the Information
+Infrastructure_ is the best survey of both the original enclosure movement and
+this "second movement," as Boyle calls it.
+
+Boyle also names the aforementioned David Bollier, who would eventually
+reintroduce me to Peter Linebaugh's work, but who was also quite active in the
+early days of the "blogosphere" and advocating for internet freedom. While he
+was not an IP lawyer, he was a co-founder of the advocacy organizations Public
+Knowledge and Commons Strategies Group, and today is Director of the Reinventing
+the Commons Program at the Schumacher Center for a New Economics. In these
+roles, he has advanced a much broader vision for the commons, not just for
+information but for the commons in all its forms. Accompanying this, he has
+articulated a thorough critique of enclosure, in all its own manifestations. A
+slightly different version of "stealing the commons from off the goose" shows up
+as the epigraph to Bollier's _Silent Theft: The Private Plunder of Our Commons
+Wealth_ in 2002, the same year Boyle published an early draft of his own
+essay featuring the poem. As it turns out, Peter Linebaugh also found it "too
+succulent to resist" and recycled it once more in the introduction to his 2014
+book _Stop, Thief!_. Linebaugh was winking at Bollier when he recited
+it back to him in their interview, I'm sure.
+
+Apart from being the object in this game of epigraphic hot potato, it's not
+surprising that the poem rose to the surface as a shared metaphor in such an
+atmosphere of cross-disciplinary collaboration. Looking at the participants list
+from the _Conference on the Public Domain_ that was held at Duke Law School in
+2001,[^conf-pub-dom] I can't help but speculate who might have first quoted the
+goose poem there, and how I may have unwittingly mimicked them two decades later
+in Rhinebeck. If the culprit wasn't Bollier or Boyle, there was certainly no
+shortage of other suspects, including Elinor Ostrom, Charlotte Hess, John Perry
+Barlow and even Mark Hosler of the band Negativland, who facilitated a
+round-table discussion titled "Art Crime / Crime Art." The list also includes
+Yochai Benkler and "Larry" Lessig, but somehow I doubt it was either of them who
+first brought the goose poem to the others' attention. In those heady post-Cold
+War days, even liberals like Lessig and Benkler took Francis Fukuyama's "end of
+history" as practically axiomatic, at least in _serious_ political discourse.
+With its distinctly revolutionary tone and the memory of bourgeois enclosures it
+chronicled, I suspect the poem may have seemed either too radical or too
+ridiculous to many in attendance. In any event, the more celebrated proponents
+of free culture seem to have shied away from the metaphors of enclosure and
+actual communal land tenure. As the Free Culture Movement grew over the next
+decade, the commons may have gained a hold in popular imaginations, but
+enclosure decidedly did not, no matter how irresistibly succulent it may have
+seemed at first.
+
+[^conf-pub-dom]: The [_Conference on the Public Domain_](https://www.tech-insider.org/internet/research/2001/1109.html).
+
+As Bollier points out in _Silent Theft_, by omitting enclosure from the metaphor
+of the commons, the adversarial role of markets is conveniently ignored:
+
+> It is important to speak of market enclosure because it reframes the economic
+> narrative of the market. What the market considers incidental externalities
+> (toxic waste, species extinction, safety hazards), the narrative of the
+> commons regards as an assault on the community. Marketeers presume an
+> entitlement to privatize clean air and water, public spaces, and even shared
+> images and words.
+
+I would add that downplaying enclosure reframes the argument for a knowledge
+commons primarily in the terms of laws and protocols, while its physical aspects
+are diminished or left unconsidered. The hardware and infrastructure required to
+store and move information are treated as a mere accident or technical detail,
+something to be worked around in policy. Even in the enforcement and extension
+of IP law, there was a limit to what could be done to physically enable or
+thwart the flow inf information, as the Swedish police who raided The Pirate Bay
+learned soon after. Reading their work more closely now, I don't believe either
+Benkler or Lessig were arguing that these physical aspects did not matter. In
+_The Wealth of Networks_, Benkler provides a truly insightful table that breaks
+down different forms of enclosure in terms of its physical, logical, and content
+layers, explicitly borrowing from the OSI Model for computer networks. It was
+Lessig's arguments for the end-to-end architecture of the Internet, in both
+physical and logical terms, which first led me to Boyle's essay on enclosure.
+However, in the open source communities I came to know, a much less nuanced
+understanding of the commons seemed to pervade, at least through the mid 2010's.
+If the physical cables and servers that hosted all that information were
+acknowledged at all, it was taken for granted, almost as an incontrovertible
+fact of nature. Besides, the physical stuff didn't really matter anyways.
+Information still wants to be free.

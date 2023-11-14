@@ -1,7 +1,7 @@
 # Outline of the Main Narrative
 - Intro
   - Main thesis
-- My FOSS narrative: now -> early 2000's
+- My FOSS narrative: from now BACKWARD to early 2000's
   - Stealing the commons from off the goose
   - GOAT 2018 - 20122
   - Rediscovering the commons, understanding enclosure
@@ -11,7 +11,7 @@
   - Finding FOSS
     - Linux, Clay Shirky
     - Occupy & SOPA/PIPA
-- My Ag narrative: early 2000's -> now
+- My Ag narrative: from early 2000's FORWARD to now
   - Zucotti Park
   - Smart phones & social media
   - Locavores, slow food and organics
@@ -22,12 +22,24 @@
   - Chef culture & foodies
     - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
     - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
-- Deeper history of the commons
+- Deeper history of the commons & enclosure
   - Medieval commons and their holdovers
-  - Enclosure, Gerard Winstanley & the Diggers
-  - Garrett Hardin and Elinor Ostrom
-  - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
-  - Technology, culture and information
+    - Gerard Winstanley & the Diggers
+    - Georgism?
+  - 20th c. re-examination of the commons
+    - Elinor Ostrom v. Garrett Hardin 
+    - Marxian interpretations (metabolic rift, primitive accumulation, etc)
+    - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
+    - Colonialism as enclosure
+  - Appropriation of agricultural knowledge & technology (along w/ land & labor)
+    - Leah Penniman on seed saving
+    - Judith Carney's _Black Rice_
+    - Bollier/Pollan on USDA Organics
+    - Vandana Shiva & Biopiracy
 - Reuniting agricultural and informational commons
-  - Agricultural knowledge & technology
-  - New Movements
+  - The Limits of a Liberal Theory of the Commons
+    - "Session: Data Policy" and data rights like water rights
+    - Maya Cohen's article, data stewardship & the right to exclude
+    - The Commons (CPR) v. Open-access Regimes v. Public Goods
+    - The post-Cold War "end of history" and other forms of near-sightedness
+  - New Developments, Old Syntheses & Parallel Movements

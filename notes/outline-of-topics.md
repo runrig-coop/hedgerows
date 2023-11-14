@@ -338,7 +338,8 @@
     - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
     - [nettime](https://www.nettime.org/info.html)
   - Ecofeminism and Cyberfeminism
-    - Donna Harraway, "A Cyborg Manifesto"
+    - Donna Harraway, "A Cyborg Manifesto" (1985)
+    - Maria Mies and Vandana Shiva, _Ecofeminism_ (1993)
   - Katharina Pistor
     - _The Code of Capital_ (2019)
     - ["The Laws of Capitalism"](https://www.ineteconomics.org/perspectives/videos/the-laws-of-capitalism) video series (2022) from INET

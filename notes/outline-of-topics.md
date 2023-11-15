@@ -273,6 +273,32 @@
       - [Future of
         Ideas](https://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/5710/lessig_FOI.pdf)
         - over-emphasis on the code, the architecture and other abstractions
+    - Lessig's early work in constitutional law and cyber law papers
+      - Brief talk on [Law School Internet
+        Publishing](https://www.law.cornell.edu/papers/aals_internet/lessig.html)
+        (1994)
+      - ["The Regulation of Social
+        Meaning"](https://chicagounbound.uchicago.edu/uclrev/vol62/iss3/1/)
+        (1995)
+      - U. of Chicago _Chronicle_ inverview, ["Center helps Eastern European
+        countries shape
+        constitutions"](https://chronicle.uchicago.edu/951207/georgia.shtml)
+        (1995)
+      - ["Post
+        Constitutionalism"](https://repository.law.umich.edu/cgi/viewcontent.cgi?params=/context/mlr/article/2081/&path_info=)
+        (1996)
+      - ["Reading the Constitution in
+        Cyberspace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41681)
+        (1997)
+      - ["The Constitution of Code: Limitations on Choice-based Critiques of
+        Cyberspace
+        Regulation"](https://scholarship.law.edu/cgi/viewcontent.cgi?article=1119&context=commlaw)
+        (1997)
+      - ["The Law of the Horse: What Cyberlaw Might
+        Teach"](https://cyber.harvard.edu/works/lessig/finalhls.pdf) (1999)
+      - Bio and profile from _Wired_ magazine, ["Lawrence Lessig's Supreme
+        Showdown"](https://web.archive.org/web/20151025135138/http://archive.wired.com/wired/archive/10.10/lessig_pr.html)
+        (2002)
     - C. Ford Runge & Edi Defrancesco
       - ["Exclusion, Inclusion, and Enclosure: Historical Commons and Modern
         Intellectual Property"](https://doi.org/10.1016/j.worlddev.2006.02.002)

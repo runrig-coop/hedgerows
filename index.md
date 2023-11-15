@@ -159,15 +159,16 @@ just a euphemism for "someone else's computer." I would propose that, trading
 grandiose metaphor for grandiose metaphor, we instead rebrand the cloud as the
 modern enclosure it really is: _hedgerows in the sky_.
 
-The hedgerows that enclosed the English commons of the 17th century did not go
-unopposed, but were actively resisted over many generations. Among the earliest
-of these were the Levellers, who first earned that name during the Midland
-Revolt of 1607 by "levelling" hedgerows in protest. Though some were drawn and
-quartered for their convictions, their example inspired the True Levellers, or
-Diggers, of the English Revolution some 40 years later. The anonymous bard I
-quoted above, whoever they were, surely knew something of this resistance, and
-perhaps they even participated in it. Therefore, it's not hard to hear both a
-warning and a call-to-arms in their final stanza:
+The hedgerows that enclosed the English commons of the 16th through 18th
+centuries did not go unopposed, but were actively resisted over many
+generations. Among the earliest of these were the Levellers, who first earned
+that name during the Midland Revolt of 1607 by "levelling" hedgerows in protest.
+Though some were drawn and quartered for their convictions, their example
+inspired the True Levellers, or Diggers, of the English Revolution some 40 years
+later. The anonymous bard I quoted above, whoever they were, surely knew
+something of this resistance, and perhaps they even participated in it.
+Therefore, it's not hard to hear both a warning and a call-to-arms in their
+final stanza:
 
 > The law locks up the man or woman  
 > Who steals the goose from off the common  

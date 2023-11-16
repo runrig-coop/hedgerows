@@ -39,7 +39,7 @@ the longer history of agriculture, information technology and the Commons.
 Finally, I'll reflect on the latest initiatives that have emerged through their
 union and what synergies remain to be explored.
 
-## The Commons Lost
+## The Stolen Commons
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for
@@ -177,7 +177,7 @@ warning and a call-to-arms in their final stanza:
 If we were to heed their call, how would we begin levelling today's
 hedgerows?
 
-## The Enclosure Forgotten
+## The Forgotten Enclosures
 I was a bit surprised to realize my ignorance of the parallels between modern
 software commons and premodern agricultural commons, but after speaking to
 others at GOAT, it became clear I was not alone. This was doubly true with the

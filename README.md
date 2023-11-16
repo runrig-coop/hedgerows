@@ -2,5 +2,5 @@
 ___NOTE:__ This is article is still in a very early stage of drafting and incomplete._
 
 ## Contents
-- [Current Draft](index.md)
-- [Notes](notes/README.md)
+- [Latest Draft](https://github.com/jgaehring/hedgerows/tree/draft/index.md)
+- [Notes](https://github.com/jgaehring/hedgerows/tree/draft/notes/README.md)

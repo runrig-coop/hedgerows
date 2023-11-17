@@ -15,8 +15,10 @@
       Supply_](https://archive.org/details/stolenharvesthij00shiv) (2000)
   - Globalization and intellectual property expansion
     - [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement)
-    - [General Agreement on Tariffs and Trade (GATT)](https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade)
-    - [Doha Declaration on the TRIPS agreement and public health](https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm)
+    - [General Agreement on Tariffs and Trade
+      (GATT)](https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade)
+    - [Doha Declaration on the TRIPS agreement and public
+      health](https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm)
   - Judith Carney
     - _Black Rice_
     - "Landscapes of Technology Transfer: Rice Cultivation and African
@@ -38,55 +40,94 @@
   - Henry George
     - _Progress and Poverty_ (1879)
   - Ronald Coase
-    - ["The Nature of the Firm"](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm) 1937
-    - "The Problem of Social Cost" (1960), where he first defined the [Coase Theorem](https://en.wikipedia.org/wiki/Coase_theorem)
+    - ["The Nature of the
+      Firm"](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm) 1937
+    - "The Problem of Social Cost" (1960), where he first defined the [Coase
+      Theorem](https://en.wikipedia.org/wiki/Coase_theorem)
   - Elinor Ostrom
-    - [_Governing the Commons_](https://archive.org/details/governingcommons0000ostr)
-    - ["Public Goods and Public Choices "](https://spia.uga.edu/faculty_pages/tyler.scott/teaching/PADP6950_Fall2016_Thursday/readings/Ostrom_Ostrom_1977.pdf) (1977), with Vincent Ostrom; lays out the classic form of the [public/private goods matrix](https://en.wikipedia.org/wiki/Goods#Goods_classified_by_exclusivity_and_competitiveness) as well as the concept of [common-pool resources](https://en.wikipedia.org/wiki/Common-pool_resource)
-    - ["Beyond Markets and States: Polycentric Governance of Complex Economic Systems"](https://doi.org/10.1257%2Faer.100.3.641) (2010), refines her concept of public goods first laid out in the 1977 paper
+    - [_Governing the
+      Commons_](https://archive.org/details/governingcommons0000ostr)
+    - ["Public Goods and Public Choices
+      "](https://spia.uga.edu/faculty_pages/tyler.scott/teaching/PADP6950_Fall2016_Thursday/readings/Ostrom_Ostrom_1977.pdf)
+      (1977), with Vincent Ostrom; lays out the classic form of the
+      [public/private goods
+      matrix](https://en.wikipedia.org/wiki/Goods#Goods_classified_by_exclusivity_and_competitiveness)
+      as well as the concept of [common-pool
+      resources](https://en.wikipedia.org/wiki/Common-pool_resource)
+    - ["Beyond Markets and States: Polycentric Governance of Complex Economic
+      Systems"](https://doi.org/10.1257%2Faer.100.3.641) (2010), refines her
+      concept of public goods first laid out in the 1977 paper
   - Carol Rose
     - ["Comedy of the
       Commons"](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2827&context=fss_papers)
       (1986)
-  - Rober Ellickson, ["Property in Land"](https://openyls.law.yale.edu/handle/20.500.13051/8755) (1993)
-    - Ellickson taught a course w/ Heller (below) called "Marx to Markets" and Heller cites this work and others by Ellickson. This is great resource on the the economics and governance of the medieval commons and contains many more great citations.
+  - Rober Ellickson, ["Property in
+    Land"](https://openyls.law.yale.edu/handle/20.500.13051/8755) (1993)
+    - Ellickson taught a course w/ Heller (below) called "Marx to Markets" and
+      Heller cites this work and others by Ellickson. This is great resource on
+      the the economics and governance of the medieval commons and contains many
+      more great citations.
   - [Michael Heller](https://www.law.columbia.edu/faculty/michael-heller)
-    - ["The Tragedy of the Anticommons: Property in the Transition from Marx to Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=57627) (1998)
+    - ["The Tragedy of the Anticommons: Property in the Transition from Marx to
+      Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=57627)
+      (1998)
       - An altered version of this paper, co-authored with Rebecca Eisenberg,
         also appeared in _Science_ later the same year under the title ["Can
         Patents Deter Innovation? The Anticommons in Biomedical
         Research"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=121288).
         It was shorter, omitting some of the economic arguments, but with new
         material on the patenting of biomedical research.
-    - ["The Liberal Commons"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=241072) (2000)
-  - Alex Amend, ["First as Tragedy, Then as Fascism: The Nativist Legacy of Garrett Hardin"](https://thebaffler.com/latest/first-as-tragedy-then-as-fascism-amend)
-    - Garrett Hardin's [SPLC profile](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin)
+    - ["The Liberal
+      Commons"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=241072)
+      (2000)
+  - Alex Amend, ["First as Tragedy, Then as Fascism: The Nativist Legacy of
+    Garrett
+    Hardin"](https://thebaffler.com/latest/first-as-tragedy-then-as-fascism-amend)
+    - Garrett Hardin's [SPLC
+      profile](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin)
   - Michael Perelman
-    - [_Farming for Profit in a Hungry World_](https://archive.org/details/farmingforprofit0000pere) (1977)
-    - [_Information, Social Relations, and the Economics of High Technology_](https://archive.org/details/informationsocia0000pere/) (1991)
-    - Steal This Idea: Intellectual Property and The Corporate Confiscation of Creativity (2002)
+    - [_Farming for Profit in a Hungry
+      World_](https://archive.org/details/farmingforprofit0000pere) (1977)
+    - [_Information, Social Relations, and the Economics of High
+      Technology_](https://archive.org/details/informationsocia0000pere/) (1991)
+    - Steal This Idea: Intellectual Property and The Corporate Confiscation of
+      Creativity (2002)
   - Marxist & Autonomist & theory in the 20th C.
     - Karl Polanyi
       - [_The Great Transformation_ §3 "'Habitation versus
         Improvement'"](https://archive.org/details/greattransformat00pola/page/32/mode/2up)
         - cited by James Boyle, Katherina Pistor, et al.
     - E.P. Thompson
-      - ["Time, work-discipline and industrial capitalism"](https://www.sv.uio.no/sai/english/research/projects/anthropos-and-the-material/Intranet/economic-practices/reading-group/texts/thompson-time-work-discipline-and-industrial-capitalism.pdf) (1967)
+      - ["Time, work-discipline and industrial
+        capitalism"](https://www.sv.uio.no/sai/english/research/projects/anthropos-and-the-material/Intranet/economic-practices/reading-group/texts/thompson-time-work-discipline-and-industrial-capitalism.pdf)
+        (1967)
       - _Whigs and Hunters: The Origin of the Black Act_,  (1975)
       - [_Customs in Common_, Chapter III, "Custom, Law and Common
         Right"](https://archive.org/details/customsincommon00thom/page/96/mode/2up),
         (1991), cited by Hannibal Travis
     - Peter Linebaugh
-      - ["The Secret History of the Magna Carta"](https://www.bostonreview.net/articles/peter-linebaugh-secret-history-magna-carta/) (2003)
+      - ["The Secret History of the Magna
+        Carta"](https://www.bostonreview.net/articles/peter-linebaugh-secret-history-magna-carta/)
+        (2003)
       - _The Magna Carta Manifesto: Liberties and Commons for All_ (2008)
       - _Stop, Thief!_ (2014)
-      - Inverview on _The Laura Flanders Show_, ["Who Owns the Commons? An 800 Year Fight for Public Goods"](https://www.youtube.com/watch?v=nSF3m_Uav6Y) (2015)
-      - Interview with David Bollier on _Frontiers of Commoning_, ["What the History of Commoning Reveals"](https://www.bollier.org/blog/peter-linebaugh-what-history-commoning-reveals) (2021)
+      - Inverview on _The Laura Flanders Show_, ["Who Owns the Commons? An 800
+        Year Fight for Public
+        Goods"](https://www.youtube.com/watch?v=nSF3m_Uav6Y) (2015)
+      - Interview with David Bollier on _Frontiers of Commoning_, ["What the
+        History of Commoning
+        Reveals"](https://www.bollier.org/blog/peter-linebaugh-what-history-commoning-reveals)
+        (2021)
     - John Bellamy Foster
-      - ["Marx's Theory of Metabolic Rift"](https://johnbellamyfoster.org/articles/marxs-theory-of-metabolic-rift/) (1999)
+      - ["Marx's Theory of Metabolic
+        Rift"](https://johnbellamyfoster.org/articles/marxs-theory-of-metabolic-rift/)
+        (1999)
     - Sylvia Federici
-      - [_Caliban and the Witch_](https://www.akpress.org/calibanandthewitch.html) (2004)
-      - ["Commons against and beyond capitalism"](https://academic.oup.com/cdj/article/49/suppl_1/i92/307214) (2014)
+      - [_Caliban and the
+        Witch_](https://www.akpress.org/calibanandthewitch.html) (2004)
+      - ["Commons against and beyond
+        capitalism"](https://academic.oup.com/cdj/article/49/suppl_1/i92/307214)
+        (2014)
     - Murray Bookchin
       - Usufruct
       - Aristotelian _techne_ vs modern industrial "technics"
@@ -128,29 +169,55 @@
         - Christopher Boehm, actuarial intelligence
       - Three Elementary Forms of Domination
   - Social Choice Theory
-    - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and Stiglitz on information asymmetries (see further below), as well as Sen.
-    - Amartya Sen & Martha Nussbaum's work on [capability approach](https://en.wikipedia.org/wiki/Capability_approach) to 
+    - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and
+      Stiglitz on information asymmetries (see further below), as well as Sen.
+    - Amartya Sen & Martha Nussbaum's work on [capability
+      approach](https://en.wikipedia.org/wiki/Capability_approach) to 
     - Margaret Jane Radin
       - _Contested Commodities_
       - ["Market-Inalienability"](https://people.brandeis.edu/~teuber/Radin-Market-Inalienability.pdf)
-      - ["Property and Personhood"](https://cyber.harvard.edu/IPCoop/82radi.html)
-      - ["Information Tangibility"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=357060)
+      - ["Property and
+        Personhood"](https://cyber.harvard.edu/IPCoop/82radi.html)
+      - ["Information
+        Tangibility"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=357060)
       - ["The Myth of Private Ordering: Rediscovering Legal Realism in
         Cyberspace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=162488)
         (1999, with R. Polk Wagner)
-      - ["Time, Possession, and Alienation"](https://openscholarship.wustl.edu/law_lawreview/vol64/iss3/5/)
-      - ["Compensation and Commensurability"](https://scholarship.law.duke.edu/dlj/vol43/iss1/2/)
-  - [Informational asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/); the summary from the 2001 Nobel Prize in Economics is cited below.
-    - > [George] Akerlof showed that informational asymmetries can give rise to [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection) on markets. Due to imperfect information on the part of lenders or prospective car buyers, borrowers with weak repayment prospects or sellers of low-quality cars crowd out everyone else from the market.
-    - > [Michael] Spence demonstrated that under certain conditions, well-informed agents can improve their market outcome by [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics)) their private information to poorly informed agents.
-    - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture the information of a better-informed agent through [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for example by providing choices from a menu of contracts for a particular transaction. Insurance companies are thus able to divide their clients into risk classes by offering different policies, where lower premiums can be exchanged for a higher deductible.
+      - ["Time, Possession, and
+        Alienation"](https://openscholarship.wustl.edu/law_lawreview/vol64/iss3/5/)
+      - ["Compensation and
+        Commensurability"](https://scholarship.law.duke.edu/dlj/vol43/iss1/2/)
+  - [Informational
+    asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/);
+    the summary from the 2001 Nobel Prize in Economics is cited below.
+    - > [George] Akerlof showed that informational asymmetries can give rise to
+      > [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection)
+      > on markets. Due to imperfect information on the part of lenders or
+      > prospective car buyers, borrowers with weak repayment prospects or
+      > sellers of low-quality cars crowd out everyone else from the market.
+    - > [Michael] Spence demonstrated that under certain conditions,
+      > well-informed agents can improve their market outcome by
+      > [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics))
+      > their private information to poorly informed agents.
+    - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture
+      > the information of a better-informed agent through
+      > [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for
+      > example by providing choices from a menu of contracts for a particular
+      > transaction. Insurance companies are thus able to divide their clients
+      > into risk classes by offering different policies, where lower premiums
+      > can be exchanged for a higher deductible.
   - David Bollier
     - [_Silent Theft: The Private Plunder of Our Common
       Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth)
       (2002) ([a.o](https://archive.org/details/silenttheftpriva00boll))
-    - ["Reclaiming the Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/) (2002)
-    - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with Silke Helfrich, 2015)
-    - [_Free, Fair and Alive: The Insurgent Power of the Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich, 2019)
+    - ["Reclaiming the
+      Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/)
+      (2002)
+    - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with
+      Silke Helfrich, 2015)
+    - [_Free, Fair and Alive: The Insurgent Power of the
+      Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich,
+      2019)
 - Free & Open Source Software (FOSS)
   - bad actors: Richard Stallman, Eric S. Raymond, etc
 - Free Culture Movement
@@ -321,35 +388,53 @@
       minimized or overlooked entirely.
 - Beyond FOSS
   - Luis Villa
-    - ["Free as in...?"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/)
-    - ["Resilient Open Commons"](https://blog.tidelift.com/resilient-open-commons)
-  - C.J. Silverio, ["The Economics of Open Source"](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
-  - GOAT Forum: ["What is Open Source?"](https://forum.goatech.org/t/what-is-open-source-reading-list/1328)
+    - ["Free as
+      in...?"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/)
+    - ["Resilient Open
+      Commons"](https://blog.tidelift.com/resilient-open-commons)
+  - C.J. Silverio, ["The Economics of Open
+    Source"](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
+  - GOAT Forum: ["What is Open
+    Source?"](https://forum.goatech.org/t/what-is-open-source-reading-list/1328)
   - CARE Principles for Indigenous Data Governance
-  - [Post-Open Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
+  - [Post-Open
+    Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
   - [Co-op Cloud Federation](https://docs.coopcloud.tech/federation/)
     - ["The Configuration Commons"](https://pad.autonomic.zone/s/C3uuqfSCk)
     - ["Federation Proposal"](https://coopcloud.tech/blog/federation-proposal/)
-    - ["State of the Co-op Cloud 2023"](https://tv.undersco.re/w/fNq9vX4oXThyuDbY3ae9vu) (video)
+    - ["State of the Co-op Cloud
+      2023"](https://tv.undersco.re/w/fNq9vX4oXThyuDbY3ae9vu) (video)
   - [Protestware](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
     - [`chef-sugar`](https://github.com/sethvargo/chef-sugar)
-      - see also [WIRED article](https://www.wired.com/story/developer-deletes-code-protest-ice/) (paywalled)
-    - [`faker` and `colors`](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
-      - see also [Vice Motherboard article](https://www.vice.com/en/article/pawnwv/open-source-devs-reverse-decision-to-block-ice-contractors-from-using-software)
+      - see also [WIRED
+        article](https://www.wired.com/story/developer-deletes-code-protest-ice/)
+        (paywalled)
+    - [`faker` and
+      `colors`](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+      - see also [Vice Motherboard
+        article](https://www.vice.com/en/article/pawnwv/open-source-devs-reverse-decision-to-block-ice-contractors-from-using-software)
     - [`node-ipc`](https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/)
   - licenses
     - [Hippocratic License](https://itsfoss.com/hippocratic-license/)
-    - [Peer Production License](http://wiki.p2pfoundation.net/Peer_Production_License) (Copyfarleft)
-    - [CoopCycle License](https://github.com/coopcycle/coopcycle-web/blob/v0.5.0/LICENSE) (CoopyLeft)
+    - [Peer Production
+      License](http://wiki.p2pfoundation.net/Peer_Production_License)
+      (Copyfarleft)
+    - [CoopCycle
+      License](https://github.com/coopcycle/coopcycle-web/blob/v0.5.0/LICENSE)
+      (CoopyLeft)
     - Anti-996 License (for fair labor practices in China)
-    - ["no military use"](https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl/) clause
+    - ["no military
+      use"](https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl/)
+      clause
   - Enspiral
     - Loomio handbook
     - Alanna Irving's interview w/ David Bollier
 - New Developments & Old Syntheses
   - Jose Luis Vivero Pol
-    - ["Why Food Should be a Commons Not a Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)
-    - [_Frontiers of Commoning_ interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
+    - ["Why Food Should be a Commons Not a
+      Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)
+    - [_Frontiers of Commoning_
+      interview](https://david-bollier.simplecast.com/episodes/jose-luis-vivero-pol-treating-food-as-commons-not-commodites)
   - Fred Turner, Stewart Brand, etc
     - New Left vs New Communalism
     - "Information wants to be free." ~ attributed to Stewart Brand, [_The Media
@@ -361,55 +446,85 @@
         (2003)
     - virtualization of communities
     - cybernetics
-    - [The Californian Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
+    - [The Californian
+      Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
     - [nettime](https://www.nettime.org/info.html)
   - Ecofeminism and Cyberfeminism
     - Donna Harraway, "A Cyborg Manifesto" (1985)
     - Maria Mies and Vandana Shiva, _Ecofeminism_ (1993)
   - Katharina Pistor
     - _The Code of Capital_ (2019)
-    - ["The Laws of Capitalism"](https://www.ineteconomics.org/perspectives/videos/the-laws-of-capitalism) video series (2022) from INET
+    - ["The Laws of
+      Capitalism"](https://www.ineteconomics.org/perspectives/videos/the-laws-of-capitalism)
+      video series (2022) from INET
   - Data Asymmetry & Algorithmic Justice
-    - Leigh Dodds, ["What is data asymmetry?"](https://blog.ldodds.com/2017/03/24/what-is-data-asymmetry/)
+    - Leigh Dodds, ["What is data
+      asymmetry?"](https://blog.ldodds.com/2017/03/24/what-is-data-asymmetry/)
     - [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
     - [DAIR Institute](https://www.dair-institute.org/)
     - [Data For Black Lives](https://d4bl.org/)
     - [Algorithmic Justice League](https://www.ajl.org/)
   - Amish _Ordnung_ and technology
-    - Wikipedia: [Ordnung](https://en.wikipedia.org/wiki/Ordnung) and [Gelassenheit](https://en.wikipedia.org/wiki/Ordnung#Gelassenheit)
+    - Wikipedia: [Ordnung](https://en.wikipedia.org/wiki/Ordnung) and
+      [Gelassenheit](https://en.wikipedia.org/wiki/Ordnung#Gelassenheit)
     - _Anabaptist Historians_
-      - ["Health and Well-being in Amish Society: Assessing Cultures of Well-Being"](https://anabaptisthistorians.org/2019/07/11/health-and-well-being-in-amish-society-assessing-cultures-of-well-being/), "a panel during session three of the 2019 Amish Conference"
-      - ["Digital Mennonites"](https://anabaptisthistorians.org/2022/12/08/digital-mennonites/)
+      - ["Health and Well-being in Amish Society: Assessing Cultures of
+        Well-Being"](https://anabaptisthistorians.org/2019/07/11/health-and-well-being-in-amish-society-assessing-cultures-of-well-being/),
+        "a panel during session three of the 2019 Amish Conference"
+      - ["Digital
+        Mennonites"](https://anabaptisthistorians.org/2022/12/08/digital-mennonites/)
     - _Anabaptist World_
-      - ["Mennonite values in a warming world"](https://anabaptistworld.org/mennonite-values-warming-world/)
-      - ["Gelassenheit: A spiritual journey"](https://anabaptistworld.org/gelassenheit-a-spiritual-journey/)
-    - Lindsay Ems, [_Virtually Amish_](https://direct.mit.edu/books/oa-monograph/5347/Virtually-AmishPreserving-Community-at-the)
-      - [review of the book](https://anabaptistworld.org/tech-savvy-amish/) from _Anabaptist World_
-      - [interview with Ems in Butler student paper on food justice](https://issuu.com/butleru/docs/butler-magazine-fall_2021_web/s/13748229)
-    - [_NPR_ interview about Amish technology](https://www.npr.org/sections/alltechconsidered/2013/09/02/217287028/amish-community-not-anti-technology-just-more-thoughful) with Donald Kraybill, author of _The Amish_
-    - [_Psychology Today_](https://www.psychologytoday.com/us/blog/brainsnacks/201406/what-the-amish-can-teach-us-about-technology)
+      - ["Mennonite values in a warming
+        world"](https://anabaptistworld.org/mennonite-values-warming-world/)
+      - ["Gelassenheit: A spiritual
+        journey"](https://anabaptistworld.org/gelassenheit-a-spiritual-journey/)
+    - Lindsay Ems, [_Virtually
+      Amish_](https://direct.mit.edu/books/oa-monograph/5347/Virtually-AmishPreserving-Community-at-the)
+      - [review of the book](https://anabaptistworld.org/tech-savvy-amish/) from
+        _Anabaptist World_
+      - [interview with Ems in Butler student paper on food
+        justice](https://issuu.com/butleru/docs/butler-magazine-fall_2021_web/s/13748229)
+    - [_NPR_ interview about Amish
+      technology](https://www.npr.org/sections/alltechconsidered/2013/09/02/217287028/amish-community-not-anti-technology-just-more-thoughful)
+      with Donald Kraybill, author of _The Amish_
+    - [_Psychology
+      Today_](https://www.psychologytoday.com/us/blog/brainsnacks/201406/what-the-amish-can-teach-us-about-technology)
   - GOAT
     - Thematic history
       - 2018 Conference: how to get farmers to use FOSS?
       - 2020 Conference that never was, plus Community Food Resilience
-      - 2022 Conference: new attention to issues of justice, rights for nature and cooperative action
-        - [Session: Justice for Nature](https://forum.goatech.org/t/session-justice-for-nature/1340)
+      - 2022 Conference: new attention to issues of justice, rights for nature
+        and cooperative action
+        - [Session: Justice for
+          Nature](https://forum.goatech.org/t/session-justice-for-nature/1340)
+        - [Session: Justice for
+          Nature](https://forum.goatech.org/t/session-data-policy/1294)
       - 2023 and beyond
-        - On-going [community calls](https://forum.goatech.org/c/open-ag-technology/community-building/36) and events
-          - [Winstanley Movie Night](https://forum.goatech.org/t/2022-11-18-winstanley-movie-night-anyone/1388)
-          - [Book Club](https://forum.goatech.org/t/book-club-what-are-you-reading-this-summer/1504)
-        - [GOAT Co-op Working Group](https://forum.goatech.org/t/what-do-we-want-to-cooperate-on/1448)
+        - On-going [community
+          calls](https://forum.goatech.org/c/open-ag-technology/community-building/36)
+          and events
+          - [Winstanley Movie
+            Night](https://forum.goatech.org/t/2022-11-18-winstanley-movie-night-anyone/1388)
+          - [Book
+            Club](https://forum.goatech.org/t/book-club-what-are-you-reading-this-summer/1504)
+        - [GOAT Co-op Working
+          Group](https://forum.goatech.org/t/what-do-we-want-to-cooperate-on/1448)
         - 2024 Conference planned
     - New perspectives
       - Political anthropology: Keren Reichler & Sarah Hackfort
-      - Hope Sims, ["My experience at GOAT: a call for more open-source collaboration"](https://medium.com/carbon-a-list/my-experience-at-goat-a-call-for-more-open-source-collaboration-5e9b72fd80bd)
-      - John Bliss ["Open Technology and the Agronomic Mood Ring: Exploring Emerging Digital Agricultural Innovation"](https://www.mofga.org/resources/farming/gathering-for-open-agricultural-technology/)
+      - Hope Sims, ["My experience at GOAT: a call for more open-source
+        collaboration"](https://medium.com/carbon-a-list/my-experience-at-goat-a-call-for-more-open-source-collaboration-5e9b72fd80bd)
+      - John Bliss ["Open Technology and the Agronomic Mood Ring: Exploring
+        Emerging Digital Agricultural
+        Innovation"](https://www.mofga.org/resources/farming/gathering-for-open-agricultural-technology/)
   - Convergence of Food & Data Sovereignty Movements
-    - [Community Food Resilience](https://forum.goatech.org/t/informatics-for-community-food-resilience-in-times-of-pandemic-and-beyond/833)
+    - [Community Food
+      Resilience](https://forum.goatech.org/t/informatics-for-community-food-resilience-in-times-of-pandemic-and-beyond/833)
     - Skywoman
     - Open Environmental Data Project's symposia
     - ETC Group's research and advocacy
-    - CSIPM's webinar: "The impacts of digitalization on food systems and family farming"
+    - CSIPM's webinar: "The impacts of digitalization on food systems and family
+      farming"
     - [P2P Foundation](https://p2pfoundation.net/)
     - Permacomputing
     - Computing Within Limits
@@ -417,16 +532,23 @@
       sovereignty?"](https://flint-cornucopia-f94.notion.site/How-can-agricultural-data-be-used-for-food-sovereignty-da114f540629434f868c3a250f710579#60243f83942043a9bfffe457cf405c69)
     - CSIPM [reports](https://www.etcgroup.org/reports) and [Data Working
       Group](https://www.csm4cfs.org/policy-working-groups/data/)
-    - [Ag Data Oath of Care](https://openteamag.gitlab.io/codesign/oath-of-care/)
+    - [Ag Data Oath of
+      Care](https://openteamag.gitlab.io/codesign/oath-of-care/)
     - CARE Principles & appropriate technologies
     - [L'Atelier Paysan](https://latelierpaysan.org/)
     - [Data Trusts &
       Cooperatives](https://www.adalovelaceinstitute.org/report/legal-mechanisms-data-stewardship/),
       like [Farmers Regen Mutual (AU)](https://regenfarmersmutual.com/) and
       [JoinData (NL)](https://join-data.nl/)
-    - [IT for Change](https://itforchange.net/) essay series: [_State of Big Tech 2022: Dismantling Digital Enclosures_](https://projects.itforchange.net/state-of-big-tech/)
-      -  Felix Maschewski and Anna-Verena Nosthoff, ["Big Tech and the Smartification of Agriculture"](https://projects.itforchange.net/state-of-big-tech/big-tech-and-the-smartification-of-agriculture-a-critical-perspective/)
-      -  Sofía Monsalve Suárez and Philip Seufert, ["The Big Tech Takeover of Food Systems in Latin America: Elements for a Human Rights-based Alternative"](https://projects.itforchange.net/state-of-big-tech/agritech-and-food-systems-in-latin-america-corporate-takeover-and-elements-for-a-human-rights-based-alternative/)
+    - [IT for Change](https://itforchange.net/) essay series: [_State of Big
+      Tech 2022: Dismantling Digital
+      Enclosures_](https://projects.itforchange.net/state-of-big-tech/)
+      -  Felix Maschewski and Anna-Verena Nosthoff, ["Big Tech and the
+         Smartification of
+         Agriculture"](https://projects.itforchange.net/state-of-big-tech/big-tech-and-the-smartification-of-agriculture-a-critical-perspective/)
+      -  Sofía Monsalve Suárez and Philip Seufert, ["The Big Tech Takeover of
+         Food Systems in Latin America: Elements for a Human Rights-based
+         Alternative"](https://projects.itforchange.net/state-of-big-tech/agritech-and-food-systems-in-latin-america-corporate-takeover-and-elements-for-a-human-rights-based-alternative/)
    -  Platform Coops
       -  Trevor Scholz & Nathan Schneider (eds.), [_Ours to Hack and
          Own_](https://www.orbooks.com/catalog/ours-to-hack-and-to-own/)
@@ -434,24 +556,41 @@
       -  James Muldoon, [_Platform Socialism: How to Reclaim our Digital Future
          from Big
          Tech_](https://www.plutobooks.com/9780745346953/platform-socialism/)
-   -  [_Pluriverse: A Post-Development Dictionary_](https://degrowth.org/2018/04/14/new-book-pluriverse-a-post-development-dictionary/)
+   -  [_Pluriverse: A Post-Development
+      Dictionary_](https://degrowth.org/2018/04/14/new-book-pluriverse-a-post-development-dictionary/)
   - International Peasants' Movement
     - [La Via Campesina](https://viacampesina.org/)
-    - [_Declaration of Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
-    - Principle of [_buen vivir_](https://rapidtransition.org/stories/the-rights-of-nature-in-bolivia-and-ecuador/) or “Sumak Kawsay”
-    - [Cecosesola](https://www.bollier.org/blog/cecosesola-venezuela-wins-right-livelihood-award), Venezuelan cooperative
+    - [_Declaration of
+      Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
+    - Principle of [_buen
+      vivir_](https://rapidtransition.org/stories/the-rights-of-nature-in-bolivia-and-ecuador/)
+      or “Sumak Kawsay”
+    - [Cecosesola](https://www.bollier.org/blog/cecosesola-venezuela-wins-right-livelihood-award),
+      Venezuelan cooperative
     - _A Growing Culture_
     - peasant food webs
-  - [Rights of Nature](https://intercontinentalcry.org/rights-nature-indigenous-philosophies-reframing-law/)
-    - Christopher Stone, ["Should Trees Have Legal Standing?"](https://iseethics.files.wordpress.com/2013/02/stone-christopher-d-should-trees-have-standing.pdf) (1972)
-    - Aikaterini Argyrou & Harry Hummels, ["Legal personality and economic livelihood of the Whanganui River: a call for community entrepreneurship"](https://doi.org/10.1080/02508060.2019.1643525) (2019)
-    - ["Rights of Nature and Ecocentrism in Chile’s Constitution"](https://www.earthlawcenter.org/chile) (2022, Earth Law Center)
+  - [Rights of
+    Nature](https://intercontinentalcry.org/rights-nature-indigenous-philosophies-reframing-law/)
+    - Christopher Stone, ["Should Trees Have Legal
+      Standing?"](https://iseethics.files.wordpress.com/2013/02/stone-christopher-d-should-trees-have-standing.pdf)
+      (1972)
+    - Aikaterini Argyrou & Harry Hummels, ["Legal personality and economic
+      livelihood of the Whanganui River: a call for community
+      entrepreneurship"](https://doi.org/10.1080/02508060.2019.1643525) (2019)
+    - ["Rights of Nature and Ecocentrism in Chile’s
+      Constitution"](https://www.earthlawcenter.org/chile) (2022, Earth Law
+      Center)
   - Academia
-    - Sci-Hub, [Monoskop](https://monoskop.org/About_Monoskop) & other [shadow libraries](https://monoskop.org/Shadow_libraries)
-    - Stefano Harney & Fred Moten, [_The Undercommons_](https://textz.com/textz/The%20Undercommons.pdf)
+    - Sci-Hub, [Monoskop](https://monoskop.org/About_Monoskop) & other [shadow
+      libraries](https://monoskop.org/Shadow_libraries)
+    - Stefano Harney & Fred Moten, [_The
+      Undercommons_](https://textz.com/textz/The%20Undercommons.pdf)
   - Protest, Direct Action & Revolution
     - Municipios Autónomos Rebeldes Zapatistas (MAREZ) in Chiapas, MX
-    - [Movement for the Survival of the Ogoni People](https://en.wikipedia.org/wiki/Movement_for_the_Survival_of_the_Ogoni_People)
+    - [Movement for the Survival of the Ogoni
+      People](https://en.wikipedia.org/wiki/Movement_for_the_Survival_of_the_Ogoni_People)
     - Autonomous Administration of North and East Syria (AANES, aka Rojava)
-    - Indigenous [water protectors](https://theworld.org/stories/2016-10-31/standing-rock-activists-dont-call-us-protesters-were-water-protectors) & land defenders
+    - Indigenous [water
+      protectors](https://theworld.org/stories/2016-10-31/standing-rock-activists-dont-call-us-protesters-were-water-protectors)
+      & land defenders
     - Social Ecology, Municipalism and Dual Power

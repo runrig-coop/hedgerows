@@ -1,7 +1,7 @@
 ---
 path: "/hedgerows-draft"
 date: "2023-10-08"
-title: "Hedgerows in the Sky: A Tale of Two Commons"
+title: "Hedgerows in the Sky"
 subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 ---
 

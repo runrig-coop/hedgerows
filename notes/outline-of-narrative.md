@@ -1,4 +1,13 @@
 # Outline of the Main Narrative
+__NOTE:__ I now expect to break up the narrative (and accordingly this outline)
+into 4 separate essays, something along these lines:
+
+- My Road to the Free Software Movement
+- My Road to the Local Food Movement
+- The Deeper History of the Commons & Enclosure
+- Renewing the Call for a Commons in Food, Land & Technology
+
+## Original Outline
 - Intro
   - Main thesis
 - My FOSS narrative: from now BACKWARD to early 2000's

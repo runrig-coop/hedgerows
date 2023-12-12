@@ -172,7 +172,9 @@
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and
       Stiglitz on information asymmetries (see further below), as well as Sen.
     - Amartya Sen & Martha Nussbaum's work on [capability
-      approach](https://en.wikipedia.org/wiki/Capability_approach) to 
+      approach](https://en.wikipedia.org/wiki/Capability_approach) to theories
+      of liberty and justice
+        - See also Luis Villa's application of their capability approach to FOSS
     - Margaret Jane Radin
       - _Contested Commodities_
       - ["Market-Inalienability"](https://people.brandeis.edu/~teuber/Radin-Market-Inalienability.pdf)
@@ -562,9 +564,10 @@
     - [La Via Campesina](https://viacampesina.org/)
     - [_Declaration of
       Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
-    - Principle of [_buen
-      vivir_](https://rapidtransition.org/stories/the-rights-of-nature-in-bolivia-and-ecuador/)
-      or “Sumak Kawsay”
+    - Principle of [_Buen
+      Vivir_](https://rapidtransition.org/stories/the-rights-of-nature-in-bolivia-and-ecuador/),
+      or [_Sumak Kawsay_
+      ](https://www.socioeco.org/bdf_fiche-document-5248_en.html)in Kichwa
     - [Cecosesola](https://www.bollier.org/blog/cecosesola-venezuela-wins-right-livelihood-award),
       Venezuelan cooperative
     - _A Growing Culture_

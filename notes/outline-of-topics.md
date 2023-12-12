@@ -388,6 +388,111 @@
       like real property. Likewise, tangible things are viewed as substantively
       different from information and their informational component is either
       minimized or overlooked entirely.
+- Arab Spring
+  - Proclaimers of the "Twitter Revolution" & its detractors (Gladwell et al.)
+    - Gladwell, ["Small Change: Why the revolution will not be
+      tweeted"](https://web.archive.org/web/20110223072553/http://www.newyorker.com/reporting/2010/10/04/101004fa_fact_gladwell?currentPage=all)
+      (Oct 2010)
+    - Gladwell, ["Does Egypt Need
+      Twitter?"](https://web.archive.org/web/20110223083802/http://www.newyorker.com/online/blogs/newsdesk/2011/02/does-egypt-need-twitter.html)
+      (Feb 2011)
+    - Black Hounshell ["The Revolution Will Be Tweeted: Life in the vanguard of
+      the new Twitter
+      proletariat."](https://foreignpolicy.com/2011/06/20/the-revolution-will-be-tweeted/)
+    - ["'The Daily Show' Takes On The Role Of Social Media In The Egyptian
+      Uprising"](https://techcrunch.com/2011/01/28/egypt/#ooid=d0MGgwMjrtm0rSeX9bTc29IpE0zQQ1Rj)
+    - Ethan Zuckerman, ["The First Twitter
+      Revolution?"](https://web.archive.org/web/20110326152234/http://www.foreignpolicy.com/articles/2011/01/14/the_first_twitter_revolution?page=full)
+  - Zeynep Tufekci
+    - [_Twitter and Tear Gas_](https://www.twitterandteargas.org/) (2017)
+    - ["New Media and the People-Powered
+      Uprisings"](https://www.technologyreview.com/2011/08/30/191614/new-media-and-the-people-powered-uprisings/),
+      _MIT Technology Review_ (Aug 30, 2011)
+    - ["Social Media and the Decision to Participate in Political Protest:
+      Observations From Tahrir
+      Square"](https://doi.org/10.1111/j.1460-2466.2012.01629.x) (2012, with
+      Christopher Wilson,
+      [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ff3dc99b64ed951801b3e2a27f39167cf97181b0))
+    - [_Technosociology_](https://technosociology.org/) (blog)
+      - ["As Egypt Shuts off the Net: Seven Theses on Dictator’s
+        Dilemma"](https://technosociology.org/?p=286) (Jan 28, 2011)
+      - ["Journalism, Social Media and Packs & Cascades: Lessons from an
+        Error"](https://technosociology.org/?p=638), includes critique of media
+        coverage on Alaa Abd El-Fatah (Nov 30, 2011)
+      - ["Interview with Alaa Abd El-Fatah about his Mom, Laila
+        Suief"](https://technosociology.org/?p=488) (Jun 13, 2011)
+      - ["Tunisia, Twitter, Aristotle, Social Media and Final and Efficient
+        Causes"](https://technosociology.org/?p=263) (Jan 15, 2011)
+      - ["Notes on Amina, Facebook and the Reverse Tragedy of Commons:
+        Pseudonymity under Repressive
+        Conditions"](https://technosociology.org/?p=481) (Jun 9, 2011)
+      - ["Wikileaks is not about secret information; it’s about insiders versus
+        outsiders"](https://technosociology.org/?p=220) (Dec 9, 2010)
+      - ["What Gladwell Gets Wrong: The Real Problem is Scale Mismatch (Plus,
+        Weak and Strong Ties are Complementary and
+        Supportive)"](https://technosociology.org/?p=178) (Sep 27, 2010)
+  - [Alaa Abd El-Fatah](https://en.wikipedia.org/wiki/Alaa_Abd_El-Fattah)
+    - [Egyptian GNU/Linux Users Group
+      (EGLUG)](https://web.archive.org/web/20040828035507/http://eglug.org/)
+    - Ethan Zuckerman, ["Arabization - It's hard than just right to
+      left"](https://web.archive.org/web/20060514115302/http://www.worldchanging.com/archives/001773.html)
+      (Dec 2004)
+      - > Alaa Abd El Fatah, a brilliant Arabization geek and a member of EGLUG,
+        > the Cairo-based Egyptian Linux Users' Group, is helping to translate a
+        > series of introductions to open source software being developed by
+        > EGLUG partners in the colloquial arabic spoken in Egypt, rather than
+        > the classical arabic understood throughout the region. It's more
+        > readable and accessible to the Egyptians he's trying to convert to the
+        > Open Source cause, but it's hard for people outside the country to
+        > understand.
+    - Ethan Zuckerman, ["Egyptian Blogger detained for participating in peaceful
+      protest"](https://web.archive.org/web/20111126023403/http://www.ethanzuckerman.com/blog/2006/05/08/egyptian-blogger-detained-for-participating-in-peaceful-protest/)
+      (May 2006)
+  - Hossam el-Hamalawy and other Egyptian bloggers/journalists
+    - Hossam el-Hamalawy, ["Egypt's revolution has been 10 years in the
+      making"](https://www.theguardian.com/commentisfree/2011/mar/02/egypt-revolution-mubarak-wall-of-fear)
+      (Mar 2011)
+    - Salma Shukrallah, ["Egyptian journalists to be
+      questioned"](https://english.ahram.org.eg/~/NewsContent/1/64/13270/Egypt/Politics-/Egyptian-journalists-to-be-questioned-tomorrow-by-.aspx)
+      (May 2011)
+    - ["Revolution 2.0: Interview with Hossam
+      el-Hamalawy"](https://mronline.org/2011/02/08/revolution-2-0-interview-with-hossam-el-hamalawy/)
+      (Feb 2011)
+    - ["Bloggers say Egypt’s revolution not just about tweeting. What is it
+      about, then?"](https://english.alarabiya.net/articles/2011/07/25/159176)
+    - ["Google worker is Egypt’s Facebook
+      hero"](https://web.archive.org/web/20110211114530/http://www.ft.com/cms/s/0/e41c5faa-3475-11e0-9ebc-00144feabdc0.html#axzz1DfvBdbyf)
+    - Wael Khalil, ["Why we are holding Egypt's second 'Friday of
+      rage'"](https://www.theguardian.com/commentisfree/2011/may/27/egypt-second-friday-of-rage)
+    - ["10 must-read blogs from the Middle
+      East"](http://edition.cnn.com/2011/WORLD/meast/04/14/bloggers.middle.east/index.html)
+  - [April 6 Youth
+    Movement](https://en.wikipedia.org/wiki/April_6_Youth_Movement)
+    - Influence of the Serbian [Otpor!](https://en.wikipedia.org/wiki/Otpor!)
+      movement, both on A6YM's logo and its use of communications technology,
+      particularly via [Mohammed
+      Adel](https://en.wikipedia.org/wiki/Mohammed_Adel), who trained at
+      Otpor!'s [Centre for Applied Nonviolent Action and
+      Strategies](https://en.wikipedia.org/wiki/Centre_for_Applied_Nonviolent_Action_and_Strategies).
+      Otpor! had a similar influence on the Ukranian
+      [Pora!](https://en.wikipedia.org/wiki/PORA) movement and its use of mobile
+      phones and other technology during the Orange Revolution of 2004.
+    - Democracy Now!, ["From Tahrir to Wall Street: Egyptian Revolutionary Asmaa
+      Mahfouz Speaks at Occupy Wall
+      Street"](https://www.democracynow.org/2011/10/25/from_tahrir_to_wall_street_egyptian)
+  - Wikipedia, ["Timeline of the Arab
+    Spring"](https://en.wikipedia.org/wiki/Timeline_of_the_Arab_Spring)
+- Occupy & SOPA/PIPA
+  - Wikipedia, ["Timeline of Occupy Wall
+    Street"](https://en.wikipedia.org/wiki/Timeline_of_Occupy_Wall_Street)
+  - [NYT timeline of events on Nov
+    15](https://web.archive.org/web/20111120021847/http://cityroom.blogs.nytimes.com/2011/11/15/updates-on-the-clearing-of-zuccotti-park/?ref=nyregion)
+  - [WCBS 880 AM on the raid, w/ photos from Sean Adams who reported
+    overnight](https://www.cbsnews.com/newyork/pictures/nypd-raid-on-zuccotti-park/)
+  - [State Supreme Court Justice Lucy Billings issues temporary restraining
+    order](https://observer.com/2011/11/more-on-the-temporary-restraining-order-against-police-at-zuccotti-park/)
+  - Wikipedia, ["Protests against SOPA and
+    PIPA"](https://en.wikipedia.org/wiki/Protests_against_SOPA_and_PIPA)
 - Beyond FOSS
   - Luis Villa
     - ["Free as

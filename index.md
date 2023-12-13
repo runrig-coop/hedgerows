@@ -103,6 +103,12 @@ or destroying it.[^jus] What I struggled with most was how the entitlement to
 use an asset and its products differed substantially from the right to sell or
 consume it. Weren't those just other ways to use it? It seemed redundant.
 
+<!-- TODO: Can abusus be interpreted as the right to transfer or amend one's
+rights to the other two rights? Does it only apply to real property in the sense
+of land or other immovable assets? Does it hold any distinctions for things
+traditionally deemed a natural resource or product of nature, rather than
+man-made products? -->
+
 [^jus]: In civil or Roman law, the Latin terms would translate:
     [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
     "right to [one's] own thing";

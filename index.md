@@ -89,8 +89,8 @@ proposed that technology should seek to expand access to nature and never
 restrict it. That did not mean access solely for the individual user, or even
 all humanity, but for every living thing on the planet. Her remarks struck me
 like a bolt, catalyzing an array of ideas that had been swimming around my head
-over the last three days, finally snapping them into place. As I struggled to
-articulate all of it, I asked to read aloud some antiquated English folk poetry,
+over the last three days, finally snapping them into place. I struggled to
+articulate it, so I asked to read aloud some antiquated English folk poetry,
 which I'd been mulling over earlier in the week.
 
 [^Genna]: https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/
@@ -109,19 +109,19 @@ and its eventual enclosure. More recently I was reminded of the poem when
 Linebaugh recited it once again in an interview with David Bollier, a fact I
 would soon come to realize was no coincidence.
 
-Genna's comments fused together the final conceptual links between enclosure —
-as a plain matter of historical record — and the more erudite legal and
-socioeconomic theories I'd been reading about but struggling to grasp. I
-couldn't really get my head around the principle of "usufruct" and its
-distinction from real property rights (_jus in re propria_). Usufruct grants the
-rightsholder both the free use and benefits or gains of an asset. These are
-termed _usus_ and _fructus_ respectively in civil law; hence, _usufruct_. Real
-property ownership grants all of that plus the right to dispose of the asset
-(_abusus_) however one sees fit. That can include consuming, selling,
-irrevocably modifying or destroying it.[^jus] What I struggled with most was how
-the entitlement to use an asset and its products differed substantially from the
-right to sell or consume it. Weren't those just other ways to use it? It seemed
-redundant.
+Genna's comments fused together the final conceptual links between enclosure,
+which though obscure is at least a fairly plain matter of historical record,
+and the more erudite legal and socioeconomic theories I'd been reading about but
+struggling to grasp. I couldn't really get my head around the principle of
+"usufruct" and its distinction from real property rights (_jus in re propria_).
+Usufruct grants the rightsholder both the free use of an asset as well as the
+profits or other material gains that arise from it. These are termed _usus_ and
+_fructus_ in civil law, respectively, and hence _usufruct_. Real property
+ownership grants all of that plus the right to dispose of the asset (_abusus_)
+however one sees fit. That can include consuming, selling, irrevocably modifying
+or destroying it.[^jus] What I struggled with most was how the entitlement to
+use an asset and its products differed substantially from the right to sell or
+consume it. Weren't those just other ways to use it? It seemed redundant.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
     [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
@@ -133,7 +133,7 @@ redundant.
 Now when I thought about it in the light of universal access to nature, I
 remembered the other term for this third right: _alienation_. In a strictly
 legal sense, to alienate an asset carries little further significance than to
-"dispose of" it, but in a sociological context or in simple parlance, alienation
+"dispose of" it, but in a sociological context or in plain parlance, alienation
 imbues a psychological or spiritual effect. That sense seems all the more acute
 when the thing you are alienating is nature itself, even if just a part of it.
 There is reciprocity between us and nature, a two-way subjectivity that
@@ -175,8 +175,7 @@ final stanza:
 > And geese will still a common lack  
 > Till they go and steal it back.  
 
-If we were to heed their call, how would we begin levelling today's
-hedgerows?
+If we were to heed their call, how would we begin levelling today's hedgerows?
 
 ## The Forgotten Enclosures
 I was a bit surprised to realize my ignorance of the parallels between modern

@@ -14,9 +14,27 @@ covering some of the more recent theory on the commons as well as the current
 developments of the food and tech sovereignty movements and how they are
 discovering new synergies for restoring the commons in the future.
 
+I'm including a short abstract for each part below, followed by its outline.
+
 ### Part 1: Concerning knowledge enclosures and how they may be truly leveled
-- Intro
-  - ???
+The connections between free and open source software (FOSS) and sustainable
+farming movements are examined by looking at the practical and metaphorical use
+of historical techniques of commoning[^commoning] that each has alternatively
+employed or discarded within their respective movements. While the free software
+community has been far more explicit in embracing the commons since its
+inception, it has narrowed the permissable scope of the "commonable" to what is
+strictly abstract and ephemeral: namely, information. A historiography of land
+enclosure is then recounted, showing how this critical counterpart to the
+commons has been ignored or forgotten in its more recent depictions. Viewed as a
+proxy for the physical and contingent aspects of the commons, and how the
+commons can be lost if collective vigilance is not paid, the history of
+political resistance to enclosure can be instructive for how the commons might
+be restored today.
+
+[^commoning]: I.e., the traditional forms of communal land tenure once
+    prevalent in England and Europe from at least the 12th through 18th
+    centuries.
+
 - The Stolen Commons
   - GOAT 2022: access to nature
   - Stealing the commons from off the goose
@@ -35,6 +53,19 @@ discovering new synergies for restoring the commons in the future.
   - Next time: How did U.S. farmers and conservationists lose sight the commons?
 
 ### Part 2: A tale of two movements
+The notion of the commons was conspicuously absent from the discourse of the
+slow food movement and sustainable agriculture in the U.S. during the Clinton-Bush years. Even as more antiquated and provincial modes of producing and consuming
+food came into vogue, the "locavore" and small family farming movements adhered
+more closely to a characteristically American narrative of the homesteader or
+the "rock-star" chef, an individualistic and isolationist stance that is sharply
+at odds with the historical (or the contemporary majority world's) model of
+smallholder farming and traditional foodways. It was left to more radical voices
+emerging from the Occupy and hacktivist movements in the early- to mid-2010's to
+breathe new life into a vision for the commons in America. Meanwhile, the rest
+of the world never gave up the fight, and the resultant food sovereignty
+movement and peasant food webs are finally getting the attention of some of us
+here in the Northern Hemisphere.
+
 - The Market is No Place for the Commons
   - 2014: [Pop-up classes](https://www.ediblemanhattan.com/uncategorized/brain-food/) & giving Greenmarket tours to The New School's Food Studies program
   - 2005: Answering a Craigslist ad as a college sophomore to work in the local food movement
@@ -55,6 +86,18 @@ discovering new synergies for restoring the commons in the future.
     Network](https://www.dbcfsn.org/detroitfoodcommons)
 
 ### Part 3: Towards the unified commons of food, land, and technology
+The commons never went away; many ways of practicing, thinking and writing about
+the commons were always there, even in the U.S. and Europe, if you knew where to
+look: from the Fourierists and Owenites of the 19th century and Georgists of the
+Progressive Era, to the Marxian economists and historians of the Cold War Era
+and the proponents of degrowth and municipalism who are still active today. No
+critique of these movements' lasting impacts or full potentiality would be
+complete, however, without a deep understanding of how enclosure has been
+carried out on a mass scale in the form of Western Colonialism. The
+ramifications touch upon food, land use, technology and the information economy
+and show how the commons must be reconceived as encompassing all forms of
+resource allocation if its restoration is to be achieved in our lifetimes.
+
 - Late 19th & 20th c. re-examination of the commons
   - Henry George's _Progress & Poverty_
   - Marxian interpretations

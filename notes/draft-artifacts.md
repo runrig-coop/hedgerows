@@ -63,6 +63,45 @@ ill-equipped to speak to that vast history of struggle.
     late as Stalin's collectivization ("Property in Land" p. 1393)
 
 
+## Twitter Revolutions, _Revolution OS_, and Helicopters at 1am
+The Free Culture Movement, or the principles it advocated for, were at least on
+my radar throughout the aughts. This was out of naked self-interest if nothing
+else. I was a broke 20-something, trying to make rent on my Loisaida apartment
+while struggling first to get through college and then through a global
+recession. I also had a taste for obscure music and films, and in that
+primordial age before Spotify and Netflix, torrenting was my best if not only
+option. Somewhere between late 2011 and early 2012, however, I gained a whole
+new appreciation for the meaning of information freedom.
+
+In the early hours of November 15, 2011, I woke up to the sound of many, many
+helicopters flying low and fast over Manhattan, their powerful spotlights
+strobing across my bedroom window. The occasional late night NYPD chopper was
+nothing out of the ordinary in Bloomberg's cleaner, friendlier, post-9/11 New
+York City, but this was another level of intensity. It took a few unsuccessful
+attempts to fall back asleep before I realized where they were likely heading.
+The commotion had woken my roommate, too, so we went to the roof for a better
+look. There wasn't much to see, just the lights from a dozen or more helicopters
+scanning the rooftops and empty city streets, mostly concentrated about a mile
+and a half south of us. Still, we knew what it meant: they were raiding the
+encampment in Zuccotti Park. The cops, the bankers and their good pal the mayor
+had all had enough, and they were finally putting an end to Occupy Wall Street.
+
+Like a lot of New Yorkers, I had been quietly supportive of the movement, joined
+a couple rallies when it seemed convenient, but didn't guess it posed much of a
+threat to the halls of power — and that was too bad. This reaction seemed
+entirely out of proportion though. In the weeks that followed, I learned plenty
+that made me think maybe powerful people did have some reason to worry: there
+was the vast sum of money anonymously donated to police union in the weeks prior
+to the raid; the restraining order issued by State Supreme Court Justice Lucy
+Billings and the cavalier way it was ignored by Bloomberg and the cops; the
+brazen assaults against members of the press; just the sheer expenditure of
+resources and the political gamble they were willing to take to stamp it out
+once and for all. Something clearly made them rate Occupy more of a threat than
+I had.
+
+While those impressions were still fresh, SOPA/PIPA...
+
+
 ## Stealing the Commons from off the Goose
 via James Boyle's 2003 ["The Second Enclosure Movement and the Construction of
 the Public Domain"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):

@@ -45,10 +45,11 @@ argued that a kernel of communal land practice held out until the Soviet Union
 undertook collectivization in the 1920's. In Mexico, the revolutionary
 Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established
 the system of _ejidos_. These remained largely in tact until the relevant
-articles were repealed from the constitution at the behest of neoliberal policy
-makers as a prerequisite to joining NAFTA. The Zapatista uprising was launched
-the day NAFTA took effect on January 1, 1994, and to this day the EZLN defends
-the _ejidos_ of Chiapas from further enclosures. This is all to say nothing of
+articles of the constitution, which blocked the sale of communal lands to
+foreign investors, were repealed at the behest of neoliberal policy makers in
+the interest of ratifying NAFTA. The Zapatista uprising was launched the day
+NAFTA took effect on January 1, 1994, and to this day the EZLN defends the
+communal lands of Chiapas from further enclosures. This is all to say nothing of
 the indigenous land practices which have successfully resisted colonial
 encroachment and land enclosures for centuries across the globe, but I feel
 ill-equipped to speak to that vast history of struggle.

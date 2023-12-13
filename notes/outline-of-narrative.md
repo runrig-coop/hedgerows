@@ -112,12 +112,12 @@ resource allocation if its restoration is to be achieved in our lifetimes.
   - Judith Carney's _Black Rice_
   - Bollier/Pollan on USDA Organics
   - Vandana Shiva's _Biopiracy_
-- The Limits of a Liberal Theory of the Commons
+- The Limits of a Liberal Theory of the Commons (might get rid of this section)
   - GOAT 2022's "Data Policy" session and data rights like water rights
   - Maya Cohen's article, data stewardship & the right to exclude
   - The Commons (CPR) v. Open-access Regimes v. Public Goods
   - The post-Cold War "end of history" and other forms of near-sightedness
-- Going forward
+- What Is to Be Done?
   - GOAT 2024
   - Runrig
 

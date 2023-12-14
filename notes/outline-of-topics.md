@@ -6,13 +6,14 @@
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
 - Appropriation of agricultural knowledge, expertise and technology
-  - Vandana Siva
+  - Vandana Shiva
     - ["Agricultural Biodiversity, Intellectual Property Rights and Farmers'
       Rights"](https://www.jstor.org/stable/4404305) (1996)
     - [_Biopiracy: the Plunder of Nature and
       Knowledge_](https://archive.org/details/isbn_9780896085565) (1997)
     - [_Stolen Harvest: The Hijacking of the Global Food
       Supply_](https://archive.org/details/stolenharvesthij00shiv) (2000)
+    - Navdanya, ["Biopiracy Campaign"](https://navdanya.org/biopiracy-campaign-1)
   - Globalization and intellectual property expansion
     - [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement)
     - [General Agreement on Tariffs and Trade

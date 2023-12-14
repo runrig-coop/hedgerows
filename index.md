@@ -294,5 +294,22 @@ Boyle's essay on enclosure. However, in the open source communities I came to
 know, a much less nuanced understanding of the commons seemed to pervade, at
 least through the mid 2010's. If the physical cables and servers that hosted all
 that information were acknowledged at all, it was taken for granted, almost as
-an incontrovertible fact of nature. Besides, the physical stuff didn't really
-matter anyways. Information still wants to be free.
+an incontrovertible fact of nature. Information is beyond the encumbrances of
+the physical world. Information, after all, wants to be free.
+
+## The Commons that Never Were Enclosed
+Roughly a decade before Benkler, Boyle and Bollier started comparing the DMCA
+and Sonny Bono Act of 1998 with the English Acts of Inclosure from the 18th
+century, the expansion of intellectual property rights had already been
+characterized as a form of enclosure from a different field of critical study.
+In this case, the charge was leveled against the Agreement on Trade-Related
+Aspects of Intellectual Property Rights, or TRIPS, which was signed in 1994 as a
+part of the suite of international treaties and free trade agreements that
+heralded the advent of the World Trade Organization (WTO). The criticism didn't
+come from a group of U.S. East Coast law professors, but from Navdanya, an
+organization of indigenous rights activists, ecofeminists, scientists, and
+peasant farmers from Uttar Pradesh, India, led by Dr. Vandana
+Shiva.[^biopiracy-campaign]
+
+[^biopiracy-campaign]: Navdanya, ["Biopiracy
+    Campaign"](https://navdanya.org/biopiracy-campaign-1)

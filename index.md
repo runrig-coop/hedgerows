@@ -74,11 +74,15 @@ which I'd been mulling over earlier in the week.
 I'd first heard these anonymous lines in an interview with historian Peter
 Linebaugh, commemorating the 800th anniversary of _Magna Carta_. He was
 discussing its lesser known companion, the _Charter of the Forest_, which
-enshrined the peasantry's rights to forage and graze their animals on common
-lands. It was the first time I'd heard the longer history of the English commons
-and its eventual enclosure. More recently I was reminded of the poem when
-Linebaugh recited it once again in an interview with David Bollier, a fact I
-would soon come to realize was no coincidence.
+protected the peasantry's rights to forage and graze their animals on common
+lands. It was the first time I'd heard the longer history of the English
+commons, how it was enshrined in the English constitution and only phased out by
+a gradual process called enclosure that took centuries to complete. Enclosure is
+exactly what it sounds like: closing off common pasture or forest by means of
+fences, hedges or by blocking roads so that it's no longer accessible to the
+common peasantry. More recently I was reminded of the poem when Linebaugh
+recited it once again in an interview with David Bollier, a fact I would soon
+come to realize was no coincidence.
 
 Genna's comments fused together the final conceptual links between enclosure,
 which though obscure is at least a fairly plain matter of historical record,

@@ -6,38 +6,9 @@ subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 ---
 
 # Hedgerows in the Sky
-Today in 2023, the food sovereignty and tech sovereignty movements are united in
-the call for more cooperative production methods and a commitment to common-pool
-resources. There is an increasing degree of interchange and direct collaboration
-between their communities, and clear parallels can be drawn between their
-respective practices. One can compare collectivized farm management to
-cooperative data trusts; free fridges and other mutual aid food programs to the
-communal administration of decentralized social media networks; sliding scale
-food coops or CSA solidarity shares to software projects sponsored through
-Liberapay, OpenCollective, donate buttons or some combination of crowdfunding
-mechanisms.
+When I tell people I make free and open source software (FOSS) for farmers...
 
-Turn back the clock by ten or twenty years, however, and those correspondences
-were not as conspicuous. While notions of collective autonomy can be insinuated
-from the local food and free-culture movements of that era, and indeed many
-practitioners were already formulating those concepts within their respective
-disciplines, neither food sovereignty nor tech sovereignty had yet gained much
-popular recognition. Accordingly, there was very little dialogue between the two
-movements, with few opportunities for their divergent fields to collaborate,
-share resources or swap notes. The small farming and local food movements of
-that era fixated on what was near-at-hand, low-tech, organic, provincial and
-professedly slow. Meanwhile, the free-culture and open source movements set
-their gaze on global streams of non-rivalrous information, liberated by their
-abstractness and cutting-edge technology to travel across all borders,
-effortlessly and instantaneously.
-
-This article will examine the convergent evolution of these two movements by
-surveying the relevant technological milestones and sociopolitical developments
-of the intervening years. For a more subjective view, I offer the story of my
-own encounters with each of these movements, while also situating them within
-the longer history of agriculture, information technology and the Commons.
-Finally, I'll reflect on the latest initiatives that have emerged through their
-union and what synergies remain to be explored.
+<!-- TODO: Introduction -->
 
 ## The Stolen Commons
 A little over a year ago, I sat with a dozen or so engineers, agronomists,

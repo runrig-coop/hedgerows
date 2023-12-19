@@ -175,9 +175,9 @@ DMCA was used first to pull the plug on Napster in 2001, followed by its many
 file-sharing successors in a decade-long game of whack-a-mole with the RIAA and
 MPAA. This was the heyday of the Free Culture Movement. Its unofficial motto,
 "Information wants to be free," resonated with anyone who got a cease-and-desist
-letter from their ISP (myself included) or who merely saw the futility of police
-raids on sites like The Pirate Bay, when they'd just be back up and running
-within a day or two.
+letter from their Internet provider (myself included) or who merely saw the
+futility of police raids on sites like The Pirate Bay, when they'd just be back
+up and running within a day or two.
 
 Among the Free Culture Movement's coterie of legal scholars, Lawrence Lessig and
 Yochai Benkler were arguably its most visible champions, both hailing from
@@ -229,7 +229,7 @@ movement together with this "second enclosure movement," as Boyle calls it.
 
 Boyle also names the aforementioned David Bollier, who would eventually
 reintroduce me to Peter Linebaugh's work, but who was also quite active in the
-early days of the "blogosphere" and advocating for internet freedom. While he
+early days of the "blogosphere" and advocating for Internet freedom. While he
 was not an IP lawyer, he was the co-founder of the advocacy organizations Public
 Knowledge and Commons Strategies Group, and today is Director of the Reinventing
 the Commons Program at the Schumacher Center for a New Economics. In these

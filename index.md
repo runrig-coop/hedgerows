@@ -280,26 +280,53 @@ of the commons, the adversarial role of markets is conveniently ignored:
 > entitlement to privatize clean air and water, public spaces, and even shared
 > images and words.
 
-I would add that downplaying enclosure reframes the argument for a knowledge
-commons primarily in the terms of abstract laws and protocols, while its
-physical aspects are downplayed or left wholly unconsidered. The hardware and
-infrastructure required to store and move information are treated as a mere
-accident or technical detail, something to be worked around in policy. Even in
-the enforcement and extension of IP law, there was a limit to what could be done
-to physically enable or thwart the flow of information, as the Swedish police
-who raided The Pirate Bay learned soon after. Reading their work more closely
-now, I don't believe either Benkler or Lessig were arguing that these physical
-aspects did not matter. In _The Wealth of Networks_, Benkler provides a truly
-insightful table that breaks down different forms of enclosure in terms of its
-physical, logical, and content layers, explicitly borrowing from the OSI Model
-for computer networks. It was Lessig's arguments for the end-to-end architecture
-of the Internet, in both physical and logical terms, which first led me to
-Boyle's essay on enclosure. However, in the open source communities I came to
-know, a much less nuanced understanding of the commons seemed to pervade, at
-least through the mid 2010's. If the physical cables and servers that hosted all
-that information were acknowledged at all, it was taken for granted, almost as
-an incontrovertible fact of nature. Information is beyond the encumbrances of
-the physical world. Information, after all, wants to be free.
+I would go even further to say that this subtle omission of enclosure — and with
+it the more tangible aspects of the commons — erases the acts of violence and
+the sheer _physical force_ that was required to enclose the commons. Skipping
+over that transgenerational struggle not only does an injustice to those who
+fought and died for the commons, but also limits our imaginations for what is
+possible in our own time.
+
+I want to be clear that neither Benkler nor Lessig were arguing that these
+physical aspects did not matter. In _The Wealth of Networks_, Benkler provides a
+truly insightful table that breaks down different forms of enclosure in terms of
+its physical, logical, and content layers, explicitly borrowing from the OSI
+Model for computer networks. And it was Lessig's arguments for the end-to-end
+architecture of the Internet, in both physical and logical terms, which first
+led me to Boyle's essay on enclosure.
+
+Nevertheless, today's advocates for free culture and open source software are
+still mostly concerned with commoning what is abstract and ephemeral, though
+there are significant exceptions I will address later on. The hardware and
+infrastructure required to store, process and move information around are
+treated as mere accidents or technical details. If they're considered at all
+they're taken as inconveniences to be worked around in policy, possibly
+subsidized, but never as substantive elements of the knowledge commons in their
+own right. Information acquires a supernatural character in this formulation. It
+is beyond the encumbrances of the physical world. Even the Swedish police who
+raided The Pirate Bay in 2006 had to concede that there were limits to what
+could be done to physically impede the flow of information. Information, after
+all, wants to be free.
+
+Yet the cost of disregarding information's earthly trappings is borne out by the
+way private streaming platforms have nonetheless managed to enclose the
+knowledge commons, quite thoroughly and in relatively short time. Jump ahead
+twenty years from when it seemed like Napster and torrenting would spell the
+death of copyright, we see subscription rates for platforms such as Netflix
+steadily rising ever year, while fewer titles are available outside premium
+plans and mid-roll ads become longer and more frequent. This is how today's big
+platforms rake in more revenue than the premium cable channels of yesteryear
+ever dreamed was possible. It's also how our common cultural heritage continues
+to be enclosed. The DMCA, takedown notices and high profile raids played their
+role in all this, of course, but the commons was not lost due to licensing and
+regulation alone. In many ways it was precisely because the call for a knowledge
+commons stopped there. Beyond the fiber lines and standards like TCP/IP, it fell
+short of demanding any kind of public infrastructure that might have held such
+enclosures in check. Even the FCC's classification of Internet service providers
+(ISPs) as "common carriers," thereby subject to net neutrality regulation, has
+been stripped away in the last decade. Meanwhile, physical servers, databases,
+and most of all the considerable administration required to maintain those
+systems have largely been taken for granted, almost as a fact of nature.
 
 ## The Commons that Never Were Enclosed
 Roughly a decade before Benkler, Boyle and Bollier started comparing the DMCA

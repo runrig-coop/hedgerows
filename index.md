@@ -329,21 +329,66 @@ and most of all the considerable administration required to maintain those
 systems have largely been taken for granted, almost as a fact of nature.
 
 ## The Commons that Never Were Enclosed
-Roughly a decade before Benkler, Boyle and Bollier started comparing the DMCA
-and Sonny Bono Act of 1998 with the English Acts of Inclosure from the 18th
-century, the expansion of intellectual property rights had already been
-characterized as a form of enclosure from a different field of critical study.
-In this case, the charge was leveled against the Agreement on Trade-Related
-Aspects of Intellectual Property Rights, or TRIPS, which was signed in 1994 as a
-part of the suite of international treaties and free trade agreements that
-heralded the advent of the World Trade Organization (WTO). The criticism didn't
-come from a group of U.S. East Coast law professors, but from Navdanya, an
-organization of indigenous rights activists, ecofeminists, scientists, and
-peasant farmers from Uttar Pradesh, India, led by Dr. Vandana
-Shiva.[^biopiracy-campaign]
+Designating something _a fact of nature_ can just as readily demonstrate
+reverence as it can cast disdain. The double meaning, though seemingly
+contradictory, is the same rhetoric that colonialist projects have used for
+centuries in order to justify the enclosure of both physical resources and
+indigenous knowledge.
+
+Nearly a decade before Benkler, Boyle and Bollier drew the comparison between
+copyright expansion and enclosure — reacting to the passage of the DMCA and
+Sonny Bono Act of 1998 — Dr. Vandana Shiva cited the history of enclosure in
+response to a suite of international treaties and free trade agreements
+negotiated between 1989 and 1993. This was the legal framework that created the
+World Trade Organization (WTO), heralding a new era of unfettered globalization.
+Shiva represented the Research Foundation for Science, Technology & Ecology
+(RFSTE), an organization comprised of scientists, conservationists, feminists,
+and peasant farmers. They resolutely opposed the environmental degradation and
+capitalist appropriation the WTO was poised to accelerate, the effects of which
+were already apparent in their cities and villages. Among the settlements was a
+treaty obligation to uphold intellectual property rights (IPR) granted by other
+signatory nations. This was of particular concern to Shiva because chemical
+companies were seeking patents that would privatize the germplasm of plants that
+Indian farmers had previously bred and cultivated. An exemplary case was that of
+neem, a native plant seed and the oil it produces, which had been carefully bred
+over the course of 2,000 years by Indian farmers for use as a natural and highly
+effective insect repellent. Now foreign corporations claimed those innovations
+for themselves — claims eventually supported by both the European Patent Office
+and USDA — all for the purpose of selling the seed back to farmers at a
+profit.[^biopiracy-campaign]
 
 [^biopiracy-campaign]: Navdanya, ["Biopiracy
-    Campaign"](https://navdanya.org/biopiracy-campaign-1)
+    Campaign"](https://navdanya.org/biopiracy-campaign-1). See also _BBC News_,
+    ["India wins landmark patent
+    battle"](http://news.bbc.co.uk/1/hi/sci/tech/4333627.stm), 2005.
+
+Shiva did not mince words. In her 1997 book, _Biopiracy_, she decried the
+inherent hostility to life that hid behind globalization's facade of free trade,
+free enterprise, and free markets:
+
+> The freedom that transnational corporations are claiming through intellectual
+> property rights protection in the GATT agreement on Trade Related Intellectual
+> Property Rights (TRIPs) is the freedom that European colonizers have claimed
+> since 1492. Columbus set a precedent when he treated the license to conquer
+> non-European peoples as a natural right of European men. The land titles issued
+> by the pope through European kings and queens were the first patents. The
+> colonizer's freedom was built on the slavery and subjugation of the people with
+> original rights to the land. This violent takeover was rendered "natural" by
+> defining the colonized people as nature, thus denying them their humanity and
+> freedom.
+
+...
+
+doctrine of discovery
+
+biopiracy vs biodiversity
+
+colonialist "naturalization" vs indigenous "coproduction with nature"
+
+common property knowledge and resource systems vs IPRs
+
+
+*******
 
 Shiva, Vandana. _Biopiracy_ (1997), pp. 2-3:
 

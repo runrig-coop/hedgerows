@@ -14,11 +14,12 @@ When I tell people I make free and open source software (FOSS) for farmers...
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for
-Nature."[^J4N] Groups of two or three would periodically split off to pursue a
-tangent then rejoin the rest, while others hung in loose orbit around the edges
-occasionally leaning in to pick up the main thread of conversation. Across the
+Nature."[^J4N] Across the
 wide, high-ceilinged hall and its adjoining patios, three or four similar groups
-convened on topics ranging from semantic data formats to climate resilience. Two
+convened on topics ranging from semantic data formats to climate resilience.
+Groups of two or three would periodically split off to pursue a
+tangent then rejoin the rest, while others hung in loose orbit around the edges
+occasionally leaning in to pick up the main thread of conversation. Two
 days earlier we had all converged on the Omega Center in Rhinebeck, NY for the
 second ever large-scale Gathering for Open Agricultural Technology — GOAT 2022,
 for short.
@@ -37,7 +38,8 @@ agriculture and technology. Four years of accelerating climate change, ongoing
 police violence, housing shortages, supply chain disruptions and a global
 pandemic had clearly shifted our attentions.
 
-Samuel Oslund, then at CAPÉ[^CAPE] and the University of Quebec, directed the
+It was during the Justice for Nature session that Samuel Oslund, then at the
+CAPÉ[^CAPE] and researcher at large, directed the
 conversation towards the Amish _Ordnung_, in essence a code of conduct or rules
 each community formulates for itself. _Ordnung_ does not ban technology
 outright, but prescribes a selection process that may include evaluation by
@@ -46,7 +48,7 @@ superficial understanding, we saw it as a means of socializing technology
 adoption, with localized control and intent. The entire community took ownership
 of any externalities (if they could still be called that), and through
 collective action they could adjust course at any time. Sam's comments yielded
-the following prompt from our facillitator, Dr. LaKisha Odom, Scientific Program
+the following prompt from our facilitator, Dr. LaKisha Odom, Scientific Program
 Director at FFAR:[^LaKisha] "Could GOAT develop a technological assessment
 framework to help developers consider the impacts of their technologies on
 nature?"
@@ -86,7 +88,10 @@ come to realize was no coincidence.
 
 Genna's comments fused together the final conceptual links between enclosure,
 which though obscure is at least a fairly plain matter of historical record,
-and the more erudite legal and socioeconomic theories I'd been reading about but
+and the more erudite legal and socioeconomic theories I'd been reading about.
+There is a strain of communitarian social thought that draws upon the legal
+principle of "usufruct" as an alternative to absolute property rights, but it
+was a concept I was still
 struggling to grasp. I couldn't really get my head around the principle of
 "usufruct" and its distinction from real property rights (_jus in re propria_).
 Usufruct grants the rightsholder both the free use of an asset as well as the
@@ -119,6 +124,13 @@ commodify it. Enclosure relegates nature to market forces of exchange and
 fungibility, as an insensible object and no longer an equal (or greater)
 subject. In the process, anyone tied to that chunk of nature is also
 commodified, in a two-way process that alienates one from the other. This holds
+<!--
+    SAM: This section seems like it almost needs a second paragraph to draw the
+    clear parallel between land enclosure and IP since that is the crux of the
+    argument. This would then tie into the next paragraph on examples below.
+    Hedgerow, specifically, needs to be expanded on since it is a critical
+    metaphor you are working with.
+ -->
 true whether the "thing of nature" is a strip of land closed off by a fence or
 hedgerow, or intellectual property (IP) like software or digital media.
 
@@ -137,7 +149,7 @@ modern enclosure it really is: _hedgerows in the sky_.
 The hedgerows that enclosed the English commons of the 16th through 18th
 centuries did not go unopposed, but were actively resisted over many
 generations. Among the earliest of these were the Levellers, who first earned
-that name during the Midland Revolt of 1607 by "levelling" hedgerows in protest.
+that name during the Midland Revolt of 1607 by "leveling" hedgerows in protest.
 Though some were drawn and quartered for their convictions, their example
 inspired the True Levellers, or Diggers, of the English Revolution some 40 years
 later. The anonymous bard I quoted above, whoever they were, surely knew
@@ -150,7 +162,7 @@ final stanza:
 > And geese will still a common lack  
 > Till they go and steal it back.  
 
-If we were to heed their call, how would we begin levelling today's hedgerows?
+If we were to heed their call, how would we begin leveling today's hedgerows?
 
 ## The Forgotten Enclosures
 I was a bit surprised to realize my ignorance of the parallels between modern
@@ -313,7 +325,7 @@ way private streaming platforms have nonetheless managed to enclose the
 knowledge commons, quite thoroughly and in relatively short time. Jump ahead
 twenty years from when it seemed like Napster and torrenting would spell the
 death of copyright, we see subscription rates for platforms such as Netflix
-steadily rising ever year, while fewer titles are available outside premium
+steadily rising every year, while fewer titles are available outside premium
 plans and mid-roll ads become longer and more frequent. This is how today's big
 platforms rake in more revenue than the premium cable channels of yesteryear
 ever dreamed was possible. It's also how our common cultural heritage continues

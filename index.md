@@ -389,13 +389,32 @@ free trade, free enterprise, and free markets:
 > defining the colonized people as nature, thus denying them their humanity and
 > freedom.
 
+I draw attention to this episode and Shiva's analysis for several reasons. It's
+an early instance of the enclosure metaphor being applied to IPR, for sure, and
+the fact that it also lies at the intersection of agriculture and technology
+should banish any residual notion that small-scale farming and open source
+software are unrelated concerns. It is not a wholly new leap in thought to
+suggest that the struggle for food sovereignty and local agriculture might be
+deeply interconnected with the struggle for technological autonomy and localized
+control of knowledge production. We may be rediscovering that here in urban
+America, but in some parts of the world, perhaps even in farming communities not
+so far from our cities, that understanding was never lost.
+
+The precise framing of her analysis, however, carries an insight far more
+profound, far more _ontological_ in character, than anything subsequent
+commentators on free culture were ready to profess. Shiva certainly acknowledges
+the value of the natural world and humanity's ties to it, but she also
+highlights how nature itself, at least in its canonically Western conception,
+has been used by colonial forces to dispossess indigenous peoples of their land
+and resources all across the globe.
+
 ...
+
+"conquest by naturalization" vs "coproduction with nature"
 
 doctrine of discovery
 
 biopiracy vs biodiversity
-
-colonialist "naturalization" vs indigenous "coproduction with nature"
 
 common property knowledge and resource systems vs IPRs
 

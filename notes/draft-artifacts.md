@@ -88,7 +88,7 @@ had all had enough, and they were finally putting an end to Occupy Wall Street.
 
 Like a lot of New Yorkers, I had been quietly supportive of the movement, joined
 a couple rallies when it seemed convenient, but didn't guess it posed much of a
-threat to the halls of power — and that was too bad. This reaction seemed
+threat to the halls of power — and that was too bad. This crackdown seemed
 entirely out of proportion though. In the weeks that followed, I learned plenty
 that made me think maybe powerful people did have some reason to worry: there
 was the vast sum of money anonymously donated to police union in the weeks prior

@@ -329,42 +329,54 @@ and most of all the considerable administration required to maintain those
 systems have largely been taken for granted, almost as a fact of nature.
 
 ## The Commons that Never Were Enclosed
-Designating something _a fact of nature_ can just as readily demonstrate
-reverence as it can cast disdain. The double meaning, though seemingly
-contradictory, is the same rhetoric that colonialist projects have used for
-centuries in order to justify the enclosure of both physical resources and
-indigenous knowledge.
+Designating something _a fact of nature_ can just as readily bestow reverence as
+it can cast disdain. The double meaning, though seemingly contradictory, is the
+same rhetoric that colonialist projects have used for centuries to justify the
+enclosure of both physical resources and indigenous knowledge.
 
 Nearly a decade before Benkler, Boyle and Bollier drew the comparison between
-copyright expansion and enclosure — reacting to the passage of the DMCA and
-Sonny Bono Act of 1998 — Dr. Vandana Shiva cited the history of enclosure in
-response to a suite of international treaties and free trade agreements
-negotiated between 1989 and 1993. This was the legal framework that created the
-World Trade Organization (WTO), heralding a new era of unfettered globalization.
-Shiva represented the Research Foundation for Science, Technology & Ecology
-(RFSTE), an organization comprised of scientists, conservationists, feminists,
-and peasant farmers. They resolutely opposed the environmental degradation and
-capitalist appropriation the WTO was poised to accelerate, the effects of which
-were already apparent in their cities and villages. Among the settlements was a
+copyright expansion and enclosure — reacting as they were to the passage of the
+DMCA and Sonny Bono Act of 1998 — Dr. Vandana Shiva cited the history of
+enclosure in response to a different suite of international laws, treaties, and
+free trade agreements, all negotiated between 1989 and 1993. This was the legal
+and financial framework that created the World Trade Organization (WTO),
+heralding a new era of globalization and unfettered neoliberalism. Shiva
+represented the Research Foundation for Science, Technology & Ecology (RFSTE),
+an organization comprised of scientists, conservationists, feminists, and
+peasant farmers. They resolutely opposed the environmental degradation and
+capitalist appropriation the WTO was poised to accelerate. The effects were
+already apparent in their cities and villages. Among the settlements was a
 treaty obligation to uphold intellectual property rights (IPR) granted by other
 signatory nations. This was of particular concern to Shiva because chemical
 companies were seeking patents that would privatize the germplasm of plants that
-Indian farmers had previously bred and cultivated. An exemplary case was that of
-neem, a native plant seed and the oil it produces, which had been carefully bred
-over the course of 2,000 years by Indian farmers for use as a natural and highly
-effective insect repellent. Now foreign corporations claimed those innovations
-for themselves — claims eventually supported by both the European Patent Office
-and USDA — all for the purpose of selling the seed back to farmers at a
-profit.[^biopiracy-campaign]
+Indian farmers had previously bred and cultivated. 
+
+This was first demonstrated in the case of neem, a plant endemic to Southeast
+Asia. The neem seed produces an oil that can be used as a natural and highly
+effective insect repellent, potentially replacing synthetic pesticides. Having
+already wreaked ecological havoc upon India, from the Bhopal Disaster to
+pesticide-resistant bollworms, U.S. chemical companies now wanted to patent this
+plant-based alternative (with active support from the USDA, I might add). When
+W.R. Grace & Co. applied, the European Patent Office was only too happy to
+oblige and upheld the corporation's claim to the innovation. Despite 2,000 years
+of independent seed development by Indian plant breeders, the U.S. conglomerate
+would enjoy a monopoly to sell it back to them like coals to Newcastle. In the
+process, global capital would enjoy a hefty profit, while also offsetting any
+decline in revenue from their other pesticides due to environmental regulations
+or competition from safer alternatives like neem. The patent was eventually
+revoked, but only after ten years of relentless legal battles and grassroots
+campaigning by Shiva and Navdanya, the successor organization to the
+RFSTE.[^biopiracy-campaign]
 
 [^biopiracy-campaign]: Navdanya, ["Biopiracy
     Campaign"](https://navdanya.org/biopiracy-campaign-1). See also _BBC News_,
     ["India wins landmark patent
     battle"](http://news.bbc.co.uk/1/hi/sci/tech/4333627.stm), 2005.
 
-Shiva did not mince words. In her 1997 book, _Biopiracy_, she decried the
-inherent hostility to life that hid behind globalization's facade of free trade,
-free enterprise, and free markets:
+Shiva did not mince words in her denunciation of this new form of enclosure and
+the global policy regime that protected it. In her 1997 book, _Biopiracy_, she
+decried the inherent hostility to life that hid behind globalization's facade of
+free trade, free enterprise, and free markets:
 
 > The freedom that transnational corporations are claiming through intellectual
 > property rights protection in the GATT agreement on Trade Related Intellectual

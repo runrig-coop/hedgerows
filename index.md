@@ -238,11 +238,11 @@ information but for the commons in all its forms. Accompanying this, he has
 articulated a thorough critique of enclosure, in all its own manifestations. A
 slightly different version of "stealing the commons from off the goose" shows up
 as the epigraph to Bollier's _Silent Theft: The Private Plunder of Our Common
-Wealth_ in 2002, the same year Boyle published an early draft of his own
-essay featuring the poem. As it turns out, Peter Linebaugh also found it "too
+Wealth_ in 2002, the same year Boyle published an early draft of his own essay
+featuring the poem. As it turns out, Peter Linebaugh also found it "too
 succulent to resist" and recycled it once more in the introduction to his 2014
-book _Stop, Thief!_. Linebaugh was winking at Bollier when he recited
-it back to him in their interview, I'm sure.
+book _Stop, Thief!_. Linebaugh was winking at Bollier when he recited it back to
+him in their interview, I'm sure.
 
 Apart from being the object in this game of epigraphic hot potato, it's not
 surprising that the poem rose to the surface as a shared metaphor in such an

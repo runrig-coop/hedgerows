@@ -14,15 +14,14 @@ When I tell people I make free and open source software (FOSS) for farmers...
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for
-Nature."[^J4N] Across the
-wide, high-ceilinged hall and its adjoining patios, three or four similar groups
-convened on topics ranging from semantic data formats to climate resilience.
-Groups of two or three would periodically split off to pursue a
-tangent then rejoin the rest, while others hung in loose orbit around the edges
-occasionally leaning in to pick up the main thread of conversation. Two
-days earlier we had all converged on the Omega Center in Rhinebeck, NY for the
-second ever large-scale Gathering for Open Agricultural Technology — GOAT 2022,
-for short.
+Nature."[^J4N] Across the wide, high-ceilinged hall and its adjoining patios,
+three or four similar groups convened on topics ranging from semantic data
+formats to climate resilience. Two or three people would periodically split off
+from our discussion to pursue a tangent then rejoin the rest, while others hung
+in loose orbit between the scattered conversations, occasionally leaning in to
+pick up the main thread of one or another. Two days earlier we had all converged
+on the Omega Center in Rhinebeck, NY for the second ever large-scale Gathering
+for Open Agricultural Technology — GOAT 2022, for short.
 
 [^unconf]: https://web.archive.org/web/20191208123152/http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/
 [^J4N]: https://forum.goatech.org/t/session-J4N/1340
@@ -35,23 +34,23 @@ issues like interoperability and design methods. When I arrived this time, I
 didn't expect a second life-altering event, but in those three days I had
 witnessed a new shared awareness emerging about the role of the commons in both
 agriculture and technology. Four years of accelerating climate change, ongoing
-police violence, housing shortages, supply chain disruptions and a global
+police violence, supply chain disruptions, housing shortages, and a global
 pandemic had clearly shifted our attentions.
 
-It was during the Justice for Nature session that Samuel Oslund, then at the
-CAPÉ[^CAPE] and researcher at large, directed the
-conversation towards the Amish _Ordnung_, in essence a code of conduct or rules
-each community formulates for itself. _Ordnung_ does not ban technology
-outright, but prescribes a selection process that may include evaluation by
-community elders, probationary trial periods, and group consensus. From our
-superficial understanding, we saw it as a means of socializing technology
-adoption, with localized control and intent. The entire community took ownership
-of any externalities (if they could still be called that), and through
-collective action they could adjust course at any time. Sam's comments yielded
-the following prompt from our facilitator, Dr. LaKisha Odom, Scientific Program
-Director at FFAR:[^LaKisha] "Could GOAT develop a technological assessment
-framework to help developers consider the impacts of their technologies on
-nature?"
+It was during the Justice for Nature session that Samuel Oslund, an independent
+researcher then at the CAPÉ[^CAPE] farming cooperative in Île de Montréal,
+directed the conversation towards the Amish _Ordnung_, in essence a code of
+conduct or rules each community formulates for itself. _Ordnung_ does not ban
+technology outright, but prescribes a selection process that may include
+evaluation by community elders, probationary trial periods, and group consensus.
+From our superficial understanding, we saw it as a means of socializing
+technology adoption, with localized control and intent. The entire community
+took ownership of any externalities (if they could still be called that), and
+through collective action they could adjust course at any time. Sam's comments
+yielded the following prompt from our facilitator, Dr. LaKisha Odom, Scientific
+Program Director at FFAR:[^LaKisha] "Could GOAT develop a technological
+assessment framework to help developers consider the impacts of their
+technologies on nature?"
 
 [^LaKisha]: https://foundationfar.org/about/people/lakisha-odom/
 [^CAPE]: https://cape.coop/
@@ -86,28 +85,29 @@ common peasantry. More recently I was reminded of the poem when Linebaugh
 recited it once again in an interview with David Bollier, a fact I would soon
 come to realize was no coincidence.
 
-Genna's comments fused together the final conceptual links between enclosure,
-which though obscure is at least a fairly plain matter of historical record,
-and the more erudite legal and socioeconomic theories I'd been reading about.
-There is a strain of communitarian social thought that draws upon the legal
-principle of "usufruct" as an alternative to absolute property rights, but it
-was a concept I was still
-struggling to grasp. I couldn't really get my head around the principle of
-"usufruct" and its distinction from real property rights (_jus in re propria_).
-Usufruct grants the rightsholder both the free use of an asset as well as the
-profits or other material gains that arise from it. These are termed _usus_ and
-_fructus_ in civil law, respectively, and hence _usufruct_. Real property
-ownership grants all of that plus the right to dispose of the asset (_abusus_)
-however one sees fit. That can include consuming, selling, irrevocably modifying
-or destroying it.[^jus] What I struggled with most was how the entitlement to
-use an asset and its products differed substantially from the right to sell or
-consume it. Weren't those just other ways to use it? It seemed redundant.
+Genna's comments fused together the final conceptual links between enclosure and
+the more erudite legal and socioeconomic theories I'd been reading about
+recently. There is a strain of communitarian social thought, often associated
+with Murray Bookchin's theory of social ecology, that draws upon the legal
+principle of "usufruct" as an alternative to absolute property rights. It was a
+concept I was still struggling to grasp, particularly how the rights of usufruct
+were distinguished from real property rights (_jus in re propria_). How I
+understood it was that usufruct grants the rightsholder both the free use of an
+asset as well as the profits or other material gains that arise from it. These
+are termed _usus_ and _fructus_ in civil law respectively, hence _usufruct_.
+Real property ownership grants all of that plus the right to dispose of the
+asset (_abusus_) however one sees fit. That can include consuming, selling,
+irrevocably modifying or destroying it.[^jus]
 
-<!-- TODO: Can abusus be interpreted as the right to transfer or amend one's
-rights to the other two rights? Does it only apply to real property in the sense
-of land or other immovable assets? Does it hold any distinctions for things
-traditionally deemed a natural resource or product of nature, rather than
-man-made products? -->
+What I struggled with most was this: If someone is entitled to use an asset and
+its produce however one saw fit, how did that differ substantially from the
+right to sell or consume it? Weren't those just other ways to use it? It seemed
+redundant. Perhaps _abusus_ meant the right to "transfer" the other two rights,
+_ususus_ and _fructus_, or to otherwise fundamentally alter their terms — was
+that it? If so, it seemed an unnecessarily roundabout way to formulate it. Was
+it some kind of "meta-right" then, if it was not held with regard to the asset
+directly, but was in fact the _right to the rights_ to the asset? That made even
+less sense.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
     [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
@@ -120,31 +120,88 @@ Now when I thought about it in the light of universal access to nature, I
 remembered the other term for this third right: _alienation_. In a strictly
 legal sense, to alienate an asset carries little further significance than to
 "dispose of" it, but in a sociological context or in plain parlance, alienation
-imbues a psychological or spiritual effect. That sense seems all the more acute
+imbues a psychological or spiritual quality. That sense seems all the more acute
 when the thing you are alienating is nature itself, even if just a part of it.
 There is reciprocity between us and nature, a two-way subjectivity that
-transcends the mere owner/asset duality. I belong to nature as much as (or more
-than) nature belongs to me, and to sever that tie would constitute a terrible
-injury. To enclose nature, therefore, means to fundamentally set it apart and
-commodify it. Enclosure relegates nature to market forces of exchange and
-fungibility, as an insensible object and no longer an equal (or greater)
-subject. In the process, anyone tied to that chunk of nature is also
-commodified, in a two-way process that alienates one from the other. This holds
-<!--
-    SAM: This section seems like it almost needs a second paragraph to draw the
-    clear parallel between land enclosure and IP since that is the crux of the
-    argument. This would then tie into the next paragraph on examples below.
-    Hedgerow, specifically, needs to be expanded on since it is a critical
-    metaphor you are working with.
- -->
-true whether the "thing of nature" is a strip of land closed off by a fence or
-hedgerow, or intellectual property (IP) like software or digital media.
+transcends the mere owner/asset duality. I belong to nature as much as (or even
+more than) nature belongs to me, and to sever that tie would constitute a
+terrible injury. A market economy, however, requires that elements of nature
+comply with the rules of exchange and fungibility. To enclose nature, therefore,
+means to fundamentally _set it apart_ and commodify it. Nature becomes an asset,
+or in other words, an insensible object, no longer an equal and true subject.
+Meanwhile, anyone tied to that chunk of nature is essentially commodified just
+the same. It is a process that cuts both ways, alienating one from the other.
+This was certainly the experience of English peasants who were driven off the
+commons by enclosure. They were forced to move to urban centers and sell their
+labor for a wage in the emerging industrial economy. So not only was the
+_ecological value_ of the land commodified and sold, but the very _social value_
+of the peasantry was itself made into a commodity, measured out by the punch
+clock and made divisible as wage shares. Wherever the commons was enclosed, the
+commoners were duly confined — if not to the factory yard then invariably to
+prison yard.[^vagrancy]
 
-The most effective means of enclosing intellectual property, I would argue, has
-been to consolidate it in the vast data centers and server farms of tech
-monopolies. Access can then be sold off in the form of subscriptions or
-advertising fees. That way, the IP owner retains maximum control, with the
-ability to revoke access or modify the terms of service at any time. This
+[^vagrancy]: It cannot be overemphasized that this migration was anything but
+    voluntary. Already faced with poverty and imminent starvation, landless
+    peasants were further compelled into the cities and factories by a series of
+    laws known as the Vagabonds Acts (later the Vagrancy Acts). These laws,
+    passed in lockstep with enclosure between the 14th and 19th centuries, found
+    persons guilty for the crime of "idleness" if they had no deed of property,
+    no employer would vouch for them, and they could not present any other proof
+    of lawful income. Their stipulated punishments ranged from imprisonment to
+    whipping, branding, and even death for repeated offenses, though prison or
+    execution sentences might be commuted if they agreed to a period of
+    indentured servitude. As enforcement of these acts became increasingly
+    difficult through the course of the Industrial Revolution, they were a
+    contributing factor to the creation of modern police forces in England and
+    elsewhere in Europe, wherever similar legislation prevailed.
+
+While the plight of those peasants hundreds of years ago may seem remote to our
+modern sensibilities, I think we can still deeply empathize with their position
+when we consider how the enclosure of digital spaces has been used to alienate
+us from our social relations and the natural world. The natural world is not
+limited to the merely physical, but includes things like knowledge, cultural
+practices, mental abstractions, and emotional affect states. When these parts of
+nature are enclosed by Big Data corporations or the aptly named "walled gardens"
+of social media conglomerates, we feel alienated. This is what James Muldoon
+calls _data commodity fetishism_, defining it as "the perception of certain
+digital relationships between people as having their value based not on the
+social relationships themselves but on the data they produce."[^muldoon] But it
+goes further than that. Digital enclosures certainly alienate us from our social
+relations, but that is just one aspect of the larger process of our alienation
+from the natural world as a whole.[^social-ecology] This extension of data
+commodification, as applied to nature, could not be more relevant to agriculture
+and technology. It gets to the heart of what I think Genna meant when she
+suggested it should not restrict "access to nature."
+
+[^social-ecology]: Social ecologists like Murray Bookchin would contend, and I
+    agree, that nature does indeed contain both society and technology, though
+    it may seem less and less apart of nature today.
+
+[^muldoon]: _Platform Socialism_ (Pluto Press, 2022), p. 18. Muldoon explicitly
+    refers to the Marxian concept of commodity fetishism, and I am also drawing
+    heavily on Marx's theory on the alienation (or estrangement) of labor. The
+    _Economic and Philosophic Manuscripts of 1844_ are especially ripe for
+    application to today's forms of digital enclosure, and I hope to provide a
+    more thorough exploration of those themes in a subsequent essay.
+
+The enclosure of the commons in centuries past was achieved partly by acts of
+Parliament, more so by state-sanctioned violence, and most visibly by the
+erection of hedgerows around common pasture and fields. Hedgerows evoke bucolic
+scenes of the English countryside today, but in their time they were at once a
+symbol and a very tangible means of enforcement. They represented the alienation
+of common peoples from their land, their social relations, and their traditional
+practices of farming and husbandry.
+
+I would argue that the most effective means of enclosing knowledge today —
+intellectual property, or IP, as it is so called — has been to consolidate it in
+vast data centers and server farms owned by just a few tech monopolies. Property
+rights can be legislated and terms of service licensed, but their final
+implementation is only achieved in these physical constructs. Digital enclosure
+comprises all the silicon, cables, metal, and concrete of those facilities, just
+as much as the abstract services and data they carry. Only then can access be
+effectively commodified in the form of subscriptions or advertising fees. The IP
+owner retains maximum control, with the ability to revoke access or modify the
+terms of service at any time, often outpacing legal authority to do so. This
 practice goes by many names. The industry jargon is Software-as-a-Service, or
 SaaS, while it is marketed to lay users in more poetic terms: _the Cloud_.
 Opponents of cloud computing and proprietary software have quipped that this is
@@ -156,11 +213,11 @@ The hedgerows that enclosed the English commons of the 16th through 18th
 centuries did not go unopposed, but were actively resisted over many
 generations. Among the earliest of these were the Levellers, who first earned
 that name during the Midland Revolt of 1607 by "leveling" hedgerows in protest.
-Though some were drawn and quartered for their convictions, their example
-inspired the True Levellers, or Diggers, of the English Revolution some 40 years
-later. The anonymous bard I quoted above, whoever they were, surely knew
-something of this resistance, and perhaps they even participated in it.
-Therefore, it's not hard to hear both a warning and a call-to-arms in their
+Though some were drawn and quartered for their actions, their example inspired
+the True Levellers, or Diggers, led by Gerrard Winstanley during the English
+Revolution some 40 years later. The anonymous bard I quoted above, whoever they
+were, surely knew something of this resistance, and perhaps even participated in
+it. Therefore, it's not hard to hear both a warning and a call-to-arms in their
 final stanza:
 
 > The law locks up the man or woman  

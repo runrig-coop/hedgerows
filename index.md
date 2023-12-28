@@ -17,25 +17,25 @@ tables. It was an "unconference"[^unconf] session titled "Justice for
 Nature."[^J4N] Across the wide, high-ceilinged hall and its adjoining patios,
 three or four similar groups convened on topics ranging from semantic data
 formats to climate resilience. Two or three people would periodically split off
-from our discussion to pursue a tangent then rejoin the rest, while others hung
-in loose orbit between the scattered conversations, occasionally leaning in to
-pick up the main thread of one or another. Two days earlier we had all converged
-on the Omega Center in Rhinebeck, NY for the second ever large-scale Gathering
-for Open Agricultural Technology — GOAT 2022, for short.
+to pursue a tangent idea before rejoining the larger group, while others hung in
+loose orbit between the scattered tables, occasionally leaning in to pick up the
+main thread of one conversation or another. Two days earlier we had all
+converged on the Omega Center in Rhinebeck, NY for the second ever large-scale
+Gathering for Open Agricultural Technology — GOAT 2022, for short.
 
 [^unconf]: https://web.archive.org/web/20191208123152/http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/
 [^J4N]: https://forum.goatech.org/t/session-J4N/1340
 
 I had been there for the first such gathering in 2018. It had a profound effect
 on me, the kind of "found my people" moment you're lucky to have only once or
-twice in a lifetime. Back then, our conversations centered around how best to
-convince farmers of the benefits of open source software, along with perennial
-issues like interoperability and design methods. When I arrived this time, I
-didn't expect a second life-altering event, but in those three days I had
-witnessed a new shared awareness emerging about the role of the commons in both
-agriculture and technology. Four years of accelerating climate change, ongoing
-police violence, supply chain disruptions, housing shortages, and a global
-pandemic had clearly shifted our attentions.
+twice in a lifetime. Back then, our talk centered around how best to convince
+farmers of the benefits of open source software, along with perennial issues
+like interoperability and design methods. When I arrived this time, I didn't
+expect a second life-altering event, but in those three days I had witnessed a
+new shared awareness emerging about the role of the commons in both agriculture
+and technology. Four years of accelerating climate change, ongoing police
+violence, supply chain disruptions, housing shortages, and a global pandemic had
+clearly shifted our attentions.
 
 It was during the Justice for Nature session that Samuel Oslund, an independent
 researcher then at the CAPÉ[^CAPE] farming cooperative in Île de Montréal,
@@ -87,17 +87,16 @@ come to realize was no coincidence.
 
 Genna's comments fused together the final conceptual links between enclosure and
 the more erudite legal and socioeconomic theories I'd been reading about
-recently. There is a strain of communitarian social thought, often associated
-with Murray Bookchin's theory of social ecology, that draws upon the legal
-principle of "usufruct" as an alternative to absolute property rights. It was a
-concept I was still struggling to grasp, particularly how the rights of usufruct
-were distinguished from real property rights (_jus in re propria_). How I
-understood it was that usufruct grants the rightsholder both the free use of an
-asset as well as the profits or other material gains that arise from it. These
-are termed _usus_ and _fructus_ in civil law respectively, hence _usufruct_.
-Real property ownership grants all of that plus the right to dispose of the
-asset (_abusus_) however one sees fit. That can include consuming, selling,
-irrevocably modifying or destroying it.[^jus]
+recently. There is a strain of communitarian thought, often associated with
+Murray Bookchin's theory of social ecology, that draws upon the legal principle
+of "usufruct" as an alternative to absolute property rights. It was a concept I
+was still struggling to grasp, particularly how the rights of usufruct were
+distinguished from real property rights (_jus in re propria_). How I understood
+it was that usufruct grants the rightsholder both the free use of an asset as
+well as the profits or other material gains that arise from it. These are termed
+_usus_ and _fructus_ in civil law, hence _usufruct_. Real property ownership
+grants all of that plus the right to dispose of the asset (_abusus_). That can
+include consuming, selling, irrevocably altering or destroying it.[^jus]
 
 What I struggled with most was this: If someone is entitled to use an asset and
 its produce however one saw fit, how did that differ substantially from the
@@ -120,25 +119,25 @@ Now when I thought about it in the light of universal access to nature, I
 remembered the other term for this third right: _alienation_. In a strictly
 legal sense, to alienate an asset carries little further significance than to
 "dispose of" it, but in a sociological context or in plain parlance, alienation
-imbues a psychological or spiritual quality. That sense seems all the more acute
-when the thing you are alienating is nature itself, even if just a part of it.
-There is reciprocity between us and nature, a two-way subjectivity that
-transcends the mere owner/asset duality. I belong to nature as much as (or even
-more than) nature belongs to me, and to sever that tie would constitute a
-terrible injury. A market economy, however, requires that elements of nature
-comply with the rules of exchange and fungibility. To enclose nature, therefore,
-means to fundamentally _set it apart_ and commodify it. Nature becomes an asset,
-or in other words, an insensible object, no longer an equal and true subject.
-Meanwhile, anyone tied to that chunk of nature is essentially commodified just
-the same. It is a process that cuts both ways, alienating one from the other.
-This was certainly the experience of English peasants who were driven off the
-commons by enclosure. They were forced to move to urban centers and sell their
-labor for a wage in the emerging industrial economy. So not only was the
-_ecological value_ of the land commodified and sold, but the very _social value_
-of the peasantry was itself made into a commodity, measured out by the punch
-clock and made divisible as wage shares. Wherever the commons was enclosed, the
-commoners were duly confined — if not to the factory yard then invariably to
-prison yard.[^vagrancy]
+imbues a psychological or almost spiritual quality. That sense seems all the
+more acute when the thing you are alienating is nature itself, even if just a
+part of it. There is reciprocity between us and nature, a two-way subjectivity
+that transcends the mere owner/asset duality. I belong to nature as much as (or
+even more than) nature belongs to me, and to sever that tie would constitute a
+terrible injury. A free-market economy, however, requires that elements of
+nature comply with the rules of commodity exchange and fungibility. To enclose
+nature, therefore, means to fundamentally _set it apart_. Nature becomes an
+asset or commodity. It is demoted to an insensible object and is no longer an
+equal or true subject. Meanwhile, anyone tied to that chunk of nature is in
+essence commodified too. It is a process that cuts both ways, alienating one
+from the other. This was certainly the experience of English peasants who were
+driven off the commons by enclosure. They were forced to move to urban centers
+and sell their labor for a wage in the emerging industrial economy. So not only
+was the _ecological value_ of the land commodified and sold, but the very
+_social value_ of the peasantry was itself made into a commodity, measured out
+by the punch clock and made divisible as wage shares. Wherever the commons was
+enclosed, the commoners were duly confined, if not to the factory yard then
+invariably to prison yard.[^vagrancy]
 
 [^vagrancy]: It cannot be overemphasized that this migration was anything but
     voluntary. Already faced with poverty and imminent starvation, landless
@@ -146,17 +145,17 @@ prison yard.[^vagrancy]
     laws known as the Vagabonds Acts (later the Vagrancy Acts). These laws,
     passed in lockstep with enclosure between the 14th and 19th centuries, found
     persons guilty for the crime of "idleness" if they had no deed of property,
-    no employer would vouch for them, and they could not present any other proof
-    of lawful income. Their stipulated punishments ranged from imprisonment to
-    whipping, branding, and even death for repeated offenses, though prison or
-    execution sentences might be commuted if they agreed to a period of
-    indentured servitude. As enforcement of these acts became increasingly
-    difficult through the course of the Industrial Revolution, they were a
-    contributing factor to the creation of modern police forces in England and
+    no employer who would vouch for them, and if they could not present any
+    other proof of lawful income. Their stipulated punishments ranged from
+    imprisonment to whipping, branding, and even death for repeated offenses,
+    though prison or execution sentences might be commuted if they agreed to a
+    period of indentured servitude. As enforcement became increasingly difficult
+    through the course of the Industrial Revolution, they were a significant
+    factor contributing to the creation of modern police forces in England and
     elsewhere in Europe, wherever similar legislation prevailed.
 
-While the plight of those peasants hundreds of years ago may seem remote to our
-modern sensibilities, I think we can still deeply empathize with their position
+While the plight of peasants hundreds of years in the past may seem remote to
+our modern sensibilities, I think we can still empathize with their position
 when we consider how the enclosure of digital spaces has been used to alienate
 us from our social relations and the natural world. The natural world is not
 limited to the merely physical, but includes things like knowledge, cultural
@@ -164,18 +163,14 @@ practices, mental abstractions, and emotional affect states. When these parts of
 nature are enclosed by Big Data corporations or the aptly named "walled gardens"
 of social media conglomerates, we feel alienated. This is what James Muldoon
 calls _data commodity fetishism_, defining it as "the perception of certain
-digital relationships between people as having their value based not on the
-social relationships themselves but on the data they produce."[^muldoon] But it
-goes further than that. Digital enclosures certainly alienate us from our social
-relations, but that is just one aspect of the larger process of our alienation
-from the natural world as a whole.[^social-ecology] This extension of data
-commodification, as applied to nature, could not be more relevant to agriculture
-and technology. It gets to the heart of what I think Genna meant when she
-suggested it should not restrict "access to nature."
-
-[^social-ecology]: Social ecologists like Murray Bookchin would contend, and I
-    agree, that nature does indeed contain both society and technology, though
-    it may seem less and less apart of nature today.
+digital relationships between people [...] as having their value based not on
+the social relationships themselves but on the data they produce."[^muldoon] But
+it goes further than that. Digital enclosures certainly alienate us from our
+social relations, but that is just one aspect of the larger process of our
+alienation from the natural world as a whole.[^social-ecology] This extension of
+data commodification, as applied to nature, could not be more relevant to
+agriculture and technology. It gets to the heart of what I think Genna meant
+when she suggested farming technology should not restrict "access to nature."
 
 [^muldoon]: _Platform Socialism_ (Pluto Press, 2022), p. 18. Muldoon explicitly
     refers to the Marxian concept of commodity fetishism, and I am also drawing
@@ -184,41 +179,47 @@ suggested it should not restrict "access to nature."
     application to today's forms of digital enclosure, and I hope to provide a
     more thorough exploration of those themes in a subsequent essay.
 
-The enclosure of the commons in centuries past was achieved partly by acts of
-Parliament, more so by state-sanctioned violence, and most visibly by the
-erection of hedgerows around common pasture and fields. Hedgerows evoke bucolic
-scenes of the English countryside today, but in their time they were at once a
-symbol and a very tangible means of enforcement. They represented the alienation
-of common peoples from their land, their social relations, and their traditional
-practices of farming and husbandry.
+[^social-ecology]: Social ecologists like Murray Bookchin would contend, and I
+    agree, that nature does indeed contain both society and technology, though
+    it may seem less and less apart of nature today.
 
-I would argue that the most effective means of enclosing knowledge today —
-intellectual property, or IP, as it is so called — has been to consolidate it in
-vast data centers and server farms owned by just a few tech monopolies. Property
-rights can be legislated and terms of service licensed, but their final
-implementation is only achieved in these physical constructs. Digital enclosure
-comprises all the silicon, cables, metal, and concrete of those facilities, just
-as much as the abstract services and data they carry. Only then can access be
-effectively commodified in the form of subscriptions or advertising fees. The IP
-owner retains maximum control, with the ability to revoke access or modify the
-terms of service at any time, often outpacing legal authority to do so. This
-practice goes by many names. The industry jargon is Software-as-a-Service, or
-SaaS, while it is marketed to lay users in more poetic terms: _the Cloud_.
-Opponents of cloud computing and proprietary software have quipped that this is
-just a euphemism for "someone else's computer." I would propose that, trading
-grandiose metaphor for grandiose metaphor, we instead rebrand the cloud as the
-modern enclosure it really is: _hedgerows in the sky_.
+The enclosure of the commons in centuries past was achieved partly by acts of
+Parliament, in larger part by state-sanctioned violence, but its most visible
+manifestation lay in the hedgerows planted around common pastures and fields.
+Hedgerows evoke bucolic scenes of the English countryside today, but in their
+time they were at once an unmistakable symbol of class hierarchy and a physical
+line of defense. They represented the alienation of common people from their
+land, their social relations, and their traditional ways of farming and
+husbandry. I would argue that the most effective means of enclosing knowledge
+today — intellectual property, or IP, as it is so called — has been to
+consolidate it in vast data centers and server farms owned by just a few tech
+monopolies. Property rights can be legislated and service contracts agreed to,
+but their final implementation is only achieved in these physical constructs.
+Digital enclosure comprises all the silicon, cables, metal, and concrete of
+those facilities, just as much as the abstract services and data they carry.
+Only then can access be effectively commodified in the form of subscriptions or
+advertising fees. The IP owner retains maximum control, with the ability to
+revoke access or modify the terms of service at any time, often outpacing legal
+authority to do so. This practice goes by many names. The industry jargon is
+Software-as-a-Service, or SaaS, while it is marketed to lay users in more poetic
+terms: _the cloud_. Opponents of cloud computing and proprietary software have
+quipped that this is just a euphemism for "someone else's computer." I would
+propose that, trading one grandiose metaphor for another, we instead rebrand the
+cloud as the modern form of enclosure it truly is: _hedgerows in the sky_.
 
 The hedgerows that enclosed the English commons of the 16th through 18th
-centuries did not go unopposed, but were actively resisted over many
-generations. Among the earliest of these were the Levellers, who first earned
-that name during the Midland Revolt of 1607 by "leveling" hedgerows in protest.
-Though some were drawn and quartered for their actions, their example inspired
-the True Levellers, or Diggers, led by Gerrard Winstanley during the English
-Revolution some 40 years later. The anonymous bard I quoted above, whoever they
-were, surely knew something of this resistance, and perhaps even participated in
-it. Therefore, it's not hard to hear both a warning and a call-to-arms in their
-final stanza:
+centuries did not go unopposed but were actively resisted over many generations.
+The Levellers were among the earliest dissidents for whom any records survive.
+They earned that name during the Midland Revolt of 1607 by "leveling" hedgerows
+in protest. Though some were drawn and quartered for their actions, they were
+never entirely suppressed. Some 40 years later, they were revived as the True
+Levellers, or Diggers, led by Gerrard Winstanley to establish a commune on St.
+George's Hill in the waning years of the English Revolution. Winstanley's
+pamphlets and tales of the Diggers would in turn serve as inspiration to social
+movements for centuries to come. The anonymous bard I quoted above, whoever they
+might have been, surely knew something of this struggle, and perhaps even
+participated in it. Therefore, it's not hard to hear both a warning and a
+call-to-arms in their final stanza:
 
 > The law locks up the man or woman  
 > Who steals the goose from off the common  

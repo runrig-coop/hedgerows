@@ -428,7 +428,7 @@ the WTO was poised to accelerate, as the effects were already apparent in their
 cities and villages. Among the agreements was a treaty obligation to uphold
 intellectual property rights (IPR) granted by other signatory nations. This was
 of particular concern to Shiva because chemical companies were seeking patents
-that would privatize the germplasm of plants that Indian farmers had previously
+that would privatize the genotypes of plants that Indian farmers had previously
 bred and cultivated. 
 
 This was first demonstrated in the case of neem, a plant endemic to Southeast

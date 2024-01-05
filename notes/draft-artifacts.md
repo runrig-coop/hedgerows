@@ -509,10 +509,12 @@ for their pasture (p. 32):
 > of political and economic power. Land sales rose steadily since the late 1500s
 > and by 1610 were 250 percent higher than 50 years earlier.
 
+
+## _Biopiracy_
 In 1997, half a decade after the governments and news media of Europe and North
 America had celebrated the quincentenary of his "discovery," largely without
 question, Vandana Shiva pronounced the "Second Coming of Columbus" as the advent
-of new intellectual property regimes and free trade agreements: 
+of new intellectual property regimes and free trade agreements (pp. 2-3):
 
 > Five hundred years after Columbus, a more secular version of the same project
 > of colonization continues through patents and intellectual property rights
@@ -528,9 +530,20 @@ of new intellectual property regimes and free trade agreements:
 > 
 > The creation of property through piracy of others wealth remains the same as
 > 500 years ago.
+> 
+> The freedom that transnational corporations are claiming through intellectual
+> property rights protection in the GATT agreement on Trade Related Intellectual
+> Property Rights (TRIPs) is the freedom that European colonizers have claimed
+> since 1492. Columbus set a precedent when he treated the license to conquer
+> non-European peoples as a natural right of European men. The land titles
+> issued by the pope through European kings and queens were the first patents.
+> The colonizer's freedom was built on the slavery and subjugation of the people
+> with original rights to the land. This violent takeover was rendered "natural"
+> by defining the colonized people as nature, thus denying them their humanity
+> and freedom.
 
 She then situates this process explicitly within the history of enclosure, and
-derives a definition of capital based upon that history (emphasis added):
+derives a definition of capital based upon that history (p. 3, emphasis added):
 
 > John Locke's treatise on property effectually legitimized this same process of
 > theft and robbery during the enclosure movement in Europe. Locke clearly
@@ -546,6 +559,93 @@ derives a definition of capital based upon that history (emphasis added):
 > as depriving the owner of capital of freedom. Therefore, peasants and
 > tribespeople who demand the return of their rights and access to resources are
 > regarded as thieves.
+
+More from _Biopiracy_, pp. 4-5:
+
+> The same logic is now used to appropriate biodiversity from the original
+> owners and innovators by defining their seeds, medicinal plants, and medical
+> knowledge as nature, as nonscience, and treating the tools of genetic
+> engineering as the yardstick of "improvement." Defining Christianity as the
+> only religion, and all other beliefs and cosmologies as primitive finds its
+> parallel in defining commercialized Western science as the only science, and
+> all other knowledge as primitive.
+> 
+> Five hundred years ago it was enough to be a non-christian culture to lose all
+> claims and rights. The humanity of others was blanked out then and their
+> intellect is being blanked out now. Conquered territories were treated as
+> peopleless in the patents of the 15th and 16th centuries. People were
+> naturalized into "our subjects." In continuity with conquest by
+> naturalization, biodiversity is being defined as nature — the cultural and
+> intellectual contributions of non-Western knowledge systems are being
+> systematically erased.
+> 
+> Today's patents have continuity with those issued to Columbus, Sir John Cabot,
+> Sir Humphrey Gilbert, and Sir Walter Raleigh. The conflicts that have been
+> unleashed by the GATT treaty, by patents on life-forms, by the patenting of
+> indigenous knowledge, and by genetic engineering are grounded in the processes
+> that can be summarized and symbolized as the second coming of Columbus.
+> 
+> At the heart of Columbus's "discovery" was the treatment of piracy as a
+> natural right of the colonizer, necessary for the deliverance of the
+> colonized. At the heart of the GATT treaty and its patent laws is the
+> treatment of biopiracy as a natural right of Western corporations, necessary
+> for the "development" of Third World communities.
+
+p. 7:
+
+> Patents on life enclose the creativity inherent to living systems that
+> reproduce and multiply in self-organized freedom. They enclose the interior
+> spaces of the bodies of women, plants, and animals. They also enclose the free
+> spaces ces of intellectual creativity by transforming publicly generated
+> knowledge into private property.
+
+pp. 9-10:
+
+> As currently discussed in global platforms, such as GATT and the Biodiversity
+> Convention, or as unilaterally imposed through the Special 301 clause of the
+> U.S. Trade Act, IPRs are a prescription for a monoculture of knowledge. These
+> instruments are being used to universalize the U.S. patent regime worldwide,
+> which would inevitably lead to an intellectual and cultural impoverishment by
+> displacing other ways of knowing, other objectives for knowledge creation, and
+> other modes of knowledge sharing.
+
+p. 10:
+
+> By denying the creativity of nature and other cultures, even when that
+> creativity is exploited for commercial gain, intellectual property rights
+> becomes another name for intellectual theft and biopiracy. Simultaneously,
+> people's assertion of their customary, collective rights to knowledge and
+> resources is turned into "piracy" and "theft."
+
+p. 22:
+
+> One of the characteristics of reductionist biology is to declare organisms
+> and their functions useless on the basis of ignorance of their structure and
+> function. Thus, crops and trees are declared "weeds." Forests and cattle
+> breeds are declared "scrub." And DNA whose role is not understood is called
+> "junk DNA." To write off the major part of the molecule as junk because of our
+> ignorance is to fail to understand biological processes. "Junk DNA" plays an
+> essential role. The fact that Tracy's protein production increased with the
+> introduction of "junk DNA" is an illustration of the PPL scientists'
+> ignorance, not their knowledge and creativity.
+> 
+> While genetic engineering is modeled on determinism and predictability,
+> indeterminism and unpredictability are characteristic of the human
+> manipulation of living organisms. In addition to the gap between the
+> projection and practice of the engineering paradigm, there is the gap between
+> owning benefits and rewards and owning hazards and risks.
+> 
+> When property rights to life-forms are claimed, it is on the basis of their
+> being new, novel, not occurring in nature. But when it comes time for the
+> "owners" to take responsibility for the consequences of releasing genetically
+> modified organisms (GMOs), suddenly the life-forms are not new. They are
+> natural, and hence safe. The issue of biosafety is treated as unnecessary.
+> Thus, when biological organisms have to be owned, they are treated as not
+> natural; when the ecological impact of releasing GMOs is called to account
+> by environmentalists, these same organisms are now natural. These shifting
+> constructions of "natural" show that science, which claims the highest levels
+> of objectivity, is actually very subjective and opportunistic in its approach
+> to nature.
 
 
 ## Public Goods & Market Enclosure

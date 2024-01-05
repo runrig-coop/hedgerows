@@ -405,27 +405,31 @@ and most of all the considerable administration required to maintain those
 systems have largely been taken for granted, almost as a fact of nature.
 
 ## The Commons that Never Were Enclosed
-Designating something _a fact of nature_ can just as readily bestow reverence as
-it can cast disdain. The double meaning, though seemingly contradictory, is the
-same rhetoric that colonialist projects have used for centuries to justify the
-enclosure of both physical resources and indigenous knowledge.
+Designating something _a fact of nature_ may just as readily cast disdain as
+demonstrate reverence. This double sense, though seemingly contradictory, is
+precisely why colonialist projects have deployed the rhetoric of nature
+throughout history. With it they can justify their theft of land, resources, and
+knowledge from indigenous people, while also declaiming the sacred rights of
+private property. That nature may be weaponized in this way, with serious
+consequences for IP, technology and agricultural development, has been
+established most conclusively in the writings and activism of Dr. Vandana Shiva.
 
 Nearly a decade before Benkler, Boyle and Bollier drew the comparison between
 copyright expansion and enclosure — reacting as they were to the passage of the
-DMCA and Sonny Bono Act of 1998 — Dr. Vandana Shiva cited the history of
-enclosure in response to a different suite of international laws, treaties, and
-free trade agreements, all negotiated between 1989 and 1993. This was the legal
-and financial framework that created the World Trade Organization (WTO),
-heralding a new era of globalization and unfettered neoliberalism. Shiva
-represented the Research Foundation for Science, Technology & Ecology (RFSTE),
-an organization comprised of scientists, conservationists, feminists, and
-peasant farmers. They resolutely opposed the environmental degradation and
-capitalist appropriation the WTO was poised to accelerate. The effects were
-already apparent in their cities and villages. Among the settlements was a
-treaty obligation to uphold intellectual property rights (IPR) granted by other
-signatory nations. This was of particular concern to Shiva because chemical
-companies were seeking patents that would privatize the germplasm of plants that
-Indian farmers had previously bred and cultivated. 
+DMCA and Sonny Bono Act of 1998 — Shiva cited the history of enclosure in
+response to a different suite of international laws, treaties, and free trade
+agreements, all negotiated between 1989 and 1993. This was the legal and
+financial framework that created the World Trade Organization (WTO), heralding a
+new era of globalization and unfettered neoliberalism. Shiva represented the
+Research Foundation for Science, Technology & Ecology (RFSTE), an organization
+comprised of scientists, conservationists, feminists, and peasant farmers. They
+resolutely opposed the environmental degradation and capitalist appropriation
+the WTO was poised to accelerate, as the effects were already apparent in their
+cities and villages. Among the agreements was a treaty obligation to uphold
+intellectual property rights (IPR) granted by other signatory nations. This was
+of particular concern to Shiva because chemical companies were seeking patents
+that would privatize the germplasm of plants that Indian farmers had previously
+bred and cultivated. 
 
 This was first demonstrated in the case of neem, a plant endemic to Southeast
 Asia. The neem seed produces an oil that can be used as a natural and highly
@@ -458,42 +462,84 @@ free trade, free enterprise, and free markets:
 > property rights protection in the GATT agreement on Trade Related Intellectual
 > Property Rights (TRIPs) is the freedom that European colonizers have claimed
 > since 1492. Columbus set a precedent when he treated the license to conquer
-> non-European peoples as a natural right of European men. The land titles issued
-> by the pope through European kings and queens were the first patents. The
-> colonizer's freedom was built on the slavery and subjugation of the people with
-> original rights to the land. This violent takeover was rendered "natural" by
-> defining the colonized people as nature, thus denying them their humanity and
-> freedom.
+> non-European peoples as a natural right of European men. The land titles
+> issued by the pope through European kings and queens were the first patents.
+> The colonizer's freedom was built on the slavery and subjugation of the people
+> with original rights to the land. This violent takeover was rendered "natural"
+> by defining the colonized people as nature, thus denying them their humanity
+> and freedom.
 
 I draw attention to this episode and Shiva's analysis for several reasons. It's
-an early instance of the enclosure metaphor being applied to IPR, for sure, and
-the fact that it also lies at the intersection of agriculture and technology
-should banish any residual notion that small-scale farming and open source
-software are unrelated concerns. It is not a wholly new leap in thought to
-suggest that the struggle for food sovereignty and local agriculture might be
-deeply interconnected with the struggle for technological autonomy and localized
-control of knowledge production. We may be rediscovering that here in urban
-America, but in some parts of the world, perhaps even in farming communities not
-so far from our cities, that understanding was never lost.
+an early instance of the enclosure metaphor being applied to IPR; that much
+should be clear. The fact that it lies at the intersection of agriculture and
+technology should also banish any residual notion that small-scale farming and
+open source software are unrelated concerns. The ideological connection between
+food sovereignty and technology sovereignty turns out to be nothing new. We may
+be rediscovering that here in America's coastal cities, but in some parts of the
+world, and perhaps in farming communities not so far from our urban centers,
+that understanding was never lost.
 
 The precise framing of her analysis, however, carries an insight far more
 profound, far more _ontological_ in character, than anything subsequent
-commentators on free culture were ready to profess. Shiva certainly acknowledges
+commentators on free culture were ready to claim. Shiva certainly acknowledges
 the value of the natural world and humanity's ties to it, but she also
 highlights how nature itself, at least in its canonically Western conception,
 has been used by colonial forces to dispossess indigenous peoples of their land
-and resources all across the globe.
+and resources all across the globe. This "conquest by naturalization," as she
+calls it, can be observed as far back as the Papal Bulls of Donation in 1493. To
+settle colonial disputes between the King of Portugal and the Catholic Monarchs
+of Spain, Pope Alexander VI drew a longitudinal line running down the middle of
+the Atlantic Ocean and cutting straight through modern Brasil's Nordeste region.
+He then "donated" all non-christian peoples and their lands on the right and
+left sides of that line to Portugal and Spain, respectively. The papal bulls,
+the treaties later negotiated between European courts, and the charters they
+granted to private joint stock companies were the direct predecessors to the
+patents and other IPRs recognized by GATT and TRIPs, as Shiva points out.
+Indeed, some of those charters granted in that first fit of colonization would
+be called "patents," though the more revealing term for them was "royal
+monopolies." Expropriation by royal or papal decree was invested with republican
+legitimacy in 1823, when U.S. Supreme Court Chief Justice John Marshall cited
+Pope Alexander VI as he set down his own so-called "doctrine of discovery." That
+ruling not only led to a violent escalation in the theft of native lands on the
+North American continent, but also had a profound effect on international law
+that reverberates to this day.
+
+The contempt European colonialists held for non-christian and indigenous peoples
+is abhorrent enough, but Shiva's analysis delves even deeper still. She examines
+the metaphysical assumptions that have underpinned justifications, both then and
+now, for such acts of wide-scale dehumanization. Not only were the people of the
+Americas, Africa, Asia, and Oceania relegated to mere _things of nature_, but
+nature itself was demoted to an unensouled object, to be set apart from and
+dominated by Christ-fearing white men.[^lib-theo] In some senses, this Cartesian
+duality was quite rigid, with the dividing line between subject and object hewn
+razor-thin, but that is not to say it was immovable. Just like the lines of
+longitude demarcating colonial holdings were redrawn over time, from the Bulls
+of Donation in 1493 to the Treaty of Zaragoza in 1529, the bounds of what can be
+deemed insensate nature have shifted ever since.
+
+[^lib-theo]: It is an unspoken tenet of Western metaphysics that is not particular
+to Christian theology or any other faith system, and in fact many streams of
+liberation theology within the Catholicism and other sects reject this dualistic
+conception of divinely ruled hierarchy.
+
 
 ...
+Expanding the bounds of nature to include knowledge, so it too may be enclosed.
 
 "conquest by naturalization" vs "coproduction with nature"
 
 doctrine of discovery
 
+Muldoon's data commodity fetishism, nature and _terra nullius_
+
 biopiracy vs biodiversity
 
 common property knowledge and resource systems vs IPRs
 
+__MAIN ARC__: Steer this all back to the question: "Even if the open source
+community was not so alert to the full dimensionality of the enclosure of
+ecological knowledge that was underway at the turn of the millennium, why were
+small farmers in the U.S. almost entirely oblivious?"
 
 *******
 

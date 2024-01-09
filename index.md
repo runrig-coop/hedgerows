@@ -191,7 +191,7 @@ time they were at once an unmistakable symbol of class hierarchy and a physical
 line of defense. They represented the alienation of common people from their
 land, their social relations, and their traditional ways of farming and
 husbandry. I would argue that the most effective means of enclosing knowledge
-today — intellectual property, or IP, as it is so called — has been to
+today — intellectual property, or IP, as it is often called — has been to
 consolidate it in vast data centers and server farms owned by just a few tech
 monopolies. Property rights can be legislated and service contracts agreed to,
 but their final implementation is only achieved in these physical constructs.
@@ -470,8 +470,16 @@ free trade, free enterprise, and free markets:
 > and freedom.
 
 I draw attention to this episode and Shiva's analysis for several reasons. It's
-an early instance of the enclosure metaphor being applied to IPR; that much
-should be clear. The fact that it lies at the intersection of agriculture and
+an early instance of the enclosure metaphor being applied to IP rights; that
+much is clear:
+
+> Patents on life enclose the creativity inherent to living systems that
+> reproduce and multiply in self-organized freedom. They enclose the interior
+> spaces of the bodies of women, plants, and animals. They also enclose the free
+> spaces of intellectual creativity by transforming publicly generated knowledge
+> into private property.
+
+The fact that this enclosure lies at the intersection of agriculture and
 technology should also banish any residual notion that small-scale farming and
 open source software are unrelated concerns. The ideological connection between
 food sovereignty and technology sovereignty turns out to be nothing new. We may
@@ -510,31 +518,74 @@ the metaphysical assumptions that have underpinned justifications, both then and
 now, for such acts of wide-scale dehumanization. Not only were the people of the
 Americas, Africa, Asia, and Oceania relegated to mere _things of nature_, but
 nature itself was demoted to an unensouled object, to be set apart from and
-dominated by Christ-fearing white men.[^lib-theo] In some senses, this Cartesian
-duality was quite rigid, with the dividing line between subject and object hewn
-razor-thin, but that is not to say it was immovable. Just like the lines of
-longitude demarcating colonial holdings were redrawn over time, from the Bulls
-of Donation in 1493 to the Treaty of Zaragoza in 1529, the bounds of what can be
-deemed insensate nature have shifted ever since.
+dominated by Christ-fearing white men.[^lib-theo]
 
 [^lib-theo]: It is an unspoken tenet of Western metaphysics that is not particular
 to Christian theology or any other faith system, and in fact many streams of
 liberation theology within the Catholicism and other sects reject this dualistic
 conception of divinely ruled hierarchy.
 
+To an extent, this Cartesian duality was quite rigid, with the dividing line
+between subject and object hewn razor-thin, but that is not to say it was
+immovable. Just like the lines of longitude demarcating colonial holdings were
+redrawn over time, from the Bulls of Donation in 1493 to the Treaty of Zaragoza
+in 1529, the bounds of what can be deemed insensate nature have shifted ever
+since. Today those lines are being redrawn to encompass knowledge and the code
+of life itself:
 
-...
-Expanding the bounds of nature to include knowledge, so it too may be enclosed.
+> The assumption of empty lands, _terra nullius_, is now being expanded to
+> "empty life," seeds and medicinal plants. The takeover of native resources
+> during colonization was justified on the ground that indigenous people did not
+> "improve" their land. [...] The same logic is now used to appropriate
+> biodiversity from the original owners and innovators by defining their seeds,
+> medicinal plants, and medical knowledge as nature, as nonscience, and treating
+> the tools of genetic engineering as the yardstick of "improvement." Defining
+> Christianity as the only religion, and all other beliefs and cosmologies as
+> primitive, finds its parallel in defining commercialized Western science as
+> the only science, and all other knowledge as primitive.
 
-"conquest by naturalization" vs "coproduction with nature"
+Compare this with James Muldoon, writing in 2022, starting from the very next
+line I cited above, after he defines his concept of "data commodity fetishism:"
 
-doctrine of discovery
+> When we understand data as a natural resource we mystify the true source of
+> its value in the human activity required to produce it. [...] Data is often
+> thought of as an unclaimed good ‘out there’ in a digital _terra nullius_ – an
+> empty space in which tech entrepreneurs can assert their rights over this
+> seemingly free resource.
 
-Muldoon's data commodity fetishism, nature and _terra nullius_
+Shiva's and Muldoon's observations are divided by a quarter century of
+technological development, including the advent of "Big Data" and
+multibillion-user social media networks. They address disparate facets of IP
+rights, too, from biotech patents to data use agreements. Yet they both identify
+these as clear instances of enclosure. Muldoon again:
 
-biopiracy vs biodiversity
+> There is a historical analogy between the early capitalist enclosure of the
+> commons and the digital enclosure of the internet by venture capitalists.
+> [...] In the case of the digital sphere, Facebook claims ownership over the
+> data produced from the daily interactions of our social lives. This data,
+> which is co-created by communities of individuals on the social network,
+> becomes the exclusive property of Facebook to be analysed and sold as
+> advertising commodities. Facebook takes unfair advantage of their position by
+> capturing this resource from a digital commons. At the time of the digital
+> enclosure, the loss of public goods that would occur was not immediately
+> obvious. But as these networks have grown within a privatised system of
+> commodification, the extent of the theft is becoming more apparent.
 
-common property knowledge and resource systems vs IPRs
+What brings these two perspectives into alignment is a willingness to critique
+the neoliberal assumptions underlying these two forms of capital accumulation.
+Shiva was a prominent voice in the strong anti-globalization movement that
+filled the breach between the end of the Cold War and the beginning of the
+so-called War on Terror. She was in Seattle when it ostensibly reached its
+high-water mark in November of 1999, a massive upwelling of anticapitalist
+sentiment the likes of which would not be seen again in the U.S. until Occupy
+Wall Street. Muldoon, for his part, is writing from a distinctly Marxian and
+autonomist perspective. He argues to revive the principles of guild socialism,
+as formulated by G.D.H. Cole roughly a century ago, and apply them to modern
+technology in what Mulddon calls _Platform Socialism_, adopting that in fact as
+the title of his book.
+
+************
+
 
 __MAIN ARC__: Steer this all back to the question: "Even if the open source
 community was not so alert to the full dimensionality of the enclosure of

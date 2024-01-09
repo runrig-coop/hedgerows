@@ -440,7 +440,10 @@ James Muldoon on "data commodity fetishism" in _Platform Socialism_ (p. 18):
 >     as if commodities themselves had a completely independent existence. See
 >     Karl Marx, Capital, Vol. 1 (London: Penguin Books, 1990), ch. 1.
 > [^31]: Ofcom, ‘UK’s Internet Use Surges to Record Levels’, 20 June 2020.
->     www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2020/uk-internet-use-surges. 
+>     www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2020/uk-internet-use-surges.
+> [^32]: Salome Viljoen, ‘Democratic Data: A Relational Theory for Data
+>     Governance’, 23 November 2020.
+>     https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727562.
 
 ## Coding assets and nature as capital
 Katherina Pistor on property 'absolutism' and rights held _erga omnes_ or
@@ -560,13 +563,33 @@ derives a definition of capital based upon that history (p. 3, emphasis added):
 > tribespeople who demand the return of their rights and access to resources are
 > regarded as thieves.
 
+<!-- Removed from "The Commons that Never Were Enclosed" -->
+Indeed, some of those charters granted in that first fit of colonization would
+be called "patents," though the more revealing term for them was "royal
+monopolies." Expropriation by royal or papal decree was invested with republican
+legitimacy in 1823, when U.S. Supreme Court Chief Justice John Marshall cited
+Pope Alexander VI as he set down his own so-called "doctrine of discovery." That
+ruling not only led to a violent escalation in the theft of native lands on the
+North American continent, but also had a profound effect on international law
+that reverberates to this day.
+
 More from _Biopiracy_, pp. 4-5:
 
+> The assumption of empty lands, terra nullius, is now being expanded to "empty
+> life," seeds and medicinal plants. The takeover of native resources during
+> colonization was justified on the ground that indigenous people did not
+> "improve" their land. As John Winthrop wrote in 1869:
+> 
+> > Natives in New England, they enclose no land, neither have they any settled
+> > habitation, nor any tame cattle to improve the land by soe have nor other
+> > but a Natural Right to those countries. Soe as if we leane them sufficient
+> > for their use, we may lawfully take the rest.
+> 
 > The same logic is now used to appropriate biodiversity from the original
 > owners and innovators by defining their seeds, medicinal plants, and medical
 > knowledge as nature, as nonscience, and treating the tools of genetic
 > engineering as the yardstick of "improvement." Defining Christianity as the
-> only religion, and all other beliefs and cosmologies as primitive finds its
+> only religion, and all other beliefs and cosmologies as primitive, finds its
 > parallel in defining commercialized Western science as the only science, and
 > all other knowledge as primitive.
 > 
@@ -596,8 +619,8 @@ p. 7:
 > Patents on life enclose the creativity inherent to living systems that
 > reproduce and multiply in self-organized freedom. They enclose the interior
 > spaces of the bodies of women, plants, and animals. They also enclose the free
-> spaces ces of intellectual creativity by transforming publicly generated
-> knowledge into private property.
+> spaces of intellectual creativity by transforming publicly generated knowledge
+> into private property.
 
 pp. 9-10:
 

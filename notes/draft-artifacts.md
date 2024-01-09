@@ -425,6 +425,19 @@ James Muldoon on "data commodity fetishism" in _Platform Socialism_ (p. 18):
 > every day.[^31] The more our lives are spent online, the more they can be
 > appropriated through data relations.
 > 
+> Data is often thought of as an unclaimed good ‘out there’ in a digital _terra
+> nullius_ – an empty space in which tech entrepreneurs can assert their rights
+> over this seemingly free resource. As users of platforms, we tend not to see
+> data through the same proprietary lens as other tangible goods, which has
+> enabled tech companies to establish unfavourable norms over who should own and
+> control data flows in digital spaces. The fact that we sign our rights away in
+> terms of service agreements is not surprising because as individuals there is
+> little value in our personal data trove. It’s in the collection and analysis
+> of large quantities of data where value can be generated. As Salome Viljoen
+> has argued, companies’ data collection practices are ‘primarily aimed at
+> deriving population-level insights from data subjects’ that can then be used
+> to develop advertising products.[^32]
+> 
 > [^27]: The Economist, ‘The World’s Most Valuable Resource Is No Longer Oil,
 >     But Data’, 6 May 2017.
 >     www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data;

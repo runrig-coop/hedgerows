@@ -404,7 +404,7 @@ been stripped away in the last decade. Meanwhile, physical servers, databases,
 and most of all the considerable administration required to maintain those
 systems have largely been taken for granted, almost as a fact of nature.
 
-## The Commons that Never Were Enclosed
+## The Commons Yet to Be Enclosed
 Designating something _a fact of nature_ may just as readily cast disdain as
 demonstrate reverence. There is no paradox or dialectic at play here, just a
 double standard, which is precisely why it has been a favorite rhetorical device
@@ -576,8 +576,7 @@ as formulated by G.D.H. Cole roughly a century ago, and apply them to modern
 technology in what Mulddon calls _Platform Socialism_, adopting that in fact as
 the title of his book.
 
-************
-
+## Whither the Agricultural Commons?
 
 __MAIN ARC__: Steer this all back to the question: "Even if the open source
 community was not so alert to the full dimensionality of the enclosure of

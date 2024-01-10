@@ -570,11 +570,16 @@ filled the breach between the end of the Cold War and the beginning of the
 so-called War on Terror. She was in Seattle when it ostensibly reached its
 high-water mark in November of 1999, a massive upwelling of anticapitalist
 sentiment the likes of which would not be seen again in the U.S. until Occupy
-Wall Street. Muldoon, for his part, is writing from a distinctly Marxian and
-autonomist perspective. He argues to revive the principles of guild socialism,
-as formulated by G.D.H. Cole roughly a century ago, and apply them to modern
-technology in what Mulddon calls _Platform Socialism_, adopting that in fact as
-the title of his book.
+Wall Street.[^seattle] Muldoon, for his part, is writing from a distinctly
+Marxian and autonomist perspective. He argues to revive the principles of guild
+socialism, as formulated by G.D.H. Cole roughly a century ago, and apply them to
+modern technology in what Mulddon calls _Platform Socialism_, adopting that in
+fact as the title of his book.
+
+[^seattle]: _Democracy Now!_, ["20 Years After the Battle of Seattle: Vandana
+      Shiva & Lori Wallach on Historic 1999 WTO
+      Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later),
+      2019 Nov 27.
 
 ## Whither the Agricultural Commons?
 

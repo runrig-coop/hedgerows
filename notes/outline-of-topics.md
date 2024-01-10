@@ -14,6 +14,9 @@
     - [_Stolen Harvest: The Hijacking of the Global Food
       Supply_](https://archive.org/details/stolenharvesthij00shiv) (2000)
     - Navdanya, ["Biopiracy Campaign"](https://navdanya.org/biopiracy-campaign-1)
+    - Interview on _Democracy Now!_: ["20 Years After the Battle of Seattle:
+      Vandana Shiva & Lori Wallach on Historic 1999 WTO
+      Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later)
   - Globalization and intellectual property expansion
     - [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement)
     - [General Agreement on Tariffs and Trade

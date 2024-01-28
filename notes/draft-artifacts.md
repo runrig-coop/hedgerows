@@ -355,6 +355,266 @@ Both May and Shiva give considerable attention to the TRIPS agreements, which
 were still being actively developed in the late nineties by the WTO, as well as
 its predecessor, GATT.
 
+## The Californian Ideology
+In _From Counterculture to Cyberculture_ (pp. 258-260), Fred Turner cites Ellen
+Ullman's 1997, _Close to the Machine_, a testament to the alienating work/life
+culture of the late nineties tech boom. Turner then comments on the overlooked
+material elements of what techno-utopians back in the 1980's and 90's lauded as
+the coming information society:
+
+> To stay employed, Ullman and workers like her must move from node to node
+> within the network of sites where computers and software are manufactured and
+> used, and in order to pick up leads for new work, they must stay in touch with
+> one another. As a result, programmers and others often find themselves living
+> in a social and physical landscape populated principally by people like
+> themselves. To succeed within that landscape, they must often turn their
+> attention away from another, parallel landscape: the landscape of local,
+> material things, of town boards and PTA meetings, of embodied participation in
+> civic life. They must declare and maintain an allegiance to their own
+> professional network, to its sites and technologies. And they must carry with
+> them a handful of rules that Ullman trumpets with more than a little sarcasm:
+> “Just live by your wits and expect everyone else to do the same. Carry no dead
+> wood. Live free or die. Yeah, surely, you can only rely on yourself.”[^22t]
+> 
+> For those like Ullman who have the education, the professional skills, and the
+> lack of geographically binding social ties that allow a person to remain
+> mobile and flexible, such libertarian nostrums can transform a series of
+> personal losses — of time with family and neighbors, of connection to one’s
+> body and one’s community — into a soothing narrative with which they can
+> rationalize the limits of their own choices. As Richard Barbrook and Andy
+> Cameron have argued, the antinomian and antistatist impulses of the American
+> counterculture do in fact allow workers like Ullman to acknowledge the power
+> of market forces in their lives and, paradoxically, to preserve a sense of
+> their own autonomy.[^23t] However, to the degree that the libertarian rhetoric
+> of self-reliance embraces a New Communalist vision of a consciousness-
+> centered, information-oriented elite, it can also permit a deep denial of the
+> moral and material costs of the long-term shift toward network modes of
+> production and ubiquitous computing.
+> 
+> For Stewart Brand and, later, for the writers and editors of Wired, the mirror
+> logic of cybernetics provided substantial support for this denial. For Norbert
+> Wiener and those who followed his lead, the world consisted of a series of
+> informational patterns, and each of those patterns in turn was also in some
+> sense an emblem of every other. As taken up by the New Communalists, this
+> vision produced two contradictory claims, one egalitarian and the other
+> elitist. On the one hand, the fact that material phenomena could be imagined
+> as part of a single, invisible whole suggested that an egalitarian order might
+> obtain in the world. Human beings, nature, machines — all were one and each
+> should coevolve with every other. On the other hand, though, in keeping with
+> the vision’s history as a universal rhetorical tool with which cold war
+> researchers claimed authority for their projects, the fact that the social and
+> the natural, the individual and the institutional, the human and the machine
+> could all be seen as reflections of one another suggested that those who could
+> most successfully depict themselves as aligned with the forces of information
+> could also claim to be models of those forces. They could in fact claim to
+> have a “natural” right to power, even as they disguised their leadership with
+> a rhetoric of systems, communities, and information flow.
+> 
+> It was this claim that Stewart Brand and his colleagues modeled for their
+> clients at the Global Business Network, and it is was this claim that the
+> writers of Wired bolstered by depicting subjects such as Esther Dyson and
+> George Gilder as people who spoke or acted like computers. As the communards
+> of the back-to-the-land movement had once argued that they were forerunners of
+> a new, more egalitarian society on the basis of their being in touch with a
+> shared consciousness, the information consultants of the 1990s asserted that
+> the Internet modeled not only an egalitarian future, but their own, existing
+> lives. In touch with the flow of information, they could safely represent
+> themselves as a “digital generation” — or, in a term much used at the time, as
+> “digerati.”[^24t]
+> 
+> The rhetoric of peer-to-peer informationalism, however, much like the rhetoric
+> of consciousness out of which it grew, actively obscures the material and
+> technical infrastructures on which both the Internet and the lives of the
+> digital generation depend. Behind the fantasy of unimpeded information flow
+> lies the reality of millions of plastic keyboards, silicon wafers, glass-faced
+> monitors, and endless miles of cable. All of these technologies depend on
+> manual laborers, first to build them and later to tear them apart. This work
+> remains extraordinarily dangerous, first to those who handle the toxic
+> chemicals required in manufacture and later to those who live on the land,
+> drink the water, and breathe the air into which those chemicals eventually
+> leak.
+>
+> [^22t]: Ullman, _Close to the Machine_, 127.
+> [^23t]: Barbrook and Cameron, “Californian Ideology.”
+> [^24t]: The term digerati was almost certainly coined by John Brockman, a
+>     member of the downtown New York art scene of the early 1960s and an
+>     acquaintance of the USCO troupe; he went on to become a literary agent for
+>     many scientists and technologists. In 1996 he authored brief biographies
+>     of many of his friends and clients, including Brand, Dyson, Barlow, Kelly,
+>     Rheingold, and others, in a volume entitled Digerati and published by the
+>     fledgling book division of Wired magazine.
+
+The relevant section from Richard Barbrook's and Andy Cameron's "The Californian
+Ideology", as published in _Mute_, 1995:
+
+> ### The Rise of the Virtual Class
+> Although companies in these sectors can mechanise and sub-contract much of
+> their labour needs, they remain dependent on key people who can research and
+> create original products, from software programs and computer chips to books
+> and tv programmes. These skilled workers and entrepreneurs form the so-called
+> 'virtual class': '...the techno-intelligentsia of cognitive scientists,
+> engineers, computer scientists, video-game developers, and all the other
+> communications specialists...' (Kroker and Weinstein). Unable to subject them
+> to the discipline of the assembly-line or replace them by machines, managers
+> have organised such intellectual workers through fixed-term contracts. Like
+> the 'labour aristocracy' of the last century, core personnel in the media,
+> computing and telecoms industries experience the rewards and insecurities of
+> the marketplace. On the one hand, these hi-tech artisans not only tend to be
+> well-paid, but also have considerable autonomy over their pace of work and
+> place of employment. As a result, the cultural divide between the hippie and
+> the organisation man has now become rather fuzzy. Yet, on the other hand,
+> these workers are tied by the terms of have no guarantee continued employment.
+> Lacking the free time of the hippies, work itself ho become the main route to
+> self-fulfilment for much of the 'virtual class'.
+> 
+> Because these core workers are both a privileged part of the labour force and
+> heirs of the radical ideas of the community media activists, the Californian
+> Ideology simultaneously reflects the disciplines of market economics and the
+> freedoms of hippie artisanship. This bizarre hybrid is only made possible
+> through a nearly universal belief in technological determinism. Ever since the
+> '60s, liberals -in the social sense of the word - have hoped that the new
+> information technologies would realise their ideals. Responding to the
+> challenge of the New Left, the New Right has resurrected an older form of
+> liberalism: economic liberalism. In place of the collective freedom sought by
+> the hippie radicals, they have championed the liberty of individuals within
+> the marketplace. From the `70s onwards, Muffler, de Sola Pool and other gurus
+> attempted to prove that the advent of hypermedia would paradoxically involve a
+> return to the economic liberalism of the past. This 'retro-utopia echoed the
+> predictions of Asimov, Heinlein and other macho sci-fi novelists whose future
+> worlds were always filled with space traders, superslick salesmen, genius
+> scientists, pirate captains and other rugged individualists. The path of
+> technological progress leads back to the America of the Founding Fathers.
+
+These three sections are also significant for calling out the hypocrisy of the
+communalists-turned-technocrats:
+
+> ### The Myth of the Free Market
+> Almost every major technological advance of the last two hundred years has
+> taken place with the aid of large amounts of public money and under a good
+> deal of government influence. The technologies of the computer and the Net
+> were invented with the aid of massive state subsidies. For example, the first
+> Difference Engine project received a British Government grant of £517,470 - a
+> small fortune in 1834. From Colossus to EDVAC, from flight simulators to
+> virtual reality, the development of- computing has depended at key moments on
+> public research handouts or fat contracts with public agencies. The IBM
+> corporation built the first programmable digital computer only after it was
+> requested to do so by the US Defense Department during the Korean War. The
+> result of a lack of state intervention meant that Nazi Germany lost the
+> opportunity to build the first electronic computer in the late '30s when the
+> Wehrmacht refused to fund Konrad Zuze, who had pioneered the use of binary
+> code, stored programs and electronic logic gates.
+> 
+> One of the weirdest things about the Californian Ideology is that the West
+> Coast itself is a product of massive state intervention. Government dollars
+> were used to build the irrigation systems, high-ways, schools, universities
+> and other infrastructural projects which make the good life possible. On top
+> of these public subsidies, the West Coast hi-tech industrial complex has been
+> feasting off the fattest pork barrel in history for decades. The US government
+> has poured billions of tax dollars into buying planes, missiles, electronics
+> and nuclear bombs from Californian companies. Americans have always had state
+> planning, but they prefer to call it the defence budget.
+> 
+> All of this public funding has had an enormously beneficial - albeit
+> unacknowledged and uncosted - effect on the subsequent development of Silicon
+> Valley and other hi-tech industries. Entrepreneurs often have an inflated
+> sense of their own 'creative act of will' in developing new ideas and give
+> little recognition to the contributions made by either the state or their own
+> labour force. However, all technological progress is cumulative - it depends
+> on the results of a collective historical process and must be counted, at
+> least in part, as a collective achievement. Hence, as in every other
+> industrialised country, American entrepreneurs have in fact relied on public
+> money and state intervention to nurture and develop their industries. When
+> Japanese companies threatened to take over the American microchip market, the
+> libertarian computer capitalists of California had no ideological qualms about
+> joining a state-sponsored cartel organised by the state to fight off the
+> invaders from the East! 
+> 
+> ### Masters and Slaves
+> Despite the central role played by public intervention in developing
+> hypermedia, the Californian Ideology is a profoundly anti-statist dogma. The
+> ascendancy of this dogma is a result of the failure of renewal in the USA
+> during the late '60s and early '70s. Although the ideologues of California
+> celebrate the libertarian individualism of the hippies, they never discuss the
+> political or social demands of the counter-culture. Individual freedom is no
+> longer to be achieved by rebelling against the system, but through submission
+> to the natural laws of technological progress and the free market. In many
+> cyberpunk novels and films, this asocial libertarianism is expressed by the
+> central character of the lone individual fighting for survival within a
+> virtual world of information.
+> 
+> In American folklore, the nation was built out of a wilderness by free-booting
+> individuals - the trappers, cowboys, preachers, and settlers of the frontier.
+> Yet this primary myth of the American republic ignores the contradiction at
+> the heart of the American dream: that some individuals can prosper only
+> through the suffering of others. The life of Thomas Jefferson - the man behind
+> the ideal of `Jeffersonian democracy' - clearly demonstrates the double nature
+> of liberal individualism. The man who wrote the inspiring call for democracy
+> and liberty in the American declaration of independence was at the same time
+> one of the largest slave-owners in the country.
+> 
+> Despite emancipation and the civil rights movement, racial segregation still
+> lies at the centre of American politics - especially in California. Behind the
+> rhetoric of individual freedom lies the master's fear of the rebellious slave.
+> In the recent elections for governor in California, the Republican candidate
+> won through a vicious anti-immigrant campaign. Nationally, the triumph of
+> Gingrich's neoliberals in the legislative elections was based on the
+> mobilizations of "angry white males" against the supposed threat from black
+> welfare scroungers, immigrants from Mexico and other uppity minorities.
+> 
+> The hi-tech industries are an integral part of this racist Republican
+> coalition. However, the exclusively private and corporate construction of
+> cyberspace can only promote the fragmentation of American society into
+> antagonistic, racially-determined classes. Already 'redlined' by profit-hungry
+> telcos, the inhabitants of poor inner city areas can be shut out of the new
+> on-line services through lack of money. In contrast, yuppies and their
+> children can play at being cyberpunks in a virtual world without having to
+> meet any of their impoverished neighbours. Working for hi-tech and new media
+> corporations, many members of the 'virtual class' would like to believe that
+> new technology will somehow solve America's social, racial and economic
+> problems without any sacrifices on their part. Alongside the ever-widening
+> social divisions, another apartheid between the 'information-rich' and the
+> 'information-poor' is being created. Yet calls for the telcos to be forced to
+> provide universal access to the information superstructure for all citizens
+> are denounced in Wired magazine as being inimical to progress. Whose progress?
+>
+> ### The Dumb Waiter
+> As Hegel pointed out, the tragedy of the masters is that they cannot escape
+> from dependence on their slaves. Rich white Californians need their
+> darker-skinned fellow humans to work in their factories, pick their crops,
+> look after their children and tend their gardens. Unable to surrender wealth
+> and power, the white people of California can instead find spiritual solace in
+> their worship of technology. If human slaves are ultimately unreliable, then
+> mechanical ones will have to be invented. The search for the holy grail of
+> Artificial Intelligence reveals this desire for the Golem - a strong and loyal
+> slave whose skin is the colour of the earth and whose innards are made of
+> sand. Techno-utopians imagine that it is possible to obtain slave-like labour
+> from inanimate machines. Yet, although technology can store or amplify labour,
+> it can never remove the necessity for humans to invent, build and maintain the
+> machines in the first place. Slave labour cannot be obtained without somebody
+> being enslaved. At his estate at Monticello, Jefferson invented many ingenious
+> gadgets - including a 'dumb waiter' to mediate contact with his slaves. In the
+> late twentieth century, it is not surprising that this liberal slave-owner is
+> the hero of those who proclaim freedom while denying their brown-skinned
+> fellow citizens those democratic rights said to be inalienable.
+
+In 2013, Turner gave a keynote lecture for The Anthropocene Project in Berlin,
+based on his book. He traces the thread from the early cybernetics movements of
+the 40's and 50's, to the counter culture and communes of the 60's, then to
+silicon valley culture of the 70's and 80's, and finally to the emergence of
+neo-libaral capitalism in the 90's and 00's. The whole talk is fantastic, but
+when he explicitly links these themes to farming toward the end, at
+[38m30s](https://youtu.be/6Py_P1_cHUE?t=2310), it practically gave me chills:
+
+> You know, I think in many ways the New Communalist dreams of "communities of
+> consciousness" provided a guiding ethos for networked computing. And the irony
+> is that that ethos helped underwrite the emergence of a highly individualized
+> kind of economy that's very rough to live in. Contract labor is a very hard
+> way to live and it's a way that increasing numbers of Americans are living.
+> Blending your community and your labor sounds fun, until you've worked on a
+> farm. When you get up in the middle of the night to milk a cow, boy, I bet you
+> wish for the 40-hr week, and some separation between home and work. And I
+> think that's true for a lot of people I know who code.
+
 ## The limits of a liberal theory of the commons
 In _The Wealth of Networks_, as the titular reference might suggest, Benkler
 fits squarely into the two Post-Cold War camps of neoclassical economics and

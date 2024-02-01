@@ -282,8 +282,7 @@ Then, after providing the first two methods:
 > 132. One author has used the term "public commons" to describe "the raw
 >      materials from which creative imaginations must work" and which therefore
 >      cannot be "fenced in" in any circumstances. Carman, _supra_ note 20, at
->      58,
->      59. _Cf._ Nimmer, _supra_ note 20, at 266.
+>      58, 59. _Cf._ Nimmer, _supra_ note 20, at 266.
 > 133. _Cf._ Stone, _Should Trees Have Standing?— Toward Legal Rights for
 >      Natural Objects_, 45 S. CAL. L. REV. 450 (1972).
 

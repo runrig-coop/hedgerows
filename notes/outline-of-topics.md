@@ -126,7 +126,7 @@
       - ["Marx's Theory of Metabolic
         Rift"](https://johnbellamyfoster.org/articles/marxs-theory-of-metabolic-rift/)
         (1999)
-    - Sylvia Federici
+    - Silvia Federici
       - [_Caliban and the
         Witch_](https://www.akpress.org/calibanandthewitch.html) (2004)
       - ["Commons against and beyond
@@ -392,6 +392,78 @@
       like real property. Likewise, tangible things are viewed as substantively
       different from information and their informational component is either
       minimized or overlooked entirely.
+- 90's Anti-Globalization Movements
+  - Seattle WTO Protests
+    - The WTO History Project
+      - [Organizations Opposed to the
+        WTO](https://depts.washington.edu/wtohist/orgs.htm)
+      - [NGO's Sign-on Letter](https://depts.washington.edu/wtohist/letter.htm)
+      - [Timeline of the
+        Protests](https://depts.washington.edu/wtohist/timeline.htm) (Nov 29 -
+        Dec 3)
+    - Crimethinc.
+      - ["Seattle, Seven Years
+        Later"](https://crimethinc.com/2006/11/30/seattle-seven-years-later)
+      - ["N30: The Seattle WTO
+        Protests"](https://crimethinc.com/zines/n30-the-seattle-wto-protests)
+      - ["The Power is Running: A Memoir of
+        N30"](https://crimethinc.com/2017/11/30/the-power-is-running-a-memoir-of-n30-shutting-down-the-wto-summit-in-seattle-1999)
+        (2017)
+    - Documentaries
+      - [_Showdown In Seattle_](https://vimeo.com/223772965), documentary made
+        in collaboration by Paper Tiger TV, Independent Media Center, Media
+        Island Int'l et al.
+        - [PTTV archive
+          page](https://papertiger.org/showdown-in-seattle-five-days-that-shook-the-wto-entire-series/)
+        - [Uploaded to YouTube](https://www.youtube.com/watch?v=g_Xltn0jW_0) by
+          Media Island Int'l
+    - _Democracy Now!_ retrospective interviews from 2019 Nov 27
+      - ["20 Years After the Battle of Seattle: Vandana Shiva & Lori Wallach on
+      Historic 1999 WTO
+      Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later)
+      - ["“Don’t Hate the Media, Be the Media”: Reflections on 20 Years of
+        Indymedia, a Radical Media
+        Movement"](https://www.democracynow.org/2019/11/27/indymedia_independent_media_seattle_wto_1999)
+    - C-SPAN's video recording and transcript of the [30 Nov 1999 debate at
+      Seattle Town
+      Hall](https://c-span.org/video/?153921-1/globalization-world-trade-organization),
+      moderated by Paul Magnusson, correspondent for _Business Week_.
+      - In support of the WTO's globalization policies:
+        - Prof. Jagdish Rhagwati of Columbia University, advisor to GATT
+        - R. Scott Miller, Dir. of Global Trade Policy at Procter and Gamble
+        - David L. Aaron, White House Under Secretary of Commerce for Int'l
+          Trade
+      - In opposition to the WTO/globalization:
+        - Ralph Nader, Public Citizen
+        - Dr. Vandana Shiva, RFSTE
+        - John Cavanagh, Institute for Public Studies
+    - Other accounts & archives
+      - ["Twenty Years Later the “Spirit of Seattle” Lives On! – How the Food
+        Sovereignty Movement Helped Bring Down the World Trade Organization
+        (WTO)"](https://familyfarmers.org/?p=1692) by John E. Peck, Exec. Dir.
+        of Family Farm Defenders, also published in the [Food First
+        archives](https://archive.foodfirst.org/the-battle-for-seattle-and-how-the-food-sovereignty-movement-helped-bring-down-the-world-trade-organization-wto/).
+      - Orbis Cascades Alliance, Archives West: ["World Trade Organization 1999
+        Seattle Ministerial Conference Protest
+        collection"](https://archiveswest.orbiscascade.org/ark:/80444/xv08728/op=fstyle.aspx?t=k&q=WAUWTO1999SeattleProtest5177.xml)
+      - University of Washington, Digital Collections: ["WTO Seattle
+        Collection"](https://content.lib.washington.edu/wtoweb/index.html)
+  - [Indymedia](https://indymedia.org/)
+    - April Glaser, ["Another Network is
+      Possible"](https://logicmag.io/bodies/another-network-is-possible/),
+      _Logic(s)_ (3 Aug 2019)
+    - ["After protestors fill the streets and shut down the WTO opening session,
+      Mayor Paul Schell declares a state of emergency and police use tear gas
+      and rubber bullets to clear downtown Seattle on November 30,
+      1999."](https://www.historylink.org/File/2142) (2009)
+    - _Portland Independent Media Center_, ["Co-ops making history! World's
+      first open-source POS system at People's Food
+      Co-op."](https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml)
+    - Sources for 1415 3rd Avenue as location of original storefront
+      - https://archiveswest.orbiscascade.org/ark:80444/xv111236
+      - https://archive.seattletimes.com/archive/?date=19991223&slug=A19991224010135
+      - https://web.archive.org/all/20000816130236/http://seattle.indymedia.org/about.php3
+      - "3rd Avenue" is also mentioned in _Showdown_ at 16:35
 - Arab Spring
   - Proclaimers of the "Twitter Revolution" & its detractors (Gladwell et al.)
     - Gladwell, ["Small Change: Why the revolution will not be

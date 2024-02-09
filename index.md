@@ -567,21 +567,117 @@ these as clear instances of enclosure. Muldoon again:
 
 What brings these two perspectives into alignment is a willingness to critique
 the neoliberal assumptions underlying these two forms of capital accumulation.
-Shiva was a prominent voice in the strong anti-globalization movement that
-filled the breach between the end of the Cold War and the beginning of the
-so-called War on Terror. She was in Seattle when it ostensibly reached its
-high-water mark in November of 1999, a massive upwelling of anticapitalist
-sentiment the likes of which would not be seen again in the U.S. until Occupy
-Wall Street.[^seattle] Muldoon, for his part, is writing from a distinctly
-Marxian and autonomist perspective. He argues to revive the principles of guild
-socialism, as formulated by G.D.H. Cole roughly a century ago, and apply them to
-modern technology in what Mulddon calls _Platform Socialism_, adopting that in
-fact as the title of his book.
+Shiva was a prominent voice in the anti-globalization movement that filled the
+breach between the end of the Cold War and the beginning of the so-called War on
+Terror. She was in Seattle when it ostensibly reached its high-water mark on
+November 30, 1999, a massive upwelling of anticapitalist sentiment the likes of
+which would not be seen again in the U.S. until Occupy Wall Street.[^seattle]
+Muldoon, for his part, is writing from a distinctly Marxian and autonomist
+perspective. He argues to revive the principles of guild socialism, as
+formulated by G.D.H. Cole roughly a century ago, and apply them to modern
+technology in what Mulddon calls _Platform Socialism_, which is also the title
+of his book.
 
 [^seattle]: _Democracy Now!_, ["20 Years After the Battle of Seattle: Vandana
       Shiva & Lori Wallach on Historic 1999 WTO
       Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later),
       2019 Nov 27.
+
+The 1999 Seattle WTO Protests stand as a critical inflection point where the
+interests and organizing base of technology and farming activists momentarily
+fused into single, coherent political force that acted decidedly against further
+enclosure of the global commons. Shiva and the RFSTE were joined by a wide array
+of organic food, small farming and peasant rights activists, all marching to
+halt the WTO Ministerial Conference. The diversity of agricultural concerns
+represented is noteworthy. U.S.-based groups like the Pure Food Campaign and
+Family Farm Defenders were mobilized against GMO foods while also championing
+small family farms from the Midwest and coastal exurban farming communities. La
+Via Campesina was also there in force, demanding equitable land distribution,
+fairer wages, and safe working conditions, alongside other groups from the
+global south, like Food and Allied Workers Union of South Africa, as well as the
+Black Farmers and Agriculturalists Association from the American South. These
+differences aside, they presented a united front against the powers of global
+capital and trade. Shiva herself was uniquely poised to represent a broad
+spectrum of those interests, as she did at the nationally broadcast debate at a
+packed Seattle Town Hall the night after the first protests. She sat
+shoulder-to-shoulder with Ralph Nader as they debated White House Under
+Secretary of Commerce David Aaron and Proter and Gamble Director of Global
+Policy Scott Miller. This is where many organic food advocates in the U.S. were
+first introduced to Shiva's work, as she fired a cascade of withering rebukes at
+these grandees of government and industry, all to thunderous applause.
+
+At the same time, a group of independent journalists, media activists, hackers,
+and free speech advocates setup shop as the Independent Media Center (IMC) in a
+donated storefront at 1415 3rd Avenue and on the web as indymedia.org. While
+news coverage coming from major U.S. newsrooms was either non-existent or
+heavily biased against the protesters, the IMC was critical to getting out
+reports of what was actually taking place, who the protesters were, and what
+their demands were. At one point, they were receiving more traffic than cnn.com,
+with 1.5 million unique visitors in its first week. The legacy of the IMC would
+live on in the influence it had on the digital media tactics of later movements,
+and the IMC itself would continue as an activist hub in Seattle for several
+years. Arguably its most lasting influence, however, was in the establishment of
+sister IMC's in cities and regions around the world. This was the birth of
+Indymedia network, which at its peak in 2010 comprised as many as 175 centers.
+They shared some common open source publishing tools and many were provided with
+subdomains, like barcelona.indymedia.org, but otherwise they were largely
+autonomous projects run by activists in those regions.
+
+Indymedia was not principally concerned with open source or free culture issues,
+but a few of the individual IMCs offered a glimpse of how the cross-pollination
+of free software and food sovereignty could yield unique outcomes. In 2005, some
+software developers affiliated with the Portland IMC and People's Food Co-op,
+building on the prior work of another engineer/member of The Wedge Co-op in
+Minneapolis, open sourced a point-of-sale system dubbed Information Systems 4
+Co-ops, or IS4C. As the Portland IMC reported at the time:
+
+> This past Saturday morning, a group of co-op geeks gathered at People's Food Co-op and successfully ran IS4C on a Linux box running Ubuntu using MySQL 5 and PHP 5. Stop the presses. History has been made.[^is4c]
+
+A fork of IS4C is still actively maintained to this day as CORE-POS, stewarded by the Tech Support Cooperative.[^tech-support-co-op]
+
+[^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
+[^tech-support-co-op]: https://github.com/CORE-POS/IS4C
+
+On a more ideological level, Indymedia's legacy represents an alternative to the
+free culture, open source, and online privacy movements, which have always
+enjoyed wider notoriety. April Glaser, writing for _Logic(s)_ magazine in 2019,
+places Indymedia and its legacy in start contrast to the kind of advocacy of
+groups like the Electronic Frontier Foundation (EFF), founded by the Greatful
+Dead lyricist turned dotcom entrepeneur John Perry Barlow. She points out how in
+the same year that Barlow penned his techno-libertarian manifesto, "A
+Declaration of the Independence of Cyberspace," a very different sort of
+declaration regarding the potential of cyberspace was being promulgated by
+Subcommandante Marcos of the Zapatista Army of National Liberation (EZLN). Even
+the climate of their authorship, both literally and politically speaking, could
+not have been more dissimilar. Barlow signed his declaration from Davos,
+Switzerland on February 8, 1996, having ostensibly found inspiration in the
+World Economic Forum that had concluded two days before. On the other hand, the
+_2nd Declaration of La Realidad_ was Marcos' valediction to the 42 delegates and
+roughly 5,000 other activists and journalists who came from around the world to
+the "First Intercontinental Encounter for Humanity and Against Neoliberalism,"
+held the jungle environs of Chiapas, Mexico.
+
+Marcos called for "a collective network" of resistance against neoliberalism,
+linking  activists from all parts of the globe in these early days of the World
+Wide Web. He had already shown himself so adroit at mobilizing international
+support through the online publishing of communiques such as this one.[^EZLN]
+Glaser observes that, some three years before the Battle of Seattle, "the
+organizers who went on to build Indymedia heard this call." She continues:
+
+> The Indymedia organizers would be the children of Marcos, not Barlow. While
+> the two philosophies had points of contact, they came from different places of
+> concern. Indymedia activists would agree with the techno-libertarians that
+> politicians and police couldn’t be trusted in their networks. But they didn’t
+> see cyberspace as an open frontier of _individuals unhindered by governments_.
+> Rather, the activists saw cyberspace as a place for _communities_.[^Glaser]
+
+[^EZLN]: https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html
+[^Glaser]: https://logicmag.io/bodies/another-network-is-possible/
+
+Indymedia, like the Zapatistas and Vandana Shiva, sought to build political
+power from the ground up, but not for the sake of self-interested individuals
+alone. They were organizing for communal liberation. That meant defending and
+restoring the commons from enclosure by the neoliberal political order.
 
 ## Whither the Agricultural Commons?
 

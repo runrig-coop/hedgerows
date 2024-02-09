@@ -39,8 +39,8 @@ clearly shifted our attentions.
 
 It was during the Justice for Nature session that Samuel Oslund, an independent
 researcher then at the CAPÉ[^CAPE] farming cooperative in Île de Montréal,
-directed the conversation towards the Amish _Ordnung_, in essence a code of
-conduct or rules each community formulates for itself. _Ordnung_ does not ban
+directed the conversation towards the Amish _Ordnung_. In essence, _Ordnung_ is
+a code ofconduct or rules each community formulates for itself. It does not ban
 technology outright, but prescribes a selection process that may include
 evaluation by community elders, probationary trial periods, and group consensus.
 From our superficial understanding, we saw it as a means of socializing
@@ -95,8 +95,8 @@ distinguished from real property rights (_jus in re propria_). How I understood
 it was that usufruct grants the rightsholder both the free use of an asset as
 well as the profits or other material gains that arise from it. These are termed
 _usus_ and _fructus_ in civil law, hence _usufruct_. Real property ownership
-grants all of that plus the right to dispose of the asset (_abusus_). That can
-include consuming, selling, irrevocably altering or destroying it.[^jus]
+grants all of that plus the right to the disposal (_abusus_) of the asset. That
+can include consuming, selling, irrevocably altering or destroying it.[^jus]
 
 What I struggled with most was this: If someone is entitled to use an asset and
 its produce however one saw fit, how did that differ substantially from the
@@ -137,7 +137,7 @@ was the _ecological value_ of the land commodified and sold, but the very
 _social value_ of the peasantry was itself made into a commodity, measured out
 by the punch clock and made divisible as wage shares. Wherever the commons was
 enclosed, the commoners were duly confined, if not to the factory yard then
-invariably to prison yard.[^vagrancy]
+invariably to the prison yard.[^vagrancy]
 
 [^vagrancy]: It cannot be overemphasized that this migration was anything but
     voluntary. Already faced with poverty and imminent starvation, landless
@@ -183,13 +183,15 @@ when she suggested farming technology should not restrict "access to nature."
     agree, that nature does indeed contain both society and technology, though
     it may seem less and less apart of nature today.
 
-The enclosure of the commons in centuries past was achieved partly by acts of
-Parliament, in larger part by state-sanctioned violence, but its most visible
-manifestation lay in the hedgerows planted around common pastures and fields.
-Hedgerows evoke bucolic scenes of the English countryside today, but in their
-time they were at once an unmistakable symbol of class hierarchy and a physical
-line of defense. They represented the alienation of common people from their
-land, their social relations, and their traditional ways of farming and
+The enclosure of the commons in centuries past was achieved in part by acts of
+Parliament — in larger part by state-sanctioned violence — but its most visible
+manifestation lay in the hedgerows that hemmed in the former commons. Some of
+them even persist to this day, emblematic of the English countryside and the
+imagined idylls of yesteryear. In their own time, however, they were at once a
+symbol of class hierarchy and a physical line of defense, keeping the commoners
+off their erstwhile commons, thenceforth the exclusive property of a rising
+class of wool barons. Hedgerows represented the alienation of common people from
+their land, their social relations, and their traditional ways of farming and
 husbandry. I would argue that the most effective means of enclosing knowledge
 today — intellectual property, or IP, as it is often called — has been to
 consolidate it in vast data centers and server farms owned by just a few tech

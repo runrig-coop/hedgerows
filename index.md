@@ -631,9 +631,12 @@ building on the prior work of another engineer/member of The Wedge Co-op in
 Minneapolis, open sourced a point-of-sale system dubbed Information Systems 4
 Co-ops, or IS4C. As the Portland IMC reported at the time:
 
-> This past Saturday morning, a group of co-op geeks gathered at People's Food Co-op and successfully ran IS4C on a Linux box running Ubuntu using MySQL 5 and PHP 5. Stop the presses. History has been made.[^is4c]
+> This past Saturday morning, a group of co-op geeks gathered at People's Food
+> Co-op and successfully ran IS4C on a Linux box running Ubuntu using MySQL 5
+> and PHP 5. Stop the presses. History has been made.[^is4c]
 
-A fork of IS4C is still actively maintained to this day as CORE-POS, stewarded by the Tech Support Cooperative.[^tech-support-co-op]
+A fork of IS4C is still actively maintained to this day as CORE-POS, stewarded
+by the Tech Support Cooperative.[^tech-support-co-op]
 
 [^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
 [^tech-support-co-op]: https://github.com/CORE-POS/IS4C

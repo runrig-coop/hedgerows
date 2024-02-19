@@ -514,10 +514,17 @@ people of the Americas, Africa, Asia, and Oceania relegated to mere _things of
 nature_, but nature itself was demoted to an unensouled object, to be set apart
 from and dominated by Christ-fearing white men.[^lib-theo]
 
-[^lib-theo]: It is an unspoken tenet of Western metaphysics that is not particular
-to Christian theology or any other faith system, and in fact many streams of
-liberation theology within the Catholicism and other sects reject this dualistic
-conception of divinely ruled hierarchy.
+[^lib-theo]: This moral dualism undergirds much of Western metaphysics since at
+    least the Enlightenment, particularly the ideologies of the elite, but it is
+    not particular to Christian theology or any other faith system for that
+    matter. Known in antiquity as Manichaeism, today it is a common tendency
+    among proponents of New Atheism no less than among Christian or Hindu
+    nationalist sects. On the other hand, a more concordant view of Christian
+    society's relationship to both nature and non-believers can be traced from
+    the Brethren of the Free Spirit of the High Middle Ages through to Latin
+    American liberation theology and the closely related Dalit theology of the
+    Indian subcontinent. It has also been expressed by modern European
+    theologians, such as Paul Tillich and Elisabeth Schüssler Fiorenza.
 
 To an extent, this Cartesian duality was quite rigid, with the dividing line
 between subject and object hewn razor-thin, but that is not to say it was
@@ -539,7 +546,7 @@ of life itself:
 > the only science, and all other knowledge as primitive.
 
 Compare this with James Muldoon, writing in 2022, starting from the very next
-line I cited above, after he defines his concept of "data commodity fetishism:"
+line I cited above where he defines his concept of "data commodity fetishism:"
 
 > When we understand data as a natural resource we mystify the true source of
 > its value in the human activity required to produce it. [...] Data is often
@@ -567,57 +574,69 @@ these as clear instances of enclosure. Muldoon again:
 
 What brings these two perspectives into alignment is a willingness to critique
 the neoliberal assumptions underlying these two forms of capital accumulation.
-Shiva was a prominent voice in the anti-globalization movement that filled the
-breach between the end of the Cold War and the beginning of the so-called War on
-Terror. She was in Seattle when it ostensibly reached its high-water mark on
-November 30, 1999, a massive upwelling of anticapitalist sentiment the likes of
-which would not be seen again in the U.S. until Occupy Wall Street.[^seattle]
-Muldoon, for his part, is writing from a distinctly Marxian and autonomist
-perspective. He argues to revive the principles of guild socialism, as
-formulated by G.D.H. Cole roughly a century ago, and apply them to modern
-technology in what Mulddon calls _Platform Socialism_, which is also the title
-of his book.
+Shiva was a prominent anti-globalization activst. The history of this movement,
+sometimes called counter-globalization, was partially obscured after the 2001
+attacks on the World Trade Center, despite being so recent, but for roughly a
+decade it was perhaps the largest worldwide movement on the left, filling the
+breach between the end of the Cold War and the beginning of the so-called "War
+on Terror." Shiva was in Seattle on November 30, 1999 when the movement
+ostensibly reached its high-water mark. It was certainly the largest upwelling
+of anticapitalist sentiment in the U.S. during that decade, the likes of which
+would not be seen again until Occupy Wall Street.[^seattle] Muldoon, for his
+part, is writing from a distinctly Marxian and autonomist perspective, informed
+by the several major financial crises that have taken place since then, as well
+as the Occupy and Black Lives Matter movements. He argues to revive the
+principles of guild socialism, as formulated by G.D.H. Cole roughly a century
+ago, and apply them to modern technology in what Mulddon calls _Platform
+Socialism_, which is also the title of his book.
 
 [^seattle]: _Democracy Now!_, ["20 Years After the Battle of Seattle: Vandana
       Shiva & Lori Wallach on Historic 1999 WTO
       Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later),
       2019 Nov 27.
 
-The 1999 Seattle WTO Protests stand as a critical inflection point where the
-interests and organizing base of technology and farming activists momentarily
-fused into single, coherent political force that acted decidedly against further
-enclosure of the global commons. Shiva and the RFSTE were joined by a wide array
-of organic food, small farming and peasant rights activists, all marching to
-halt the WTO Ministerial Conference. The diversity of agricultural concerns
-represented is noteworthy. U.S.-based groups like the Pure Food Campaign and
-Family Farm Defenders were mobilized against GMO foods while also championing
-small family farms from the Midwest and coastal exurban farming communities. La
-Via Campesina was also there in force, demanding equitable land distribution,
-fairer wages, and safe working conditions, alongside other groups from the
-global south, like Food and Allied Workers Union of South Africa, as well as the
-Black Farmers and Agriculturalists Association from the American South. These
-differences aside, they presented a united front against the powers of global
-capital and trade. Shiva herself was uniquely poised to represent a broad
-spectrum of those interests, as she did at the nationally broadcast debate at a
-packed Seattle Town Hall the night after the first protests. She sat
-shoulder-to-shoulder with Ralph Nader as they debated White House Under
+The 1999 Seattle WTO Protests also stand as a critical inflection point where
+the interests and organizing base of technology and farming activists
+momentarily fused into single, coherent political force that acted decidedly
+against further enclosure of the global commons. Shiva and the RFSTE were joined
+by a wide array of supporters for organic food, small farming, and peasant
+rights, all marching to halt the WTO Ministerial Conference. The diversity of
+agricultural concerns represented is noteworthy. U.S.-based groups like the Pure
+Food Campaign and Family Farm Defenders were mobilized against GMO foods while
+also championing small family farms from the Midwest and coastal exurban farming
+communities. La Via Campesina was also there in force, demanding equitable land
+distribution, fairer wages, and safe working conditions. They were joined by
+other groups from the global south like the Food and Allied Workers Union of
+South Africa, as well as the Black Farmers and Agriculturalists Association,
+hailing from the American South. These last three groups were far more concerned
+with issues of social justice, rather than the previous groups' interests in
+consumer protections and agrarianism. Nevertheless, they presented a united
+front against the powers of global capital and trade. Shiva herself was uniquely
+poised to represent a broad spectrum of those interests, as she did the night
+after the first day of protests in a packed Seattle Town Hall. She sat
+shoulder-to-shoulder with Ralph Nader as they debated against White House Under
 Secretary of Commerce David Aaron and Proter and Gamble Director of Global
-Policy Scott Miller. This is where many organic food advocates in the U.S. were
-first introduced to Shiva's work, as she fired a cascade of withering rebukes at
-these grandees of government and industry, all to thunderous applause.
+Policy Scott Miller. The event reached a national audience by means of a live
+broadast on C-SPAN, reaired periodically over the following days. This is where
+many organic food advocates in the U.S. were first introduced to Shiva's work,
+as she fired a cascade of withering rebukes at these grandees of government and
+industry, all to thunderous applause.
 
 At the same time, a group of independent journalists, media activists, hackers,
 and free speech advocates setup shop as the Independent Media Center (IMC) in a
-donated storefront at 1415 3rd Avenue and on the web as indymedia.org. While
-news coverage coming from major U.S. newsrooms was either non-existent or
-heavily biased against the protesters, the IMC was critical to getting out
-reports of what was actually taking place, who the protesters were, and what
-their demands were. At one point, they were receiving more traffic than cnn.com,
-with 1.5 million unique visitors in its first week. The legacy of the IMC would
-live on in the influence it had on the digital media tactics of later movements,
-and the IMC itself would continue as an activist hub in Seattle for several
-years. Arguably its most lasting influence, however, was in the establishment of
-sister IMC's in cities and regions around the world. This was the birth of
+donated storefront at 1415 3rd Avenue. Meanwhile on the web, they made their
+home at indymedia.org. While news coverage coming from major U.S. newsrooms was
+either non-existent or heavily biased against the protesters, the IMC was
+critical in disseminating reports of what was actually taking place. They also
+presented this wide swath of environmentalists, trade unionists, and civil
+liberty activists for who they really were and what they were demanding, rather
+than the image of looters and provocateurs that was shown on the nightly news.
+At one point, indymedia.org was receiving more traffic than cnn.com, with 1.5
+million unique visitors in its first week. The legacy of the IMC would live on
+in the influence it had on the digital media tactics of later movements, and the
+IMC itself would continue as an activist hub in Seattle for several years.
+Arguably its most lasting influence, however, was in the establishment of sister
+IMC's in cities and regions around the world. This was the birth of the
 Indymedia network, which at its peak in 2010 comprised as many as 175 centers.
 They shared some common open source publishing tools and many were provided with
 subdomains, like barcelona.indymedia.org, but otherwise they were largely
@@ -641,24 +660,25 @@ by the Tech Support Cooperative.[^tech-support-co-op]
 [^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
 [^tech-support-co-op]: https://github.com/CORE-POS/IS4C
 
-On a more ideological level, Indymedia's legacy represents an alternative to the
-free culture, open source, and online privacy movements, which have always
-enjoyed wider notoriety. April Glaser, writing for _Logic(s)_ magazine in 2019,
-places Indymedia and its legacy in start contrast to the kind of advocacy of
-groups like the Electronic Frontier Foundation (EFF), founded by the Greatful
-Dead lyricist turned dotcom entrepeneur John Perry Barlow. She points out how in
-the same year that Barlow penned his techno-libertarian manifesto, "A
+Apart from joining more diverse political alliances, Indymedia also represents
+an _ideological_ alternative to the centrist political leanings of free culture,
+open source, and online privacy movements. April Glaser, writing for _Logic(s)_
+magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
+groups like the Electronic Frontier Foundation (EFF), founded by John Perry
+Barlow, the Greatful Dead lyricist turned dotcom bubble booster. She points out
+how in the same year that Barlow penned his techno-libertarian manifesto, "A
 Declaration of the Independence of Cyberspace," a very different sort of
-declaration regarding the potential of cyberspace was being promulgated by
-Subcommandante Marcos of the Zapatista Army of National Liberation (EZLN). Even
-the climate of their authorship, both literally and politically speaking, could
-not have been more dissimilar. Barlow signed his declaration from Davos,
-Switzerland on February 8, 1996, having ostensibly found inspiration in the
-World Economic Forum that had concluded two days before. On the other hand, the
-_2nd Declaration of La Realidad_ was Marcos' valediction to the 42 delegates and
-roughly 5,000 other activists and journalists who came from around the world to
-the "First Intercontinental Encounter for Humanity and Against Neoliberalism,"
-held the jungle environs of Chiapas, Mexico.
+declaration was being promulgated concerning the potential of cyberspace, this
+one coming from the balaclava and bandolier bedecked Subcommandante Marcos of
+the Zapatista Army of National Liberation (EZLN). Both the literal and political
+climate surrounding their authorship could not have been more dissimilar. Barlow
+signed his declaration from Davos in the Swiss Alps on February 8, 1996, having
+ostensibly found inspiration in the World Economic Forum he had attended two
+days before. On the other hand, the _2nd Declaration of La Realidad_ was Marcos'
+valediction to the 42 delegates and roughly 5,000 other activists and
+journalists who came from around the world to the "First Intercontinental
+Encounter for Humanity and Against Neoliberalism," held the jungle environs of
+Chiapas, Mexico on August 3, 1996.
 
 Marcos called for "a collective network" of resistance against neoliberalism,
 linking  activists from all parts of the globe in these early days of the World
@@ -677,10 +697,27 @@ organizers who went on to build Indymedia heard this call." She continues:
 [^EZLN]: https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html
 [^Glaser]: https://logicmag.io/bodies/another-network-is-possible/
 
-Indymedia, like the Zapatistas and Vandana Shiva, sought to build political
-power from the ground up, but not for the sake of self-interested individuals
-alone. They were organizing for communal liberation. That meant defending and
-restoring the commons from enclosure by the neoliberal political order.
+Techno-libertarians, then and now, claim to be building political power from the
+ground up, but it's for the sole benefit of isolated individuals. The complete
+atomization of society into self-interested agents is not the same as bottom-up
+organization. It's a lie that merely enables the top-down exploitation of the
+many by the few. Coincidently, it is the same Balkanized condition that the
+thought leaders at Davos tend to mistake for "freedom." It's a restatement of
+the _Homo economicus_ argument first espoused by utilitarian philosophers almost
+two centuries ago and roundly discredited ever since. Dressing the old notion up
+in transhumanist cyber-lingo doesn't render it any more plausible than it makes
+it less exploitative.
+
+The anti-globalization organizers, on the other hand, came from small, localized
+bases of power, but they also knew that no individual could seriously challenge
+the centralized power of global capital. Instead, they leveraged their
+collective agency and organized their communities. They unequivocally championed
+autonomy for individuals at all levels of society, but they would not sacrifice
+the autonomy of the community just to preserve some rarefied vision of absolute
+individualism. The activists in Seattle, Chiapas, and Uttar Pradesh wanted
+something more than individual freedom; they sought _collective liberation_, and
+that meant defending whatever commons still remained, while restoring any that
+had already been enclosed.
 
 ## Whither the Agricultural Commons?
 

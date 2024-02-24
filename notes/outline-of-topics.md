@@ -5,6 +5,31 @@
     Emptores](https://en.wikipedia.org/wiki/Quia_Emptores))
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
+- Sustainability politics
+  - Books & Authors
+    - Eric Schlosser
+      - _Fast Food Nation_ (2001), [#4 on NYT Best Sellers (NF)](https://www.hawes.com/2001/2001-04-15.pdf)
+    - Michael Pollan
+      - _Omnivore's Dilemma_ (2006) [peaked at #8 on NYT Best Sellers (NF)](https://www.hawes.com/2006/2006-05-14.pdf)
+    - Wendell Berry
+    - Joel Salatin
+  - Movies
+    - _Supersize Me_ (2004)
+    - _Fast Food Nation_ (2006)
+    - _King Corn_ (2007)
+    - _Food, Inc._ (2008)
+    - _A Place at the Table_ (2012)
+  - More books and movies listed in [_A Place at the Table_ § "See
+    also"](https://en.wikipedia.org/wiki/A_Place_at_the_Table#See_also) and
+    [_Food, Inc._ § "See
+    also"](https://en.wikipedia.org/wiki/Food,_Inc.#See_also)
+  - Chefs and Foodies
+    - Dan Barber
+    - Florence Fabricant
+    - Melissa Clark
+    - Mark Bittman
+    - Pete Wells
+    - Alice Waters
 - Appropriation of agricultural knowledge, expertise and technology
   - Vandana Shiva
     - ["Agricultural Biodiversity, Intellectual Property Rights and Farmers'

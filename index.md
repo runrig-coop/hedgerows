@@ -720,8 +720,89 @@ that meant defending whatever commons still remained, while restoring any that
 had already been enclosed.
 
 ## Whither the Agricultural Commons?
+Although the commons had become a byword for free culture and open source
+software by the early 2000s, it was a hollow shell of the more ambitious program
+for the commons that persisted in other times and places. Perhaps it to be
+expected that Silicon Valley privacy advocates and East Coast legal scholars
+dialed back their rhetoric, at least in comparison to the more radical vision of
+the commons espoused by anti-imperialist thinkers at the time. By ommiting
+enclosure and all its antagonisms, however, this anemic account of the commons
+lost all its countervailing force and dynamism. The new digital commons was
+static, politically neutral, and devoid of material consequence. Immaterial as
+it was, it acquiesced so easily to the prevailing neoliberal order, essentially
+just another "free gift of nature," as Adam Smith might have called it.
 
-__MAIN ARC__: Steer this all back to the question: "Even if the open source
-community was not so alert to the full dimensionality of the enclosure of
-ecological knowledge that was underway at the turn of the millennium, why were
-small farmers in the U.S. almost entirely oblivious?"
+There was surely no want of critical discourse on the commons in other fields at
+this time. One need only observe how Elinor Ostrom rose to prominence in those
+same years, beginning with her highly praised _Governing the Commons_ in 1990,
+and culminating with a Nobel Prize in 2009 for her definitive economic analysis
+of common-pool resources. In 2006 Silvia Federici's groundbreaking work,
+_Caliban and the Witch_, indelibly linked the history of the commons and
+enclosure to a autonomist feminist conception of social reproduction and
+primitive accumulation. It should also come as no great shock that a wealth of
+literature on the commons has emerged from the fields of social ecology and
+degrowth economics.
+
+Conspicuously absent from this discourse, however, were the local food and
+organic farming movements that reached their zenith in the U.S. during this very
+same period. Although the free culture and open source movements' conception of
+the commons might have been some pretty weak tea, it was at least a vision. To
+find any mention of the commons or enclosure from self-proclaimed locavores of
+that time would have been a distinct challenge. There certainly wasn't anything
+like the rich historical commentaries or nuanced discourse that permeated the
+anti-globalization movement.
+
+What's confounding about all of it is that the history of the commons is
+essentially an _agrarian history_, yet at the same moment when a revitalized
+image of agrarianism was emerging from the organics movement, it was the
+technologists, _not_ the agriculturalists, who embraced the metaphor. It
+shouldn't be presumed that the proponents of organic food and agriculture lagged
+behind the technologists in political sensibilty or acumen — far from it. Their
+political savvy and organizing ability is attested by the massive public
+awareness campaigns they launched[^food-docs] and significant legistlative
+victories they achieved all throughout the 2000's[^organic-regs]. It's
+debateable whether open source and free culture advocates could claim anything
+comparable in terms of legislation.[^RHAT]
+
+[^food-docs]: Between 2001 and 2009, _Fast Food Nation_ and _Omnivore's Dilemma_
+    both ranked in the top 10 on the NY Times Best Sellers for Non-Fiction while
+    their respective film adaptations each enjoyed a major theatrical release.
+
+[^organic-regs]: Looming large among these victories at the dawn of the
+    millenium, the USDA's National Organic Program was entered into the [Federal
+    Register] on December 21, 2000, with its full suite of regulatory measures
+    becoming effective law on February 20, 2001. While it displeased many
+    grassroots organic activists for its concessions to Big Ag, it was
+    undeniably a win. There were also modest achievements in various Farm Bills
+    during this time, though also some setbacks in court, such as the mutiple
+    rulings in favor of Monsanto's seed patents.
+
+[Federal Register]: https://www.federalregister.gov/documents/2000/12/21/00-32257/national-organic-program
+
+[^RHAT]: Apart from the antitrust ruling against Microsoft in 1998, which was
+    something of a Pyrrhic victory for open source in the Browser Wars, the most
+    significant successes for FOSS were achieved not in Washington, but on Wall
+    Street. Red Hat's fabled IPO in 1999 was a bellweather for the eventual
+    dominance that Linux would achieve in the realm of cloud computing and other
+    technologies deployed at-scale and industry-wide. It's also debateable
+    whether free culture made significant gains beyond generally raising
+    awareness. Despite a modicum of publicity, the majority of their legal
+    battles were still losses.s
+
+This may be where the cognitive dissonance arises between these two seemingly
+sympathetic grassroots movements. In an era of tepid U.S. politics, predicated
+largely on consumer protections, both have been portrayed as more or less
+progressive movements. This broad assessment, however, smoothes over their
+rugged contours, which upon closer inspection reveal an internally diverse and
+potentially fractious political landscape. Situated amidst the broader context
+of contemporary global politics, its even harder to ignore the disparities. For
+the technologists, we see this most evidently in the contrasts between Indymedia
+and the EFF. If the organic and local food movements correspond to one side or
+another, it's undoubtedly the techno-liberarianism side of the coin. Joel
+Salatin is an excellent stand-in for John Perry Barlow, on this account.
+
+This still begs the question: was there a corresponding collectivist movement in
+agriculture and food during this period, something akin to Indymedia? And if so,
+where? I've given short shrift to this recent history of sustainable food
+in this essay, but...
+

@@ -1,6 +1,6 @@
 # Timeline of Food & Tech Sovereignty in the 21st Century
 - 1998 - [DMCA] & [Sonny Bono Act]
-- 2000 - USDA Nat'l Organic Program becomes federal regulation
+- 2000 - USDA Nat'l Organic Program becomes federal regulation[^fed-reg]
 - 2001 - First Whole Foods Market in NYC[^WF]
 - 2001 - _Fast Food Nation_ by Eric Schlosser
 - 2001 - Napster shuts down; original BitTorrent client released
@@ -51,6 +51,9 @@
 
 [DMCA]: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
 [Sonny Bono Act]: https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act
+[^fed-reg]: ["National Organic Program: A Rule by the Agricultural Marketing
+    Service"](https://www.federalregister.gov/documents/2000/12/21/00-32257/national-organic-program),
+    _Federal Register_, 21 Dec 2000.
 [^WF]: Whole Foods' first store in NYC [opened in Chelsea in Feb 2001](https://web.archive.org/web/20160317065428/https://www.nytimes.com/2001/02/14/dining/new-market-concentrates-on-organic-food.html).
     The _Austin Business Journal_ notes refers to their Austin HQ as
     "the new 80,000-square-foot store -- the company's largest" in

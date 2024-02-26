@@ -514,11 +514,11 @@ people of the Americas, Africa, Asia, and Oceania relegated to mere _things of
 nature_, but nature itself was demoted to an unensouled object, to be set apart
 from and dominated by Christ-fearing white men.[^lib-theo]
 
-[^lib-theo]: This moral dualism undergirds much of Western metaphysics since at
-    least the Enlightenment, particularly the ideologies of the elite, but it is
+[^lib-theo]: Varying forms of moral dualism such as this have underpinned
+    Western ethics and epistemology since at least the Enlightenment, but it is
     not particular to Christian theology or any other faith system for that
     matter. Known in antiquity as Manichaeism, today it is a common tendency
-    among proponents of New Atheism no less than among Christian or Hindu
+    among proponents of New Atheism as much as it is among Christian or Hindu
     nationalist sects. On the other hand, a more concordant view of Christian
     society's relationship to both nature and non-believers can be traced from
     the Brethren of the Free Spirit of the High Middle Ages through to Latin
@@ -526,7 +526,7 @@ from and dominated by Christ-fearing white men.[^lib-theo]
     Indian subcontinent. It has also been expressed by modern European
     theologians, such as Paul Tillich and Elisabeth Schüssler Fiorenza.
 
-To an extent, this Cartesian duality was quite rigid, with the dividing line
+To an extent, this Cartesian dualism was quite rigid, with the dividing line
 between subject and object hewn razor-thin, but that is not to say it was
 immovable. Just like the lines of longitude demarcating colonial holdings were
 redrawn over time, from the Bulls of Donation in 1493 to the Treaty of Zaragoza
@@ -660,8 +660,8 @@ by the Tech Support Cooperative.[^tech-support-co-op]
 [^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
 [^tech-support-co-op]: https://github.com/CORE-POS/IS4C
 
-Apart from joining more diverse political alliances, Indymedia also represents
-an _ideological_ alternative to the centrist political leanings of free culture,
+Apart from forging more diverse alliances, Indymedia also represents an
+_ideological_ alternative to the centrist political leanings of free culture,
 open source, and online privacy movements. April Glaser, writing for _Logic(s)_
 magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
 groups like the Electronic Frontier Foundation (EFF), founded by John Perry
@@ -684,8 +684,8 @@ Marcos called for "a collective network" of resistance against neoliberalism,
 linking  activists from all parts of the globe in these early days of the World
 Wide Web. He had already shown himself so adroit at mobilizing international
 support through the online publishing of communiques such as this one.[^EZLN]
-Glaser observes that, some three years before the Battle of Seattle, "the
-organizers who went on to build Indymedia heard this call." She continues:
+Glaser observes how "the organizers who went on to build Indymedia heard this
+call," some three years prior to the Battle of Seattle. She continues:
 
 > The Indymedia organizers would be the children of Marcos, not Barlow. While
 > the two philosophies had points of contact, they came from different places of
@@ -702,18 +702,18 @@ ground up, but it's for the sole benefit of isolated individuals. The complete
 atomization of society into self-interested agents is not the same as bottom-up
 organization. It's a lie that merely enables the top-down exploitation of the
 many by the few. Coincidently, it is the same Balkanized condition that the
-thought leaders at Davos tend to mistake for "freedom." It's a restatement of
-the _Homo economicus_ argument first espoused by utilitarian philosophers almost
-two centuries ago and roundly discredited ever since. Dressing the old notion up
-in transhumanist cyber-lingo doesn't render it any more plausible than it makes
-it less exploitative.
+thought leaders at Davos tend to mistake for "freedom." It's a corollary of the
+_Homo economicus_ fallacy first espoused by utilitarian philosophers almost two
+centuries ago and roundly discredited ever since. Dressing the old notion up in
+transhumanist cyber-lingo doesn't render it any less fictitious than it makes it
+less exploitative.
 
 The anti-globalization organizers, on the other hand, came from small, localized
 bases of power, but they also knew that no individual could seriously challenge
-the centralized power of global capital. Instead, they leveraged their
+the centralized power of global capital alone. Instead, they leveraged their
 collective agency and organized their communities. They unequivocally championed
 autonomy for individuals at all levels of society, but they would not sacrifice
-the autonomy of the community just to preserve some rarefied vision of absolute
+the autonomy of the _community_ just to preserve some rarefied ideal of absolute
 individualism. The activists in Seattle, Chiapas, and Uttar Pradesh wanted
 something more than individual freedom; they sought _collective liberation_, and
 that meant defending whatever commons still remained, while restoring any that
@@ -722,7 +722,7 @@ had already been enclosed.
 ## Whither the Agricultural Commons?
 Although the commons had become a byword for free culture and open source
 software by the early 2000s, it was a hollow shell of the more ambitious program
-for the commons that persisted in other times and places. Perhaps it to be
+for the commons that persisted in other times and places. Perhaps it is to be
 expected that Silicon Valley privacy advocates and East Coast legal scholars
 dialed back their rhetoric, at least in comparison to the more radical vision of
 the commons espoused by anti-imperialist thinkers at the time. By ommiting
@@ -733,15 +733,14 @@ it was, it acquiesced so easily to the prevailing neoliberal order, essentially
 just another "free gift of nature," as Adam Smith might have called it.
 
 There was surely no want of critical discourse on the commons in other fields at
-this time. One need only observe how Elinor Ostrom rose to prominence in those
-same years, beginning with her highly praised _Governing the Commons_ in 1990,
-and culminating with a Nobel Prize in 2009 for her definitive economic analysis
-of common-pool resources. In 2006 Silvia Federici's groundbreaking work,
-_Caliban and the Witch_, indelibly linked the history of the commons and
-enclosure to a autonomist feminist conception of social reproduction and
-primitive accumulation. It should also come as no great shock that a wealth of
-literature on the commons has emerged from the fields of social ecology and
-degrowth economics.
+this time. One only needs to look at how Elinor Ostrom rose to prominence in
+those same years, beginning with her highly praised _Governing the Commons_ in
+1990, and culminating with the 2009 Nobel Prize in economics for her analysis of
+common-pool resources. In 2006 Silvia Federici's groundbreaking work, _Caliban
+and the Witch_, forever linked the history of the commons and enclosure to her
+Marxist feminist theories of social reproduction and primitive accumulation. It
+should also come as no great shock that a wealth of contemporary literature on
+the commons emerged from the fields of social ecology and degrowth economics.
 
 Conspicuously absent from this discourse, however, were the local food and
 organic farming movements that reached their zenith in the U.S. during this very
@@ -787,22 +786,46 @@ comparable in terms of legislation.[^RHAT]
     technologies deployed at-scale and industry-wide. It's also debateable
     whether free culture made significant gains beyond generally raising
     awareness. Despite a modicum of publicity, the majority of their legal
-    battles were still losses.s
+    battles were still losses.
 
 This may be where the cognitive dissonance arises between these two seemingly
-sympathetic grassroots movements. In an era of tepid U.S. politics, predicated
-largely on consumer protections, both have been portrayed as more or less
-progressive movements. This broad assessment, however, smoothes over their
-rugged contours, which upon closer inspection reveal an internally diverse and
-potentially fractious political landscape. Situated amidst the broader context
-of contemporary global politics, its even harder to ignore the disparities. For
-the technologists, we see this most evidently in the contrasts between Indymedia
-and the EFF. If the organic and local food movements correspond to one side or
-another, it's undoubtedly the techno-liberarianism side of the coin. Joel
-Salatin is an excellent stand-in for John Perry Barlow, on this account.
+sympathetic movements. In an era of tepid U.S. politics, predicated largely on
+consumer protection, both have been portrayed as more or less progressive
+movements. This broad assessment, however, smoothes over their rugged political
+contours. Upon closer inspection, each was internally quite diverse, containing
+fractious constituencies who held disparate motivations that were sometimes
+directly opposed to one other. Situated amidst the broader context of
+contemporary geopolitics, its even harder to ignore the diversity of ideology.
+For the technologists, we see this most evidently in the contrasts between
+Indymedia and the EFF. If the organic and local food movements correspond to one
+of these two fronts, it's undoubtedly the techno-liberarianism side of the
+schism. Virginia farmer Joel Salatin, the self-described "Christian libertarian
+environmentalist capitalist" and darling of the local food world back then,
+makes an excellent stand-in for John Perry Barlow in this regard.
 
 This still begs the question: was there a corresponding collectivist movement in
-agriculture and food during this period, something akin to Indymedia? And if so,
-where? I've given short shrift to this recent history of sustainable food
-in this essay, but...
+food and agriculture during this period in the U.S., something analogous to
+Indymedia? And if so, where? I've given short shrift to the recent history of
+sustainable farming in this essay, and I will have to address that history in a
+subsequent essay, since this one is already three times the length I'd
+originally intended. For my own understanding, I needed to bring these two
+movements to account before I could begin grappling with the more nuanced
+aspects of the commons and enclosure. Because I first encountered the commons
+through open source software, that's where it made the most sense to begin
+unravelling my own associations with the concept.
 
+My personal exploration of the commons is also situated within a specific
+community of practice, principally the Gathering for Open Agricultural
+Technology, but also Social.Coop and the Skywoman community. I think it's
+critical to acknowledge this, because my own understanding, and in fact the very
+content of this essay, has proceeded directly from the conversations I've shared
+with the people in those communities. Those conversations began long before the
+gathering in Rhinebeck in 2022, and have continued right up through the time of
+writing this. Whatever criticism I may have expressed regarding sutainable
+agriculture or open technology, they did ultimately bring me to this time and
+place where such a dialogue was possible. All navel-gazing aside, it's not lost
+on me that this environment, the set of social relations, professional ties, and
+friendships of many years that comprise this network of theorists and
+practictioners, is just as much a part of the commons as anything that can be
+pushed to a public GitHub repository or licensed under the GPL. In the end, that
+may be the greatest bulwark we have against all future enclosures.

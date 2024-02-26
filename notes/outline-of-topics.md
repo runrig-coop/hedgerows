@@ -197,6 +197,12 @@
         - Marcel Mauss, potlach and gift economies
         - Christopher Boehm, actuarial intelligence
       - Three Elementary Forms of Domination
+    - Antonio Negri & Michael Hardt
+      - _Commonwealth_ (2009)
+    - C.L.R. James
+      - ["Ancestors of the
+        Proletariat"](https://www.marxists.org/archive/james-clr/works/1949/09/english-revolution.htm),
+        1949 (re: the Levelers, Diggers, Marx & the English Revolution)
   - Social Choice Theory
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and
       Stiglitz on information asymmetries (see further below), as well as Sen.
@@ -637,6 +643,10 @@
   - Enspiral
     - Loomio handbook
     - Alanna Irving's interview w/ David Bollier
+  - McKenzie Wark
+    - _A Hacker Manifesto_ (2004)
+    - ["The Vectoralist
+      Class"](http://supercommunity.e-flux.com/texts/the-vectoralist-class/)
 - New Developments & Old Syntheses
   - Jose Luis Vivero Pol
     - ["Why Food Should be a Commons Not a
@@ -766,6 +776,8 @@
          Tech_](https://www.plutobooks.com/9780745346953/platform-socialism/)
    -  [_Pluriverse: A Post-Development
       Dictionary_](https://degrowth.org/2018/04/14/new-book-pluriverse-a-post-development-dictionary/)
+  - Tiziana Terranova
+    - _After the Internet: Digital Networks between Capital & the Commons_, 2022
   - International Peasants' Movement
     - [La Via Campesina](https://viacampesina.org/)
     - [_Declaration of

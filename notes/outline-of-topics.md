@@ -1,11 +1,12 @@
 # Outline of Topics, Sources & Themes
-- Agricultural commons
+## Agricultural commons
   - ongoing history of enclosures and struggles to maintain the commons
   - the evolution of property rights alienation of the land (see [Quia
     Emptores](https://en.wikipedia.org/wiki/Quia_Emptores))
   - contradictions of US public lands, land grant colleges, nat'l parks, etc.
   - land trusts and resurgence of cooperative farming practices
-- Sustainability politics
+
+## Sutainability politics
   - Books & Authors
     - Eric Schlosser
       - _Fast Food Nation_ (2001), [#4 on NYT Best Sellers (NF)](https://www.hawes.com/2001/2001-04-15.pdf)
@@ -30,7 +31,8 @@
     - Mark Bittman
     - Pete Wells
     - Alice Waters
-- Appropriation of agricultural knowledge, expertise and technology
+
+## Appropriation of agricultural knowledge, expertise and technology
   - Vandana Shiva
     - ["Agricultural Biodiversity, Intellectual Property Rights and Farmers'
       Rights"](https://www.jstor.org/stable/4404305) (1996)
@@ -65,7 +67,8 @@
     revolution"](https://doi.org/10.1080/07341512.2023.2220991)
     - ["Industrial Revolution iron method ‘was taken from Jamaica by
     Briton’"](https://www.theguardian.com/science/2023/jul/05/industrial-revolution-iron-method-taken-from-jamaica-briton)
-- The Commons in Sociology & Economics
+
+## The Commons in Sociology & Economics
   - Henry George
     - _Progress and Poverty_ (1879)
   - Ronald Coase
@@ -121,7 +124,39 @@
       Technology_](https://archive.org/details/informationsocia0000pere/) (1991)
     - Steal This Idea: Intellectual Property and The Corporate Confiscation of
       Creativity (2002)
-  - Marxist & Autonomist & theory in the 20th C.
+  - [Informational
+    asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/);
+    the summary from the 2001 Nobel Prize in Economics is cited below.
+    - > [George] Akerlof showed that informational asymmetries can give rise to
+      > [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection)
+      > on markets. Due to imperfect information on the part of lenders or
+      > prospective car buyers, borrowers with weak repayment prospects or
+      > sellers of low-quality cars crowd out everyone else from the market.
+    - > [Michael] Spence demonstrated that under certain conditions,
+      > well-informed agents can improve their market outcome by
+      > [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics))
+      > their private information to poorly informed agents.
+    - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture
+      > the information of a better-informed agent through
+      > [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for
+      > example by providing choices from a menu of contracts for a particular
+      > transaction. Insurance companies are thus able to divide their clients
+      > into risk classes by offering different policies, where lower premiums
+      > can be exchanged for a higher deductible.
+  - David Bollier
+    - [_Silent Theft: The Private Plunder of Our Common
+      Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth)
+      (2002) ([a.o](https://archive.org/details/silenttheftpriva00boll))
+    - ["Reclaiming the
+      Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/)
+      (2002)
+    - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with
+      Silke Helfrich, 2015)
+    - [_Free, Fair and Alive: The Insurgent Power of the
+      Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich,
+      2019)
+
+### Marxist & Autonomist & theory in the 20th C.
     - Karl Polanyi
       - [_The Great Transformation_ §3 "'Habitation versus
         Improvement'"](https://archive.org/details/greattransformat00pola/page/32/mode/2up)
@@ -203,9 +238,10 @@
       - ["Ancestors of the
         Proletariat"](https://www.marxists.org/archive/james-clr/works/1949/09/english-revolution.htm),
         1949 (re: the Levelers, Diggers, Marx & the English Revolution)
-  - Social Choice Theory
+
+### Social Choice Theory
     - Kenneth Arrow, who directly influenced the work of Akerlof, Spence and
-      Stiglitz on information asymmetries (see further below), as well as Sen.
+      Stiglitz on information asymmetries (see above), as well as Sen.
     - Amartya Sen & Martha Nussbaum's work on [capability
       approach](https://en.wikipedia.org/wiki/Capability_approach) to theories
       of liberty and justice
@@ -224,40 +260,13 @@
         Alienation"](https://openscholarship.wustl.edu/law_lawreview/vol64/iss3/5/)
       - ["Compensation and
         Commensurability"](https://scholarship.law.duke.edu/dlj/vol43/iss1/2/)
-  - [Informational
-    asymmetries](https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/);
-    the summary from the 2001 Nobel Prize in Economics is cited below.
-    - > [George] Akerlof showed that informational asymmetries can give rise to
-      > [_adverse selection_](https://en.wikipedia.org/wiki/Adverse_selection)
-      > on markets. Due to imperfect information on the part of lenders or
-      > prospective car buyers, borrowers with weak repayment prospects or
-      > sellers of low-quality cars crowd out everyone else from the market.
-    - > [Michael] Spence demonstrated that under certain conditions,
-      > well-informed agents can improve their market outcome by
-      > [_signaling_](https://en.wikipedia.org/wiki/Signalling_(economics))
-      > their private information to poorly informed agents.
-    - > [Joseph] Stiglitz showed that an uninformed agent can sometimes capture
-      > the information of a better-informed agent through
-      > [_screening_](https://en.wikipedia.org/wiki/Screening_(economics)), for
-      > example by providing choices from a menu of contracts for a particular
-      > transaction. Insurance companies are thus able to divide their clients
-      > into risk classes by offering different policies, where lower premiums
-      > can be exchanged for a higher deductible.
-  - David Bollier
-    - [_Silent Theft: The Private Plunder of Our Common
-      Wealth_](https://www.bollier.org/silent-theft-private-plunder-our-common-wealth)
-      (2002) ([a.o](https://archive.org/details/silenttheftpriva00boll))
-    - ["Reclaiming the
-      Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/)
-      (2002)
-    - [_Patterns of Commoning_](https://patternsofcommoning.org/contents/) (with
-      Silke Helfrich, 2015)
-    - [_Free, Fair and Alive: The Insurgent Power of the
-      Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich,
-      2019)
-- Free & Open Source Software (FOSS)
+
+
+## U.S. Opposition Movements to Intellectual Property
+### Free & Open Source Software (FOSS)
   - bad actors: Richard Stallman, Eric S. Raymond, etc
-- Free Culture Movement
+
+### Free Culture Movement
   - Duke Law School's [_Conference on the Public
     Domain_](https://www.tech-insider.org/internet/research/2001/1109.html),
     held Nov 9 -11, 2001.
@@ -416,14 +425,17 @@
         (2000)
     - Clay Shirky
       - _Here Comes Everyone_ (2008)
-  - Criticism
+
+### Criticism
     - Low marginal costs and non-rivalry are over-emphasized and consequently
       taken as the preconditions for effective commons
     - It is implicitly and mistakenly assumed that information is not a "thing"
       like real property. Likewise, tangible things are viewed as substantively
       different from information and their informational component is either
       minimized or overlooked entirely.
-- 90's Anti-Globalization Movements
+
+
+## 90's Anti-Globalization Movements
   - Seattle WTO Protests
     - The WTO History Project
       - [Organizations Opposed to the
@@ -495,7 +507,9 @@
       - https://archive.seattletimes.com/archive/?date=19991223&slug=A19991224010135
       - https://web.archive.org/all/20000816130236/http://seattle.indymedia.org/about.php3
       - "3rd Avenue" is also mentioned in _Showdown_ at 16:35
-- Arab Spring
+
+## Protest movements following the Global Economic Crisis
+### Arab Spring
   - Proclaimers of the "Twitter Revolution" & its detractors (Gladwell et al.)
     - Gladwell, ["Small Change: Why the revolution will not be
       tweeted"](https://web.archive.org/web/20110223072553/http://www.newyorker.com/reporting/2010/10/04/101004fa_fact_gladwell?currentPage=all)
@@ -589,7 +603,8 @@
       Street"](https://www.democracynow.org/2011/10/25/from_tahrir_to_wall_street_egyptian)
   - Wikipedia, ["Timeline of the Arab
     Spring"](https://en.wikipedia.org/wiki/Timeline_of_the_Arab_Spring)
-- Occupy & SOPA/PIPA
+
+### Occupy
   - Wikipedia, ["Timeline of Occupy Wall
     Street"](https://en.wikipedia.org/wiki/Timeline_of_Occupy_Wall_Street)
   - [NYT timeline of events on Nov
@@ -598,9 +613,13 @@
     overnight](https://www.cbsnews.com/newyork/pictures/nypd-raid-on-zuccotti-park/)
   - [State Supreme Court Justice Lucy Billings issues temporary restraining
     order](https://observer.com/2011/11/more-on-the-temporary-restraining-order-against-police-at-zuccotti-park/)
+
+### SOPA/PIPA & Internet Blackout
   - Wikipedia, ["Protests against SOPA and
     PIPA"](https://en.wikipedia.org/wiki/Protests_against_SOPA_and_PIPA)
-- Beyond FOSS
+
+
+## Beyond FOSS
   - Luis Villa
     - ["Free as
       in...?"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/)
@@ -647,7 +666,8 @@
     - _A Hacker Manifesto_ (2004)
     - ["The Vectoralist
       Class"](http://supercommunity.e-flux.com/texts/the-vectoralist-class/)
-- New Developments & Old Syntheses
+
+## New Developments & Old Syntheses
   - Jose Luis Vivero Pol
     - ["Why Food Should be a Commons Not a
       Commodity"](https://ourworld.unu.edu/en/why-food-should-be-a-commons-not-a-commodity)

@@ -834,7 +834,27 @@ writing this. Whatever criticism I may have expressed regarding sustainable
 agriculture or open technology, they did ultimately bring me to this time and
 place where such a dialogue was possible. All navel-gazing aside, it's not lost
 on me that this environment, the set of social relations, professional ties, and
-friendships of many years that comprise this network of theorists and
-practictioners, is just as much a part of the commons as anything that can be
-pushed to a public GitHub repository or licensed under the GPL. In the end, that
-may be the greatest bulwark we have against all future enclosures.
+the friendships of many years that comprise this network of practitioners, is
+just as much a part of the commons as anything that can be pushed to a public
+GitHub repository or licensed as free software under the GPL.
+
+In the end, the substance of the commons — whether it is physical or abstract,
+rivalrous or non-rivalrous, information or land — plays far less a role in
+making it a commons than we might think. What matters more is the quality of our
+social bonds, how our obligations to each other also strengthen our commitment
+to preserve the commons. Enclosure, too, is more than just a simple barrier,
+boundary, or hedgerow: it is a severing of the ties that connect us to other
+people and to life more generally, while uprooting us from the land and our
+sense of place within it. The same is true with the enclosure of knowledge,
+which estranges us from the markers of culture and our shared ways of doing
+things.
+
+The commons comes about wherever we collectively acknowledge that although we
+may use a thing, care for it, and maintain it, that does not give us sole
+dominion over it, nor over how others may wish to use it. Saying it like that,
+it comes across as a bit of a platitude, but there's a subtly there that eluded
+me when I first showed up at GOAT 2022, still struggling to make sense of such
+high concepts as usufruct and alienation. The commons is not ours to dispose of
+as we wish. We cannot alienate it from ourselves, nor us from it. We partake of
+the land or knowledge commons, but ultimately it is something we must give back
+to the whole.

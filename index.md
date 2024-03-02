@@ -429,13 +429,13 @@ was the legal and financial framework that created the World Trade Organization
 (WTO), heralding a new era of globalization and unfettered neoliberalism. Shiva
 represented the Research Foundation for Science, Technology & Ecology (RFSTE),
 an organization comprised of scientists, conservationists, feminists, and
-peasant farmers. They resolutely opposed the environmental degradation and
-capitalist appropriation the WTO was poised to accelerate, as the effects were
-already apparent in their cities and villages. Among the agreements was a treaty
-obligation to uphold IP rights granted by other signatory nations. This was of
-particular concern to Shiva because chemical companies were seeking patents that
-would privatize the genotypes of plants that Indian farmers had previously bred
-and cultivated.
+peasant farmers from Uttar Pradesh, India. They resolutely opposed the
+environmental degradation and capitalist appropriation the WTO was poised to
+accelerate, as the effects were already apparent in their cities and villages.
+Among the agreements was a treaty obligation to uphold IP rights granted by
+other signatory nations. This was of particular concern to Shiva because
+chemical companies were seeking patents that would privatize the genotypes of
+plants that Indian farmers had previously bred and cultivated.
 
 The threat was first revealed in the case of neem, a plant endemic to Southeast
 Asia. The neem seed produces an oil that can be used as a natural and highly
@@ -447,7 +447,7 @@ W.R. Grace & Co. applied, the European Patent Office was only too happy to
 oblige and upheld the corporation's claim to the innovation. Despite 2,000 years
 of independent seed development by Indian plant breeders, the U.S. conglomerate
 would enjoy a monopoly to sell it back to them like coals to Newcastle. In the
-process, global capital would enjoy a hefty profit, while also offsetting any
+process, Grace & Co. would enjoy a hefty profit, while also offsetting any
 decline in revenue from their other pesticides due to environmental regulations
 or competition from safer alternatives like neem. The patent was eventually
 revoked, but only after ten years of relentless legal battles and grassroots

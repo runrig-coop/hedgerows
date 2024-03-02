@@ -582,7 +582,7 @@ these as clear instances of enclosure. Muldoon again:
 
 What brings these two perspectives into alignment is a willingness to critique
 the neoliberal assumptions underlying these two forms of capital accumulation.
-Shiva was a prominent anti-globalization activst. The history of this movement,
+Shiva was a prominent anti-globalization activist. The history of this movement,
 sometimes called counter-globalization, was partially obscured after the 2001
 attacks on the World Trade Center, despite being so recent, but for roughly a
 decade it was perhaps the largest worldwide movement on the left, filling the
@@ -605,7 +605,7 @@ Socialism_, which is also the title of his book.
 
 The 1999 Seattle WTO Protests also stand as a critical inflection point where
 the interests and organizing base of technology and farming activists
-momentarily fused into single, coherent political force that acted decidedly
+momentarily fused into a single, coherent political force that acted decidedly
 against further enclosure of the global commons. Shiva and the RFSTE were joined
 by a wide array of supporters for organic food, small farming, and peasant
 rights, all marching to halt the WTO Ministerial Conference. The diversity of
@@ -623,12 +623,12 @@ front against the powers of global capital and trade. Shiva herself was uniquely
 poised to represent a broad spectrum of those interests, as she did the night
 after the first day of protests in a packed Seattle Town Hall. She sat
 shoulder-to-shoulder with Ralph Nader as they debated against White House Under
-Secretary of Commerce David Aaron and Proter and Gamble Director of Global
+Secretary of Commerce David Aaron and Procter and Gamble Director of Global
 Policy Scott Miller. The event reached a national audience by means of a live
-broadast on C-SPAN, reaired periodically over the following days. This is where
-many organic food advocates in the U.S. were first introduced to Shiva's work,
-as she fired a cascade of withering rebukes at these grandees of government and
-industry, all to thunderous applause.
+broadcast on C-SPAN, re-aired periodically over the following days. This is
+where many organic food advocates in the U.S. were first introduced to Shiva's
+work, as she fired a cascade of withering rebukes at these grandees of
+government and industry, all to thunderous applause.
 
 At the same time, a group of independent journalists, media activists, hackers,
 and free speech advocates setup shop as the Independent Media Center (IMC) in a
@@ -647,8 +647,8 @@ Arguably its most lasting influence, however, was in the establishment of sister
 IMC's in cities and regions around the world. This was the birth of the
 Indymedia network, which at its peak in 2010 comprised as many as 175 centers.
 They shared some common open source publishing tools and many were provided with
-subdomains, like barcelona.indymedia.org, but otherwise they were largely
-autonomous projects run by activists in those regions.
+subdomains, such as barcelona.indymedia.org, but otherwise they were largely
+autonomous projects run by local activists in those regions.
 
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination
@@ -673,7 +673,7 @@ _ideological_ alternative to the centrist political leanings of free culture,
 open source, and online privacy movements. April Glaser, writing for _Logic(s)_
 magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
 groups like the Electronic Frontier Foundation (EFF), founded by John Perry
-Barlow, the Greatful Dead lyricist turned dotcom bubble booster. She points out
+Barlow, the Grateful Dead lyricist turned dotcom bubble booster. She points out
 how in the same year that Barlow penned his techno-libertarian manifesto, "A
 Declaration of the Independence of Cyberspace," a very different sort of
 declaration was being promulgated concerning the potential of cyberspace, this
@@ -709,7 +709,7 @@ Techno-libertarians, then and now, claim to be building political power from the
 ground up, but it's for the sole benefit of isolated individuals. The complete
 atomization of society into self-interested agents is not the same as bottom-up
 organization. It's a lie that merely enables the top-down exploitation of the
-many by the few. Coincidently, it is the same Balkanized condition that the
+many by the few. Coincidentally, it is the same Balkanized condition that the
 thought leaders at Davos tend to mistake for "freedom." It's a corollary of the
 _Homo economicus_ fallacy first espoused by utilitarian philosophers almost two
 centuries ago and roundly discredited ever since. Dressing the old notion up in
@@ -733,7 +733,7 @@ software by the early 2000s, it was a hollow shell of the more ambitious program
 for the commons that persisted in other times and places. Perhaps it is to be
 expected that Silicon Valley privacy advocates and East Coast legal scholars
 dialed back their rhetoric, at least in comparison to the more radical vision of
-the commons espoused by anti-imperialist thinkers at the time. By ommiting
+the commons espoused by anti-imperialist thinkers at the time. By omitting
 enclosure and all its antagonisms, however, this anemic account of the commons
 lost all its countervailing force and dynamism. The new digital commons was
 static, politically neutral, and devoid of material consequence. Immaterial as
@@ -764,9 +764,9 @@ essentially an _agrarian history_, yet at the same moment when a revitalized
 image of agrarianism was emerging from the organics movement, it was the
 technologists, _not_ the agriculturalists, who embraced the metaphor. It
 shouldn't be presumed that the proponents of organic food and agriculture lagged
-behind the technologists in political sensibilty or acumen — far from it. Their
+behind the technologists in political sensibility or acumen — far from it. Their
 political savvy and organizing ability is attested by the massive public
-awareness campaigns they launched[^food-docs] and significant legistlative
+awareness campaigns they launched[^food-docs] and significant legislative
 victories they achieved all throughout the 2000's[^organic-regs]. It's
 debateable whether open source and free culture advocates could claim anything
 comparable in terms of legislation.[^RHAT]
@@ -776,15 +776,16 @@ comparable in terms of legislation.[^RHAT]
     their respective film adaptations each enjoyed a major theatrical release.
 
 [^organic-regs]: Looming large among these victories at the dawn of the
-    millenium, the USDA's National Organic Program was entered into the [Federal
-    Register] on December 21, 2000, with its full suite of regulatory measures
-    becoming effective law on February 20, 2001. While it displeased many
-    grassroots organic activists for its concessions to Big Ag, it was
+    millennium, the USDA's National Organic Program was entered into the
+    [Federal Register] on December 21, 2000, with its full suite of regulatory
+    measures becoming effective law on February 20, 2001. While it displeased
+    many grassroots organic activists for its concessions to Big Ag, it was
     undeniably a win. There were also modest achievements in various Farm Bills
-    during this time, though also some setbacks in court, such as the mutiple
+    during this time, though also some setbacks in court, such as the multiple
     rulings in favor of Monsanto's seed patents.
 
-[Federal Register]: https://www.federalregister.gov/documents/2000/12/21/00-32257/national-organic-program
+[Federal Register]:
+    https://www.federalregister.gov/documents/2000/12/21/00-32257/national-organic-program
 
 [^RHAT]: Apart from the antitrust ruling against Microsoft in 1998, which was
     something of a Pyrrhic victory for open source in the Browser Wars, the most
@@ -799,14 +800,14 @@ comparable in terms of legislation.[^RHAT]
 This may be where the cognitive dissonance arises between these two seemingly
 sympathetic movements. In an era of tepid U.S. politics, predicated largely on
 consumer protection, both have been portrayed as more or less progressive
-movements. This broad assessment, however, smoothes over their rugged political
+movements. This broad assessment, however, smooths over their rugged political
 contours. Upon closer inspection, each was internally quite diverse, containing
 fractious constituencies who held disparate motivations that were sometimes
 directly opposed to one other. Situated amidst the broader context of
 contemporary geopolitics, its even harder to ignore the diversity of ideology.
 For the technologists, we see this most evidently in the contrasts between
 Indymedia and the EFF. If the organic and local food movements correspond to one
-of these two fronts, it's undoubtedly the techno-liberarianism side of the
+of these two fronts, it's undoubtedly the techno-libertarianism side of the
 schism. Virginia farmer Joel Salatin, the self-described "Christian libertarian
 environmentalist capitalist" and darling of the local food world back then,
 makes an excellent stand-in for John Perry Barlow in this regard.
@@ -814,7 +815,7 @@ makes an excellent stand-in for John Perry Barlow in this regard.
 This still begs the question: was there a corresponding collectivist movement in
 food and agriculture during this period in the U.S., something analogous to
 Indymedia? And if so, where? I've given short shrift to the recent history of
-sustainable farming in this essay, and I will have to address that history in a
+sustainable farming in this essay, and I will have to address those details in a
 subsequent essay, since this one is already three times the length I'd
 originally intended. For my own understanding, I needed to bring these two
 movements to account before I could begin grappling with the more nuanced
@@ -829,7 +830,7 @@ critical to acknowledge this, because my own understanding, and in fact the very
 content of this essay, has proceeded directly from the conversations I've shared
 with the people in those communities. Those conversations began long before the
 gathering in Rhinebeck in 2022, and have continued right up through the time of
-writing this. Whatever criticism I may have expressed regarding sutainable
+writing this. Whatever criticism I may have expressed regarding sustainable
 agriculture or open technology, they did ultimately bring me to this time and
 place where such a dialogue was possible. All navel-gazing aside, it's not lost
 on me that this environment, the set of social relations, professional ties, and

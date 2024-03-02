@@ -483,15 +483,19 @@ much is clear:
 > reproduce and multiply in self-organized freedom. They enclose the interior
 > spaces of the bodies of women, plants, and animals. They also enclose the free
 > spaces of intellectual creativity by transforming publicly generated knowledge
-> into private property.
+> into private property. Intellectual property rights on life-forms are supposed
+> to reward and stimulate creativity. Their impact is actually the opposite — to
+> stifle the creativity intrinsic to life-forms and the social production of
+> knowledge.
 
 The fact that this enclosure lies at the intersection of agriculture and
-technology should also banish any residual notion that small-scale farming and
-open source software are unrelated concerns. The ideological connection between
-food sovereignty and technology sovereignty turns out to be nothing new. We may
-be just now rediscovering that here in America's coastal cities, but in some
-parts of the world, and perhaps in farming communities not so far from our urban
-centers, that understanding was never lost.
+technology, settler colonialism and IP rights should also banish any residual
+notion that small-scale farming and open source software are unrelated concerns.
+The ideological connection between food sovereignty and technology sovereignty
+turns out to be nothing new. We may be just now rediscovering that here in
+America's coastal cities, but in some parts of the world, and perhaps in farming
+communities not so far from our urban centers, that understanding was never
+lost.
 
 The precise framing of her analysis, however, carries an insight far more
 profound, far more _ontological_ in character, than anything subsequent

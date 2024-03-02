@@ -902,11 +902,15 @@ More from _Biopiracy_, pp. 4-5:
 
 p. 7:
 
-> Patents on life enclose the creativity inherent to living systems that
-> reproduce and multiply in self-organized freedom. They enclose the interior
-> spaces of the bodies of women, plants, and animals. They also enclose the free
-> spaces of intellectual creativity by transforming publicly generated knowledge
-> into private property.
+> What is creativity? This is at the heart of the current debates about patents
+> on life. Patents on life enclose the creativity inherent to living systems
+> that reproduce and multiply in self-organized freedom. They enclose the
+> interior spaces of the bodies of women, plants, and animals. They also enclose
+> the free spaces of intellectual creativity by transforming publicly generated
+> knowledge into private property. Intellectual property rights on life-forms
+> are supposed to reward and stimulate creativity. Their impact is actually the
+> opposite — to stifle the creativity intrinsic to life-forms and the social
+> production of knowledge.
 
 pp. 9-10:
 

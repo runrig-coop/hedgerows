@@ -10,7 +10,7 @@ When I tell people I make free and open source software (FOSS) for farmers...
 
 <!-- TODO: Introduction -->
 
-## The Stolen Commons
+## The Gathering for Open Agricultural Technology
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for
@@ -154,6 +154,7 @@ invariably to the prison yard.[^vagrancy]
     factor contributing to the creation of modern police forces in England and
     elsewhere in Europe, wherever similar legislation prevailed.
 
+## And Geese Will Still a Common Lack...
 While the plight of peasants hundreds of years in the past may seem remote to
 our modern sensibilities, I think we can still empathize with their position
 when we consider how the enclosure of digital spaces has been used to alienate
@@ -232,7 +233,7 @@ call-to-arms in their final stanza:
 
 If we were to heed their call, how would we begin leveling today's hedgerows?
 
-## The Forgotten Enclosures
+## From Rhinebeck to Durham
 I was a bit surprised to realize my ignorance of the parallels between modern
 software commons and premodern agricultural commons, but after speaking to
 others at GOAT, it became clear I was not alone. This was doubly true with the
@@ -377,6 +378,7 @@ Model for computer networks. And it was Lessig's arguments for the end-to-end
 architecture of the Internet, in both physical and logical terms, which first
 led me to Boyle's essay on enclosure.
 
+## Free as the Air to Common Use
 Nevertheless, today's advocates for free culture and open source software are
 still mostly concerned with commoning what is abstract and ephemeral, though
 there are significant exceptions I will address later on. The hardware and
@@ -410,7 +412,7 @@ been stripped away in the last decade. Meanwhile, physical servers, databases,
 and most of all the considerable administration required to maintain those
 systems have largely been taken for granted, almost as a fact of nature.
 
-## The Commons Yet to Be Enclosed
+## From Uttar Pradesh to Seattle
 Designating something _a fact of nature_ may just as readily cast disdain as
 demonstrate reverence. There is no paradox or dialectic at play here, just a
 double standard, which is precisely why it has been a favorite rhetorical device
@@ -650,6 +652,7 @@ They shared some common open source publishing tools and many were provided with
 subdomains, such as barcelona.indymedia.org, but otherwise they were largely
 autonomous projects run by local activists in those regions.
 
+## From Davos to the Lacandon Jungle
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination
 of free software and food sovereignty could yield unique outcomes. In 2005, some
@@ -685,8 +688,8 @@ ostensibly found inspiration in the World Economic Forum he had attended two
 days before. On the other hand, the _2nd Declaration of La Realidad_ was Marcos'
 valediction to the 42 delegates and roughly 5,000 other activists and
 journalists who came from around the world to the "First Intercontinental
-Encounter for Humanity and Against Neoliberalism," held the jungle environs of
-Chiapas, Mexico on August 3, 1996.
+Encounter for Humanity and Against Neoliberalism," held in the Lacandon Jungle
+of Chiapas, Mexico on August 3, 1996.
 
 Marcos called for "a collective network" of resistance against neoliberalism,
 linking  activists from all parts of the globe in these early days of the World
@@ -727,7 +730,7 @@ something more than individual freedom; they sought _collective liberation_, and
 that meant defending whatever commons still remained, while restoring any that
 had already been enclosed.
 
-## Whither the Agricultural Commons?
+## Tierra y Libertad
 Although the commons had become a byword for free culture and open source
 software by the early 2000s, it was a hollow shell of the more ambitious program
 for the commons that persisted in other times and places. Perhaps it is to be

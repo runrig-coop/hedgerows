@@ -36,27 +36,38 @@ be restored today.
     centuries.
 
 - Introduction
-- The Stolen Commons
+- The Gathering for Open Agricultural Technology
   - GOAT 2022: access to nature
   - Stealing the commons from off the goose
   - Usufruct vs real property
+- And Geese Will Still a Common Lack...
   - Enclosure as alienation of nature
   - "The cloud" as digital enclosure
-- The Forgotten Enclosures
+- From Rhinebeck to Durham
   - The Free Culture Movement
   - Lessig & Benkler on the commons
   - Boyle & Bollier on enclosure
+- Free as the Air to Common Use
   - "Information wants to be free"
     - Overemphasis on immaterial public goods
     - Deemphasis on material common-pool resources
-- The Commons Yet to Be Enclosed
+    - __TODO:__
+      - Fred Turner & Stewart Brand
+      - public goods vs the commons
+      - Brandeis quote
+- From Uttar Pradesh to Seattle
   - Vandana Shiva on doctrine of discovery & biopiracy
   - 1999 WTO Protests in Seattle
-  - EFF : Indymedia :: Organic Foods : ???
-  - From Davos to Chiapas
-- Whither the Agricultural Commons?
+- From Davos to the Lacandon Jungle
+  - John Perry Barlow v. Subcommandante Marcos
+  - EFF v. Indymedia 
+  - Organic Foods v. ???
+- Tierra y Libertad
   - The ideological spectrum of commons studies, ca. 1990 - 2010
-  - Next time: How did U.S. farmers and conservationists lose sight the commons?
+  - Next 2 installments:
+    - How did U.S. farmers and conservationists lose sight the commons?
+    - __TODO:__ What lessons and solutions can we take from both these histories?
+    - __TODO:__ What about the FOSS commons? From Stallman to Torvalds?
   - Social ties and the commons
 
 ### Part 2: A tale of two movements

@@ -96,7 +96,9 @@ history, before human beings even learned to farm. Food, technology, land, and
 knowledge: they are the prime constituents of culture, are they not? Does a day
 or even an hour go by when we don't feel their effects?
 
-[^shadow-libs]: https://monoskop.org/Shadow_libraries
+[^shadow-libs]: Sci-Hub, along with Anna's Archive and Library Genesis, is one
+    of the most prominent [shadow libraries] around today.
+[shadow libraries]: https://monoskop.org/Shadow_libraries
 
 ## The Gathering for Open Agricultural Technology
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
@@ -111,8 +113,17 @@ main thread of one conversation or another. Two days earlier we had all
 converged on the Omega Center in Rhinebeck, NY for the second ever large-scale
 Gathering for Open Agricultural Technology — GOAT 2022, for short.
 
-[^unconf]: https://web.archive.org/web/20191208123152/http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/
-[^J4N]: https://forum.goatech.org/t/session-J4N/1340
+[^unconf]: In short, an
+    [unconference](https://web.archive.org/web/20191208123152/http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
+    is much like an industry conference, but instead of presentations, panels,
+    and other prepared events, the participants collaboratively decide on the
+    program on the first day. Facilitation is a shared task and the sessions are
+    usually take the form of a seminar or round-table.
+[^J4N]: ["Session: Justice for
+    Nature"](https://forum.goatech.org/t/session-J4N/1340), forum.goatech.org.
+    The notes and discussions for most of the sessions are mostly kept on the
+    forum while the unconference is taking place, and then serve as an archive
+    and a locus for follow-up conversations afterwards.
 
 I had been there for the first such gathering in 2018. It had a profound effect
 on me, the kind of "found my people" moment you're lucky to have only once or
@@ -130,18 +141,28 @@ researcher then at the CAPÉ[^CAPE] farming cooperative in Île de Montréal,
 directed the conversation towards the Amish _Ordnung_. In essence, _Ordnung_ is
 a code of conduct or rules each community formulates for itself. It does not ban
 technology outright, but prescribes a selection process that may include
-evaluation by community elders, probationary trial periods, and group consensus.
-From our superficial understanding, we saw it as a means of socializing
-technology adoption, with localized control and intent. The entire community
-took ownership of any externalities (if they could still be called that), and
-through collective action they could adjust course at any time. Sam's comments
-yielded the following prompt from our facilitator, Dr. LaKisha Odom, Scientific
-Program Director at FFAR:[^LaKisha] "Could GOAT develop a technological
-assessment framework to help developers consider the impacts of their
-technologies on nature?"
+evaluation by community elders, probationary trial periods, and group
+consensus.[^Ordnung] From our superficial understanding, we saw it as a means of
+socializing technology adoption, with localized control and intent. The entire
+community took ownership of any externalities (if they could still be called
+that), and through collective action they could adjust course at any time. Sam's
+comments yielded the following prompt from our facilitator, Dr. LaKisha Odom,
+Scientific Program Director at FFAR:[^LaKisha] "Could GOAT develop a
+technological assessment framework to help developers consider the impacts of
+their technologies on nature?"
 
-[^LaKisha]: https://foundationfar.org/about/people/lakisha-odom/
-[^CAPE]: https://cape.coop/
+[^CAPE]: The Cooperative for Ecological Proximity Agriculture, or
+    [CAPÉ](https://cape.coop/) from the original French, _Coopérative pour l’agriculture de proximité.
+    écologique_.
+[^Ordnung]: Lindsay Ems, [_Virtually Amish: Preserving Community at the
+    Internet's
+    Margins_](https://direct.mit.edu/books/oa-monograph/5347/Virtually-AmishPreserving-Community-at-the)
+    Virtually Amish (Cambridge, Massachusetts: The MIT Press, 2022), 27-28,
+    https://doi.org/10.7551/mitpress/11792.001.0001.
+[^LaKisha]: [Professional bio for LaKisha Odom,
+    Ph.D.](https://foundationfar.org/about/people/lakisha-odom/), Scientific
+    Program Director for Soil Health at the Foundation for Food and Agriculture
+    Research (FFAR).
 
 The response that stood out to me most came from Genna Fudin, an OpenTEAM Fellow
 working with Quivira Coalition and Point Blue Conservation Science.[^Genna] She
@@ -153,7 +174,9 @@ over the last three days, finally snapping them into place. I struggled to
 articulate it, so I asked to read aloud some antiquated English folk poetry,
 which I'd been mulling over earlier in the week.
 
-[^Genna]: https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/
+[^Genna]: Fudin, Genna. ["Genna Fudin, OpenTEAM Fellow, Shares Reflections Thus
+    Far"](https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/),
+    OpenTEAM blog, 2023 Feb 23.
 
 > The law locks up the man or woman  
 > Who steals the goose from off the common  
@@ -161,8 +184,8 @@ which I'd been mulling over earlier in the week.
 > Who steals the common from off the goose.  
 
 I'd first heard these anonymous lines in an interview with historian Peter
-Linebaugh, commemorating the 800th anniversary of _Magna Carta_. He was
-discussing its lesser known companion, the _Charter of the Forest_, which
+Linebaugh, commemorating the 800th anniversary of _Magna Carta_.[^flanders] He
+was discussing its lesser known companion, the _Charter of the Forest_, which
 protected the peasantry's rights to forage and graze their animals on common
 lands. It was the first time I'd heard the longer history of the English
 commons, how it was enshrined in the English constitution and only phased out by
@@ -171,7 +194,14 @@ exactly what it sounds like: closing off common pasture or forest by means of
 fences, hedges or by blocking roads so that it's no longer accessible to the
 common peasantry. More recently I was reminded of the poem when Linebaugh
 recited it once again in an interview with David Bollier, a fact I would soon
-come to realize was no coincidence.
+come to realize was no coincidence.[^line-boll]
+
+[^Flanders]: _The Laura Flanders Show_, ["Peter Linebaugh: Who Owns the Commons?
+    An 800 Year Fight for Public
+    Goods"](https://www.youtube.com/watch?v=nSF3m_Uav6Y), 2015 Jan 6.
+[^line-boll]: David Bollier, ["Peter Linebaugh on What the History of Commoning
+    Reveals"](https://www.bollier.org/blog/peter-linebaugh-what-history-commoning-reveals),
+    2021 May 01.
 
 Genna's comments fused together the final conceptual links between enclosure and
 the more erudite legal and socioeconomic theories I'd been reading about
@@ -197,11 +227,15 @@ directly, but was in fact the _right to the rights_ to the asset? That made even
 less sense.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
-    [_jus in re propria_](https://www.lsd.law/define/jus-in-re-propria),
-    "right to [one's] own thing";
-    [_jus utendi_](https://www.lsd.law/define/jus-utendi), "right to use" or literally "the using";
-    [_jus in fructu_](https://www.lsd.law/define/in-fructu), "right to the fruit [of a thing]";
-    [_jus abutendi_](https://www.lsd.law/define/jus-abutendi), "right to use up" as in "to expend"
+    [_jus in re propria_], "right to [one's] own thing";
+    [_jus utendi_], "right to use" or literally "the using";
+    [_jus in fructu_], "right to the fruit [of a thing]";
+    [_jus abutendi_], "right to use up" as in "to expend."
+
+[_jus in re propria_]: https://www.lsd.law/define/jus-in-re-propria
+[_jus utendi_]:https://www.lsd.law/define/jus-utendi
+[_jus in fructu_]: https://www.lsd.law/define/in-fructu
+[_jus abutendi_]: https://www.lsd.law/define/jus-abutendi
 
 Now when I thought about it in the light of universal access to nature, I
 remembered the other term for this third right: _alienation_. In a strictly
@@ -240,7 +274,8 @@ invariably to the prison yard.[^vagrancy]
     period of indentured servitude. As enforcement became increasingly difficult
     through the course of the Industrial Revolution, they were a significant
     factor contributing to the creation of modern police forces in England and
-    elsewhere in Europe, wherever similar legislation prevailed.
+    elsewhere in Europe, wherever similar legislation prevailed. Marx provides a
+    thorough but concise overview in Chapter 28 of _Capital Volume I_, 896-99.
 
 ## And Geese Will Still a Common Lack...
 While the plight of peasants hundreds of years in the past may seem remote to
@@ -266,13 +301,23 @@ nature."
 [^muldoon]: _Platform Socialism_ (Pluto Press, 2022), p. 18. Muldoon explicitly
     refers to the Marxian concept of commodity fetishism, and I am also drawing
     heavily on Marx's theory on the alienation (or estrangement) of labor. The
-    _Economic and Philosophic Manuscripts of 1844_ are especially ripe for
-    application to today's forms of digital enclosure, and I hope to provide a
-    more thorough exploration of those themes in a subsequent essay.
+    ["Economic & Philosophic Manuscripts of
+    1844"](https://www.marxists.org/archive/marx/works/1844/epm/index.htm) are
+    especially ripe for application to today's forms of digital enclosure, and I
+    hope to provide a more thorough exploration of those themes in a subsequent
+    essay.
 
 [^social-ecology]: Social ecologists like Murray Bookchin would contend, and I
-    agree, that nature does indeed contain both society and technology, though
-    it may seem less and less apart of nature today.
+    agree, that nature does indeed comprise both society and technology, though
+    it may seem less and less a part of nature today. The introductory chapter,
+    "The Concept of Social Ecology," in his classic [_Ecology of
+    Freedom_](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom)
+    provides a solid introduction to the idea that human nature and social
+    relations are but mere aspects of nature in its entirety. He refers to the
+    social part and the larger whole as second nature and first nature,
+    respectively. Further analysis of how this extends to technology
+    specifically can be found in Chapter 9 of the same, "Two Images of
+    Technology."
 
 The enclosure of the commons in centuries past was achieved in part by acts of
 Parliament — in larger part by state-sanctioned violence — but its most visible
@@ -317,9 +362,28 @@ call-to-arms in their final stanza:
 > The law locks up the man or woman  
 > Who steals the goose from off the common  
 > And geese will still a common lack  
-> Till they go and steal it back.  
+> Till they go and steal it back.[^goose]  
 
 If we were to heed their call, how would we begin leveling today's hedgerows?
+
+[^goose]: I'll borrow straight from James Boyle here that "Apart from being
+    anonymous, the poem is extremely hard to date." Boyle gives the most
+    thorough account of its provenance that I have yet found. He concludes in
+    the first footnote to ["The Second Enclosure
+    Movement"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
+
+    > The context makes it appear that the poem itself must date from the late
+    > 18th century. In other sources, the poem is sometimes dated at 1764 and
+    > said to be in response to Sir Charles Pratt’s fencing of common land. 
+    
+    For the last claim he points to a rather obscure ["poster paper" on land
+    surveying](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html#Note15)
+    by independent researcher Dana A. Freiburger, who in turn cites T.H. Worth's
+    _The Anstey Enclosures: a study of Anstey based on a close scrutiny of the
+    1761 Acts of Enclosure, and a lifetime spent in walking over the fields of
+    Anstey_, self-published in 1978. Boyle cites a few other sources, but I
+    myself have had no success tracking them down any further than the
+    Freiburger paper.
 
 ## From Rhinebeck to Durham
 I was a bit surprised to realize my ignorance of the parallels between modern

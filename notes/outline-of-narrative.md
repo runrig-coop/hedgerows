@@ -35,6 +35,7 @@ be restored today.
     prevalent in England and Europe from at least the 12th through 18th
     centuries.
 
+- Introduction
 - The Stolen Commons
   - GOAT 2022: access to nature
   - Stealing the commons from off the goose
@@ -45,30 +46,42 @@ be restored today.
   - The Free Culture Movement
   - Lessig & Benkler on the commons
   - Boyle & Bollier on enclosure
-  - Overemphasis on immaterial public goods; deemphasis on material
-    common-pool resources
-- The Commons that Were Never Enclosed
+  - "Information wants to be free"
+    - Overemphasis on immaterial public goods
+    - Deemphasis on material common-pool resources
+- The Commons Yet to Be Enclosed
   - Vandana Shiva on doctrine of discovery & biopiracy
-  - Medieval commons and their holdovers
+  - 1999 WTO Protests in Seattle
+  - EFF : Indymedia :: Organic Foods : ???
+  - From Davos to Chiapas
+- Whither the Agricultural Commons?
+  - The ideological spectrum of commons studies, ca. 1990 - 2010
   - Next time: How did U.S. farmers and conservationists lose sight the commons?
+  - Social ties and the commons
 
 ### Part 2: A tale of two movements
 The notion of the commons was conspicuously absent from the discourse of the
-slow food movement and sustainable agriculture in the U.S. during the Clinton-Bush years. Even as more antiquated and provincial modes of producing and consuming
-food came into vogue, the "locavore" and small family farming movements adhered
-more closely to a characteristically American narrative of the homesteader or
-the "rock-star" chef, an individualistic and isolationist stance that is sharply
-at odds with the historical (or the contemporary majority world's) model of
-smallholder farming and traditional foodways. It was left to more radical voices
-emerging from the Occupy and hacktivist movements in the early- to mid-2010's to
-breathe new life into a vision for the commons in America. Meanwhile, the rest
-of the world never gave up the fight, and the resultant food sovereignty
-movement and peasant food webs are finally getting the attention of some of us
-here in the Northern Hemisphere.
+slow food movement and sustainable agriculture in the U.S. during the
+Clinton-Bush years. Even as more antiquated and provincial modes of producing
+and consuming food came into vogue, the "locavore" and small family farming
+movements adhered more closely to a characteristically American narrative of the
+homesteader or the "rock-star" chef, an individualistic and isolationist stance
+that is sharply at odds with the historical (or the contemporary majority
+world's) model of smallholder farming and traditional foodways. It was left to
+more radical voices emerging from the Occupy and hacktivist movements in the
+early- to mid-2010's to breathe new life into a vision for the commons in
+America. Meanwhile, the rest of the world never gave up the fight, and the
+resultant food sovereignty movement and peasant food webs are finally getting
+the attention of some of us here in the Northern Hemisphere.
+
+  - Medieval commons and their holdovers
 
 - The Market is No Place for the Commons
-  - 2014: [Pop-up classes](https://www.ediblemanhattan.com/uncategorized/brain-food/) & giving Greenmarket tours to The New School's Food Studies program
-  - 2005: Answering a Craigslist ad as a college sophomore to work in the local food movement
+  - 2014: [Pop-up
+    classes](https://www.ediblemanhattan.com/uncategorized/brain-food/) & giving
+    Greenmarket tours to The New School's Food Studies program
+  - 2005: Answering a Craigslist ad as a college sophomore to work in the local
+    food movement
   - Who does this serve? (farmers? foodies? non-profit BoDs?)
 - From Luddite to Leetspeak
   - Occupy Wall Street / Occupy Sandy
@@ -78,7 +91,8 @@ here in the Northern Hemisphere.
 - Meanwhile, Food Sovereignty...
   - [Navdanya](https://www.navdanya.org/)
   - [La Via Campesina](https://viacampesina.org)
-  - [_Declaration of Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
+  - [_Declaration of
+    Nyéléni_](https://nyeleni.org/en/international-food-sov-movement/)
   - [Cecosesola](https://www.bollier.org/blog/cecosesola-venezuela-wins-right-livelihood-award)
     (Central de Cooperativas de Lara)
   - [D-Town Farm](https://www.dbcfsn.org/dtownfarm) & the [Detroit Black
@@ -103,7 +117,8 @@ resource allocation if its restoration is to be achieved in our lifetimes.
   - Marxian interpretations
     - Rosa Luxemburg's _The Accumulation of Capital_
     - Sylvia Federici's _Caliban & the Witch_
-    - Peter Linebaugh's _Stop, Thief!_, plus his work on transatlantic revolutions & _Magna Carta_
+    - Peter Linebaugh's _Stop, Thief!_, plus his work on transatlantic
+      revolutions & _Magna Carta_
     - John Bellamy Foster & Kohei Saito on metabolic rift
   - Elinor Ostrom v. Garrett Hardin
   - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
@@ -122,7 +137,8 @@ resource allocation if its restoration is to be achieved in our lifetimes.
   - Runrig
 
 ## Original Outline
-This is the old outline I started with, thinking it could all fit into a single essay. 😅
+This is the old outline I started with, thinking it could all fit into a single
+essay. 😅
 
 - Intro
   - Main thesis
@@ -140,12 +156,15 @@ This is the old outline I started with, thinking it could all fit into a single 
   - Zucotti Park
   - Smart phones & social media
   - Locavores, slow food and organics
-    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra Kingsolver
+    - Joel Salatin, Michael Pollan, Eric Schlosser, Mark Bittman, Barabra
+      Kingsolver
     - Marion Nestle, Nevin Cohen
     - John Gorzynski, Zaid & Haifah Kurdieh
-    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_, _King Corn_
+    - _Food, Inc._, _Super Size Me_, _Food Matters_, _A Place at the Table_,
+      _King Corn_
   - Chef culture & foodies
-    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion Batali, Momofuku, Martha Stewart, Anthony Bourdain
+    - Peter Hoffman, Alice Waters, Dan Barber, Eleven Madison, order gas, Marion
+      Batali, Momofuku, Martha Stewart, Anthony Bourdain
     - Florence Fabricant, Pete Wells, Lucy's Blog, "My Mom Couldn't Cook"
 - Deeper history of the commons & enclosure
   - Medieval commons and their holdovers

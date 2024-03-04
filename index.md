@@ -605,15 +605,12 @@ Socialism_, which is also the title of his book.
       Protests"](https://www.democracynow.org/2019/11/27/1999_wto_protests_20_years_later),
       2019 Nov 27.
 
-The 1999 Seattle WTO Protests also stand as a critical inflection point where
-the interests and organizing base of technology and farming activists
-momentarily fused into a single, coherent political force that acted decidedly
-against further enclosure of the global commons. Shiva and the RFSTE were joined
-by a wide array of supporters for organic food, small farming, and peasant
-rights, all marching to halt the WTO Ministerial Conference. The diversity of
-agricultural concerns represented is noteworthy. U.S.-based groups like the Pure
-Food Campaign and Family Farm Defenders were mobilized against GMO foods while
-also championing small family farms from the Midwest and coastal exurban farming
+For the 1999 Seattle WTO Protests, Shiva and the RFSTE were joined by a wide
+array of supporters for organic food, small farming, and peasant rights, all
+marching to halt the WTO Ministerial Conference. The diversity of agricultural
+concerns represented is noteworthy. U.S.-based groups like the Pure Food
+Campaign and Family Farm Defenders were mobilized against GMO foods while also
+championing small family farms from the Midwest and coastal exurban farming
 communities. La Via Campesina was also there in force, demanding equitable land
 distribution, fairer wages, and safe working conditions. They were joined by
 other groups from the global south like the Food and Allied Workers Union of
@@ -632,27 +629,31 @@ where many organic food advocates in the U.S. were first introduced to Shiva's
 work, as she fired a cascade of withering rebukes at these grandees of
 government and industry, all to thunderous applause.
 
-At the same time, a group of independent journalists, media activists, hackers,
-and free speech advocates setup shop as the Independent Media Center (IMC) in a
-donated storefront at 1415 3rd Avenue. Meanwhile on the web, they made their
-home at indymedia.org. While news coverage coming from major U.S. newsrooms was
-either non-existent or heavily biased against the protesters, the IMC was
-critical in disseminating reports of what was actually taking place. They also
-presented this wide swath of environmentalists, trade unionists, and civil
-liberty activists for who they really were and what they were demanding, rather
-than the image of looters and provocateurs that was shown on the nightly news.
-At one point, indymedia.org was receiving more traffic than cnn.com, with 1.5
-million unique visitors in its first week. The legacy of the IMC would live on
-in the influence it had on the digital media tactics of later movements, and the
-IMC itself would continue as an activist hub in Seattle for several years.
-Arguably its most lasting influence, however, was in the establishment of sister
-IMC's in cities and regions around the world. This was the birth of the
-Indymedia network, which at its peak in 2010 comprised as many as 175 centers.
-They shared some common open source publishing tools and many were provided with
-subdomains, such as barcelona.indymedia.org, but otherwise they were largely
-autonomous projects run by local activists in those regions.
+## Open Source Meets Open Publishing
+The 1999 Seattle WTO Protests also stand as a critical inflection point where
+the interests and organizing base of technology and farming activists
+momentarily fused into a single, coherent political force that acted decidedly
+against further enclosure of the global commons. While Shiva and Nader were
+setting up at Seattle Town Hall, a group of independent journalists, media
+activists, hackers, and free speech advocates were setting up shop as the
+Independent Media Center (IMC) in a donated storefront at 1415 3rd Avenue. On
+the web, they made their home at indymedia.org. While news coverage coming from
+major U.S. newsrooms was either non-existent or heavily biased against the
+protesters, the IMC was critical in disseminating reports of what was actually
+taking place. They also presented this wide swath of environmentalists, trade
+unionists, and civil liberty activists for who they really were and what they
+were demanding, rather than the image of looters and provocateurs that was shown
+on the nightly news. At one point, indymedia.org was receiving more traffic than
+cnn.com, with 1.5 million unique visitors in its first week. The legacy of the
+IMC would live on in the influence it had on the digital media tactics of later
+movements, and the IMC itself would continue as an activist hub in Seattle for
+several years. Arguably its most lasting influence, however, was in the
+establishment of sister IMC's in cities and regions around the world. This was
+the birth of the Indymedia network, which at its peak in 2010 comprised as many
+as 175 centers. They shared some common open source publishing tools and many
+were provided with subdomains, such as barcelona.indymedia.org, but otherwise
+they were largely autonomous projects run by local activists in those regions.
 
-## From Davos to the Lacandon Jungle
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination
 of free software and food sovereignty could yield unique outcomes. In 2005, some
@@ -671,6 +672,7 @@ by the Tech Support Cooperative.[^tech-support-co-op]
 [^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
 [^tech-support-co-op]: https://github.com/CORE-POS/IS4C
 
+## From Davos to the Lacandon Jungle
 Apart from forging more diverse alliances, Indymedia also represents an
 _ideological_ alternative to the centrist political leanings of free culture,
 open source, and online privacy movements. April Glaser, writing for _Logic(s)_

@@ -23,6 +23,68 @@ supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
 law."
 
 
+## Encuentro
+From Monty Neill's "Encounters in Chiapas" in Midnight Notes #13, _Auroras of the Zapatistas_ (2001):
+
+> Encircled by the armed women and men of the Zapatista Army of National
+> Liberation (EZLN), people from over 40 countries meet in an Intercontinental
+> Encuentro in the rain and mud season of Chiapas in southeastern Mexico. The
+> EZLN hoped people would come, though Subcommandante Marcos said they had
+> vacillated on this idea, initially thinking only a few would come. But we are
+> here in the thousands. Mexico, Spain, France, Italy, and Germany provide the
+> largest groups. The U.S. delegation is unfortunately small, and smaller
+> delegations have arrived from other European countries, Japan, and the rest of
+> the Americas with a few from Oceania, Africa, Asia and the Caribbean.
+> 
+> Our diversity is not just our continents and nations, or our gender (perhaps
+> 40% women) or age (mostly young rather than veterans of the sixties), but our
+> experiences and ideas. These we are to share and reshape through the
+> experience of the encounter in the forest, striving toward a new possibility.
+> 
+> It is not quite the whole world, with too few from the South of our planet,
+> and it is not likely that the kind of work, paid or unpaid, that the
+> participants do accurately reflects the work done across the planet. But has
+> there ever been such a gathering? We are not a party, nor party
+> representatives to a Comintern. Indeed, we are not representatives but simply
+> ourselves, though we are labeled "delegations." Many are activists from
+> various forms of community and workplace struggles, such as the Argentinean
+> mothers of the disappeared.
+> 
+> We certainly are not the owning class, who meet in fancy hotels with fine
+> wines and fancy foods. Rather, we sleep on the ground or in hammocks under
+> plastic roofs, or in tents, and eat tamales, enchiladas, beans, and soups.
+> Alcohol and drugs are prohibited in the rules we each signed as a condition of
+> attending. This gathering is, after all, in a war zone.
+> 
+> Thus, security concerns are real. At the start, in Oventic, not far from San
+> Cristobal, everyone is thoroughly searched. Divided in two lines, women and
+> men, standing behind their packs, a Zapatista empties each pack, feeling for
+> weapons. Even Swiss army knives are taken, a receipt given to pick them up
+> when leaving. A quick pat-down, then the Zapatistas carefully re-fill each
+> bag. It is all done with care and respect for our belongings and our persons.
+> 
+> In the beginning and at the end, in La Realidad, southeast toward the
+> Guatemalan border, the Encuentro meets as a whole. In between, it separates
+> into five mesas (tables) to discuss politics, economics, society, culture, and
+> identity. Each table divides further into sub-mesas.
+> 
+> The additional three village sites, all in or near the Lacandon forest, are
+> Roberto Barrios (near the great Mayan ruins of Palenque), Morelia, and La
+> Garrucha. To arrive at the villages requires traveling past the Mexican army,
+> which has set up a base next to each community that has declared itself a
+> Zapatista community, and past the immigration checkpoints set up to harass us
+> all, both Mexicans and non-Mexicans. Getting to Roberto Barrios required
+> walking through the army base then fording a stream.
+> 
+> At each locale, the mesa is within a circle, within the protection of the
+> EZLN. At Roberto Barrios, the site of the economics table, some 3500 local
+> people, among the materially poorest on the planet, have spent four months
+> constructing a space for the encounter: a hall to hold 400 (with rented chairs
+> and an excellent sound system), a kitchen and a dining hall, sleeping areas, a
+> space for the press and to house the omnipresent computers and to recharge
+> batteries, showers and toilets. It is a huge, overwhelming and humbling gift.
+
+
 ## Medieval Commons and Their Holdovers
 Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
 Analytical View" (1965):

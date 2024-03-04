@@ -499,6 +499,75 @@
     - https://archive.seattletimes.com/archive/?date=19991223&slug=A19991224010135
     - https://web.archive.org/all/20000816130236/http://seattle.indymedia.org/about.php3
     - "3rd Avenue" is also mentioned in _Showdown_ at 16:35
+- Zapatista Uprising
+  - Segunda Declaración de La Realidad por la Humanidad y contra el
+    Neoliberalismo
+    - [Original
+      text](https://enlacezapatista.ezln.org.mx/1996/08/03/segunda-declaracion-de-la-realidad-por-la-humanidad-y-contra-el-neoliberalismo/)
+    - [English
+      translation](https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html)
+    - School for Chiapas
+      - ["1st
+        Declaration"](https://schoolsforchiapas.org/library/1st-declaration-la-realidad-humanity-neoliberalism/),
+        described as:
+        - > The EZLN calls for an intercontinental anti-neoliberalism gathering
+          > and outlines their political outlook in the First Declaration of La
+          > Realidad for Humanity and against Neoliberalism, January 30, 1996.
+          > The idea would eventually flourish in the form of the World Social
+          > Forum.
+      - [Maps of Chiapas](https://schoolsforchiapas.org/library/maps/)
+    - Bruno Serralongue, photographer who published photos as _Encuentro,
+      Chiapas 1996_
+      - [Official Artist's
+        Page](http://www.airdeparis.com/artists/bruno-serralongue/) on Air de
+        Paris
+      - [Official Book
+        Page](https://spectorbooks.com/book/encuentro-chiapas-1996-en), with
+        photos, from Spector Books
+      - [More photos on
+        sophot.org](https://sophot.org/livre/encuentro-chiapas-1996/?lang=en)
+    - ["Documentos del Subcomandante
+      Marcos"](https://es.wikisource.org/wiki/Categor%C3%ADa:Documentos_del_Subcomandante_Marcos)
+      on Spanish WikiSource
+    - La Jornada
+      - First Declaration
+        [text](https://www.jornada.com.mx/1996/04/06/realidad.txt.html) and
+        [photos](https://www.jornada.com.mx/1996/04/06/fotos.html)
+      - Photos (lo-res): [Jul
+        30](https://www.jornada.com.mx/1996/07/30/fotos.html) | [Jul
+        31](https://www.jornada.com.mx/1996/07/31/fotos.html) | [Aug
+        1](https://www.jornada.com.mx/1996/08/01/fotos.html) | [Aug
+        2](https://www.jornada.com.mx/1996/08/02/fotos.html) | [Aug
+        3](https://www.jornada.com.mx/1996/08/01/fotos.html)
+    - Archives of Global Protests
+      - [Gatherings for Humanity and against
+        Neoliberalism](https://www.nadir.org/nadir/initiativ/agp/chiapas1996/en/gatherdx.html)
+      - [First
+        Encounter](https://www.nadir.org/nadir/initiativ/agp/chiapas1996/en/encounter1dx.html)
+      - ["The story of how we learnt to dream at
+        Reality"](https://www.nadir.org/nadir/initiativ/agp/chiapas1996/en/enreport.html)
+        A report on the first Intercontinental Gathering for Humanity and
+        Against neo-liberalism by Andrew Flood, one of the Irish delegation
+      - ["I Was at the
+        Encuentro"](https://www.nadir.org/nadir/initiativ/agp/chiapas1996/en/masscrit.html)
+        by Massimo De Angelis (August 1996)
+      - ["Toward the New Commons: Working Class Strategies and the
+        Zapatistas"](https://www.nadir.org/nadir/initiativ/agp/chiapas1996/en/commons_paper.html)
+        by Monty Neill, with George Caffentzis and Johnny Machete, of the
+        Midnight Notes Collective. Later published in [Midnight Notes #13:
+        _Auroras of the
+        Zapatistas_](https://libcom.org/article/midnight-notes-13-2001-auroras-zapatistas)
+        as "Encounters in Chiapas" in 2001.
+  - World Social Forum
+    - Smith, Jackie (2004). ["The World Social Forum and the challenges of
+      global democracy"
+      (PDF)](https://d-scholarship.pitt.edu/20739/1/Global_Networks_WorldSocialForum_2004.pdf).
+      Global Networks. 4 (4): 413–421.
+      [doi:10.1111/j.1471-0374.2004.00102.x.](https://doi.org/10.1111%2Fj.1471-0374.2004.00102.x)
+    - ["The 1999 Seattle protests gave birth to a global
+      movement"](https://socialistworker.co.uk/features/the-1999-seattle-protests-gave-birth-to-a-global-movement/)
+      ([a.o](https://web.archive.org/web/20160514153529/https://socialistworker.co.uk/art/19283/The+1999+Seattle+protests+gave+birth+to+a+global+movement)),
+      Alex Callinicos, _The Socialist Worker_
 
 ## Protest movements following the Global Economic Crisis
 ### Arab Spring

@@ -675,28 +675,42 @@ Apart from forging more diverse alliances, Indymedia also represents an
 _ideological_ alternative to the centrist political leanings of free culture,
 open source, and online privacy movements. April Glaser, writing for _Logic(s)_
 magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
-groups like the Electronic Frontier Foundation (EFF), founded by John Perry
-Barlow, the Grateful Dead lyricist turned dotcom bubble booster. She points out
-how in the same year that Barlow penned his techno-libertarian manifesto, "A
-Declaration of the Independence of Cyberspace," a very different sort of
-declaration was being promulgated concerning the potential of cyberspace, this
-one coming from the balaclava and bandolier bedecked Subcommandante Marcos of
-the Zapatista Army of National Liberation (EZLN). Both the literal and political
-climate surrounding their authorship could not have been more dissimilar. Barlow
+groups like the Electronic Frontier Foundation (EFF), co-founded by John Perry
+Barlow, the Grateful Dead lyricist turned dotcom bubble booster, who would also
+be in attendence for the 2001 _Conference on the Public Domain_ alongside Lessig
+and Benkler. Glaser points out how in the same year that Barlow penned his
+techno-libertarian manifesto, _A Declaration of the Independence of Cyberspace_,
+a very different sort of declaration was being promulgated concerning the
+potential of cyberspace, this one coming from the balaclava and bandolier
+bedecked Subcommandante Marcos of the Zapatista Army of National Liberation
+(EZLN).
+
+The political climate — to say nothing of the literal climate — surrounding the
+authorship of these two manifestos could not have been more dissimilar. Barlow
 signed his declaration from Davos in the Swiss Alps on February 8, 1996, having
 ostensibly found inspiration in the World Economic Forum he had attended two
-days before. On the other hand, the _2nd Declaration of La Realidad_ was Marcos'
-valediction to the 42 delegates and roughly 5,000 other activists and
-journalists who came from around the world to the "First Intercontinental
-Encounter for Humanity and Against Neoliberalism," held in the Lacandon Jungle
-of Chiapas, Mexico on August 3, 1996.
+days before. Delivered a few months later on August 3, 1996, the _Second
+Declaration of La Realidad_ was Marcos' valediction to the delegates from over
+40 countries, plus anywhere from 3 to 5 thousand other activists, journalists,
+and intellectuals, who all journeyed to Chiapas, Mexico for the _First
+Intercontinental Encounter for Humanity and Against Neoliberalism_. This 5-day
+"encounter" or _encuentro_, which might also be translated as a "gathering," was
+held deep in the Lacandon Jungle near the Guatemalan border, with many of the
+sessions taking place in open-air clearings, tents, and lean-tos. There would be
+another intercontinental _encuentro_ the following year in Spain, plus a few
+smaller, _intra_-continental gatherings across Europe and North America. Many of
+the same participants would come together again in 2001 for the first World
+Social Forum, named in conscious opposition to the World Economic Forum. It
+would adopt many of the same methods and strategies participants had first
+learned at the _encuentros_.
 
-Marcos called for "a collective network" of resistance against neoliberalism,
-linking  activists from all parts of the globe in these early days of the World
-Wide Web. He had already shown himself so adroit at mobilizing international
-support through the online publishing of communiques such as this one.[^EZLN]
-Glaser observes how "the organizers who went on to build Indymedia heard this
-call," some three years prior to the Battle of Seattle. She continues:
+On the final day of that first _encuentro_, however, Marcos called for "a
+collective network" of resistance against neoliberalism, linking  activists from
+all parts of the globe in these early days of the World Wide Web. He had already
+shown himself so adroit at mobilizing international support through the online
+publishing of communiques such as this one.[^EZLN] Glaser observes how "the
+organizers who went on to build Indymedia heard this call," some three years
+prior to the Battle of Seattle. She continues:
 
 > The Indymedia organizers would be the children of Marcos, not Barlow. While
 > the two philosophies had points of contact, they came from different places of

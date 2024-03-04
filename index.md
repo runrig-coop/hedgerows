@@ -764,8 +764,8 @@ this time. One only needs to look at how Elinor Ostrom rose to prominence in
 those same years, beginning with her highly praised _Governing the Commons_ in
 1990, and culminating with the 2009 Nobel Prize in economics for her analysis of
 common-pool resources. In 2006 Silvia Federici's groundbreaking work, _Caliban
-and the Witch_, forever linked the history of the commons and enclosure to her
-Marxist feminist theories of social reproduction and primitive accumulation. It
+and the Witch_, forever linked the history of the commons and enclosure to the
+Marxist feminist critiques of social reproduction and primitive accumulation. It
 should also come as no great shock that a wealth of contemporary literature on
 the commons emerged from the fields of social ecology and degrowth economics.
 
@@ -836,14 +836,17 @@ food and agriculture during this period in the U.S., something analogous to
 Indymedia? And if so, where? I've given short shrift to the recent history of
 sustainable farming in this essay, and I will have to address those details in a
 subsequent essay, since this one is already three times the length I'd
-originally intended. For my own understanding, I needed to bring these two
-movements to account before I could begin grappling with the more nuanced
+originally intended. For my own understanding, I needed to give a full account
+of these two movements before I could begin grappling with the more nuanced
 aspects of the commons and enclosure. Because I first encountered the commons
 through open source software, that's where it made the most sense to begin
-unravelling my own associations with the concept.
+unravelling my own associations with the concept. The issue of the agricultural
+commons will have to wait. It also doesn't escape me that I've yet to rejoin my
+own earlier question, "How _do_ we begin leveling today's hedgerows?" That, too,
+I leave to a separate piece.
 
-My personal exploration of the commons is also situated within a specific
-community of practice, principally the Gathering for Open Agricultural
+At the moment, my personal exploration of the commons is situated within a
+certain community of practice, principally the Gathering for Open Agricultural
 Technology, but also Social.Coop and the Skywoman community. I think it's
 critical to acknowledge this, because my own understanding, and in fact the very
 content of this essay, has proceeded directly from the conversations I've shared

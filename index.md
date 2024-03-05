@@ -715,41 +715,42 @@ _ideological_ alternative to the centrist political leanings of free culture,
 open source, and online privacy movements. April Glaser, writing for _Logic(s)_
 magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
 groups like the Electronic Frontier Foundation (EFF), co-founded by John Perry
-Barlow, the Grateful Dead lyricist turned dotcom bubble booster, who would also
-be in attendence for the 2001 _Conference on the Public Domain_ alongside Lessig
-and Benkler. Glaser points out how in the same year that Barlow penned his
-techno-libertarian manifesto, _A Declaration of the Independence of Cyberspace_,
-a very different sort of declaration was being promulgated concerning the
-potential of cyberspace, this one coming from the balaclava and bandolier
-bedecked Subcommandante Marcos of the Zapatista Army of National Liberation
-(EZLN).
+Barlow, a former Grateful Dead lyricist and later denizen of The WELL, who would
+also be in attendence for the 2001 _Conference on the Public Domain_ alongside
+Lessig and Benkler. Glaser points out how in the same year that Barlow penned
+his techno-libertarian manifesto, _A Declaration of the Independence of
+Cyberspace_, a very different vision for cyberspace would emerge from far more
+revolutionary environs. This declaration would come straight from the balaclava-
+encircled mouth of Subcommandante Marcos, spokesperson for the Zapatista Army of
+National Liberation (EZLN).
 
 The political climate — to say nothing of the literal climate — surrounding the
 authorship of these two manifestos could not have been more dissimilar. Barlow
 signed his declaration from Davos in the Swiss Alps on February 8, 1996, having
-ostensibly found inspiration in the World Economic Forum he had attended two
+ostensibly found inspiration in the World Economic Forum, which he attended two
 days before. Delivered a few months later on August 3, 1996, the _Second
 Declaration of La Realidad_ was Marcos' valediction to the delegates from over
 40 countries, plus anywhere from 3 to 5 thousand other activists, journalists,
 and intellectuals, who all journeyed to Chiapas, Mexico for the _First
-Intercontinental Encounter for Humanity and Against Neoliberalism_. This 5-day
-"encounter" or _encuentro_, which might also be translated as a "gathering," was
-held deep in the Lacandon Jungle near the Guatemalan border, with many of the
-sessions taking place in open-air clearings, tents, and lean-tos. There would be
-another intercontinental _encuentro_ the following year in Spain, plus a few
-smaller, _intra_-continental gatherings across Europe and North America. Many of
-the same participants would come together again in 2001 for the first World
-Social Forum, named in conscious opposition to the World Economic Forum. It
-would adopt many of the same methods and strategies participants had first
-learned at the _encuentros_.
+Intercontinental Gathering for Humanity and Against Neoliberalism_. This 5-day
+gathering or _encuentro_, as it was originally termed in Spanish, was held deep
+in the Lacandon Jungle near the Guatemalan border. Many of the sessions took
+place in open-air clearings, tents, and lean-tos. There would be another
+intercontinental _encuentro_ the following year in Spain, plus a few smaller,
+_intra_-continental gatherings across Europe and North America. Eventually,
+these _encuentros_ would partially inspire the World Social Forum, named in
+conscious opposition to the World Economic Forum in Davos. The first WSF was
+held in Brazil in 2001, attended by many of the same participants from the first
+_encuentro_ in 1996 and borrowing many of its methods.
 
 On the final day of that first _encuentro_, however, Marcos called for "a
-collective network" of resistance against neoliberalism, linking  activists from
-all parts of the globe in these early days of the World Wide Web. He had already
-shown himself so adept at mobilizing international support through the online
-publishing of communiques such as this one.[^EZLN] Glaser observes how "the
-organizers who went on to build Indymedia heard this call," some three years
-prior to the Battle of Seattle. She continues:
+collective network" of resistance against neoliberalism, using the nascent World
+Wide Web to link activists from all over the world. The EZLN had already shown
+itself so adept at mobilizing international support through the online
+publishing. Communiques such as the _Second Declaration of La Realidad_ had been
+published online since the uprising began in 1994.[^EZLN] Glaser observes how
+"the organizers who went on to build Indymedia heard this call," some three
+years prior to the Battle of Seattle. She continues:
 
 > The Indymedia organizers would be the children of Marcos, not Barlow. While
 > the two philosophies had points of contact, they came from different places of
@@ -758,7 +759,21 @@ prior to the Battle of Seattle. She continues:
 > see cyberspace as an open frontier of _individuals unhindered by governments_.
 > Rather, the activists saw cyberspace as a place for _communities_.[^Glaser]
 
-[^EZLN]: https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html
+[^EZLN]: ["Closing Words of the EZLN at the Intercontinental Encounter- 2nd
+    Declaration of La Realidad" (archived English
+    translation)](https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html);
+    see also the [original in
+    Spanish](https://enlacezapatista.ezln.org.mx/1996/08/03/segunda-declaracion-de-la-realidad-por-la-humanidad-y-contra-el-neoliberalismo/).
+    The [_First Declaration of La
+    Realidad_](https://schoolsforchiapas.org/library/1st-declaration-la-realidad-humanity-neoliberalism/)
+    ([Spanish
+    orig.](https://enlacezapatista.ezln.org.mx/1996/01/01/primera-declaracion-de-la-realidad-contra-el-neoliberalismo-y-por-la-humanidad/)),
+    published January 1996, was essentially the announcement for the _encuentro_
+    to be held later that summer. As Monty Neill recalls in "Encounters in
+    Chiapas" (_Midnight Notes_ #13), Marcos expressed his doubts that anyone
+    would show up. It was the first such attempt to convene their supporters
+    outside of Mexico, the majority of whom had just communicated online until
+    then. The response exceeded most expectations.
 [^Glaser]: https://logicmag.io/bodies/another-network-is-possible/
 
 Techno-libertarians, then and now, claim to be building political power from the

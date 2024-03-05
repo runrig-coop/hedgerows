@@ -322,9 +322,7 @@ as the epigraph to Bollier's _Silent Theft: The Private Plunder of Our Common
 Wealth_ in 2002, the same year Boyle published an early draft of his own essay
 featuring the poem. As it turns out, Peter Linebaugh also found it "too
 succulent to resist" and recycled it once more in the introduction to his 2014
-book _Stop, Thief!_. I realize now that Linebaugh must have been winking at
-Bollier when prefaced his recitation of the poem as "what you and I know in our
-bones."
+book _Stop, Thief!_.
 
 Apart from being the object in this game of epigraphic hot potato, it's not
 surprising that the poem rose to the surface as a shared metaphor in such an
@@ -597,7 +595,7 @@ part, is writing from a distinctly Marxian and autonomist perspective, informed
 by the several major financial crises that have taken place since then, as well
 as the Occupy and Black Lives Matter movements. He argues to revive the
 principles of guild socialism, as formulated by G.D.H. Cole roughly a century
-ago, and apply them to modern technology in what Mulddon calls _Platform
+ago, and apply them to modern technology in what Muldoon calls _Platform
 Socialism_, which is also the title of his book.
 
 [^seattle]: _Democracy Now!_, ["20 Years After the Battle of Seattle: Vandana
@@ -631,7 +629,7 @@ government and industry, all to thunderous applause.
 
 ## Open Source Meets Open Publishing
 The 1999 Seattle WTO Protests also stand as a critical inflection point where
-the interests and organizing base of technology and farming activists
+the interests and organizing base of farming and technology activists
 momentarily fused into a single, coherent political force that acted decidedly
 against further enclosure of the global commons. While Shiva and Nader were
 setting up at Seattle Town Hall, a group of independent journalists, media
@@ -648,7 +646,7 @@ cnn.com, with 1.5 million unique visitors in its first week. The legacy of the
 IMC would live on in the influence it had on the digital media tactics of later
 movements, and the IMC itself would continue as an activist hub in Seattle for
 several years. Arguably its most lasting influence, however, was in the
-establishment of sister IMC's in cities and regions around the world. This was
+establishment of sister IMCs in cities and regions around the world. This was
 the birth of the Indymedia network, which at its peak in 2010 comprised as many
 as 175 centers. They shared some common open source publishing tools and many
 were provided with subdomains, such as barcelona.indymedia.org, but otherwise
@@ -656,11 +654,11 @@ they were largely autonomous projects run by local activists in those regions.
 
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination
-of free software and food sovereignty could yield unique outcomes. In 2005, some
-software developers affiliated with the Portland IMC and People's Food Co-op,
-building on the prior work of another engineer/member of The Wedge Co-op in
-Minneapolis, open sourced a point-of-sale system dubbed Information Systems 4
-Co-ops, or IS4C. As the Portland IMC reported at the time:
+of free software and food sovereignty could yield unique outcomes. In 2005,
+software developers affiliated with the Portland IMC, the People's Food Co-op of
+Portland, and The Wedge Co-Op in Minneapolis released the open source code for a
+point-of-sale system dubbed Information Systems 4 Co-ops, or IS4C. As the
+Portland IMC reported at the time:
 
 > This past Saturday morning, a group of co-op geeks gathered at People's Food
 > Co-op and successfully ran IS4C on a Linux box running Ubuntu using MySQL 5
@@ -709,7 +707,7 @@ learned at the _encuentros_.
 On the final day of that first _encuentro_, however, Marcos called for "a
 collective network" of resistance against neoliberalism, linking  activists from
 all parts of the globe in these early days of the World Wide Web. He had already
-shown himself so adroit at mobilizing international support through the online
+shown himself so adept at mobilizing international support through the online
 publishing of communiques such as this one.[^EZLN] Glaser observes how "the
 organizers who went on to build Indymedia heard this call," some three years
 prior to the Battle of Seattle. She continues:
@@ -728,12 +726,8 @@ Techno-libertarians, then and now, claim to be building political power from the
 ground up, but it's for the sole benefit of isolated individuals. The complete
 atomization of society into self-interested agents is not the same as bottom-up
 organization. It's a lie that merely enables the top-down exploitation of the
-many by the few. Coincidentally, it is the same Balkanized condition that the
-thought leaders at Davos tend to mistake for "freedom." It's a corollary of the
-_Homo economicus_ fallacy first espoused by utilitarian philosophers almost two
-centuries ago and roundly discredited ever since. Dressing the old notion up in
-transhumanist cyber-lingo doesn't render it any less fictitious than it makes it
-less exploitative.
+many by the few. Coincidentally, it is the same alienated condition that the
+thought leaders at Davos tend to mistake for "freedom."
 
 The anti-globalization organizers, on the other hand, came from small, localized
 bases of power, but they also knew that no individual could seriously challenge
@@ -825,11 +819,12 @@ fractious constituencies who held disparate motivations that were sometimes
 directly opposed to one other. Situated amidst the broader context of
 contemporary geopolitics, its even harder to ignore the diversity of ideology.
 For the technologists, we see this most evidently in the contrasts between
-Indymedia and the EFF. If the organic and local food movements correspond to one
-of these two fronts, it's undoubtedly the techno-libertarianism side of the
-schism. Virginia farmer Joel Salatin, the self-described "Christian libertarian
-environmentalist capitalist" and darling of the local food world back then,
-makes an excellent stand-in for John Perry Barlow in this regard.
+Indymedia and the Electronic Frontier Foundation. If the organic and local food
+movements correspond to one of these two fronts, it's undoubtedly the
+techno-libertarianism side of the schism. Virginia farmer Joel Salatin, the
+self-described "Christian libertarian environmentalist capitalist" and darling
+of the local food world back then, makes an excellent stand-in for John Perry
+Barlow in this regard.
 
 This still begs the question: was there a corresponding collectivist movement in
 food and agriculture during this period in the U.S., something analogous to

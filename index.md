@@ -390,9 +390,48 @@ raided The Pirate Bay in 2006 had to concede that there were limits to what
 could be done to physically impede the flow of information. Information, after
 all, wants to be free.
 
-Yet the cost of disregarding information's earthly trappings is borne out by the
-way private streaming platforms have nonetheless managed to enclose the
-knowledge commons, quite thoroughly and in relatively short time. Jump ahead
+Stewart Brand, often cited as the originator of this maxim that "information
+wants to be free," serves as a hub linking the quest for new forms of
+consciousness and autonomous communities in the 1960s with the quest for free
+markets and neoliberal hegemony in the 1990s. In _Counterculture to
+Cyberculture_, Fred Turner makes a compelling argument that while the 60's
+counterculture can be viewed as a hotbed of radical politics, like those of
+Students for a Democratic Society (SDS) and the New Left, it also produced a
+deeply apolitical tendency, which he dubs New Communalism. Rather than seeking
+to change society for the better, the New Communalists sought to drop out of
+Western civilization entirely, forsaking the comforts of their middle class
+American upbringings to create whole new societies, a fresh start to take refuge
+in while the old society sank beneath the tide. The communes seldom lasted more
+than a year or two, but their utopian dream of intentional communities persisted
+into the 1980s when it re-emerged in the guise of the earliest _virtual
+communities_. Stewart Brand, once counted among Ken Kesey's Merry Pranksters,
+along with the former members of a Tennessee commune known only as The Farm,
+co-founded The WELL in 1985. It was an online bulletin board system, commonly
+referred to back then as a BBS and similar to its predecessor Usenet. The WELL
+incubated a number of virtual communities that would eventually give rise to the
+Electronic Frontier Foundation, _Wired_ magazine, Craigslist, and Salon.com, to
+name a few. The dream had become a reality, albeit virtual. Their success
+entrenched a growing ideology of technological determinism, and once combined
+with the entrepreneurial spirit of the post-history 90s, gave rise to the
+techno-libertarianism that was a hallmark of the first dotcom economic boom. As
+is quite clear to many of us now, however, this optimism was misplaced. Problems
+like economic scarcity and social stratification don't just vanish with one wave
+of the magic wand of virtualization, as Turner warns:
+
+> The rhetoric of peer-to-peer informationalism [...] actively obscures the
+> material and technical infrastructures on which both the Internet and the
+> lives of the digital generation depend. Behind the fantasy of unimpeded
+> information flow lies the reality of millions of plastic keyboards, silicon
+> wafers, glass-faced monitors, and endless miles of cable. All of these
+> technologies depend on manual laborers, first to build them and later to tear
+> them apart. This work remains extraordinarily dangerous, first to those who
+> handle the toxic chemicals required in manufacture and later to those who live
+> on the land, drink the water, and breathe the air into which those chemicals
+> eventually leak.
+
+The cost of disregarding information's earthly trappings is further borne out
+today by the way private streaming platforms have nonetheless managed to enclose
+the knowledge commons, quite thoroughly and in relatively short time. Jump ahead
 twenty years from when it seemed like Napster and torrenting would spell the
 death of copyright, we see subscription rates for platforms such as Netflix
 steadily rising every year, while fewer titles are available outside premium

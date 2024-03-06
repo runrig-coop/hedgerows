@@ -379,10 +379,25 @@ led me to Boyle's essay on enclosure.
 ## Free as the Air to Common Use
 Nevertheless, today's advocates for free culture and open source software are
 still mostly concerned with commoning what is abstract and ephemeral, though
-there are significant exceptions I will address later on. The hardware and
-infrastructure required to store, process and move information around are
-treated as mere accidents or technical details. If they're considered at all
-they're taken as inconveniences to be worked around in policy, possibly
+there are significant exceptions I will address later on. This is best summed up
+in another favorite quote of that era, from none other than Supreme Court
+Justice Louis Brandeis:
+
+> The general rule of law is, that the noblest of human productions — knowledge,
+> truths ascertained, conceptions, and ideas — become, after voluntary
+> communication to others, free as the air to common use
+
+It forms the titular reference in a seminal paper from Benkler, "Free as the Air
+to Common Use: First Amendment Constraints on Enclosure of the Public Domain,"
+which is further cited by Boyle's "The Second Enclosure Movement" and elsewhere.
+Again, I don't mean to imply that it was their intent to privilege more
+substantial forms of property over the airy ones like information and molecular
+oxygen. But that's clearly the attitude that open source advocates took away
+from these statements.
+
+The hardware and infrastructure required to store, process and move information
+around are treated as mere accidents or technical details. If they're considered
+at all they're taken as inconveniences to be worked around in policy, possibly
 subsidized, but never as substantive elements of the knowledge commons in their
 own right. Information acquires a supernatural character in this formulation. It
 is beyond the encumbrances of the physical world. Even the Swedish police who

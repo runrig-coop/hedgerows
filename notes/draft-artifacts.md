@@ -34,6 +34,21 @@ question whether "autonomy" might be a better option.[^sovcit]
     somewhere else.
 
 
+## Kropotkin's Parisian House
+> A house in certain parts of Paris may be valued at thousands of pounds
+> sterling, not because thousands of pounds’ worth of labour have been expended
+> on that particular house, but because it is in Paris; because for centuries
+> workmen, artists, thinkers, and men of learning and letters have contributed
+> to make Paris what it is to-day — a centre of industry, commerce, politics,
+> art, and science; because Paris has a past; because, thanks to literature, the
+> names of its streets are household words in foreign countries as well as at
+> home; because it is the fruit of eighteen centuries of toil, the work of fifty
+> generations of the whole French nation.
+> 
+> Who, then, can appropriate to himself the tiniest plot of ground, or the
+> meanest building, without committing a flagrant injustice? Who, then, has the
+> right to sell to any bidder the smallest portion of the common heritage?
+
 ## Encuentro
 From Monty Neill's "Encounters in Chiapas" in Midnight Notes #13, _Auroras of the Zapatistas_ (2001):
 

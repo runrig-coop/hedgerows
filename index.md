@@ -487,36 +487,40 @@ raided The Pirate Bay in 2006 had to concede that there were limits to what
 could be done to physically impede the flow of information. Information, after
 all, wants to be free.
 
-Stewart Brand, often cited as the originator of this maxim that "information
-wants to be free," is a central hub linking the baby boomers' quest for new
-forms of consciousness and autonomous communities in the 1960s and 70s with
-their seemingly disparate quest for free markets and neoliberal hegemony in the
-1990s. Fred Turner connects all these dots in his 2006 _Counterculture to
+Stewart Brand is often cited as the originator of this maxim, that "information
+wants to be free." He is the hub connecting two spokes of the baby boomers'
+cultural history: first their quest in the 1960s and 70s to discover new forms
+of consciousness through autonomous communities, then their seemingly disparate
+pursuit of free markets and tech-infused neoliberalism that climaxed in the
+1990s and 2000s. Fred Turner connects all these dots in his _Counterculture to
 Cyberculture_. He makes a compelling argument that while the 60s counterculture
-can be viewed as a hotbed of radical politics, as with the Students for a
-Democratic Society (SDS) and the New Left, it also produced a deeply apolitical
+can be viewed as a hotbed of radical politics (e.g., the Students for a
+Democratic Society (SDS) and the New Left), it also produced a deeply apolitical
 tendency that he dubs the New Communalism. Rather than seeking to change society
 for the better, New Communalists sought to drop out of civilization entirely.
-They forsook the comforts of their middle class American upbringings for the
-ambition of building whole new societies on rural homesteads, a fresh start to
-take refuge in while the old society sank beneath the tide. Required reading for
-many of these "back to the land" communards was _The Whole Earch Catalog_, which
-Stewart Brand edited and published. The communes seldom lasted more than a year
-or two, but their utopian dream of intentional communities persisted into the
-1980s, when it re-emerged in the guise of the earliest _virtual_ communities. It
-was in 1985 that Brand, who was once counted among Ken Kesey's Merry Pranksters,
-banded together with some former members of a Tennessee commune known as The
-Farm to co-found The WELL. The WELL was an online bulletin board system,
-commonly referred to as a BBS back then, similar to its predecessor Usenet. It
-incubated a number of virtual communities that would eventually give rise to the
-Electronic Frontier Foundation, _Wired_ magazine, Craigslist, and Salon.com,
-just to name a few. The utopian dream had become a reality, albeit virtual.
-Their success entrenched a growing sense of technological determinism, and once
-that was combined with the laissez faire spirit of the post-history 1990s, it
-gave rise to a new brand of techno-libertarianism that was a hallmark of the
-first dotcom boom. As is quite clear to many of us now, however, this optimism
-was misplaced. Problems like economic scarcity and social stratification don't
-just vanish with one wave of the magic wand of virtualization, as Turner warns:
+They forsook the comforts of their middle class, suburban upbringings, seeking
+to build whole new communities out on America's rural hinterlands. It would be a
+fresh new start for society, a place to take refuge while the old society sank
+beneath the tide. Required reading for many of these "back to the land"
+communards was _The Whole Earch Catalog_, which Stewart Brand edited and
+published. The communes seldom lasted more than a year or two, but their utopian
+dream of intentional communities persisted into the 1980s, when it re-emerged in
+the guise of the earliest _virtual_ communities. It was in 1985 that Brand, once
+counted among Ken Kesey's Merry Pranksters, co-founded one of the earliest
+Internet startups called The WELL, together with some former members of a
+Tennessee commune known only as The Farm. Similar to its forerunner, Usenet, The
+WELL was a simple online bulletin board system, or what was commonly referred to
+as a BBS. It incubated a number of virtual communities that would eventually
+give rise to the Electronic Frontier Foundation, _Wired_ magazine, Craigslist,
+and Salon.com, just to name a few. The utopian dream had become a reality,
+albeit virtual. Their success entrenched a growing sense of technological
+determinism. When that tech-positive optimism was combined with the laissez
+faire spirit of the post-history 1990s, it gave rise to a new brand of
+techno-libertarianism, which was a hallmark of the first dotcom boom and still
+prevails in Silicon Valley today. As is quite clear to many of us now, however,
+this optimism was misplaced. Problems like economic scarcity and social
+stratification don't just vanish with one wave of the magic wand of
+virtualization, as Turner warns:
 
 > The rhetoric of peer-to-peer informationalism, however, much like the rhetoric
 > of consciousness out of which it grew, actively obscures the material and

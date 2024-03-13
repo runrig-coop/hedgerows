@@ -590,10 +590,10 @@ plant-based alternative (with active support from the USDA, I might add). When
 W.R. Grace & Co. applied, the European Patent Office was only too happy to
 oblige and upheld the corporation's claim to the innovation. Despite 2,000 years
 of independent seed development by Indian plant breeders, the U.S. conglomerate
-would enjoy a monopoly to sell it back to them like coals to Newcastle. In the
-process, Grace & Co. would enjoy a hefty profit, while also offsetting any
-decline in revenue from their other pesticides due to environmental regulations
-or competition from safer alternatives like neem. The patent was eventually
+monopolized the right to sell it back to them like coals to Newcastle. In the
+process, Grace & Co. would enjoy a hefty profit while offsetting any decline in
+revenue from the sale of chemical pesticides due to environmental regulations or
+competition from safer alternatives like neem. The patent was eventually
 revoked, but only after ten years of relentless legal battles and grassroots
 campaigning by Shiva and Navdanya, the successor organization to the
 RFSTE.[^biopiracy-campaign]
@@ -645,10 +645,10 @@ The precise framing of her analysis, however, carries an insight far more
 profound, far more _ontological_ in character, than anything subsequent
 commentators on free culture were ready to claim. Shiva certainly acknowledges
 the value of the natural world and humanity's ties to it, but she also
-highlights how nature itself, at least in its canonically Western conception,
-has been used by colonial forces to dispossess indigenous peoples of their land
-and resources all across the globe. This "conquest by naturalization," as she
-calls it, can be observed as far back as the Papal Bulls of Donation in 1493. To
+highlights Western colonialist forces have appealed to nature as the authority
+granting them to right to dispossess indigenous peoples of their land and
+resources all across the globe. This "conquest by naturalization," as she calls
+it, can be observed as far back as the Papal Bulls of Donation in 1493. To
 settle colonial disputes between the Catholic Monarchs of Spain and the King of
 Portugal, Pope Alexander VI drew a longitudinal line running down the middle of
 the Atlantic Ocean, just slicing off the Nordeste region of modern-day Brasil.
@@ -755,20 +755,20 @@ Campaign and Family Farm Defenders were mobilized against GMO foods while also
 championing small family farms from the Midwest and coastal exurban farming
 communities. La Via Campesina was also there in force, demanding equitable land
 distribution, fairer wages, and safe working conditions. They were joined by
-other groups from the global south like the Food and Allied Workers Union of
-South Africa, as well as the Black Farmers and Agriculturalists Association,
-hailing from the American South. These last three groups were far more concerned
+other groups from the Global South, like the Food and Allied Workers Union of
+South Africa, and a few from the American South, like the Black Farmers and
+Agriculturalists Association. These last three groups were far more concerned
 with issues of social justice, rather than the previous groups' interests in
 consumer protections and agrarianism. Nevertheless, they presented a united
 front against the powers of global capital and trade. Shiva herself was uniquely
 poised to represent a broad spectrum of those interests, as she did the night
 after the first day of protests in a packed Seattle Town Hall. She sat
-shoulder-to-shoulder with Ralph Nader as they debated against White House Under
-Secretary of Commerce David Aaron and Procter and Gamble Director of Global
-Policy Scott Miller. The event reached a national audience by means of a live
-broadcast on C-SPAN, re-aired periodically over the following days. This is
-where many organic food advocates in the U.S. were first introduced to Shiva's
-work, as she fired a cascade of withering rebukes at these grandees of
+shoulder-to-shoulder with Ralph Nader as they debated against David Aaron, then
+White House Under-Secretary of Commerce, and Scott Miller, Director of Global
+Policy for Procter and Gamble. The event reached a national audience by means of
+a live broadcast on C-SPAN, re-aired periodically over the following days. This
+is where many organic food advocates in the U.S. were first introduced to
+Shiva's work, as she fired a cascade of withering rebukes at these grandees of
 government and industry, all to thunderous applause.
 
 ## Open Source Meets Open Publishing
@@ -782,19 +782,24 @@ Independent Media Center (IMC) in a donated storefront at 1415 3rd Avenue. On
 the web, they made their home at indymedia.org. While news coverage coming from
 major U.S. newsrooms was either non-existent or heavily biased against the
 protesters, the IMC was critical in disseminating reports of what was actually
-taking place. They also presented this wide swath of environmentalists, trade
-unionists, and civil liberty activists for who they really were and what they
-were demanding, rather than the image of looters and provocateurs that was shown
-on the nightly news. At one point, indymedia.org was receiving more traffic than
-cnn.com, with 1.5 million unique visitors in its first week. The legacy of the
-IMC would live on in the influence it had on the digital media tactics of later
-movements, and the IMC itself would continue as an activist hub in Seattle for
-several years. Arguably its most lasting influence, however, was in the
-establishment of sister IMCs in cities and regions around the world. This was
-the birth of the Indymedia network, which at its peak in 2010 comprised as many
-as 175 centers. They shared some common open source publishing tools and many
-were provided with subdomains, such as barcelona.indymedia.org, but otherwise
-they were largely autonomous projects run by local activists in those regions.
+taking place. They shed light on the very real concerns shared by this diverse
+coalition of environmentalists, trade unionists, and civil liberty activists,
+presenting them as the working class people they really were, rather than the
+rioters and provocateurs portrayed in 5-second clips that aired on the nightly
+news. IMC had an unmatched vanage point. Tear gas seeped into their ground level
+offices during the most intense street battles, and at one point armoured police
+pounded on their door, demanding (without warrant) that IMC hand over the
+demonstrators who took refuge inside. As a result, indymedia.org received more
+web traffic than cnn.com at its peak, with 1.5 million unique visitors in its
+first week. The legacy of the IMC would live on in the influence it had on the
+digital media tactics of later movements, and the IMC itself would continue as
+an activist hub in Seattle for several years. Arguably its most lasting
+influence, however, was in the establishment of sister IMCs in cities and
+regions around the world. This was the birth of the Indymedia network, which at
+its peak in 2010 comprised as many as 175 centers. They shared some common open
+source publishing tools and many locales were provided with subdomains, such as
+barcelona.indymedia.org, but otherwise they were largely autonomous projects run
+by local activists in those regions.
 
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination

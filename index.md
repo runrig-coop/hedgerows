@@ -6,72 +6,91 @@ subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 ---
 
 # Hedgerows in the Sky
-When I tell people I make open source software for farmers, I often hear the
-familiar reply, "Why do farmers care whether their software is open source?" The
-reaction can vary in tone from genuinely curious to mildly facetious or outright
-incredulous: "You don't actually expect farmers to read the source code or build
-the binaries themselves, do you?" I might have to concede on that last point,
-but it seems to me that this category of response betrays the same faulty
-premise in each case. It assumes that farming and technology represent opposing
-world views, that their concerns are perfectly orthogonal to one another or
-distantly related at best. 
+When I tell people I make open source software for farmers, I'll occasionally
+hear some variation on this reply: "Why do farmers care whether their software
+is open source?" The reaction may differ in tone from the genuinely curious to
+slightly facetious or outright incredulous. "You don't actually expect farmers
+to read the source code or build the binaries themselves, do you?" I might have
+to concede on that last point, but it seems to me that this category of response
+betrays the same faulty premise in most cases. It assumes that farming and
+technology represent opposing world views, that their concerns are perfectly
+orthogonal to one another or distantly related at best.
 
-I'm glad to say that in the last couple of years I haven't heard this response
-as often as I used to. I partly attribute this to the rise in the U.S. of the
-food sovereignty movement and its corresponding data sovereignty movement. Apart
-from their shared language, they share a common belief that the resources we
-produce, consume, and depend upon each day — whether that's food, agricultural
-inputs, hardware, software, or data — should be controlled at the community
-level. Accordingly, the power to choose what foods and data are appropriate
-should be localized, decentralized, and more fairly distributed.
+In the last couple years I haven't heard this response as often as I used to. I
+partly attribute this to the rise in the U.S. of the food sovereignty movement
+and the closely aligned data sovereignty movement. Apart from their shared
+naming conventions, they share a common belief that the resources we produce,
+consume, and depend upon each day — whether that's food, agricultural inputs,
+hardware, software, or data — should be controlled at the community level.
+Accordingly, the power to choose what foods and data are appropriate should be
+localized, decentralized, and more fairly distributed. Put another way, both
+movements are committed to stewarding the _commons_ — the commons for land,
+food, accessible tools, and knowledge.
 
-Unlike more libertarian ideologies, food and data sovereignty do not imply that
-local control must necessarily devolve to the smallest possible unit of the
-individual, each a perfect atom of autonomy in isolation. Individual autonomy is
-highly prized among their proponents, but the food and data sovereignty
-movements focus their efforts instead on the _community control_ of resources,
-where social relations are grounded in trust and a shared sense of place. On
-this basis, clear parallels can be drawn between the two movements respective
-practices. One can compare collectivized farm management to cooperative data
-trusts; mutual aid food programs, such as free fridges or group buying clubs, to
-the communal server administration for alternative social media networks like
-Mastodon; sliding scale food coops or CSA solidarity shares to software projects
-sponsored through Liberapay, OpenCollective, donate buttons or some combination
-of crowdfunding mechanisms.
+Unlike more libertarian ideologies, which abound within both agriculture and
+technology, food and data sovereignty do not imply that local control must
+necessarily devolve to the smallest possible unit of autonomy — in other words,
+to single, isolated individuals. Individual autonomy is an important component
+for food and data sovereignty, but these movements focus their efforts on
+achieving community control of resources, where social relations are grounded
+in trust and a shared sense of place. On this basis, clear parallels can be
+drawn between the two movements' practices. One can compare collectivized farm
+management to cooperative data trusts. Mutual aid food programs, such as free
+fridges or group buying clubs, have their counterparts in the communal
+administration of servers for alternative social media networks like Mastodon.
+Efforts by small businesses to bring equity into their payment structures are
+reflected in the sliding scale pricing used by food coops or solidarity shares
+offered by some CSAs. In a similar fashion, software projects are commonly
+sponsored through Liberapay, OpenCollective, Ko-fi donate buttons or other "pay
+what you can" mechanisms.
 
-Though the concepts have only recently ascended to notoriety in the U.S., food
-and data sovereignty can trace their origins to several earlier movements that
+Though the concepts have only recently achieved notoriety in the U.S., food and
+data sovereignty can trace their origins to several earlier movements that
 preceded them. Some of their predecessors skew quite differently in ideology,
 while others do not; some are endemic to the U.S., yet others have gone largely
 unnoticed here until quite recently, having gained momentum first in the
 majority world. As I've tried to understand their convergent histories, a few of
-these antecedents stand out to me for their significance to my own personal
-history and how I came to be involved in these worlds to begin with. I was
-introduced to food sovereignty by way of my earlier connections to the local
+their forerunners stand out because of their significance to my own journey. I
+was introduced to food sovereignty by way of my earlier connections to the local
 food and farm-to-table movements in and around New York City during the 2000s
 and 2010s. Data sovereignty, also known as information or technological
-sovereignty, was preceded by free and open source software (FOSS) and the free
-culture. It could be argued that all four of those earlier movements reached
-their greatest prominence some time during the two decades straddling the turn
-of the millennium.
+sovereignty, is a comparatively new trend I have seen emerging from older free
+and open source software (FOSS) communities and the free culture movement.
 
-The correspondences that exists today between the food and data sovereignty
-movements weren't as apparent back then. While notions of collective autonomy
-can be insinuated from the local food and free-culture movements of that era, it
-wasn't their primary concern, nor was it commonly associated with the political
-milieu they inhabited. Lacking this strongly held principle in common, there was
-very little dialogue or collaboration between the two movements. The small
-farming and local food movements of that era fixated on what was near-at-hand,
-low-tech, organic, provincial and professedly slow. Meanwhile, the free-culture
-and open source movements set their gaze on global streams of non-rivalrous
-information, liberated by their abstractness and cutting-edge technology to
-travel across all borders, effortlessly and instantaneously.
+It could be argued that all of these earlier movements reached their peak
+sometime in the two decades straddling the turn of the millennium. Yet the
+correspondences that exist today between the food and data sovereignty weren't
+nearly as apparent back then. While notions of collective autonomy can be
+insinuated from the movements of that era, it wasn't their primary concern, nor
+was it commonly associated with the political milieu either inhabited. Lacking
+this shared principle, there was very little dialogue or collaboration between
+the two camps. The small farming and local food movements of that era fixated on
+what was near-at-hand, low-tech, organic, provincial and professedly slow.
+Meanwhile, the free-culture and open source movements set their gaze on global
+streams of non-rivalrous information, liberated by their abstractness and
+cutting-edge technology to travel across all borders, effortlessly and
+instantaneously.
 
+Strangely enough, the metaphor of the commons was only adopted by the
+technologists of this era, despite it being a term for a type of communal land
+tenure practiced by peasant farmers. This is the apparent contradiction that
+originally got me thinking more critically about the relationship between
+farming and technology. It only gets more puzzling the more you dig into it.
 
-********************************************************************************
-__TODO:__ Finish the introduction covering all the main points laid out in the
-article's [abstract](./notes/abstract.md#final-draft).
-********************************************************************************
+I've clocked far too many hours digging through the relics of early internet
+subculture and hunting down pay-walled citations on Sci-Hub,[^shadow-libs] but I
+can't pretend to have anything like an objective knowledge of these issues. In
+fact, the more I learn the more I realize just how narrow — maybe even distorted
+— my own perspective on the matter has been. Over the last twenty years, I have
+drifted between enthusiasm, loathing, and apathy for the hype surrounding both
+food and tech. Here in the heart of Empire, those scenes are never dull and
+their adherents never shy with their opinions. Now more than ever, though, I am
+becoming aware just how much my own subjectivity has been molded by political
+narratives and forces that far exceed this moment in both time and place.
+Between food and technology, after all is said and done, what aspects of our
+daily lives are left untouched?
+
+[^shadow-libs]: https://monoskop.org/Shadow_libraries
 
 ## The Gathering for Open Agricultural Technology
 A little over a year ago, I sat with a dozen or so engineers, agronomists,

@@ -22,6 +22,17 @@ restrict or enable the codes of software, but that the later can also be used to
 supplant, obscure or evade the former. As he more succinctly put it: "Code _is_
 law."
 
+To say nothing of the truly abhorrent sovereign citizen movement, a
+loose group of white supremacists fronting as tax protestors. While I don't
+know of any direct connections to either food or tech movements, the
+regrettably similar name has prompted some food sovereignty activists to
+question whether "autonomy" might be a better option.[^sovcit]
+
+[^sovcit]: I was going to include this as a footnote to the introduction, where
+    I distinguish food and data sovereignty from more libertarian trends in
+    agriculture and technology, but I think it would be better to address
+    somewhere else.
+
 
 ## Encuentro
 From Monty Neill's "Encounters in Chiapas" in Midnight Notes #13, _Auroras of the Zapatistas_ (2001):

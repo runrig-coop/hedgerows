@@ -7,14 +7,14 @@ subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 
 # Hedgerows in the Sky
 When I tell people I make open source software for farmers, I'll occasionally
-hear some variation on this reply: "Why do farmers care whether their software
-is open source?" The reaction may differ in tone from the genuinely curious to
-slightly facetious or outright incredulous. "You don't actually expect farmers
-to read the source code or build the binaries themselves, do you?" I might have
-to concede on that last point, but it seems to me that this category of response
-betrays the same faulty premise in most cases. It assumes that farming and
-technology represent opposing world views, that their concerns are perfectly
-orthogonal to one another or distantly related at best.
+hear some variation of the reply, "Why do farmers care whether their software is
+open source?" The precise response may differ in tone from the genuinely curious
+to slightly facetious or outright incredulous. "You don't actually expect
+farmers to read the source code or build the binaries themselves, do you?" I
+might have to concede on that last point, but it seems to me that this category
+of response betrays the same faulty premise in most cases. It assumes that
+farming and technology represent opposing world views, that their concerns are
+perfectly orthogonal to one another or distantly related at best.
 
 In the last couple years I haven't heard this response as often as I used to. I
 partly attribute this to the rise in the U.S. of the food sovereignty movement
@@ -57,38 +57,44 @@ and 2010s. Data sovereignty, also known as information or technological
 sovereignty, is a comparatively new trend I have seen emerging from older free
 and open source software (FOSS) communities and the free culture movement.
 
-It could be argued that all of these earlier movements reached their peak
+It could be argued that each of these earlier movements reached their apex
 sometime in the two decades straddling the turn of the millennium. Yet the
-correspondences that exist today between the food and data sovereignty weren't
-nearly as apparent back then. While notions of collective autonomy can be
-insinuated from the movements of that era, it wasn't their primary concern, nor
-was it commonly associated with the political milieu either inhabited. Lacking
-this shared principle, there was very little dialogue or collaboration between
-the two camps. The small farming and local food movements of that era fixated on
-what was near-at-hand, low-tech, organic, provincial and professedly slow.
+affinities that are visible today between food and data sovereignty weren't
+nearly as apparent in their antecedents back then. While notions of collective
+autonomy can be insinuated from the earlier movements, it wasn't their primary
+concern, nor was it commonly associated with the political milieu that either of
+them inhabited. The small farming and local food movements of that era fixated
+on what was near-at-hand, low-tech, organic, provincial and professedly slow.
 Meanwhile, the free-culture and open source movements set their gaze on global
-streams of non-rivalrous information, liberated by their abstractness and
-cutting-edge technology to travel across all borders, effortlessly and
-instantaneously.
+streams of non-rivalrous information liberated by cutting-edge technology. By
+virtue of their abstractness alone, these bits of data and code were free to
+move across borders without restriction, effortlessly and instantaneously. With
+so little in common, there was rarely any dialogue or collaboration between the
+two camps.
 
-Strangely enough, the metaphor of the commons was only adopted by the
+Strangely enough, the metaphor of "the commons" was only adopted by the
 technologists of this era, despite it being a term for a type of communal land
 tenure practiced by peasant farmers. This is the apparent contradiction that
 originally got me thinking more critically about the relationship between
-farming and technology. It only gets more puzzling the more you dig into it.
+farming and technology. And it only gets more puzzling the more you dig into it.
 
 I've clocked far too many hours digging through the relics of early internet
-subculture and hunting down pay-walled citations on Sci-Hub,[^shadow-libs] but I
-can't pretend to have anything like an objective knowledge of these issues. In
-fact, the more I learn the more I realize just how narrow — maybe even distorted
-— my own perspective on the matter has been. Over the last twenty years, I have
-drifted between enthusiasm, loathing, and apathy for the hype surrounding both
-food and tech. Here in the heart of Empire, those scenes are never dull and
-their adherents never shy with their opinions. Now more than ever, though, I am
-becoming aware just how much my own subjectivity has been molded by political
-narratives and forces that far exceed this moment in both time and place.
-Between food and technology, after all is said and done, what aspects of our
-daily lives are left untouched?
+subculture and hunting down pay-walled citations on Sci-Hub.[^shadow-libs] I've
+finally resigned to the fact that I'm never going to reach any definitive
+conclusions, perhaps not even a satisfactory understanding of all this. The more
+I learn, the more I realize just how my own perspective on these issues has been
+narrowed — possibly even distorted — by circumstances of time and place. Over
+the last twenty years, I have alternated between enthusiasm, loathing, and
+apathy for the cultures that surrounds both food and tech. Here on America's
+Eastern Seaboard, at the Heart of Empire, the food and tech scenes are never
+dull; neither their adherents nor their detractors are shy with their opinions;
+I've certainly clung to a few of my own for too long. But I'm becoming
+increasingly aware how my very _subjectivity_ has been molded by political
+narratives that far exceed this moment in both time and place. The conceptual
+linkages joining food, technology, land, and knowledge run far deeper into
+history, before human beings even learned to farm. Food, technology, land, and
+knowledge: they are the prime constituents of culture, are they not? Does a day
+or even an hour go by when we don't feel their effects?
 
 [^shadow-libs]: https://monoskop.org/Shadow_libraries
 

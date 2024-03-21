@@ -404,13 +404,23 @@ US Copyright Term Extension Act (aka, the Sonny Bono Act) and Digital Millennium
 Copyright Act (DMCA), both enacted in 1998. These drew immediate outcry from a
 clique of law professors at Duke and Harvard Universities, who specialized in
 intellectual property. The outcry became more public and vociferous when the
-DMCA was used first to pull the plug on Napster in 2001, followed by its many
-file-sharing successors in a decade-long game of whack-a-mole with the RIAA and
-MPAA. This was the heyday of the Free Culture Movement. Its unofficial motto,
+DMCA was used first to pull the plug on Napster in 2001. The furor rose further
+as Napster's file-sharing successors fell one by one in a decade-long game of
+whack-a-mole with the RIAA and MPAA, the deep-pocketed trade associations and
+main litigants for the major music labels and film studios, respectively. This
+was the heyday of the Free Culture Movement.[^DMCA] Its unofficial motto,
 "Information wants to be free," resonated with anyone who got a cease-and-desist
 letter from their Internet provider (myself included) or who merely saw the
 futility of police raids on sites like The Pirate Bay, when they'd just be back
-up and running within a day or two.
+up and running within a day or two.[^tpb]
+
+[^DMCA]: For a thorough telling of these legal battles, see the sections "The
+    Digital Millennium Copyright Act of 1998" and "The Battle over Peer-to-Peer
+    Networks" in Chapter 11 of Yochai Benkler's _The Wealth of Networks_, pp.
+    413-29.
+[^tpb]: Bowman, John (9 June 2006), ["The Pirate
+    Bay"](https://web.archive.org/web/20130910162506/http://www.cbc.ca/news/background/tech/piratebay.html),
+    _Canadian Broadcasting Corporation_.
 
 Among the Free Culture Movement's coterie of legal scholars, Lawrence Lessig and
 Yochai Benkler were arguably its most visible champions, both hailing from
@@ -426,14 +436,18 @@ more technologically savvy, but not exclusively. On the other hand, it does not
 seem that enclosure enjoyed any wider awareness during that period, at least not
 commensurate with the commons. Speaking for myself, I remained oblivious to the
 term until I learned it from Linebaugh in 2015. That was a decade after Lessig
-cofounded Creative Commons and Benkler had popularized the notion of
+co-founded Creative Commons and Benkler had popularized the notion of
 "commons-based peer production." For his part, Benkler put both the commons and
 enclosure front and center in his earliest essays on the topic, such as "The
 Commons As A Neglected Factor of Information Policy" and "Free as the Air to
 Common Use: First Amendment Constraints on Enclosure of the Public Domain," from
 1998 and 1999, respectively. I haven't found anything more than passing
 references to enclosure in Lessig's works. Regardless, it didn't seem to make as
-many inroads with technologists the way the commons had.
+many inroads with technologists the way the commons had.[^less-benk]
+
+[^less-benk]: See the Benkler's ["Publications"](https://benkler.org/Pub.html)
+    and Lessig's ["Published Writing"](https://benkler.org/Pub.html) for full
+    bibliographies and links to their open access articles and books.
 
 There were other figures, however, who I don't personally recall from the Free
 Culture Movement's highpoint of popularity, and who didn't receive as much
@@ -449,7 +463,7 @@ commons, _Shamans, Software, and Spleens_, but it was a later title that jumped
 out to me from all the rest: "The Second Enclosure Movement and the Construction
 of the Public Domain." The paper began with the epigraph:
 
-> The law locks up the man or woman [...]
+> The law locks up the man or woman [...][^goose]
 
 Now the pieces were starting to fall into place. I tracked the discourse of
 enclosure through Boyle's footnotes, where he acknowledges that "the analogy to
@@ -467,14 +481,25 @@ an IP lawyer but rather a co-founder of the Public Knowledge and Commons
 Strategies Group. He continues that work at the Schumacher Center for New
 Economics where today he directs their Reinventing the Commons Program. In these
 roles, he has advanced a much broader vision for the commons, not just for
-information but for the commons in all its forms. Accompanying this, he has
-articulated a thorough critique of enclosure, in all its manifestations. A
-slightly different version of "stealing the commons from off the goose" shows up
-as the epigraph to Bollier's _Silent Theft: The Private Plunder of Our Common
+information but for the commons in all its forms.[^boll-bio] Accompanying this,
+he has articulated a thorough critique of enclosure, in all its manifestations.
+A slightly different version of "stealing the commons from off the goose" shows
+up as the epigraph to Bollier's _Silent Theft: The Private Plunder of Our Common
 Wealth_ in 2002, the same year Boyle published an early draft of his own essay
 featuring the poem. As it turns out, Peter Linebaugh also found it "too
 succulent to resist" and recycled it once more in the introduction to his 2014
-book _Stop, Thief!_.
+book _Stop, Thief!_[^boll-goose].
+
+[^boll-bio]: [Professional bio of David
+    Bollier](https://centerforneweconomics.org/people/david-bollier/),
+    Reinventing the Commons Program Director at the Schumacher Center for New
+    Economics.
+[^boll-goose]: David Bollier, [_Silent Theft: The Private Plunder of Our Common
+    Wealth_](https://web.archive.org/web/20120226001742/http://www.silenttheft.com/intro.htm)
+    (New York: Routledge, 2002), 14. David Bollier, ["Reclaiming the
+    Commons"](https://www.bostonreview.net/forum/david-bollier-reclaiming-commons/)
+    _Boston Review_, 2002 Jun 01. Peter Linebaugh, _Stop, Thief! The Commons,
+    Enclosures, and Resistance_ (Oakland, California: PM Press, 2014), 12.
 
 Apart from being the object in this game of epigraphic hot potato, it's not
 surprising that the poem rose to the surface as a shared metaphor in such an
@@ -511,7 +536,9 @@ of the commons, the adversarial role of markets is conveniently ignored:
 > (toxic waste, species extinction, safety hazards), the narrative of the
 > commons regards as an assault on the community. Marketeers presume an
 > entitlement to privatize clean air and water, public spaces, and even shared
-> images and words.
+> images and words.[^boll-market-enc]
+
+[^boll-market-enc]: Bollier, _Silent Theft_ 49.
 
 I would go even further to say that this subtle omission of enclosure — and with
 it the more tangible aspects of the commons — erases the acts of violence and
@@ -526,7 +553,16 @@ truly insightful table that breaks down different forms of enclosure in terms of
 its physical, logical, and content layers, explicitly borrowing from the OSI
 Model for computer networks. And it was Lessig's arguments for the end-to-end
 architecture of the Internet, in both physical and logical terms, which first
-led me to Boyle's essay on enclosure.
+led me to Boyle's essay on enclosure.[^osi-model]
+
+[^osi-model]: Yochai Benkler, ["Table 11.1: Overview of the Institutional
+    Ecology"](https://web.archive.org/web/20110525071000/http://www.jus.uio.no/sisu/the_wealth_of_networks.yochai_benkler/11.html#696)
+    and [Chapter 11, n.
+    4](https://web.archive.org/web/20110525071000/http://www.jus.uio.no/sisu/the_wealth_of_networks.yochai_benkler/11.html#_157),
+    _The Wealth of Networks_, 2006, pp. 395, 488. Lawrence Lessig, ["The
+    Architecture of
+    Innovation"](https://scholarship.law.duke.edu/dlj/vol51/iss6/2/), _Duke Law
+    Journal_, Vol. 51:1783, 2002.
 
 ## Free as the Air to Common Use
 Nevertheless, today's advocates for free culture and open source software are

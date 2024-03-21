@@ -96,9 +96,9 @@ history, before human beings even learned to farm. Food, technology, land, and
 knowledge: they are the prime constituents of culture, are they not? Does a day
 or even an hour go by when we don't feel their effects?
 
-[^shadow-libs]: Sci-Hub, along with Anna's Archive and Library Genesis, is one
-    of the most prominent [shadow libraries] around today.
-[shadow libraries]: https://monoskop.org/Shadow_libraries
+[^shadow-libs]: Sci-Hub, Anna's Archive, and Library Genesis, are among the most
+    prominent [shadow libraries](https://monoskop.org/Shadow_libraries) around
+    today.
 
 ## The Gathering for Open Agricultural Technology
 A little over a year ago, I sat with a dozen or so engineers, agronomists,
@@ -174,14 +174,32 @@ over the last three days, finally snapping them into place. I struggled to
 articulate it, so I asked to read aloud some antiquated English folk poetry,
 which I'd been mulling over earlier in the week.
 
-[^Genna]: Fudin, Genna. ["Genna Fudin, OpenTEAM Fellow, Shares Reflections Thus
-    Far"](https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/),
-    OpenTEAM blog, 2023 Feb 23.
-
 > The law locks up the man or woman  
 > Who steals the goose from off the common  
 > But leaves the greater villain loose  
-> Who steals the common from off the goose.  
+> Who steals the common from off the goose.[^goose]  
+
+[^Genna]: Fudin, Genna. ["Genna Fudin, OpenTEAM Fellow, Shares Reflections Thus
+    Far"](https://openteam.community/genna-fudin-openteam-fellow-shares-reflections-thus-far/),
+    OpenTEAM blog, 2023 Feb 23.
+[^goose]: I'll borrow straight from James Boyle here that "Apart from being
+    anonymous, the poem is extremely hard to date." Boyle gives the most
+    thorough account of its provenance that I have yet found. He concludes in
+    the first footnote to ["The Second Enclosure
+    Movement"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
+
+    > The context makes it appear that the poem itself must date from the late
+    > 18th century. In other sources, the poem is sometimes dated at 1764 and
+    > said to be in response to Sir Charles Pratt’s fencing of common land. 
+    
+    For the last claim he points to a rather obscure ["poster paper" on land
+    surveying](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html#Note15)
+    by independent researcher Dana A. Freiburger, who in turn cites T.H. Worth's
+    _The Anstey Enclosures: a study of Anstey based on a close scrutiny of the
+    1761 Acts of Enclosure, and a lifetime spent in walking over the fields of
+    Anstey_, self-published in 1978. Boyle cites a few other sources, but I
+    myself have had no success tracking them down any further than the
+    Freiburger paper.
 
 I'd first heard these anonymous lines in an interview with historian Peter
 Linebaugh, commemorating the 800th anniversary of _Magna Carta_.[^flanders] He
@@ -362,28 +380,9 @@ call-to-arms in their final stanza:
 > The law locks up the man or woman  
 > Who steals the goose from off the common  
 > And geese will still a common lack  
-> Till they go and steal it back.[^goose]  
+> Till they go and steal it back.  
 
 If we were to heed their call, how would we begin leveling today's hedgerows?
-
-[^goose]: I'll borrow straight from James Boyle here that "Apart from being
-    anonymous, the poem is extremely hard to date." Boyle gives the most
-    thorough account of its provenance that I have yet found. He concludes in
-    the first footnote to ["The Second Enclosure
-    Movement"](https://scholarship.law.duke.edu/lcp/vol66/iss1/2/):
-
-    > The context makes it appear that the poem itself must date from the late
-    > 18th century. In other sources, the poem is sometimes dated at 1764 and
-    > said to be in response to Sir Charles Pratt’s fencing of common land. 
-    
-    For the last claim he points to a rather obscure ["poster paper" on land
-    surveying](https://web.archive.org/web/20060718033403/https://www3.nd.edu/~histast4/exhibits/papers/Freiburger/index.html#Note15)
-    by independent researcher Dana A. Freiburger, who in turn cites T.H. Worth's
-    _The Anstey Enclosures: a study of Anstey based on a close scrutiny of the
-    1761 Acts of Enclosure, and a lifetime spent in walking over the fields of
-    Anstey_, self-published in 1978. Boyle cites a few other sources, but I
-    myself have had no success tracking them down any further than the
-    Freiburger paper.
 
 ## From Rhinebeck to Durham
 I was a bit surprised to realize my ignorance of the parallels between modern

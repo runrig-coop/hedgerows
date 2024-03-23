@@ -308,18 +308,18 @@ according to one interpretation, can be attributed to the mechanism James
 Muldoon calls _data commodity fetishism_, defining it as "the perception of
 certain digital relationships between people [...] as having their value based
 not on the social relationships themselves but on the data they
-produce."[^muldoon] But it goes further than that. Digital enclosures certainly
-alienate us from our social relations, but that is just one aspect of the larger
-process of our alienation from the natural world as a whole.[^social-ecology]
-This extension of data commodification, as applied to nature, could not be more
-relevant to agriculture and technology. It gets to the heart of what I think
-Genna meant when she suggested farming technology should not restrict "access to
-nature."
+produce."[^data-commodity-fetishism] But it goes further than that. Digital
+enclosures certainly alienate us from our social relations, but that is just one
+aspect of the larger process of our alienation from the natural world as a
+whole.[^social-ecology] This extension of data commodification, as applied to
+nature, could not be more relevant to agriculture and technology. It gets to the
+heart of what I think Genna meant when she suggested farming technology should
+not restrict "access to nature."
 
-[^muldoon]: _Platform Socialism_ (Pluto Press, 2022), p. 18. Muldoon explicitly
-    refers to the Marxian concept of commodity fetishism, and I am also drawing
-    heavily on Marx's theory on the alienation (or estrangement) of labor. The
-    ["Economic & Philosophic Manuscripts of
+[^data-commodity-fetishism]: _Platform Socialism_ (Pluto Press, 2022), p. 18.
+    Muldoon explicitly refers to the Marxian concept of commodity fetishism, and
+    I am also drawing heavily on Marx's theory on the alienation (or
+    estrangement) of labor. The ["Economic & Philosophic Manuscripts of
     1844"](https://www.marxists.org/archive/marx/works/1844/epm/index.htm) are
     especially ripe for application to today's forms of digital enclosure, and I
     hope to provide a more thorough exploration of those themes in a subsequent
@@ -572,15 +572,21 @@ Justice Louis Brandeis:
 
 > The general rule of law is, that the noblest of human productions — knowledge,
 > truths ascertained, conceptions, and ideas — become, after voluntary
-> communication to others, free as the air to common use
+> communication to others, free as the air to common use.[^brandeis]
 
-It forms the titular reference in a seminal paper from Benkler, "Free as the Air
-to Common Use: First Amendment Constraints on Enclosure of the Public Domain,"
-which is further cited by Boyle's "The Second Enclosure Movement" and elsewhere.
+It forms the titular reference in a seminal paper from Benkler,[^free-as-air]
+which is in turn cited by Boyle's "The Second Enclosure Movement" and elsewhere.
 Again, I don't mean to imply that it was their intent to privilege more
 substantial forms of property over the airy ones like information and molecular
 oxygen. But that's clearly the attitude that open source advocates took away
 from these statements.
+
+[^brandeis]: Int’l News Serv. v. Associated Press, 248 U.S. 215, 250 (1918)
+    (Brandeis, J., dissenting).
+[^free-as-air]: Yochai Benkler, ["Free as the Air to Common Use: First Amendment
+    Constraints on Enclosure of the Public
+    Domain"](https://benklero.ipower.com/Free%20as%20the%20Air.pdf), 74 N.Y.U.
+    Law Review 354 (1999).
 
 The hardware and infrastructure required to store, process and move information
 around are treated as mere accidents or technical details. If they're considered
@@ -637,7 +643,10 @@ virtualization, as Turner warns:
 > remains extraordinarily dangerous, first to those who handle the toxic
 > chemicals required in manufacture and later to those who live on the land,
 > drink the water, and breathe the air into which those chemicals eventually
-> leak.
+> leak.[^turner]
+
+[^turner]: Fred Turner, _From Counterculture to Cyberculture_, (Chicago and
+    London: _The University of Chicago Press_, 2010), 260.
 
 The cost of disregarding information's earthly trappings is further borne out
 today by the way private streaming platforms have nonetheless managed to enclose
@@ -684,7 +693,7 @@ accelerate, as the effects were already apparent in their cities and villages.
 Among the agreements was a treaty obligation to uphold IP rights granted by
 other signatory nations. This was of particular concern to Shiva because
 chemical companies were seeking patents that would privatize the genotypes of
-plants that Indian farmers had previously bred and cultivated.
+plants that Indian farmers had previously bred and cultivated.[^seattle]
 
 The threat was first revealed in the case of neem, a plant endemic to Southeast
 Asia. The neem seed produces an oil that can be used as a natural and highly
@@ -722,7 +731,7 @@ free trade, free enterprise, and free markets:
 > The colonizer's freedom was built on the slavery and subjugation of the people
 > with original rights to the land. This violent takeover was rendered "natural"
 > by defining the colonized people as nature, thus denying them their humanity
-> and freedom.
+> and freedom.[^columbus]
 
 I draw attention to this episode and Shiva's analysis for several reasons. It's
 an early instance of the enclosure metaphor being applied to IP rights; that
@@ -735,7 +744,11 @@ much is clear:
 > into private property. Intellectual property rights on life-forms are supposed
 > to reward and stimulate creativity. Their impact is actually the opposite — to
 > stifle the creativity intrinsic to life-forms and the social production of
-> knowledge.
+> knowledge.[^creativity]
+
+[^columbus]: Vandana Shiva, _Biopiracy: the Plunder of Nature and
+    Knowledge_ (Boston, MA: South End Press, 1997), 2-3.
+[^creativity]: Ibid., 7.
 
 The fact that this enclosure lies at the intersection of agriculture and
 technology, settler colonialism and IP rights should also banish any residual
@@ -800,7 +813,7 @@ of life itself:
 > the tools of genetic engineering as the yardstick of "improvement." Defining
 > Christianity as the only religion, and all other beliefs and cosmologies as
 > primitive, finds its parallel in defining commercialized Western science as
-> the only science, and all other knowledge as primitive.
+> the only science, and all other knowledge as primitive.[^terra-nullius]
 
 Compare this with James Muldoon, writing in 2022, starting from the very next
 line I cited above where he defines his concept of "data commodity fetishism:"
@@ -809,7 +822,7 @@ line I cited above where he defines his concept of "data commodity fetishism:"
 > its value in the human activity required to produce it. [...] Data is often
 > thought of as an unclaimed good ‘out there’ in a digital _terra nullius_ – an
 > empty space in which tech entrepreneurs can assert their rights over this
-> seemingly free resource.
+> seemingly free resource.[^data-nullius]
 
 Shiva's and Muldoon's observations are divided by a quarter century of
 technological development, including the advent of "Big Data" and
@@ -827,7 +840,11 @@ these as clear instances of enclosure. Muldoon again:
 > capturing this resource from a digital commons. At the time of the digital
 > enclosure, the loss of public goods that would occur was not immediately
 > obvious. But as these networks have grown within a privatised system of
-> commodification, the extent of the theft is becoming more apparent.
+> commodification, the extent of the theft is becoming more apparent.[^dig-enc]
+
+[^vita-nullius]: Ibid., 4.
+[^data-nullius]: Muldoon, _Platform Socialism_, 18.
+[^dig-enc]: Ibid.
 
 What brings these two perspectives into alignment is a willingness to critique
 the neoliberal assumptions underlying these two forms of capital accumulation.
@@ -862,19 +879,25 @@ communities. La Via Campesina was also there in force, demanding equitable land
 distribution, fairer wages, and safe working conditions. They were joined by
 other groups from the Global South, like the Food and Allied Workers Union of
 South Africa, and a few from the American South, like the Black Farmers and
-Agriculturalists Association. These last three groups were far more concerned
-with issues of social justice, rather than the previous groups' interests in
-consumer protections and agrarianism. Nevertheless, they presented a united
-front against the powers of global capital and trade. Shiva herself was uniquely
-poised to represent a broad spectrum of those interests, as she did the night
-after the first day of protests in a packed Seattle Town Hall. She sat
+Agriculturalists Association.[^wto-history] These last three groups were far
+more concerned with issues of social justice, rather than the previous groups'
+interests in consumer protections and agrarianism. Nevertheless, they presented
+a united front against the powers of global capital and trade. Shiva herself was
+uniquely poised to represent a broad spectrum of those interests, as she did the
+night after the first day of protests in a packed Seattle Town Hall. She sat
 shoulder-to-shoulder with Ralph Nader as they debated against David Aaron, then
 White House Under-Secretary of Commerce, and Scott Miller, Director of Global
 Policy for Procter and Gamble. The event reached a national audience by means of
 a live broadcast on C-SPAN, re-aired periodically over the following days. This
 is where many organic food advocates in the U.S. were first introduced to
 Shiva's work, as she fired a cascade of withering rebukes at these grandees of
-government and industry, all to thunderous applause.
+government and industry, all to thunderous applause.[^c-span]
+
+[^wto-history]: The WTO History Project, ["Organizations Opposed to the
+    WTO"](https://depts.washington.edu/wtohist/orgs.htm)
+[^c-span]: C-SPAN's video recording and transcript of the [30 Nov 1999 debate at
+    Seattle Town Hall](https://c-span.org/video/?153921-1/globalization-world-trade-organization),
+    moderated by Paul Magnusson, correspondent for _Business Week_.
 
 ## Open Source Meets Open Publishing
 The 1999 Seattle WTO Protests also stand as a critical inflection point where
@@ -883,9 +906,9 @@ momentarily fused into a single, coherent political force that acted decidedly
 against further enclosure of the global commons. While Shiva and Nader were
 setting up at Seattle Town Hall, a group of independent journalists, media
 activists, hackers, and free speech advocates were setting up shop as the
-Independent Media Center (IMC) in a donated storefront at 1415 3rd Avenue. On
-the web, they made their home at indymedia.org. While news coverage coming from
-major U.S. newsrooms was either non-existent or heavily biased against the
+Independent Media Center (IMC) in a donated storefront at 1415 3rd Avenue.[^imc]
+On the web, they made their home at indymedia.org. While news coverage coming
+from major U.S. newsrooms was either non-existent or heavily biased against the
 protesters, the IMC was critical in disseminating reports of what was actually
 taking place. They shed light on the very real concerns shared by this diverse
 coalition of environmentalists, trade unionists, and civil liberty activists,
@@ -894,17 +917,30 @@ rioters and provocateurs portrayed in 5-second clips that aired on the nightly
 news. IMC had an unmatched vanage point. Tear gas seeped into their ground level
 offices during the most intense street battles, and at one point armoured police
 pounded on their door, demanding (without warrant) that IMC hand over the
-demonstrators who took refuge inside. As a result, indymedia.org received more
-web traffic than cnn.com at its peak, with 1.5 million unique visitors in its
-first week. The legacy of the IMC would live on in the influence it had on the
-digital media tactics of later movements, and the IMC itself would continue as
-an activist hub in Seattle for several years. Arguably its most lasting
-influence, however, was in the establishment of sister IMCs in cities and
-regions around the world. This was the birth of the Indymedia network, which at
-its peak in 2010 comprised as many as 175 centers. They shared some common open
-source publishing tools and many locales were provided with subdomains, such as
-barcelona.indymedia.org, but otherwise they were largely autonomous projects run
-by local activists in those regions.
+demonstrators who took refuge inside.[^showdown] As a result, indymedia.org
+received more web traffic than cnn.com at its peak, with 1.5 million unique
+visitors in its first week.[^dn!imc] The legacy of the IMC would live on in the
+influence it had on the digital media tactics of later movements, and the IMC
+itself would continue as an activist hub in Seattle for several years. Arguably
+its most lasting influence, however, was in the establishment of sister IMCs in
+cities and regions around the world. This was the birth of the Indymedia
+network, which at its peak in 2010 comprised as many as 175 centers.[^giraud]
+They shared some common open source publishing tools and many locales were
+provided with subdomains, such as barcelona.indymedia.org, but otherwise they
+were largely autonomous projects run by local activists in those regions.
+
+[^imc]: ["Independent Media Center (Seattle) Mission
+    Statement"](https://web.archive.org/all/20000816130236/http://seattle.indymedia.org/about.php3),
+    http://seattle.indymedia.org/about.php3 (archived 2000 Aug 16).
+[^showdown]: [_Showdown In Seattle_](https://vimeo.com/223772965), documentary
+    made in collaboration by Paper Tiger TV, Independent Media Center, Media
+    Island Int'l et al.
+[^dn!imc]: ["“Don’t Hate the Media, Be the Media”: Reflections on 20 Years of
+    Indymedia, a Radical Media
+    Movement"](https://www.democracynow.org/2019/11/27/indymedia_independent_media_seattle_wto_1999)
+[^giraud]: Eva Giraud, ["Has radical participatory online media really ‘failed’?
+    Indymedia and its legacies"](https://doi.org/10.1177/1354856514541352),
+    _Convergence_, 20(4), 419-437.
 
 Indymedia was not principally concerned with open source or free culture issues,
 but a few of the individual IMCs offered a glimpse of how the cross-pollination
@@ -921,8 +957,11 @@ Portland IMC reported at the time:
 A fork of IS4C is still actively maintained to this day as CORE-POS, stewarded
 by the Tech Support Cooperative.[^tech-support-co-op]
 
-[^is4c]: https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml
-[^tech-support-co-op]: https://github.com/CORE-POS/IS4C
+[^is4c]: _Portland Independent Media Center_, ["Co-ops making history! World's first
+    open-source POS system at People's Food
+    Co-op."](https://web.archive.org/web/20071218073332/http://portland.indymedia.org/en/2005/08/322550.shtml)
+[^tech-support-co-op]: Co-operative Operational Retail Environment, IS4C (source
+    code repository), https://github.com/CORE-POS/IS4C.
 
 ## From Davos to the Lacandon Jungle
 Apart from forging more diverse alliances, Indymedia also represents an
@@ -937,7 +976,7 @@ his techno-libertarian manifesto, _A Declaration of the Independence of
 Cyberspace_, a very different vision for cyberspace would emerge from far more
 revolutionary environs. This declaration would come straight from the balaclava-
 encircled mouth of Subcommandante Marcos, spokesperson for the Zapatista Army of
-National Liberation (EZLN).
+National Liberation (EZLN).[^glaser]
 
 The political climate — to say nothing of the literal climate — surrounding the
 authorship of these two manifestos could not have been more dissimilar. Barlow
@@ -972,7 +1011,7 @@ years prior to the Battle of Seattle. She continues:
 > concern. Indymedia activists would agree with the techno-libertarians that
 > politicians and police couldn’t be trusted in their networks. But they didn’t
 > see cyberspace as an open frontier of _individuals unhindered by governments_.
-> Rather, the activists saw cyberspace as a place for _communities_.[^Glaser]
+> Rather, the activists saw cyberspace as a place for _communities_.[^glaser]
 
 [^EZLN]: ["Closing Words of the EZLN at the Intercontinental Encounter- 2nd
     Declaration of La Realidad" (archived English
@@ -989,7 +1028,9 @@ years prior to the Battle of Seattle. She continues:
     would show up. It was the first such attempt to convene their supporters
     outside of Mexico, the majority of whom had just communicated online until
     then. The response exceeded most expectations.
-[^Glaser]: https://logicmag.io/bodies/another-network-is-possible/
+[^glaser]: April Glaser, ["Another Network is
+    Possible"](https://logicmag.io/bodies/another-network-is-possible/),
+    _Logic(s)_ (3 Aug 2019)
 
 Techno-libertarians, then and now, claim to be building political power from the
 ground up, but it's for the sole benefit of isolated individuals. The complete

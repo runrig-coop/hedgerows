@@ -7,42 +7,44 @@ subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 
 # Hedgerows in the Sky
 When I tell people I make open source software for farmers, I'll occasionally
-hear some variation of the reply, "Why do farmers care whether their software is
-open source?" The precise response may differ in tone from the genuinely curious
-to slightly facetious or outright incredulous. "You don't actually expect
-farmers to read the source code or build the binaries themselves, do you?" I
-might have to concede on that last point, but it seems to me that this category
-of response betrays the same faulty premise in most cases. It assumes that
-farming and technology represent opposing world views, that their concerns are
-perfectly orthogonal to one another or distantly related at best.
+hear some variation of the reply, "Why do farmers care whether their software
+is open source?" The precise response may differ in tone from the genuinely
+curious to slightly facetious or outright incredulous. "You don't actually
+expect farmers to read the source code or build the binaries themselves, do
+you?" I might have to concede on that last point, but it seems to me that this
+category of response betrays the same faulty premise in most cases. It assumes
+that farming and technology represent opposing world views, that their concerns
+are perfectly orthogonal to one another or distantly related at best.
 
-In the last couple years I haven't heard this response as often as I used to. I
-partly attribute this to the rise in the U.S. of the food sovereignty movement
-and the closely aligned data sovereignty movement. Apart from their shared
-naming conventions, they share a common belief that the resources we produce,
-consume, and depend upon each day — whether that's food, agricultural inputs,
-hardware, software, or data — should be controlled at the community level.
-Accordingly, the power to choose what foods and data are appropriate should be
-localized, decentralized, and more fairly distributed. Put another way, both
-movements are committed to stewarding the _commons_ — the commons for land,
-food, accessible tools, and knowledge.
+I haven't heard this response in the last couple years quite as often as I used
+to. In part I attribute this to the rise of the closely aligned food sovereignty
+and data sovereignty movements in North America. Apart from their shared naming
+conventions, these two sovereignty movements share a belief that the resources
+we produce, consume, and depend upon each day should be controlled at the
+community level. That goes equally for food, software, hardware, agricultural
+inputs, or data. When it comes to what kind of software or farming practices the
+community employs, or how much food or data is imported into the community — or
+likewise exported — those decisions ought to happen locally. The power to choose
+should be decentralized as much as possible, but also more fairly distributed.
+Put another way, both movements are committed to stewarding common resources but
+they don't put arbitrary restrictions on what resources that may comprise: the
+knowledge commons and common land are both _the commons_, one and the same.
 
 Unlike more libertarian ideologies, which abound within both agriculture and
-technology, food and data sovereignty do not imply that local control must
-necessarily devolve to the smallest possible unit of autonomy — in other words,
-to single, isolated individuals. Individual autonomy is an important component
-for food and data sovereignty, but these movements focus their efforts on
-achieving community control of resources, where social relations are grounded
-in trust and a shared sense of place. On this basis, clear parallels can be
-drawn between the two movements' practices. One can compare collectivized farm
-management to cooperative data trusts. Mutual aid food programs, such as free
+technology, food and data sovereignty do not insist that local control must
+devolve to the smallest possible unit of autonomy — that is, solitary
+individuals. Individual autonomy is an important component for food and data
+sovereignty, but these movements focus their efforts on achieving community
+control of resources, where social relations are grounded in trust and a shared
+sense of place. On this basis, clear parallels can be drawn between the two
+movements' practices. Compare collectivized farm management to cooperative data
+trusts, to take one example. Likewise, mutual aid food programs such as free
 fridges or group buying clubs, have their counterparts in the communal
 administration of servers for alternative social media networks like Mastodon.
-Efforts by small businesses to bring equity into their payment structures are
-reflected in the sliding scale pricing used by food coops or solidarity shares
-offered by some CSAs. In a similar fashion, software projects are commonly
-sponsored through Liberapay, OpenCollective, Ko-fi donate buttons or other "pay
-what you can" mechanisms.
+Some food co-ops and farm CSAs offer sliding scale prices or solidarity shares
+in an effort to introduce more equity into their payment structures. In a
+similar fashion, software projects are commonly sponsored through Liberapay,
+OpenCollective, Ko-fi donate buttons or other "pay what you can" mechanisms.
 
 Though the concepts have only recently achieved notoriety in the U.S., food and
 data sovereignty can trace their origins to several earlier movements that
@@ -111,7 +113,7 @@ to pursue a tangent idea before rejoining the larger group, while others hung in
 loose orbit between the scattered tables, occasionally leaning in to pick up the
 main thread of one conversation or another. Two days earlier we had all
 converged on the Omega Center in Rhinebeck, NY for the second ever large-scale
-Gathering for Open Agricultural Technology — GOAT 2022, for short.
+Gathering for Open Agricultural Technology, or GOAT 2022 for short.
 
 [^unconf]: In short, an
     [unconference](https://web.archive.org/web/20191208123152/http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
@@ -337,31 +339,37 @@ not restrict "access to nature."
     specifically can be found in Chapter 9 of the same, "Two Images of
     Technology."
 
-The enclosure of the commons in centuries past was achieved in part by acts of
-Parliament — in larger part by state-sanctioned violence — but its most visible
-manifestation lay in the hedgerows that hemmed in the former commons. Some of
-them even persist to this day, emblematic of the English countryside and the
-imagined idylls of yesteryear. In their own time, however, they were at once a
-symbol of class hierarchy and a physical line of defense, keeping the commoners
-off their erstwhile commons, thenceforth the exclusive property of a rising
-class of wool barons. Hedgerows represented the alienation of common people from
-their land, their social relations, and their traditional ways of farming and
-husbandry. I would argue that the most effective means of enclosing knowledge
-today — intellectual property, or IP, as it is often called — has been to
-consolidate it in vast data centers and server farms owned by just a few tech
-monopolies. Property rights can be legislated and service contracts agreed to,
-but their final implementation is only achieved in these physical constructs.
-Digital enclosure comprises all the silicon, cables, metal, and concrete of
-those facilities, just as much as the abstract services and data they carry.
-Only then can access be effectively commodified in the form of subscriptions or
-advertising fees. The IP owner retains maximum control, with the ability to
-revoke access or modify the terms of service at any time, often outpacing legal
-authority to do so. This practice goes by many names. The industry jargon is
-Software-as-a-Service, or SaaS, while it is marketed to lay users in more poetic
-terms: _the cloud_. Opponents of cloud computing and proprietary software have
-quipped that this is just a euphemism for "someone else's computer." I would
-propose that, trading one grandiose metaphor for another, we instead rebrand the
-cloud as the modern form of enclosure it truly is: _hedgerows in the sky_.
+The enclosure of the commons in centuries past was made legal by acts of
+Parliament, but it could not have been fully accomplished without physical
+deterrents. State-sanctioned violence, seldom spared, may have represented the
+bloodiest end of that spectrum, but its most visible and pervasive manifestation
+lay in the hedgerows that hemmed in the former commons. Many of those hedgerows
+even persist to this day, emblematic of the English countryside and the imagined
+idylls of yesteryear. In their own time, however, they were at once a symbol of
+class hierarchy and a physical line of defense. They formed a very real and
+necessary barrier, keeping the commoners off their erstwhile commons, thereafter
+the exclusive property of a rising class of wool barons. Hedgerows represented
+the alienation of common people from their land, from their social relations,
+and from their traditional ways of farming and husbandry. Intellectual property,
+or IP, is essentially a legal mechanism for enclosing knowledge today, analogous
+to the enclosure acts of the 18th century. Since the 1990s, these enclosures
+have rapidly extended their lawful reach through the corresponding expansion of
+copyright and patent protections. But the most effective means of enclosing
+knowledge in our time, I would argue, is to consolidate it in vast data centers
+and server farms owned by just a few tech monopolies. Property rights can be
+legislated and service contracts agreed to, but their final implementation is
+only achieved in these physical constructs. Digital enclosure comprises all the
+silicon, cables, metal, and concrete of those facilities, just as much as the
+abstract services and data they carry. Only then can access be effectively
+commodified in the form of subscriptions or advertising fees. The IP owner
+retains maximum control, with the ability to revoke access or modify the terms
+of service at any time, often outpacing legal authority to do so. This practice
+goes by many names. The industry jargon is Software-as-a-Service, or SaaS, while
+it is marketed to lay users in more poetic terms: _the cloud_. Opponents of
+cloud computing and proprietary software have quipped that this is just a
+euphemism for "someone else's computer." I propose that — trading one grandiose
+metaphor for another — we instead rebrand the cloud as the modern form of
+enclosure it truly is: _hedgerows in the sky_.
 
 The hedgerows that enclosed the English commons of the 16th through 18th
 centuries did not go unopposed but were actively resisted over many generations.
@@ -539,12 +547,11 @@ of the commons, the adversarial role of markets is conveniently ignored:
 
 [^boll-market-enc]: Bollier, _Silent Theft_ 49.
 
-I would go even further to say that this subtle omission of enclosure — and with
-it the more tangible aspects of the commons — erases the acts of violence and
-the sheer _physical force_ that was required to enclose the commons. Skipping
-over that transgenerational struggle not only does an injustice to those who
-fought and died for the commons, but also limits our imaginations for what is
-possible in our own time.
+I would go even further to say that this subtle omission obscures the tangible
+character of the commons and, with it, the acts of violence and sheer _physical
+force_ that is required to enclose it. Skipping over that transgenerational
+struggle not only does an injustice to those who fought and died for the
+commons, but also limits our imaginations for what is possible in our own time.
 
 I want to be clear that neither Benkler nor Lessig were arguing that these
 physical aspects did not matter. In _The Wealth of Networks_, Benkler provides a
@@ -978,21 +985,21 @@ revolutionary environs. This declaration would come straight from the balaclava-
 encircled mouth of Subcommandante Marcos, spokesperson for the Zapatista Army of
 National Liberation (EZLN).[^glaser]
 
-The political climate — to say nothing of the literal climate — surrounding the
-authorship of these two manifestos could not have been more dissimilar. Barlow
-signed his declaration from Davos in the Swiss Alps on February 8, 1996, having
-ostensibly found inspiration in the World Economic Forum, which he attended two
-days before. Delivered a few months later on August 3, 1996, the _Second
-Declaration of La Realidad_ was Marcos' valediction to the delegates from over
-40 countries, plus anywhere from 3 to 5 thousand other activists, journalists,
-and intellectuals, who all journeyed to Chiapas, Mexico for the _First
+The political climate — to say nothing of the literal climate — that surrounded
+these two manifestos could not have been more dissimilar. Barlow signed his
+declaration from Davos in the Swiss Alps on February 8, 1996, having ostensibly
+found inspiration in the World Economic Forum, which he attended two days
+before. Delivered a few months later on August 3, 1996, the _Second Declaration
+of La Realidad_ was Marcos' valediction to the delegates from over 40 countries,
+plus anywhere from 3 to 5 thousand other activists, journalists, and
+intellectuals, who all journeyed to Chiapas, Mexico for the _First
 Intercontinental Gathering for Humanity and Against Neoliberalism_. This 5-day
 gathering or _encuentro_, as it was originally termed in Spanish, was held deep
 in the Lacandon Jungle near the Guatemalan border. Many of the sessions took
 place in open-air clearings, tents, and lean-tos. There would be another
 intercontinental _encuentro_ the following year in Spain, plus a few smaller,
 _intra_-continental gatherings across Europe and North America. Eventually,
-these _encuentros_ would partially inspire the World Social Forum, named in
+these _encuentros_ would partly inspire the World Social Forum, named in
 conscious opposition to the World Economic Forum in Davos. The first WSF was
 held in Brazil in 2001, attended by many of the same participants from the first
 _encuentro_ in 1996 and borrowing many of its methods.

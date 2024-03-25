@@ -33,6 +33,351 @@ question whether "autonomy" might be a better option.[^sovcit]
     agriculture and technology, but I think it would be better to address
     somewhere else.
 
+## Definitions of Data Sovereignty
+The European Commission's Joint Research Center defines data sovereignty as:
+
+> Data sovereignty involves enhancing control by organisations and individuals
+> over data that they contribute to generating. It implies participation in data
+> governance and allows individuals and organisations to self-determine how,
+> when and at what price others may use their data across the value chain. It
+> means that data holders can safeguard user data, and ensure that it is used
+> only in accordance with strictly defined rules.[^eujrc]
+
+[^eujrc]: European Commision, Joint Research Center, ["European Data Spaces -
+    Scientific Insights into Data Sharing and Utilisation at Scale"](https://publications.jrc.ec.europa.eu/repository/handle/JRC129900),
+    25.
+
+The Global Indigenous Data Alliance stewards the CARE Principles[^care] and has
+[a ton of resources](https://www.gida-global.org/resources) that covers most of
+the early literature on the subject of Indigenous Data Sovereignty. They provide
+their own definition:
+
+> While the term Indigenous Data Sovereignty is relatively new, Indigenous
+> Peoples have always been data collectors and knowledge holders. The rise of
+> national Indigenous Data Sovereignty networks reflects a growing global
+> concern about the need to protect against the misuse of Indigenous data and to
+> ensure Indigenous Peoples are the primary beneficiaries of their data. GIDA
+> connects these national communities to advocate for shared rights and
+> interests in data.
+
+They then cite the following paper from Lovett, et al.:
+
+> Indigenous groups across the world have increasingly become engaged in the
+> data space in response to historical practice and to guide good practice going
+> forward. This has included the establishment of country specific networks
+> including the US Indigenous Data Sovereignty Network (USIDSN) to support IDS
+> through data-driven research, policy advocacy, and education. The Aotearoa New
+> Zealand-based Te Mana Raraunga - Maori Data Sovereignty Network, was formed in
+> 2015, and argues that data that are collected about Indigenous people should
+> be subjected to the laws of the nation from which it is collected, including
+> tribal nations. The First Nations Information Governance Centre advocates for
+> and coordinates Indigenous data governance efforts for First Nations in
+> Canada; the Maiam nayri Wingara Aboriginal and Torres Strait Islander Data
+> Sovereignty Collective in Australia was formed in early 2017 to develop
+> Aboriginal and Torres Strait Islander data sovereignty principles andto
+> identify Aboriginal and Torres Strait Islander strategic data assets (Lovett
+> et al. 2019).[^lovett-et-al]
+
+[^gida]: Global Indigenous Data Alliance, ["History of Indigenous Data
+    Sovereignty"](https://www.gida-global.org/history-of-indigenous-data-sovereignty).
+[^lovett-et-al]: Lovett, R., Lee, V., Kukutai, T,. Cormack, D., Carroll-Rainie,
+    S,. & Walker, J. (2019). Good Data Practices for Indigenous Data Sovereignty
+    and Governance. In Good Data, Daly, A., Devitt, SK,. & Mann, M (eds),
+    Institute of Network Cultures, Amsterdam.
+[^care]: Carroll, S, Garba, I, Figueroa-Rodríguez, O, Holbrook, J, Lovett, R,
+    Materechera, S, Parsons, M, Raseroka, K, Rodriguez-Lonebear, D, Rowe, R,
+    Sara, R, Walker, J, Anderson, J and Hudson, M. 2020. The CARE Principles for
+    Indigenous Data Governance. Data Science Journal, 19: XX, pp. 1–12. DOI:
+    https://doi.org/10.5334/dsj-2020-043
+
+[Stephanie Russo Carroll](https://ifkn.org/members/stephanie-russo-carroll)
+(a.k.a. [Stephanie Carroll Rainie](https://www.rd-alliance.org/about/organization/key-profiles/stephanie-russo-carroll-rainie),
+a.k.a. [Ahtna Athabascan](https://cdsds.arizona.edu/person/stephanie-carroll-rainie))
+is a key figure in the development of the CARE principles (hence she's the
+principal researcher cited in the paper) and was also instrumental in bringing
+the concept of data sovereignty into wider usage in North America. Carroll et
+al.[^carroll-et-al] gives a brief appraisal of the origins of Indigenous Data
+Sovereignty and its relationship to national sovereignty:
+
+> In mainstream usage, “data sovereignty is the concept that information which
+> has been converted and stored in binary digital form is subject to the laws of
+> the country in which it is located” (Rouse 2013)[^rouse]. This definition
+> focuses on geographic jurisdiction over digitized data. A nation-state’s laws
+> control the digital data that is housed within its geographic boundaries.
+> Indigenous data sovereignty extends beyond this mainstream definition. It is
+> not limited by geographic jurisdiction or digital form.
+> 
+> “Indigenous data sovereignty is the right of Indigenous peoples and tribes to
+> govern the collection, ownership, and application of their own data” (Rainie
+> et al. 2017b). Further, it refers to all data gathered by the Native nation
+> themselves or by other external data agents. “Indigenous data sovereignty
+> (IDS) derives from the inherent right of Native nations to govern their
+> peoples, lands, and resources” (NCAI 2018, p. 1). 
+
+[^carroll-et-al]: Carroll SR, Rodriguez-Lonebear D, Martinez A.
+    ["Indigenous Data Governance: Strategies from United States Native Nations"](https://doi.org/10.5334%2Fdsj-2019-031).
+    Data Sci J. 2019;18:31. doi: 10.5334/dsj-2019-031.
+    PMID: 34764990; PMCID: PMC8580324.
+[^rouse]: Margaret Rouse,
+    ["data sovereignty"](https://web.archive.org/web/20170507083945/http://whatis.techtarget.com/definition/data-sovereignty),
+    whatis.com, 2013 (archived 2017 May 07).
+
+Carroll also played a key role in founding the US Data Sovereignty Network. The
+archived `/about` page defines data sovereignty:
+
+> Indigenous data sovereignty is the right of a nation to govern the collection,
+> ownership, and application of its own data. It derives from tribes’ inherent
+> right to govern their peoples, lands, and resources. This conception of data
+> sovereignty positions Indigenous nations’ activities to govern data within an
+> Indigenous rights framework. In other words, Indigenous data sovereignty
+> accords with international declarations and covenants to which the US has
+> become a signatory, such as the United Nations Declaration on the Rights of
+> Indigenous Peoples (UNDRIP).
+> 
+> Notably, this conception of data sovereignty contrasts with the mainstream
+> understanding of data sovereignty, which is that data are subject to the laws
+> of the nation in which it is stored. USIDSN posits that when data are
+> collected from the people and communities of an Indigenous nation, the data
+> come under the control of that Indigenous nation.
+
+The footnote on that page refers to an earlier 2017 paper, ["Data as a Strategic
+Resource: Self-determination, Governance, and the Data Challenge for Indigenous
+Nations in the United States"](https://doi.org/10.18584/iipj.2017.8.2.1), which
+is also highly cited, while also stating that:
+
+> Some of this language is adapted and informed by the charter[^tmr-charter] of
+> Te Mana Raraunga, the Māori Data Sovereignty Network in Aotearoa/New Zealand
+> founded in July 2015.
+
+[^tmr-charter]: ["Te Mana Raraunga - Māori Data Sovereignty Network Charter"](https://www.temanararaunga.maori.nz/tutohinga)
+
+This is a reference to the work of Tahu Kukutai, who with John Taylor, authored
+the 2015 document ["Data Sovereignty for Indigenous Peoples: Current Practice and
+Future Needs"](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d73f71634d32b4f17e8600c/1567880982354/Data+Sovereignty+for+Indigenous+People.pdf),
+which was later included as the first chapter in the book they also edited
+together, [_Indigenous Data Sovereignty: Toward an Agenda_](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f8aae27641800017a9473/1567591089094/Indigenous+Data+Sovereignty+Book.pdf).
+That book features contributions from Ray Lovett and Desi Rodriguez-Lonebear,
+two more authors who show up a lot in the literature, as well as Ceal Tournier,
+then chairperson of he First Nations Information Governance Centre (FNIGC).
+
+The FNIGIC is in turn closely affiliated with The British Columbia First
+Nations’ Data Governance Initiative (BCFNDGI), founded by Gwen Phillips of the
+Ktunaxa Nation. Eventually, the BCFNDGI would become the BC First Nations
+Regional Information Governance Centre (RIGC), as a part of the FNIGIC, and
+Phillips would join their board of directors.[^g-phillips] BCFNDGI defines IDS:
+
+> Indigenous Data Sovereignty is the assertion of identity ownership by a
+> distinct group of Indigenous Peoples; it includes the ownership of historic
+> and current identity including intellectual property (language, stories,
+> songs, worldview, cultural signs, symbols and properties …), data, records and
+> information.[^bcfndgi]
+
+[^g-phillips]: Government of Canada, GC Data Conference 2023, ["Speaker: Gwen
+    Phillips"](https://www.csps-efpc.gc.ca/events/data-conference2023/speakers_info-eng.aspx?speaker=gwen_phillips).
+    First Nations Information Governance Centre, ["Gwen Phillips (bio as Sec. of
+    the BoD)"](https://fnigc.ca/about-fnigc/our-board-of-directors/gwen-phillips/).
+[^bcfndgi]: ["About the BCFNDGI"](https://www.bcfndgi.com/bcfndgi)
+
+The FNIGC published the ["Ownership, Control, Access and Possession (OCAP™): The
+Path to First Nations Information Governance"](https://fnigc.ca/wp-content/uploads/2020/09/5776c4ee9387f966e6771aa93a04f389_ocap_path_to_fn_information_governance_en_final.pdf)
+in 2014. Though it does not explicitly use the term "data sovereignty," the
+concepts are all there in that document. They've put out more recent
+publications on the subject, like this 2022 discussion paper, ["Exploration of
+the Impact of Canada’s Information Management Regime on First Nations Data
+Sovereignty"](https://fnigc.ca/wp-content/uploads/2022/09/FNIGC_Discussion_Paper_IM_Regime_Data_Sovereignty_EN.pdf),
+and have included the language in many of their [documents and brochures](https://fnigc.ca/online-library/?wpv_aux_current_post_id=409&wpv_aux_parent_post_id=409&wpv_view_count=516&wpv-publication-topic%5B%5D=fnigc&wpv-publication-topic%5B%5D=fnigc-research-series&wpv-publication-topic%5B%5D=ocap).
+They offer a course on [The Fundamentals of OCAP®](https://fnigc.ca/ocap-training/take-the-course/)
+and have an excellent [timeline of their history](https://fnigc.ca/about-fnigc/our-history/)
+on their website.
+
+Significant space is given to the discussion of First Nations Data Sovereignty
+in this discussion paper, ["Exploration of the Impact of Canada’s Information
+Management Regime on First Nations Data Sovereignty"](https://fnigc.ca/wp-content/uploads/2022/09/FNIGC_Discussion_Paper_IM_Regime_Data_Sovereignty_EN.pdf),
+from 2022:
+
+> The term ‘data’ is defined here as more than just numbers and statistics that
+> can be charted on a graph. It also includes stories, traditional knowledge,
+> intellectual property, surveys, and research. ‘First Nations Data’ therefore
+> is defined here to mean any information:
+> 
+> 1. About First Nations people like health, jobs, and housing;
+> 2. From First Nations like languages, patterns, songs, dances; and
+> 3. About First Nations reserve and traditional lands, waters, resources, and
+>    the environment.
+> 
+> First Nations data sovereignty means all this data and information are subject
+> to the laws of the First Nation. First Nations rights to data sovereignty
+> extend to their citizens as individuals as well as their collective rights as
+> nations and governments.
+> 
+> > [T]he data governance rights of Indigenous nations apply regardless of where
+> > the data is held or by whom. This includes the right to the generation of
+> > the data that Indigenous peoples require to support nation rebuilding and
+> > governance… IDS (Indigenous data sovereignty) also comprises the entitlement
+> > to determine how Indigenous data is governed and stewarded (Raine, 2019).
+> 
+> Data sovereignty is an element of self‑determination and self‑government.
+> (Kukutai, 2016). Access to data and information about a nation’s citizens,
+> lands, waters, economies, natural resources, etc., is critical to good
+> governance and sustainable development (United Nations, n.d., Office of the
+> Privacy Commissioner, 2016). Without data and information, governments are
+> unable to determine what policies and programs may be needed or the impact
+> they might be having. Good governance requires reliable data and information.
+> This is as true for First Nations as it is for the Government of Canada (Joint
+> Advisory Committee on Fiscal Relations, 2019).
+> 
+> First Nations exercise data sovereignty through the application of their own
+> laws, policies, and processes (FNIGC, 2020). How First Nations choose to
+> exercise their data sovereignty is up to them. First Nations traditional laws
+> and protocols, the modern application of these laws, and the need to develop
+> new laws, codes, protocols, policies, and programs will influence First
+> Nations individual data governance regimes. That said, First Nations have
+> adopted a common approach to what constitutes data sovereignty. The OCAP®
+> principles of ownership, control, access, and possession are individually and
+> collectively the pillars of First Nations data sovereignty
+
+The same document also contains a section titled "Individual versus collective
+rights":
+
+> While being cautious to respect diversity, there are some generalizations that
+> can be made about common differences between First Nations perspectives and
+> those of Canada. For example, many First Nations philosophies of
+> interconnectedness explain their relationship to their lands, cultures, and
+> each other, a relationship of belonging and responsibility that are different
+> from the philosophy expressed by the Crown (Royal Commission on Aboriginal
+> Peoples, 1996; Wilson, 2009). The concept of what is considered private is an
+> additional example.
+> 
+> > While ‘private’ information in mainstream discussions is commonly understood
+> > to include financial and health information, for Indigenous communities,
+> > ‘private’ information might include other types of information such as
+> > information associated with participation in ceremonies, hunting and
+> > gathering practices, or support for community development projects.
+> > Retaining privacy over certain traditional cultural practices is a
+> > long‑established convention based on an understanding of collective privacy.
+> > There is a strong interest in preserving and reviving Indigenous languages,
+> > cultural practices, and value systems among Indigenous peoples and a
+> > resultant drive to have control over cultural heritage in a way that
+> > conforms with Indigenous laws and conventions (Gee, 2019).
+> 
+> There also is a stark difference in perspectives held by First Nations and the
+> Crown about the value of individual versus collective rights, including
+> information management rights (Williams, 2011; Vis‑Dunbar, 2011). On behalf of
+> the Office of the Privacy Commissioner of Canada, the Informational Privacy
+> Interdisciplinary Research Group (IPIRG) at the University of Victoria, BC
+> explored the issue of collective rights to privacy. They concluded that the
+> Crown’s preference for individualism is evident in the information management
+> regime. “Community interests are not mentioned explicitly, leading one to
+> infer that a community’s privacy interest is seen under Canadian (statutory)
+> law as being reducible to the privacy interests of its members” (Vis‑Dunbar,
+> 2011). In other words, groups are treated as a collection of individuals. Any
+> group rights to privacy are only those enjoyed by them as individuals, whether
+> they be humans or corporations. Therefore, under the Canadian regime, First
+> Nations citizens have individual rights to privacy of their personal
+> information. These are the same rights enjoyed by all Canadians. First Nations
+> do not however hold a collective right to privacy. While it is important that
+> Canada respect First Nation individual’s privacy in their information
+> management regime, it is equally important that Canada recognize First Nations
+> collective rights to privacy and data sovereignty.
+> 
+> It is settled law that First Nations have collective rights (Behn v. Moulton
+> Contracting Ltd., 2013). It is argued here that First Nations are owed a
+> collective right to privacy beyond the rights of First Nations citizens to
+> their individual privacy. First Nations are first and foremost Nations and are
+> owed that respect in keeping with the Royal Proclamation, 1763 (Calder et al.
+> v. Attorney‑General of British Columbia) and subsequent legal developments in
+> Canada (Borrows, 2019). UNDRIP recognizes and affirms ‘that [I]ndigenous
+> peoples possess collective rights which are indispensable for their existence,
+> well‑being, and integral development as peoples” (UNDRIP, Preamble). It
+> identifies several collective rights, including rights to self‑government.
+> First Nations are fully empowered governments with authority to manage their
+> own affairs (UNDRIP, Art. 4). The Prime Minister has committed to a
+> Nation‑to‑Nation relationship (Trudeau, 2015; 2020).
+> 
+> There is growing recognition that individual rights are not adequate for the
+> purpose of protecting First Nations collective rights to privacy (Vis‑Dunbar,
+> 2011). This has been acknowledged by the federal government, “[s]ince
+> individual and communal Indigenous privacy interests can be deeply
+> intertwined, this raises the question of whether the Privacy Act could reflect
+> the unique concept of communal privacy interests” (DOJ, 2020). One possible
+> approach to address this problem is to develop a groups’ rights model of
+> ownership of data and information (Vis‑Dunbar, 2011). This may entail
+> developing a new common law concept of group rights. This route relies on the
+> Courts, it is expensive, time consuming, and its outcome entirely uncertain.
+> There is a far simpler and faster solution, which is to recognize the
+> collective rights of First Nations as nations. Amendments to the information
+> management regime would embed a Nation‑to‑Nation relationship simply through
+> the Crown’s recognition of all First Nations as governments to be treated in
+> like manner to other international, provincial, and municipal governments.
+
+Tim Davies, co-founder of Open Data Services Co-operative and Datasphere
+Initiative Fellow, compiled this incredibly thorough review on topics related to
+data sovereignty.[^tim-davies] He is also one of the editors of the book ["The
+State of Open Data"](https://www.gida-global.org/s/The-State-of-Open-Data.pdf),
+which the GIDA features among their resources. Datasphere Initiative also
+published a handy listicle on "Initiatives to follow on Indigenous Data
+Sovereignty".[^d-spheres]
+
+[^tim-davies]: Tim Davies, ["Data Governance and the Datasphere Literature
+    Review"](https://www.thedatasphere.org/wp-content/uploads/2022/11/Data-governance-and-the-Datasphere-Literature-Review-2022.-Tim-Davies.pdf),
+    Datasphere Initiative (2022).
+[^d-spheres]: Dataspheres Initative, ["Initiatives to follow on Indigenous Data
+    Sovereignty"](https://www.thedatasphere.org/news/initiatives-to-follow-on-indigenous-data-sovereignty/).
+
+Open DEI (Digitising European Industry, not diversity, equity & inclusion), as
+part of a taskforce for the EU's Horizon 2020 Project, released a position paper
+titled ["Design Principles for Data Spaces"](https://design-principles-for-data-spaces.org/),
+which provides the following definitions in its glossary:
+
+> __Data Sovereignty:__ The capability of an individual or organization to be
+> entirely self-determining with regard to their data (see also: Data
+> Self-determination).  
+> __Data Self-determination:__ The capacity of an individual or organization to
+> control who has access to their (personal) data and under what conditions (see
+> also: Data Sovereignty).  
+
+The International Data Spaces Association provides an [explainer
+page](https://internationaldataspaces.org/why/data-sovereignty/) and publishes a
+[rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/)
+that also covers data sovereignty. They seem to be closely affiliated with the
+European Commission's dataspaces initiatives. In a position paper on dataspaces,
+they draw on the Open DEI definitions and list data sovereignty as one of the 3
+main building blocks:
+
+> [...] data sovereignty, i.e., the ability for each stakeholder to control
+> their data by making decisions as to how digital processes, infrastructures,
+> and flows of data are structured, built, and managed, based on an appropriate
+> governance scheme enabling specification of terms and
+> conditions.[^intl-dspaces]
+
+[^intl-dspaces]: ["Governance for Data Space Instances Aspects and Roles for the
+    IDS Stakeholders"](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-Governance-for-Data-Space-Instances-Aspects-and-Roles-for-IDS-Stakeholders.pdf)
+
+Another reference that popped up a few times, probably because its cited in the
+Wikipedia article on Indigenous Data Sovereignty is Rob Kitchin's _The Data
+Revolution_, but data sovereignty is only included in the 2021 second edition.
+The first edition, from 2014, only includes two instances of the word
+'sovereign': "Across all state institutions data generation, management, storage
+and analysis are fundamental tasks, used to assess the liabilities and
+entitlements of sovereign and non-sovereign subjects."
+
+All the while, proponents of neoliberal globalization, typically opponents of
+data sovereignty, still rely on the restrictive interpretation of data
+sovereignty of a decade ago. Typically, the contemporary proponents of
+neoliberal globalization rely on the outdated, statist interpretation of data
+sovereignty, as Susan Ariel Aaronson of the Hinrich Foundation does in a paper
+titled, "Data is disruptive: How data sovereignty is challenging data
+governance"[^aaronson]:
+
+> For China and India, the right to control the collection, ownership, and
+> application of citizens’ data – heretofore referred to as data sovereignty –
+> should rest with national policymakers.
+
+[^aaronson]: Susan Ariel Aaronson, ["Data is disruptive: How data sovereignty is
+    challenging data governance"](https://www.hinrichfoundation.com/research/article/digital/data-is-disruptive-how-data-sovereignty-is-challenging-data-governance/)
+    ([PDF](https://www.wita.org/wp-content/uploads/2021/08/Data-is-disruptive-Hinrich-Foundation-white-paper-Susan-Aaronson-August-2021.pdf)),
+    [The Hinrich Foundation](https://www.hinrichfoundation.com/about/our-focus-beliefs-value/),
+    03 August 2021, 3.
 
 ## Kropotkin's Parisian House
 > A house in certain parts of Paris may be valued at thousands of pounds

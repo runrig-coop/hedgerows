@@ -57,7 +57,52 @@ was introduced to food sovereignty by way of my earlier connections to the local
 food and farm-to-table movements in and around New York City during the 2000s
 and 2010s. Data sovereignty, also known as information or technological
 sovereignty, is a comparatively new trend I have seen emerging from older free
-and open source software (FOSS) communities and the free culture movement.
+and open source software (FOSS) communities and the free culture movement.[^ds]
+
+[^ds]: "Data sovereignty" is still a highly malleable term. There exist several
+    distinct yet closely related definitions that can subtly shift the meaning
+    from one context to the next. It seems the term was first picked up in the
+    wake of Edward Snowden's revelations of the United States' PRISM spy
+    program, a global surveillance network that flouted national borders as well
+    as international law. In this early sense, data sovereignty pertained mainly
+    to the sovereignty of nation-states to govern the data that resided within
+    or was transported across their own territories. Around the same time,
+    discussions among indigenous peoples from North America and Oceania began to
+    connect their broader struggles for tribal and national sovereignty with
+    this post-Snowden discourse, as well as the need to govern their own data.
+    This yielded the principle known as Indigenous Data Sovereignty, or IDS.
+    Particularly in the First Nations of North America, IDS became imbued with a
+    sense of collective sovereignty that held precedence over individual
+    sovereignty but still struck a fair balance between them. This is clearly
+    expressed in a discussion paper from The First Nations Information
+    Governance Centre (FNIGC) titled ["Exploration of the Impact of Canada’s
+    Information Management Regime on First Nations Data
+    Sovereignty"](https://fnigc.ca/wp-content/uploads/2022/09/FNIGC_Discussion_Paper_IM_Regime_Data_Sovereignty_EN.pdf):
+
+    > While being cautious to respect diversity, there are some generalizations that
+    > can be made about common differences between First Nations perspectives and
+    > those of Canada. For example, many First Nations philosophies of
+    > interconnectedness explain their relationship to their lands, cultures, and
+    > each other, a relationship of belonging and responsibility that are different
+    > from the philosophy expressed by the Crown. The concept of what is considered
+    > private is an additional example. [...] While it is important that Canada
+    > respect First Nation individual’s privacy in their information management
+    > regime, it is equally important that Canada recognize First Nations collective
+    > rights to privacy and data sovereignty. 
+
+    This is in stark contrast to the purely Westphalian sense of sovereignty
+    that prevailed among European privacy advocates in the mid-2010s. Whether by
+    direct influence from IDS or by independent development, the European
+    Commission began to broaden its own definition of "data sovereignty," as
+    evidenced in this glossary entry from [a 2023 data policy
+    paper](https://publications.jrc.ec.europa.eu/repository/handle/JRC129900):
+
+    > Data sovereignty involves enhancing control by organisations and individuals
+    > over data that they contribute to generating. It implies participation in data
+    > governance and allows individuals and organisations to self-determine how,
+    > when and at what price others may use their data across the value chain. It
+    > means that data holders can safeguard user data, and ensure that it is used
+    > only in accordance with strictly defined rules.
 
 It could be argued that each of these earlier movements reached their apex
 sometime in the two decades straddling the turn of the millennium. Yet the

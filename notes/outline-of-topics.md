@@ -68,6 +68,13 @@
   revolution"](https://doi.org/10.1080/07341512.2023.2220991)
   - ["Industrial Revolution iron method ‘was taken from Jamaica by
   Briton’"](https://www.theguardian.com/science/2023/jul/05/industrial-revolution-iron-method-taken-from-jamaica-briton)
+- Walden F. Bello, [_The Food
+  Wars_](https://www.versobooks.com/products/2097-the-food-wars)
+  - Chapter 2: ["Eroding the Mexican
+    Countryside"](https://archive.org/details/foodwars00wald/page/38/mode/2up)
+
+### See also
+- [Ejidos, campsesinos, and usufruct](ejidos.md)
 
 ## The Commons in Sociology & Economics
 - Henry George

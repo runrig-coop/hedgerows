@@ -66,10 +66,10 @@ be restored today.
   - The ideological spectrum of commons studies, ca. 1990 - 2010
   - Next 2 installments:
     - How did U.S. farmers and conservationists lose sight the commons?
-    - __TODO:__ What lessons and solutions can we take from both these histories?
-    - __TODO:__ What about the FOSS commons? From Stallman to Torvalds?
+    - How _do_ we begin leveling today's hedgerows?
   - Social ties and the commons
 
+__TODO:__ Possibly renaming this essay "The Market is No Place for the Commons"
 ### Part 2: A tale of two movements
 The notion of the commons was conspicuously absent from the discourse of the
 slow food movement and sustainable agriculture in the U.S. during the
@@ -85,8 +85,10 @@ America. Meanwhile, the rest of the world never gave up the fight, and the
 resultant food sovereignty movement and peasant food webs are finally getting
 the attention of some of us here in the Northern Hemisphere.
 
+- Ejidos digitales
+  - GOAT 2022's "Data Policy" session and data rights like water rights
   - Medieval commons and their holdovers
-
+  - Ejidos, campesinos, and usufruct
 - The Market is No Place for the Commons
   - 2014: [Pop-up
     classes](https://www.ediblemanhattan.com/uncategorized/brain-food/) & giving
@@ -95,7 +97,7 @@ the attention of some of us here in the Northern Hemisphere.
     food movement
   - Who does this serve? (farmers? foodies? non-profit BoDs?)
 - From Luddite to Leetspeak
-  - Occupy Wall Street / Occupy Sandy
+  - Great Recession, Arab Spring, Occupy Wall Street/Sandy
   - SOPA/PIPA: Clay Shirky, Aaron Swartz, and Lawrence Lessig
   - _Revolution OS_, documentary on GNU/Linux
   - Build your own computer! plus making memes in GIMP & hacking BB Sheets-to-Go
@@ -109,6 +111,7 @@ the attention of some of us here in the Northern Hemisphere.
   - [D-Town Farm](https://www.dbcfsn.org/dtownfarm) & the [Detroit Black
     Community Food Sovereignty
     Network](https://www.dbcfsn.org/detroitfoodcommons)
+  - Walden F. Bello, [_The Food Wars_](https://www.versobooks.com/products/2097-the-food-wars)
 
 ### Part 3: Towards the unified commons of food, land, and technology
 The commons never went away; many ways of practicing, thinking and writing about
@@ -123,6 +126,11 @@ ramifications touch upon food, land use, technology and the information economy
 and show how the commons must be reconceived as encompassing all forms of
 resource allocation if its restoration is to be achieved in our lifetimes.
 
+- The Limits of a Liberal Theory of the Commons
+  - Maya Cohen's article, data stewardship & the right to exclude
+  - Yochai Benkler's _Wealth of Markets_
+  - The Commons (CPR) v. Open-access Regimes v. Public Goods
+  - Elinor Ostrom v. Garrett Hardin
 - Late 19th & 20th c. re-examination of the commons
   - Henry George's _Progress & Poverty_
   - Marxian interpretations
@@ -131,18 +139,17 @@ resource allocation if its restoration is to be achieved in our lifetimes.
     - Peter Linebaugh's _Stop, Thief!_, plus his work on transatlantic
       revolutions & _Magna Carta_
     - John Bellamy Foster & Kohei Saito on metabolic rift
-  - Elinor Ostrom v. Garrett Hardin
   - Nicholas Georgescu-Roegen and _décroissance_ (degrowth)
 - Appropriation of agricultural knowledge & technology (along w/ land & labor)
   - Leah Penniman on seed saving
   - Judith Carney's _Black Rice_
   - Bollier/Pollan on USDA Organics
   - Vandana Shiva's _Biopiracy_
-- The Limits of a Liberal Theory of the Commons (might get rid of this section)
-  - GOAT 2022's "Data Policy" session and data rights like water rights
-  - Maya Cohen's article, data stewardship & the right to exclude
-  - The Commons (CPR) v. Open-access Regimes v. Public Goods
-  - The post-Cold War "end of history" and other forms of near-sightedness
+  - Indigenous Data Sovereignty
+- Re-examining free and open source software
+  - BDFLs & other toxic cultures: Stallman, Torvalds, ESR, etc.
+  - Post-Open Source, novel licensing terms, and protest-ware
+  - Permacomputing & Computing within Limits
 - What Is to Be Done?
   - GOAT 2024
   - Runrig

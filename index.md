@@ -1,6 +1,6 @@
 ---
-path: "/hedgerows-draft"
-date: "2023-10-08"
+path: "/hedgerows"
+date: "2024-04-01"
 title: "Hedgerows in the Sky"
 subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 ---
@@ -153,7 +153,7 @@ or even an hour go by when we don't feel their effects?
     today.
 
 ## The Gathering for Open Agricultural Technology
-A little over a year ago, I sat with a dozen or so engineers, agronomists,
+About a year and a half ago, I sat with a dozen or so engineers, agronomists,
 designers and soil scientists, clustered around a couple hastily arranged
 tables. It was an "unconference"[^unconf] session titled "Justice for
 Nature."[^J4N] Across the wide, high-ceilinged hall and its adjoining patios,

@@ -3,7 +3,7 @@ ___NOTE:__ This series is currently under draft. Large portions may be missing,
 incomplete, or subject to change._
 
 - [Latest Draft](https://github.com/jgaehring/hedgerows/blob/draft/index.md)
-- [Bibliography](notes/README.md)
+- [Bibliography](notes/outline-of-topics.md)
 - [All Notes](notes/README.md)
 
 ## Abstract

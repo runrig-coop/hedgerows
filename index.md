@@ -1023,12 +1023,12 @@ magazine in 2019, places Indymedia and its legacy in stark contrast to advocacy
 groups like the Electronic Frontier Foundation (EFF), co-founded by John Perry
 Barlow, a former Grateful Dead lyricist and later denizen of The WELL, who would
 also be in attendence for the 2001 _Conference on the Public Domain_ alongside
-Lessig and Benkler. Glaser points out how in the same year that Barlow penned
-his techno-libertarian manifesto, _A Declaration of the Independence of
-Cyberspace_, a very different vision for cyberspace would emerge from far more
-revolutionary environs. This declaration would come straight from the balaclava-
-encircled mouth of Subcommandante Marcos, spokesperson for the Zapatista Army of
-National Liberation (EZLN).[^glaser]
+Lessig and Benkler.[^conf-pub-dom] Glaser points out how in the same year that
+Barlow penned his techno-libertarian manifesto, _A Declaration of the
+Independence of Cyberspace_, a very different vision for cyberspace would emerge
+from far more revolutionary environs. [^cyber-indy] This declaration would come
+straight from the balaclava- encircled mouth of Subcommandante Marcos,
+spokesperson for the Zapatista Army of National Liberation (EZLN).[^glaser]
 
 The political climate — to say nothing of the literal climate — that surrounded
 these two manifestos could not have been more dissimilar. Barlow signed his
@@ -1065,6 +1065,9 @@ years prior to the Battle of Seattle. She continues:
 > see cyberspace as an open frontier of _individuals unhindered by governments_.
 > Rather, the activists saw cyberspace as a place for _communities_.[^glaser]
 
+[^cyber-indy]: John Perry Barlow, ["A Declaration of the Independence of 
+    Cyberspace"](https://www.eff.org/cyberspace-independence), The Electronic
+    Frontier Foundation.
 [^EZLN]: ["Closing Words of the EZLN at the Intercontinental Encounter- 2nd
     Declaration of La Realidad" (archived English
     translation)](https://web.archive.org/web/20181015082155/http:/www.csuchico.edu/zapatist/HTML/Archive/Communiques/ccri_encount_aug.html);

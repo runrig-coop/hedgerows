@@ -49,9 +49,9 @@ the most current material available for each.
 |          | Status  | Subtitle                                                |
 | -------: | :------ | :------------------------------------------------------ |
 | [Part 1] | Draft   | __Concerning knowledge enclosures and how they may be truly leveled__ |
-| [Part 2] | Outline | __A tale of two movements__                             |
+| [Part 2] | Outline | __The Market is No Place for the Commons__              |
 | [Part 3] | Outline | __Towards the unified commons of food, land, and technology__ |
 
 [Part 1]: https://github.com/jgaehring/hedgerows/blob/draft/index.md
-[Part 2]: notes/outline-of-narrative.md#part-2-a-tale-of-two-movements
+[Part 2]: notes/outline-of-narrative.md#part-2-the-market-is-no-place-for-the-commons
 [Part 3]: notes/outline-of-narrative.md#part-3-towards-the-unified-commons-of-food-land-and-technology

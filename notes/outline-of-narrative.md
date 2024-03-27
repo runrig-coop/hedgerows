@@ -69,8 +69,7 @@ be restored today.
     - How _do_ we begin leveling today's hedgerows?
   - Social ties and the commons
 
-__TODO:__ Possibly renaming this essay "The Market is No Place for the Commons"
-### Part 2: A tale of two movements
+### Part 2: The Market is No Place for the Commons
 The notion of the commons was conspicuously absent from the discourse of the
 slow food movement and sustainable agriculture in the U.S. during the
 Clinton-Bush years. Even as more antiquated and provincial modes of producing
@@ -89,7 +88,7 @@ the attention of some of us here in the Northern Hemisphere.
   - GOAT 2022's "Data Policy" session and data rights like water rights
   - Medieval commons and their holdovers
   - Ejidos, campesinos, and usufruct
-- The Market is No Place for the Commons
+- The Market
   - 2014: [Pop-up
     classes](https://www.ediblemanhattan.com/uncategorized/brain-food/) & giving
     Greenmarket tours to The New School's Food Studies program

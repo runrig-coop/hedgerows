@@ -280,11 +280,13 @@ Murray Bookchin's theory of social ecology, that draws upon the legal principle
 of "usufruct" as an alternative to absolute property rights. It was a concept I
 was still struggling to grasp, particularly how the rights of usufruct were
 distinguished from real property rights (_jus in re propria_). How I understood
-it was that usufruct grants the rightsholder both the free use of an asset as
-well as the profits or other material gains that arise from it. These are termed
-_usus_ and _fructus_ in civil law, hence _usufruct_. Real property ownership
-grants all of that plus the right to the disposal (_abusus_) of the asset. That
-can include consuming, selling, irrevocably altering or destroying it.[^jus]
+it was that usufruct grants the rightsholder two distinct rights: first of all,
+the free _use_ of an asset as they saw fit, and secondly, any profits or other
+material gains that may arise from it, the so-called "fruits" of the asset.
+These are termed _usus_ and _fructus_ in civil law, respectively, hence
+_usufruct_. Real property ownership grants all of that plus the right to the
+disposal (_abusus_) of the asset. That can include consuming, selling,
+irrevocably altering or destroying it.[^jus]
 
 What I struggled with most was this: If someone is entitled to use an asset and
 its produce however one saw fit, how did that differ substantially from the
@@ -292,9 +294,9 @@ right to sell or consume it? Weren't those just other ways to use it? It seemed
 redundant. Perhaps _abusus_ meant the right to "transfer" the other two rights,
 _ususus_ and _fructus_, or to otherwise fundamentally alter their terms — was
 that it? If so, it seemed an unnecessarily roundabout way to formulate it. Was
-it some kind of "meta-right" then, if it was not held with regard to the asset
-directly, but was in fact the _right to the rights_ to the asset? That made even
-less sense.
+it then some kind of "meta-right," if the right to the asset was not held
+directly but instead merely the right _to the rights_ to the asset? That made
+even less sense.
 
 [^jus]: In civil or Roman law, the Latin terms would translate:
     [_jus in re propria_], "right to [one's] own thing";
@@ -310,26 +312,26 @@ less sense.
 Now when I thought about it in the light of universal access to nature, I
 remembered the other term for this third right: _alienation_. In a strictly
 legal sense, to alienate an asset carries little further significance than to
-"dispose of" it, but in a sociological context or in plain parlance, alienation
-imbues a psychological or almost spiritual quality. That sense seems all the
-more acute when the thing you are alienating is nature itself, even if just a
-part of it. There is reciprocity between us and nature, a two-way subjectivity
-that transcends the mere owner/asset duality. I belong to nature as much as (or
-even more than) nature belongs to me, and to sever that tie would constitute a
-terrible injury. A free-market economy, however, requires that elements of
-nature comply with the rules of commodity exchange and fungibility. To enclose
-nature, therefore, means to fundamentally _set it apart_. Nature becomes an
-asset or commodity. It is demoted to an insensible object and is no longer an
-equal or true subject. Meanwhile, anyone tied to that chunk of nature is in
-essence commodified too. It is a process that cuts both ways, alienating one
-from the other. This was certainly the experience of English peasants who were
-driven off the commons by enclosure. They were forced to move to urban centers
-and sell their labor for a wage in the emerging industrial economy. So not only
-was the _ecological value_ of the land commodified and sold, but the very
-_social value_ of the peasantry was itself made into a commodity, measured out
-by the punch clock and made divisible as wage shares. Wherever the commons was
-enclosed, the commoners were duly confined, if not to the factory yard then
-invariably to the prison yard.[^vagrancy]
+"dispose of" it. In a sociological context, however, or merely in plain
+parlance, alienation carries a deeply psychological quality. That sense seems
+all the more acute when the thing you are alienating is nature itself, even if
+just a part of it. There is reciprocity between us and nature, a two-way
+subjectivity that transcends the mere owner/asset duality. I belong to nature as
+much as (or even more than) nature belongs to me, and to sever that tie would
+constitute a terrible injury. A free-market economy, however, requires that
+elements of nature be made fungible and comply with the rules of commodity
+exchange. To enclose nature, therefore, means to fundamentally _set it apart_.
+Nature becomes an asset or commodity. It is demoted to an insensible object and
+is no longer an equal or true subject. Meanwhile, anyone tied to that chunk of
+nature is in essence commodified too. It is a process that cuts both ways,
+alienating one from the other. This was certainly the experience of English
+peasants who were driven off the commons by enclosure. They were forced to move
+to urban centers and sell their labor for a wage in the emerging industrial
+economy. So not only was the _ecological value_ of the land commodified and
+sold, but the very _social value_ of the peasantry was itself made into a
+commodity, measured out by the punch clock, and made divisible as wage shares.
+Wherever the commons was enclosed, the commoners were duly confined, if not to
+the factory yard then invariably to the prison yard.[^vagrancy]
 
 [^vagrancy]: It cannot be overemphasized that this migration was anything but
     voluntary. Already faced with poverty and imminent starvation, landless

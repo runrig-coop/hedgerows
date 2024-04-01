@@ -104,6 +104,11 @@ and open source software (FOSS) communities and the free culture movement.[^ds]
     > means that data holders can safeguard user data, and ensure that it is used
     > only in accordance with strictly defined rules.
 
+    For a comprehensive meta-analysis of the term's usage in academic
+    literature, see Hummel, P., Braun, M., Tretter, M., & Dabrock, P. (2021).
+    ["Data Sovereignty: A review"](https://doi.org/10.1177/2053951720982012).
+    Big Data & Society, 8(1).
+
 It could be argued that each of these earlier movements reached their apex
 sometime in the two decades straddling the turn of the millennium. Yet the
 affinities that are visible today between food and data sovereignty weren't

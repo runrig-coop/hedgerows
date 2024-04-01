@@ -315,14 +315,41 @@ Initiative Fellow, compiled this incredibly thorough review on topics related to
 data sovereignty.[^tim-davies] He is also one of the editors of the book ["The
 State of Open Data"](https://www.gida-global.org/s/The-State-of-Open-Data.pdf),
 which the GIDA features among their resources. Datasphere Initiative also
-published a handy listicle on "Initiatives to follow on Indigenous Data
-Sovereignty".[^d-spheres]
+published a comprehensive report on the topic[^d-spheres] and a handy listicle
+on "Initiatives to follow on Indigenous Data Sovereignty".[^ds-listicle]
 
 [^tim-davies]: Tim Davies, ["Data Governance and the Datasphere Literature
     Review"](https://www.thedatasphere.org/wp-content/uploads/2022/11/Data-governance-and-the-Datasphere-Literature-Review-2022.-Tim-Davies.pdf),
     Datasphere Initiative (2022).
-[^d-spheres]: Dataspheres Initative, ["Initiatives to follow on Indigenous Data
-    Sovereignty"](https://www.thedatasphere.org/news/initiatives-to-follow-on-indigenous-data-sovereignty/).
+[^d-spheres]: Dataspheres Initative, ["We Need to Talk about Data: Framing the
+      Debate Around the Free Flow of Data and Data Sovereignty"](https://www.thedatasphere.org/datasphere-publish/we-need-to-talk-about-data/)
+[^ds-listicle]: Dataspheres Initative, ["Initiatives to follow on Indigenous
+    Data Sovereignty"](https://www.thedatasphere.org/news/initiatives-to-follow-on-indigenous-data-sovereignty/).
+
+The Dataspheres report cites a meta-analysis paper from Hummel, et al., which
+concludes:
+
+> We have reviewed how the notion of data sovereignty is used in academic
+> writing. The notion turned out to exhibit a variety of different candidate
+> meanings, and we have presented a conceptual grid to systematize them. The
+> candidate meanings tend to relate in some way to meaningful control,
+> ownership, and other claims in data. Data sovereignty can apply to a range of
+> agents across the spectrum from individual consumers to entire societies and
+> countries, sometimes yielding conflicting claims to data sovereignty across
+> these levels. It primarily occurs in the context of debates around the design
+> of IT architecture and/or laws applicable to data processing, but a number of
+> other contexts as well. It tends to address a nuanced mixture of values:
+> typically, it concerns control and power over data, yet the kind of power in
+> question is not brute an arbitrary power, but often ties in with
+> considerations related to inclusive deliberation and fundamental rights of
+> data subjects. Finally, distinguishing more sharply and explicitly between
+> descriptions of data sovereignty, challenges to data sovereignty, and
+> management strategies to overcome them could ameliorate discourses and
+> negotiation processes surrounding the governance of the digital.[^hummel]
+
+[^hummel]: Hummel, P., Braun, M., Tretter, M., & Dabrock, P. (2021). ["Data
+      Sovereignty: A review"](https://journals.sagepub.com/doi/10.1177/2053951720982012#sec-4).
+      Big Data & Society, 8(1). https://doi.org/10.1177/2053951720982012
 
 Open DEI (Digitising European Industry, not diversity, equity & inclusion), as
 part of a taskforce for the EU's Horizon 2020 Project, released a position paper

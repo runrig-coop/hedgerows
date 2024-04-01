@@ -694,7 +694,38 @@
   Source"](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
 - GOAT Forum: ["What is Open
   Source?"](https://forum.goatech.org/t/what-is-open-source-reading-list/1328)
-- CARE Principles for Indigenous Data Governance
+- Data Sovereignty
+  - Indigenous Data Sovereignty
+    - [Global Indigenous Data Alliance](https://www.gida-global.org/)
+      - [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care)
+      - ["History of Indigenous Data Sovereignty"](https://www.gida-global.org/history-of-indigenous-data-sovereignty).
+    - Lovett, R., Lee, V., Kukutai, T,. Cormack, D., Carroll-Rainie, S,. &
+        Walker, J. (2019). Good Data Practices for Indigenous Data Sovereignty
+        and Governance. In Good Data, Daly, A., Devitt, SK,. & Mann, M (eds),
+        Institute of Network Cultures, Amsterdam.
+    - Carroll, S, Garba, I, Figueroa-Rodríguez, O, Holbrook, J, Lovett, R,
+        Materechera, S, Parsons, M, Raseroka, K, Rodriguez-Lonebear, D, Rowe,
+        R, Sara, R, Walker, J, Anderson, J and Hudson, M. 2020. [The CARE
+        Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-043). Data Science
+        Journal, 19: XX, pp. 1–12.
+    - [_Indigenous Data Sovereignty: Toward an Agenda_](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f8aae27641800017a9473/1567591089094/Indigenous+Data+Sovereignty+Book.pdf)
+  - Surveys of the term and its definitions
+    - Hummel, P., Braun, M., Tretter, M., & Dabrock, P. (2021). ["Data
+        Sovereignty: A review"](https://journals.sagepub.com/doi/10.1177/2053951720982012#sec-4).
+        Big Data & Society, 8(1). https://doi.org/10.1177/2053951720982012
+    - Datasphere Initative, ["We Need to Talk about Data: Framing the Debate
+        Around the Free Flow of Data and Data Sovereignty"](https://www.thedatasphere.org/datasphere-publish/we-need-to-talk-about-data/)
+  - European Commission
+    - European Commision, Joint Research Center, ["European Data Spaces -
+        Scientific Insights into Data Sharing and Utilisation at Scale"](https://publications.jrc.ec.europa.eu/repository/handle/JRC129900),
+        25.
+  - First Nations Information Governance Centre (FNIGC)
+    - ["Ownership, Control, Access and Possession (OCAP™): The Path to First 
+        Nations Information Governance"](https://fnigc.ca/wp-content/uploads/2020/09/5776c4ee9387f966e6771aa93a04f389_ocap_path_to_fn_information_governance_en_final.pdf)
+    - ["Exploration of the Impact of Canada’s Information Management Regime on
+        First Nations Data Sovereignty"](https://fnigc.ca/wp-content/uploads/2022/09/FNIGC_Discussion_Paper_IM_Regime_Data_Sovereignty_EN.pdf)
+    - [The First Nations Principles of OCAP®](https://fnigc.ca/ocap-training/take-the-course/): ownership, control, access, and possession
+
 - [Post-Open Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
 - [Co-op Cloud Federation](https://docs.coopcloud.tech/federation/)
   - ["The Configuration Commons"](https://pad.autonomic.zone/s/C3uuqfSCk)

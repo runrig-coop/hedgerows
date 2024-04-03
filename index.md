@@ -7,44 +7,70 @@ subtitle: "Concerning knowledge enclosures and how they may be truly leveled"
 
 # Hedgerows in the Sky
 When I tell people I make open source software for farmers, I'll occasionally
-hear some variation of the reply, "Why do farmers care whether their software
-is open source?" The precise response may differ in tone from the genuinely
-curious to slightly facetious or outright incredulous. "You don't actually
-expect farmers to read the source code or build the binaries themselves, do
-you?" I might have to concede on that last point, but it seems to me that this
-category of response betrays the same faulty premise in most cases. It assumes
-that farming and technology represent opposing world views, that their concerns
-are perfectly orthogonal to one another or distantly related at best.
+hear some variation of the reply, "Why do farmers care whether their software is
+open source?" The precise response may differ in tone from the genuinely curious
+to slightly facetious or outright incredulous. "You don't actually expect
+farmers to read the source code or build the binaries themselves, do you?" I
+might have to concede on that last point, but it seems to me that, regardless of
+how they're expressed, responses of this sort all rely the same faulty premise.
+They assume that farming and information technology represent opposing world
+views, that their issues and concerns seldom correlate, and if they do it's by
+sheer accident.
 
-I haven't heard this response in the last couple years quite as often as I used
-to. In part I attribute this to the rise of the closely aligned food sovereignty
-and data sovereignty movements in North America. Apart from their shared naming
-conventions, these two sovereignty movements share a belief that the resources
-we produce, consume, and depend upon each day should be controlled at the
-community level. That goes equally for food, software, hardware, agricultural
-inputs, or data. When it comes to what kind of software or farming practices the
-community employs, or how much food or data is imported into the community — or
-likewise exported — those decisions ought to happen locally. The power to choose
-should be decentralized as much as possible, but also more fairly distributed.
-Put another way, both movements are committed to stewarding common resources but
-they don't put arbitrary restrictions on what resources that may comprise: the
-knowledge commons and common land are both _the commons_, one and the same.
+Lately, I haven't heard this response quite as often as I used to. I attribute
+this in part to the rise of the closely aligned food sovereignty and data
+sovereignty movements here in North America. Apart from their shared naming
+conventions, these two movements and their adjacent tendencies share a belief
+that the resources we produce, consume, and depend upon each day should be
+controlled at the community level. That goes the same for food, software,
+hardware, agricultural inputs, or data. When it comes to what kind of software
+or farming practices the community employs, or how much food or data is imported
+into the community — or likewise exported — those decisions ought to happen
+locally, or at a regional scale appropriate to the task at hand. The power to
+choose should be decentralized as much as possible, but also more fairly
+distributed. Put another way, both movements are committed to stewarding common
+resources, and they don't necessarily put any restrictions on what those
+resources might be: common land and the knowledge commons are together just _the
+commons_, one and the same.
 
-Unlike more libertarian ideologies, which abound within both agriculture and
-technology, food and data sovereignty do not insist that local control must
-devolve to the smallest possible unit of autonomy — that is, solitary
-individuals. Individual autonomy is an important component for food and data
-sovereignty, but these movements focus their efforts on achieving community
-control of resources, where social relations are grounded in trust and a shared
-sense of place. On this basis, clear parallels can be drawn between the two
-movements' practices. Compare collectivized farm management to cooperative data
-trusts, to take one example. Likewise, mutual aid food programs such as free
-fridges or group buying clubs, have their counterparts in the communal
-administration of servers for alternative social media networks like Mastodon.
-Some food co-ops and farm CSAs offer sliding scale prices or solidarity shares
-in an effort to introduce more equity into their payment structures. In a
-similar fashion, software projects are commonly sponsored through Liberapay,
-OpenCollective, Ko-fi donate buttons or other "pay what you can" mechanisms.
+Unlike more right-leaning libertarian ideologies, which prevail among
+agriculturalists and technologists alike, proponents of food and data
+sovereignty do not insist that local control must devolve to the smallest
+possible unit of autonomy — that is, solitary individuals. Individual autonomy
+is an important component for food and data sovereignty, but these movements
+focus their efforts on achieving community control of resources, where social
+relations are grounded in trust and a shared sense of belonging. On this basis,
+clear parallels can be drawn between the two movements' practices. For example,
+you can compare collectivized farm management to cooperative data trusts. Mutual
+aid food programs, such as free fridges or group buying clubs, arguably have
+their counterparts in communally run social media networks, such as the open
+source Mastodon project or its derivative, Hometown, which is even more tailored
+to small, localized groups of friends.[^mastodon] Some food co-ops and farm CSAs
+offer sliding scale prices or solidarity shares in an effort to introduce more
+equity into their payment structures. In a similar fashion, open source software
+projects are commonly sponsored through Liberapay, OpenCollective, Ko-fi donate
+buttons, or other "pay what you can" mechanisms, while remaining free to use for
+everyone.
+
+[^mastodon]: [Hometown], a fork of [Mastodon], evolved from a private social
+    media network called Friend Camp, started by Darius Kazemi "for about 50 of
+    my friends" in 2018. The [project's wiki] lists 13 topic-based servers, 3
+    geographic community servers, and 7 general servers running Hometown, a
+    modest but extremely dedicated base of users. Kazemi documents its origins
+    in [runyourown.social], a guide for "How to run a small social network site
+    for your friends." Mastodon itself stems from development of the [ActivityPub
+    W3C Recommendation]. This standard allows Mastodon servers to connect or
+    "federate" with one another, along with non-Mastodon servers like Pixelfed,
+    PeerTube, or even Meta's Threads, so long as they also implement
+    ActivityPub. I myself am one of a few thousand member-users on
+    [social.coop], a cooperatively managed Mastodon instance.
+
+[Hometown]: https://github.com/hometown-fork/hometown/wiki
+[Mastodon]: https://joinmastodon.org/
+[project's wiki]: https://github.com/hometown-fork/hometown/wiki/Hometown-servers/72d3245d9416f544e26ec1300e904465263f2829
+[runyourown.social]: https://runyourown.social
+[ActivityPub W3C Recommendation]: https://dustycloud.org/blog/activitypub-is-a-w3c-recommendation/
+[social.coop]: https://social.coop/about
 
 Though the concepts have only recently achieved notoriety in the U.S., food and
 data sovereignty can trace their origins to several earlier movements that
@@ -125,10 +151,11 @@ so little in common, there was rarely any dialogue or collaboration between the
 two camps.
 
 Strangely enough, the metaphor of "the commons" was only adopted by the
-technologists of this era, despite it being a term for a type of communal land
-tenure practiced by peasant farmers. This is the apparent contradiction that
-originally got me thinking more critically about the relationship between
-farming and technology. And it only gets more puzzling the more you dig into it.
+technologists of that earlier era, not by the so-called foodies and locavores.
+This is in spite of the term's origin as a form of communal land tenure,
+practiced widely by peasant farmers. It was this apparent contradiction that
+first got me looking more critically about the relationship between farming and
+technology. And it only got more puzzling the deeper I looked.
 
 I've clocked far too many hours digging through the relics of early internet
 subculture and hunting down pay-walled citations on Sci-Hub.[^shadow-libs] I've

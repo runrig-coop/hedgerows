@@ -6,6 +6,22 @@ incomplete, or subject to change._
 - [Bibliography](notes/outline-of-topics.md)
 - [All Notes](notes/README.md)
 
+## Series Outline
+This series was originally intended to comprise a single essay, but the subject
+matter proved far too expansive for a continuous piece and too impractical to
+condense. The separate parts are listed below with their status and a link to
+the most current material available for each.
+
+|          | Status  | Subtitle                                                |
+| -------: | :------ | :------------------------------------------------------ |
+| [Part 1] | Draft   | __Concerning knowledge enclosures and how they may be truly leveled__ |
+| [Part 2] | Outline | __The Market is No Place for the Commons__              |
+| [Part 3] | Outline | __Towards the unified commons of food, land, and technology__ |
+
+[Part 1]: https://github.com/jgaehring/hedgerows/blob/draft/index.md
+[Part 2]: notes/outline-of-narrative.md#part-2-the-market-is-no-place-for-the-commons
+[Part 3]: notes/outline-of-narrative.md#part-3-towards-the-unified-commons-of-food-land-and-technology
+
 ## Abstract
 Today in 2023, the food sovereignty and data sovereignty movements are united in
 the call for more cooperative production methods and a commitment to common-pool
@@ -39,19 +55,3 @@ own encounters with each of these movements, while also situating them within
 the longer history of agriculture, information technology and the Commons.
 Finally, I'll reflect on the latest initiatives that have emerged through their
 union and what synergies remain to be explored.
-
-## Series Outline
-This series was originally intended to comprise a single essay, but the subject
-matter proved far too expansive for a continuous piece and too impractical to
-condense. The separate parts are listed below with their status and a link to
-the most current material available for each.
-
-|          | Status  | Subtitle                                                |
-| -------: | :------ | :------------------------------------------------------ |
-| [Part 1] | Draft   | __Concerning knowledge enclosures and how they may be truly leveled__ |
-| [Part 2] | Outline | __The Market is No Place for the Commons__              |
-| [Part 3] | Outline | __Towards the unified commons of food, land, and technology__ |
-
-[Part 1]: https://github.com/jgaehring/hedgerows/blob/draft/index.md
-[Part 2]: notes/outline-of-narrative.md#part-2-the-market-is-no-place-for-the-commons
-[Part 3]: notes/outline-of-narrative.md#part-3-towards-the-unified-commons-of-food-land-and-technology

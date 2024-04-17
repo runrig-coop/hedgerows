@@ -161,7 +161,7 @@
   - [_Free, Fair and Alive: The Insurgent Power of the
     Commons_](https://freefairandalive.org/read-it/) (with Silke Helfrich, 2019)
 
-### Marxist & Autonomist & theory in the 20th C.
+### Anarchist, Marxist & Autonomist Theory
 - Karl Polanyi
   - [_The Great Transformation_ §3 "'Habitation versus
     Improvement'"](https://archive.org/details/greattransformat00pola/page/32/mode/2up)
@@ -198,6 +198,8 @@
     (2014)
 - Murray Bookchin
   - Usufruct
+    - _Ecology of Freedom_, [Chapter 2: "The Outlook of Organic
+      Society"](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom#toc5:~:text=The%20word%20property,in%20the%20future)
   - Aristotelian _techne_ vs modern industrial "technics"
   - Labor and technology as the "midwife" to nature's creative forces[^midwife]
 - David Graeber & David Wengrow, _The Dawn of Everything_

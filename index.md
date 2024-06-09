@@ -1064,7 +1064,7 @@ from far more revolutionary environs. [^cyber-indy] This declaration would come
 straight from the balaclava- encircled mouth of Subcommandante Marcos,
 spokesperson for the Zapatista Army of National Liberation (EZLN).[^glaser]
 
-The political climate — to say nothing of the literal climate — that surrounded
+The political climate — to say nothing of the literal climate — surrounding
 these two manifestos could not have been more dissimilar. Barlow signed his
 declaration from Davos in the Swiss Alps on February 8, 1996, having ostensibly
 found inspiration in the World Economic Forum, which he attended two days
@@ -1073,15 +1073,14 @@ of La Realidad_ was Marcos' valediction to the delegates from over 40 countries,
 plus anywhere from 3 to 5 thousand other activists, journalists, and
 intellectuals, who all journeyed to Chiapas, Mexico for the _First
 Intercontinental Gathering for Humanity and Against Neoliberalism_. This 5-day
-gathering or _encuentro_, as it was originally termed in Spanish, was held deep
-in the Lacandon Jungle near the Guatemalan border. Many of the sessions took
-place in open-air clearings, tents, and lean-tos. There would be another
-intercontinental _encuentro_ the following year in Spain, plus a few smaller,
-_intra_-continental gatherings across Europe and North America. Eventually,
-these _encuentros_ would partly inspire the World Social Forum, named in
-conscious opposition to the World Economic Forum in Davos. The first WSF was
-held in Brazil in 2001, attended by many of the same participants from the first
-_encuentro_ in 1996 and borrowing many of its methods.
+_encuentro_, or gathering, was held deep in the Lacandon Jungle near the
+Guatemalan border. Many of the sessions took place in open-air clearings, tents,
+and lean-tos. There would be another intercontinental _encuentro_ the following
+year in Spain, plus a few smaller, intra-continental gatherings across Europe
+and North America. Eventually, these _encuentros_ would inspire the World Social
+Forum, named in conscious opposition to the World Economic Forum in Davos. The
+first WSF was held in Brazil in 2001, attended by many of the same participants
+from the first _encuentro_ in 1996 and borrowing many of its methods.
 
 On the final day of that first _encuentro_, however, Marcos called for "a
 collective network" of resistance against neoliberalism, using the nascent World
@@ -1216,7 +1215,7 @@ movements. This broad assessment, however, smooths over their rugged political
 contours. Upon closer inspection, each was internally quite diverse, containing
 fractious constituencies who held disparate motivations that were sometimes
 directly opposed to one other. Situated amidst the broader context of
-contemporary geopolitics, its even harder to ignore the diversity of ideology.
+contemporary geopolitics, it's even harder to ignore the diversity of ideology.
 For the technologists, we see this most evidently in the contrasts between
 Indymedia and the Electronic Frontier Foundation. If the organic and local food
 movements correspond to one of these two fronts, it's undoubtedly the

@@ -774,9 +774,12 @@
   - [The Californian
     Ideology](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)
   - [nettime](https://www.nettime.org/info.html)
-- Ecofeminism and Cyberfeminism
+- Ecofeminism, Cyberfeminism, and Queer Theory
   - Donna Harraway, "A Cyborg Manifesto" (1985)
   - Maria Mies and Vandana Shiva, _Ecofeminism_ (1993)
+  - Monique Wittig, "One Is Not Born a Woman" (1981)
+    - [PDF](https://ia804602.us.archive.org/11/items/zines2022/WittigPrint.pdf)
+      of the _Pink and Black Attack_ zine folio edition, printed circa 2010.
 - Katharina Pistor
   - _The Code of Capital_ (2019)
   - ["The Laws of

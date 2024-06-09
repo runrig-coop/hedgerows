@@ -1421,6 +1421,205 @@ p. 22:
 > to nature.
 
 
+## Monique Wittig feminist concept of "naturalization"
+The problem of "naturalization" that Shiva identifies (_Biopiracy_, p.4-5)
+likely derives from feminist theory, particularly Monique Wittig's 1981 essay,
+"One Is Not Born a Woman":
+
+> A materialist feminist[^w1] approach to women’s oppression destroys the idea that
+> women are a ‘natural group’: ‘a racial group of a special kind, a group
+> perceived as natural, a group of men considered as materially specific in
+> their bodies[^w2].’ What the analysis accomplishes on the level of ideas, practice
+> makes actual at the level of facts: by its very existence, lesbian society
+> destroys the artificial (social) fact constituting women as a ‘natural group.’
+> A lesbian society[^w3] pragmatically reveals that the division from men of which
+> women have been the object is a political one and shows how we have been
+> ideologically rebuilt into a ‘natural group.’ In the case of women, ideology
+> goes far since our bodies as well as our minds are the product of this
+> manipulation. We have been compelled in our bodies and in our minds to
+> correspond, feature by feature, with the idea of nature that has been
+> established for us. Distorted to such an extent that our deformed body is what
+> they call ‘natural,’ what is supposed to exist as such before oppression.
+> Distorted to such an extent that in the end oppression seems to be a
+> consequence of this ‘nature’ within ourselves (a nature which is only an
+> idea). What a materialist analysis does by reasoning, a lesbian society
+> accomplishes practically: not only is there no natural group ‘women’ (we
+> lesbians are living proof of it), but as individuals as well we question
+> ‘woman,’ which for us, as for Simone de Beauvoir thirty years ago, is only a
+> myth. She said: ‘One is not born, but becomes a woman. No biological,
+> psychological, or economic fate determines the figure that the human female
+> presents in society: it is civilization as a whole that produces this
+> creature, intermediate between male and eunuch, which is described as
+> feminine[^w4].’
+> 
+> However, most of the feminists and lesbianfeminists in America and elsewhere
+> still believe that the basis of women’s oppression is biological as well as
+> historical. Some of them even claim to find their sources in Simone de
+> Beauvoir[^w5]. The belief in mother right and in a ‘prehistory’ when women created
+> civilization (because of a biological predisposition) while the coarse and
+> brutal men hunted (because of a biological predisposition), is symmetrical
+> with the biologizing interpretation of history produced up to now by the class
+> of men. It is still the same method of finding in women and men a biological
+> explanation of their division, outside of social facts. For me this could
+> never constitute a lesbian approach to women’s oppression, since it assumes
+> that the basis of society or the beginning of society lies in heterosexuality.
+> Matriarchy is no less heterosexual than patriarchy: it is only the sex of the
+> oppressor that changes. Furthermore, not only is this conception still
+> imprisoned in the categories of sex (woman and man), but it holds onto the
+> idea that the capacity to give birth (biology) is what defines a woman.
+> Although practical facts and ways of living contradict this theory in lesbian
+> society, there are lesbians who affirm that ‘women and men are different
+> species or races (the words are used interchangeably): men are biologically
+> inferior to women; male violence is a biological inevitability...[^w6].’ By doing
+> this, by admitting that there is a ‘natural’ division between women and men,
+> we naturalize history, we assume that men and women have always existed and
+> will always exist. Not only do we naturalize history, but also consequently we
+> naturalize the social phenomena which express our oppression, making change
+> impossible. For example, instead of seeing birth as a forced production, we
+> see it as a ‘natural,’ ‘biological’ process, forgetting that in our societies
+> births are planned (demography), forgetting that we ourselves are programmed
+> to produce children, while this is the only social activity ‘short of war’[^w7]
+> that presents such a great danger of death. Thus, as long as we will be
+> ‘unable to abandon by will or impulse a lifelong and centuries-old commitment
+> to childbearing as the female creative act,’[^w8] gaining control of the
+> production of children will mean much more than the mere control of the
+> material means of this production: women will have to abstract themselves from
+> the definition ‘woman’ which is imposed upon them. (19-21)
+> 
+> A materialist feminist approach shows that what we take for the cause or
+> origin of oppression is in fact only the mark[^w9] imposed by the oppressor: the
+> ‘myth of woman,[^w10]’ plus its material effects and manifestations in the
+> appropriated consciousness and bodies of women. Thus, this mark does not
+> preexist oppression: Colette Guillaumin has shown that before the
+> socioeconomic reality of black slavery, the concept of race did not exist, at
+> least not in its modern meaning, since it was applied to the lineage of
+> families. However, now, race, exactly like sex, is taken as an ‘immediate
+> given,’ a ‘sensible given,’ ‘physical features,’ belonging to a natural order.
+> But what we believe to be a physical and direct perception is only a
+> sophisticated and mythic construction, an ‘imaginary formation[^w11],’ which
+> reinterprets physical features (in themselves as neutral as any others but
+> marked by the social system) through the network of relationships in which
+> they are perceived. (They are seen black, therefore they are black; they are
+> seen as women, therefore, they are women. But before being seen that way, they
+> first had to be made that way.) A lesbian consciousness should always remember
+> and acknowledge how ‘unnatural,’ compelling, totally oppressive, and
+> destructive being ‘woman’ was for us in the old days before the women’s
+> liberation movement. It was a political constraint and those who resisted it
+> were accused of not being ‘real’ women. But then we were proud of it, since in
+> the accusation there was already something like a shadow of victory: the
+> avowal by the oppressor that ‘woman’ is not something that goes without
+> saying, since to be one, one has to be a ‘real’ one. We were at the same time
+> accused of wanting to be men. Today this double accusation has been taken up
+> again with enthusiasm in the context of the women’s liberation movement by
+> some feminists and also, alas, by some lesbians whose political goal seems
+> somehow to be becoming more and more ‘feminine.’ To refuse to be a woman,
+> however, does not mean that one has to become a man. Besides, if we take as an
+> example the perfect ‘butch,’ the classic example which provokes the most
+> horror, whom Proust would have called a woman/man, how is her alienation
+> different from that of someone who wants to become a woman? Tweedledum and
+> Tweedledee. At least for a woman, wanting to become a man proves that she
+> escapes her initial programming. But even if she would like to, with all her
+> strength, she cannot become a man. For becoming a man would demand from a
+> woman not only the external appearance of a man but his consciousness as well,
+> that is, the consciousness of one who disposes by right of at least two
+> ‘natural’ slaves during his life span. This is impossible and one feature of
+> lesbian oppression consists precisely of making women out of reach for us,
+> since women belong to men. Thus a lesbian has to be something else, a
+> not-woman, a not-man, a product of society, not a product of nature, for there
+> is no nature in society.
+> 
+> The refusal to become (or to remain) heterosexual always meant to refuse to
+> become a man or a woman, consciously or not. For a lesbian this goes further
+> than the refusal of the role ‘woman.’ It is the refusal of the economic,
+> ideological, and political power of a man. This, we lesbians, and nonlesbians
+> as well, knew before the beginning of the lesbian and feminist movement.
+> However, as Andrea Dworkin emphasizes, many lesbians recently ‘have
+> increasingly tried to transform the very ideology that has enslaved us into a
+> dynamic, religious, psychologically compelling celebration of female
+> biological potential[^w12].’ Thus, some avenues of the feminist and lesbian
+> movement lead us back to the myth of woman which was created by men especially
+> for us, and with it we sink back into a natural group. Thirty years ago we
+> stood up to fight for a sexless society[^w13]. Now we find ourselves entrapped in
+> the familiar deadlock of ‘woman is wonderful.’ Thirty years ago Simone de
+> Beauvoir underlined particularly the false consciousness which consists of
+> selecting among the features of the myth (that women are different from men)
+> those which look good and using them as a definition for women. What the
+> concept of ‘woman is wonderful’ accomplishes is that it retains for defining
+> women the best features (best according to whom?) which oppression has granted
+> us, and it does not radically question the categories ‘man’ and ‘woman,’ which
+> are political categories and not natural givens. It puts us in a position of
+> fighting within the class ‘women’ not as the other classes do, for the
+> disappearance of our class, but for the defense of ‘woman’ and its
+> reenforcement. It leads us to develop with complacency ‘new’ theories about
+> our specificity: thus, we call our passivity ‘nonviolence,’ when the main and
+> emergent point for us is to fight our passivity (our fear, rather, a justified
+> one). The ambiguity of the term ‘feminist’ sums up the whole situation. What
+> does ‘feminist’ mean? Feminist is formed with the word ‘femme,’ ‘woman,’ and
+> means: someone who fights for women. For many of us it means someone who
+> fights for women as a class and for the disappearance of this class. For many
+> others it means someone who fights for woman and her defense–for the myth,
+> then, and its reenforcement. But why was the word ‘feminist’ chosen if it
+> retains the least ambiguity? We chose to call ourselves ‘feminists’ ten years
+> ago, not in order to support or reenforce the myth of woman nor to identify
+> ourselves with the oppressor’s definition of us, but rather to affirm that our
+> movement had a history and to emphasize the political link with the old
+> feminist movement.
+> 
+> It is then this movement that we can put in question for the meaning that it
+> gave to feminism. It so happens that feminism in the last century could never
+> resolve its contradictions on the subject of nature/culture, woman/society.
+> Women started to fight for themselves as a group and rightly considered that
+> they shared common features of oppression. But for them these features were
+> natural and biological rather than social. They went so far as to adopt the
+> Darwinist theory of evolution. They did not believe like Darwin, however,
+> ‘that women were less evolved than men, but they did believe that male and
+> female natures had diverged in the course of evolutionary development and that
+> society at large reflected this polarization[^w14].’ ‘The failure of early
+> feminism was that it only attacked the Darwinist charge of female inferiority,
+> while accepting the foundations of this charge - namely, the view of woman as
+> “unique[^w15].”’ And finally it was women scholars–and not feminists–who
+> scientifically destroyed this theory. But the early feminists had failed to
+> regard history as a dynamic process which develops from conflicts of
+> interests. Furthermore, they still believed as men do that the cause (origin)
+> of their oppression lay within themselves. And therefore the feminists of this
+> first front after some astonishing victories found themselves at an impasse
+> out of a lack of reasons for fighting. They upheld the illogical principle of
+> ‘equality of difference,’ an idea now being born again. They fell back into
+> the trap which threatens us once again: the myth of woman. (23-4)
+> 
+> [^w1]: Christine Delphy, ‘For a Feminist Materialism,’ in Feminist Issues 1, 2
+>     (Winter, 1981).
+> [^w2]: Colette Guillaumin, ‘Race et nature: Systeme des marques, idee de
+>     groupe naturel et rapport sociaux,’ Pluriel 11 (1977).
+> [^w3]: I use the word society with an extended anthropological meaning, since
+>     strictly speaking it does not refer to societies in the sense that lesbian
+>     societies do not exist completely autonomously from heterosexual social
+>     systems. Nevertheless, they are more than simply communities.
+> [^w4]: Simone de Beauvoir, The Second Sex (New York: Bantam, 1952), p.249.
+> [^w5]: Redstockings, Feminist Revolution (New York: Random House, 1978), p.
+>     18.
+> [^w6]: Andrea Dworkin, ‘Biological superiority, the world’s most dangerous and
+>     deadly idea,’ Heresies 6:46.
+> [^w7]: Ti-Grace Atkinson, Amazon Odyssey (New York: Links Books, 1974), p. 15.
+> [^w8]: Andrea Dworkin, op. cit., p. 55.
+> [^w9]: Colette Guillaumin, op. cit.
+> [^w10]: Simone de Beauvoir, op. cit.
+> [^w11]: Colette Guillaumin, op. cit.
+> [^w12]: Andrea Dworkin, op. cit.
+> [^w13]: Ti-Grace Atkinson, op. cit., p. 6: ‘If feminism has any logic at all,
+>     it must be working for a sexless society.’
+> [^w14]: Rosalind Rosenberg, ‘In Search of Woman’s Nature,’ Feminist Studies 3,
+>     1/2 (1975): 144.
+> [^w15]: Ibid., p. 146. 16. In an article published by L’Idiot International
+>     (mai 1970) whose original title was ‘Pour un mouvement de liberation des
+>     femmes.’
+
+I found Wittig's essay after watching PhilosophyTube's video essay on Judith
+Butler. I've excerpted a large portion of the beginning of Wittig's essay, b/c
+the [PDF](https://ia804602.us.archive.org/11/items/zines2022/WittigPrint.pdf) I
+found was a folio of a zine published by _Pink and Black Attack_, appearing
+alongside her 1980 essay, "The Straight Mind."
+
 ## Public Goods & Market Enclosure
 David Bollier on the difference between "open-access" and the commons (_Silent
 Theft_, p. 20)[^silent-theft]:

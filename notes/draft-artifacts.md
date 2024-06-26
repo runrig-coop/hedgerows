@@ -406,6 +406,15 @@ governance"[^aaronson]:
     [The Hinrich Foundation](https://www.hinrichfoundation.com/about/our-focus-beliefs-value/),
     03 August 2021, 3.
 
+### North American Ingigenous Researchers on Food Sovereignty
+See [Dr. Valarie Blue Bird
+Jernigan](https://indigenoushealth.com/about-us/biographies/valarie-jernigan/),
+via ["Native American Food Sovereignty,
+Explained"](https://www.youtube.com/watch?v=6LQD90ELcjI) from _PBS Origins_. She
+is the principal author of ["Food Sovereignty Indicators for Indigenous
+Community Capacity Building and
+Health"](https://doi.org/10.3389/fsufs.2021.704750).
+
 ## Kropotkin's Parisian House
 > A house in certain parts of Paris may be valued at thousands of pounds
 > sterling, not because thousands of pounds’ worth of labour have been expended
